@@ -1,0 +1,75 @@
+{
+  "width": 1280,
+  "height": 720,
+  "duration": 6,
+  "fps": 30,
+  "background": "#F3F7FA",
+  "assets": [
+    {
+      "id": "SV1005",
+      "x": 100,
+      "y": 65,
+      "width": 260,
+      "start": 0.0,
+      "end": 6,
+      "entrance": 0.5,
+      "exit": 0.4,
+      "ambient": "pulse"
+    },
+    {
+      "id": "SV1120",
+      "x": 480,
+      "y": 65,
+      "width": 260,
+      "start": 0.12,
+      "end": 6,
+      "entrance": 0.5,
+      "exit": 0.4,
+      "ambient": "float"
+    },
+    {
+      "id": "SV1210",
+      "x": 860,
+      "y": 65,
+      "width": 260,
+      "start": 0.24,
+      "end": 6,
+      "entrance": 0.5,
+      "exit": 0.4,
+      "ambient": "pulse"
+    },
+    {
+      "id": "SV1256",
+      "x": 100,
+      "y": 395,
+      "width": 260,
+      "start": 0.36,
+      "end": 6,
+      "entrance": 0.5,
+      "exit": 0.4,
+      "ambient": "float"
+    },
+    {
+      "id": "SV1312",
+      "x": 480,
+      "y": 395,
+      "width": 260,
+      "start": 0.48,
+      "end": 6,
+      "entrance": 0.5,
+      "exit": 0.4,
+      "ambient": "pulse"
+    },
+    {
+      "id": "SV1437",
+      "x": 860,
+      "y": 395,
+      "width": 260,
+      "start": 0.6,
+      "end": 6,
+      "entrance": 0.5,
+      "exit": 0.4,
+      "ambient": "float"
+    }
+  ]
+}

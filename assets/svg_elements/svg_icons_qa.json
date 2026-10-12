@@ -1,0 +1,20 @@
+{
+  "count": 500,
+  "categories": 25,
+  "valid_xml": 500,
+  "raster_rendered": 500,
+  "unique_geometry_hashes": 500,
+  "geometry_hashes_ignoring_colours": 500,
+  "edge_clipped_rasters": [],
+  "transparent": 500,
+  "no_scripts_external_refs_embedded_images": true,
+  "size": "256x256 viewBox",
+  "contact_sheets": 25,
+  "overview": "qa/svg_icons_500_overview.jpg",
+  "visually_inspected_contact_sheets": 25,
+  "visually_inspected_assets": 500,
+  "boundary_corrections": [
+    "SV0329 child repositioned within viewBox",
+    "SV0435 fan angle reduced within viewBox"
+  ]
+}

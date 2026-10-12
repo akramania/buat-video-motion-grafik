@@ -1,0 +1,22 @@
+{
+  "count": 100,
+  "id_range": "SV1001\u2013SV1100",
+  "categories": 4,
+  "compositions_per_category": 25,
+  "valid_xml": 100,
+  "raster_rendered": 100,
+  "geometry_unique_ignoring_colours": 100,
+  "transparent": 100,
+  "forbidden_content": 0,
+  "bbox_margin_required_px": 12,
+  "bbox_margin_min_px": 12,
+  "bbox_failures": [],
+  "qa_directory": "/workspace/scratch/52cf302c2e1c/assets1500_learning_qa",
+  "contact_sheets": 4,
+  "motion_status": "suggested_motion is authoring guidance only; assets have no embedded animations",
+  "viewBox": "0 0 256 256",
+  "visually_inspected_contact_sheets": 4,
+  "visually_inspected_assets": 100,
+  "visual_result": "Accepted coherent layered compositions with no clipping or unwanted overlaps",
+  "overview": "/workspace/scratch/52cf302c2e1c/assets1500_learning_qa/explainer_learning_100_overview.jpg"
+}

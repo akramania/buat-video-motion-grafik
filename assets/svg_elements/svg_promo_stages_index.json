@@ -1,0 +1,3456 @@
+[
+  {
+    "id": "SV1301",
+    "title": "Halo cylinder hero",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "halo",
+      "cylinder",
+      "hero"
+    ],
+    "svg": "svg/files/SV1301.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Scale the halo gently from its centre; raise the hero bottle onto the podium.",
+      "ambient": "Drift sparkle details at 2–3 pixels; keep the product still.",
+      "exit": "Push into the product label for a match cut."
+    }
+  },
+  {
+    "id": "SV1302",
+    "title": "Twin product stairs",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "twin",
+      "product",
+      "stairs"
+    ],
+    "svg": "svg/files/SV1302.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each riser from the lowest step; follow with its product silhouette.",
+      "ambient": "Parallax the far pedestal more slowly than the near pedestal.",
+      "exit": "Lower the products first, then retract the steps."
+    }
+  },
+  {
+    "id": "SV1303",
+    "title": "Arch alcove pedestal",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "arch",
+      "alcove",
+      "pedestal"
+    ],
+    "svg": "svg/files/SV1303.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the arch outline, fill the alcove, then rise the product.",
+      "ambient": "Move the backdrop by 2 pixels opposite the foreground.",
+      "exit": "Close the alcove with a soft iris transition."
+    }
+  },
+  {
+    "id": "SV1304",
+    "title": "Floating shelf hero",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "floating",
+      "shelf",
+      "hero"
+    ],
+    "svg": "svg/files/SV1304.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Extend the floating shelf horizontally before placing the two products.",
+      "ambient": "Use a slow camera slide along the shelf.",
+      "exit": "Slide the shelf and products beyond the right edge."
+    }
+  },
+  {
+    "id": "SV1305",
+    "title": "Sloped runway stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "sloped",
+      "runway",
+      "stage"
+    ],
+    "svg": "svg/files/SV1305.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Wipe the runway along its diagonal, then reveal products in depth order.",
+      "ambient": "Use a small diagonal camera glide following the ramp.",
+      "exit": "Whip along the runway into the next scene."
+    }
+  },
+  {
+    "id": "SV1306",
+    "title": "Folded paper corner set",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "folded",
+      "paper",
+      "corner",
+      "set"
+    ],
+    "svg": "svg/files/SV1306.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Scale the halo gently from its centre; raise the hero bottle onto the podium.",
+      "ambient": "Drift sparkle details at 2–3 pixels; keep the product still.",
+      "exit": "Push into the product label for a match cut."
+    }
+  },
+  {
+    "id": "SV1307",
+    "title": "Circular mirror platform",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "circular",
+      "mirror",
+      "platform"
+    ],
+    "svg": "svg/files/SV1307.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each riser from the lowest step; follow with its product silhouette.",
+      "ambient": "Parallax the far pedestal more slowly than the near pedestal.",
+      "exit": "Lower the products first, then retract the steps."
+    }
+  },
+  {
+    "id": "SV1308",
+    "title": "Triangular canopy stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "triangular",
+      "canopy",
+      "stage"
+    ],
+    "svg": "svg/files/SV1308.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the arch outline, fill the alcove, then rise the product.",
+      "ambient": "Move the backdrop by 2 pixels opposite the foreground.",
+      "exit": "Close the alcove with a soft iris transition."
+    }
+  },
+  {
+    "id": "SV1309",
+    "title": "Three tier podium lineup",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "three",
+      "tier",
+      "podium",
+      "lineup"
+    ],
+    "svg": "svg/files/SV1309.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Extend the floating shelf horizontally before placing the two products.",
+      "ambient": "Use a slow camera slide along the shelf.",
+      "exit": "Slide the shelf and products beyond the right edge."
+    }
+  },
+  {
+    "id": "SV1310",
+    "title": "Suspended ring stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "suspended",
+      "ring",
+      "stage"
+    ],
+    "svg": "svg/files/SV1310.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Wipe the runway along its diagonal, then reveal products in depth order.",
+      "ambient": "Use a small diagonal camera glide following the ramp.",
+      "exit": "Whip along the runway into the next scene."
+    }
+  },
+  {
+    "id": "SV1311",
+    "title": "Monolith shelf display",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "monolith",
+      "shelf",
+      "display"
+    ],
+    "svg": "svg/files/SV1311.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Scale the halo gently from its centre; raise the hero bottle onto the podium.",
+      "ambient": "Drift sparkle details at 2–3 pixels; keep the product still.",
+      "exit": "Push into the product label for a match cut."
+    }
+  },
+  {
+    "id": "SV1312",
+    "title": "Wave backdrop plinth",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "wave",
+      "backdrop",
+      "plinth"
+    ],
+    "svg": "svg/files/SV1312.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each riser from the lowest step; follow with its product silhouette.",
+      "ambient": "Parallax the far pedestal more slowly than the near pedestal.",
+      "exit": "Lower the products first, then retract the steps."
+    }
+  },
+  {
+    "id": "SV1313",
+    "title": "Open cube product stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "open",
+      "cube",
+      "product",
+      "stage"
+    ],
+    "svg": "svg/files/SV1313.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the arch outline, fill the alcove, then rise the product.",
+      "ambient": "Move the backdrop by 2 pixels opposite the foreground.",
+      "exit": "Close the alcove with a soft iris transition."
+    }
+  },
+  {
+    "id": "SV1314",
+    "title": "Bridge platform hero",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "bridge",
+      "platform",
+      "hero"
+    ],
+    "svg": "svg/files/SV1314.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Extend the floating shelf horizontally before placing the two products.",
+      "ambient": "Use a slow camera slide along the shelf.",
+      "exit": "Slide the shelf and products beyond the right edge."
+    }
+  },
+  {
+    "id": "SV1315",
+    "title": "Scallop awning pedestal",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "scallop",
+      "awning",
+      "pedestal"
+    ],
+    "svg": "svg/files/SV1315.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Wipe the runway along its diagonal, then reveal products in depth order.",
+      "ambient": "Use a small diagonal camera glide following the ramp.",
+      "exit": "Whip along the runway into the next scene."
+    }
+  },
+  {
+    "id": "SV1316",
+    "title": "Facet stone podium",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "facet",
+      "stone",
+      "podium"
+    ],
+    "svg": "svg/files/SV1316.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Scale the halo gently from its centre; raise the hero bottle onto the podium.",
+      "ambient": "Drift sparkle details at 2–3 pixels; keep the product still.",
+      "exit": "Push into the product label for a match cut."
+    }
+  },
+  {
+    "id": "SV1317",
+    "title": "Stacked booklet plinth",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "stacked",
+      "booklet",
+      "plinth"
+    ],
+    "svg": "svg/files/SV1317.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each riser from the lowest step; follow with its product silhouette.",
+      "ambient": "Parallax the far pedestal more slowly than the near pedestal.",
+      "exit": "Lower the products first, then retract the steps."
+    }
+  },
+  {
+    "id": "SV1318",
+    "title": "Transparent rail display",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "transparent",
+      "rail",
+      "display"
+    ],
+    "svg": "svg/files/SV1318.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the arch outline, fill the alcove, then rise the product.",
+      "ambient": "Move the backdrop by 2 pixels opposite the foreground.",
+      "exit": "Close the alcove with a soft iris transition."
+    }
+  },
+  {
+    "id": "SV1319",
+    "title": "Carousel disc stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "carousel",
+      "disc",
+      "stage"
+    ],
+    "svg": "svg/files/SV1319.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Extend the floating shelf horizontally before placing the two products.",
+      "ambient": "Use a slow camera slide along the shelf.",
+      "exit": "Slide the shelf and products beyond the right edge."
+    }
+  },
+  {
+    "id": "SV1320",
+    "title": "Staircase showroom",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "staircase",
+      "showroom"
+    ],
+    "svg": "svg/files/SV1320.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Wipe the runway along its diagonal, then reveal products in depth order.",
+      "ambient": "Use a small diagonal camera glide following the ramp.",
+      "exit": "Whip along the runway into the next scene."
+    }
+  },
+  {
+    "id": "SV1321",
+    "title": "Double niche shelf",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "double",
+      "niche",
+      "shelf"
+    ],
+    "svg": "svg/files/SV1321.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Scale the halo gently from its centre; raise the hero bottle onto the podium.",
+      "ambient": "Drift sparkle details at 2–3 pixels; keep the product still.",
+      "exit": "Push into the product label for a match cut."
+    }
+  },
+  {
+    "id": "SV1322",
+    "title": "Origami fan stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "origami",
+      "fan",
+      "stage"
+    ],
+    "svg": "svg/files/SV1322.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each riser from the lowest step; follow with its product silhouette.",
+      "ambient": "Parallax the far pedestal more slowly than the near pedestal.",
+      "exit": "Lower the products first, then retract the steps."
+    }
+  },
+  {
+    "id": "SV1323",
+    "title": "Ribbon podium stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "ribbon",
+      "podium",
+      "stage"
+    ],
+    "svg": "svg/files/SV1323.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the arch outline, fill the alcove, then rise the product.",
+      "ambient": "Move the backdrop by 2 pixels opposite the foreground.",
+      "exit": "Close the alcove with a soft iris transition."
+    }
+  },
+  {
+    "id": "SV1324",
+    "title": "Wall peg product stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "wall",
+      "peg",
+      "product",
+      "stage"
+    ],
+    "svg": "svg/files/SV1324.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Extend the floating shelf horizontally before placing the two products.",
+      "ambient": "Use a slow camera slide along the shelf.",
+      "exit": "Slide the shelf and products beyond the right edge."
+    }
+  },
+  {
+    "id": "SV1325",
+    "title": "Infinity bridge stage",
+    "category": "Product display stages",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "product display stages",
+      "infinity",
+      "bridge",
+      "stage"
+    ],
+    "svg": "svg/files/SV1325.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "product hero reveal",
+      "premium product explainer",
+      "catalogue showcase"
+    ],
+    "suggested_motion": {
+      "entrance": "Wipe the runway along its diagonal, then reveal products in depth order.",
+      "ambient": "Use a small diagonal camera glide following the ramp.",
+      "exit": "Whip along the runway into the next scene."
+    }
+  },
+  {
+    "id": "SV1326",
+    "title": "Hinged gift box assembly",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "hinged",
+      "gift",
+      "box",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1326.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the package base; rotate the lid open around its hinge; reveal the insert.",
+      "ambient": "Hold the open package with a small 2.5D camera orbit.",
+      "exit": "Close the lid before fading the package."
+    }
+  },
+  {
+    "id": "SV1327",
+    "title": "Sliding drawer unboxing",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "sliding",
+      "drawer",
+      "unboxing"
+    ],
+    "svg": "svg/files/SV1327.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the outer sleeve, slide out the drawer, then reveal the product insert.",
+      "ambient": "Use subtle opposing parallax between sleeve and drawer.",
+      "exit": "Push the drawer back into its sleeve."
+    }
+  },
+  {
+    "id": "SV1328",
+    "title": "Book style package opening",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "book",
+      "style",
+      "package",
+      "opening"
+    ],
+    "svg": "svg/files/SV1328.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Rotate the book style panel open around its vertical hinge.",
+      "ambient": "Keep package panels still; shimmer only small detail accents.",
+      "exit": "Fold the panel closed with eased perspective."
+    }
+  },
+  {
+    "id": "SV1329",
+    "title": "Shipping carton insert reveal",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "shipping",
+      "carton",
+      "insert",
+      "reveal"
+    ],
+    "svg": "svg/files/SV1329.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Open carton flaps in sequence and raise the contained product.",
+      "ambient": "Let the insert rise 2 pixels, then settle.",
+      "exit": "Lower the product and fold the carton flaps closed."
+    }
+  },
+  {
+    "id": "SV1330",
+    "title": "Bottle insert presentation",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "bottle",
+      "insert",
+      "presentation"
+    ],
+    "svg": "svg/files/SV1330.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the pack shell, then separate the product and its insert.",
+      "ambient": "Float the detached product slowly above the insert.",
+      "exit": "Match cut from the product silhouette to a close-up."
+    }
+  },
+  {
+    "id": "SV1331",
+    "title": "Sealed pouch pair",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "sealed",
+      "pouch",
+      "pair"
+    ],
+    "svg": "svg/files/SV1331.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the package base; rotate the lid open around its hinge; reveal the insert.",
+      "ambient": "Hold the open package with a small 2.5D camera orbit.",
+      "exit": "Close the lid before fading the package."
+    }
+  },
+  {
+    "id": "SV1332",
+    "title": "Gable gift carton",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "gable",
+      "gift",
+      "carton"
+    ],
+    "svg": "svg/files/SV1332.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the outer sleeve, slide out the drawer, then reveal the product insert.",
+      "ambient": "Use subtle opposing parallax between sleeve and drawer.",
+      "exit": "Push the drawer back into its sleeve."
+    }
+  },
+  {
+    "id": "SV1333",
+    "title": "Paper carry bag display",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "paper",
+      "carry",
+      "bag",
+      "display"
+    ],
+    "svg": "svg/files/SV1333.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Rotate the book style panel open around its vertical hinge.",
+      "ambient": "Keep package panels still; shimmer only small detail accents.",
+      "exit": "Fold the panel closed with eased perspective."
+    }
+  },
+  {
+    "id": "SV1334",
+    "title": "Window carton reveal",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "window",
+      "carton",
+      "reveal"
+    ],
+    "svg": "svg/files/SV1334.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Open carton flaps in sequence and raise the contained product.",
+      "ambient": "Let the insert rise 2 pixels, then settle.",
+      "exit": "Lower the product and fold the carton flaps closed."
+    }
+  },
+  {
+    "id": "SV1335",
+    "title": "Mixed packaging gift bundle",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "mixed",
+      "packaging",
+      "gift",
+      "bundle"
+    ],
+    "svg": "svg/files/SV1335.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the pack shell, then separate the product and its insert.",
+      "ambient": "Float the detached product slowly above the insert.",
+      "exit": "Match cut from the product silhouette to a close-up."
+    }
+  },
+  {
+    "id": "SV1336",
+    "title": "Round hatbox unboxing",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "round",
+      "hatbox",
+      "unboxing"
+    ],
+    "svg": "svg/files/SV1336.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the package base; rotate the lid open around its hinge; reveal the insert.",
+      "ambient": "Hold the open package with a small 2.5D camera orbit.",
+      "exit": "Close the lid before fading the package."
+    }
+  },
+  {
+    "id": "SV1337",
+    "title": "Handled pouch package",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "handled",
+      "pouch",
+      "package"
+    ],
+    "svg": "svg/files/SV1337.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the outer sleeve, slide out the drawer, then reveal the product insert.",
+      "ambient": "Use subtle opposing parallax between sleeve and drawer.",
+      "exit": "Push the drawer back into its sleeve."
+    }
+  },
+  {
+    "id": "SV1338",
+    "title": "Twin jar carton insert",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "twin",
+      "jar",
+      "carton",
+      "insert"
+    ],
+    "svg": "svg/files/SV1338.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Rotate the book style panel open around its vertical hinge.",
+      "ambient": "Keep package panels still; shimmer only small detail accents.",
+      "exit": "Fold the panel closed with eased perspective."
+    }
+  },
+  {
+    "id": "SV1339",
+    "title": "Lift off ribbon gift box",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "lift",
+      "off",
+      "ribbon",
+      "gift",
+      "box"
+    ],
+    "svg": "svg/files/SV1339.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Open carton flaps in sequence and raise the contained product.",
+      "ambient": "Let the insert rise 2 pixels, then settle.",
+      "exit": "Lower the product and fold the carton flaps closed."
+    }
+  },
+  {
+    "id": "SV1340",
+    "title": "Handled top carton",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "handled",
+      "top",
+      "carton"
+    ],
+    "svg": "svg/files/SV1340.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the pack shell, then separate the product and its insert.",
+      "ambient": "Float the detached product slowly above the insert.",
+      "exit": "Match cut from the product silhouette to a close-up."
+    }
+  },
+  {
+    "id": "SV1341",
+    "title": "Tube sleeve unboxing",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "tube",
+      "sleeve",
+      "unboxing"
+    ],
+    "svg": "svg/files/SV1341.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the package base; rotate the lid open around its hinge; reveal the insert.",
+      "ambient": "Hold the open package with a small 2.5D camera orbit.",
+      "exit": "Close the lid before fading the package."
+    }
+  },
+  {
+    "id": "SV1342",
+    "title": "Divided gift insert tray",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "divided",
+      "gift",
+      "insert",
+      "tray"
+    ],
+    "svg": "svg/files/SV1342.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the outer sleeve, slide out the drawer, then reveal the product insert.",
+      "ambient": "Use subtle opposing parallax between sleeve and drawer.",
+      "exit": "Push the drawer back into its sleeve."
+    }
+  },
+  {
+    "id": "SV1343",
+    "title": "Twin shopping bag assembly",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "twin",
+      "shopping",
+      "bag",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1343.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Rotate the book style panel open around its vertical hinge.",
+      "ambient": "Keep package panels still; shimmer only small detail accents.",
+      "exit": "Fold the panel closed with eased perspective."
+    }
+  },
+  {
+    "id": "SV1344",
+    "title": "Ribbon wrapped delivery box",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "ribbon",
+      "wrapped",
+      "delivery",
+      "box"
+    ],
+    "svg": "svg/files/SV1344.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Open carton flaps in sequence and raise the contained product.",
+      "ambient": "Let the insert rise 2 pixels, then settle.",
+      "exit": "Lower the product and fold the carton flaps closed."
+    }
+  },
+  {
+    "id": "SV1345",
+    "title": "Window bakery package",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "window",
+      "bakery",
+      "package"
+    ],
+    "svg": "svg/files/SV1345.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the pack shell, then separate the product and its insert.",
+      "ambient": "Float the detached product slowly above the insert.",
+      "exit": "Match cut from the product silhouette to a close-up."
+    }
+  },
+  {
+    "id": "SV1346",
+    "title": "Product sampler compartment",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "product",
+      "sampler",
+      "compartment"
+    ],
+    "svg": "svg/files/SV1346.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the package base; rotate the lid open around its hinge; reveal the insert.",
+      "ambient": "Hold the open package with a small 2.5D camera orbit.",
+      "exit": "Close the lid before fading the package."
+    }
+  },
+  {
+    "id": "SV1347",
+    "title": "Flat top carry carton",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "flat",
+      "top",
+      "carry",
+      "carton"
+    ],
+    "svg": "svg/files/SV1347.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the outer sleeve, slide out the drawer, then reveal the product insert.",
+      "ambient": "Use subtle opposing parallax between sleeve and drawer.",
+      "exit": "Push the drawer back into its sleeve."
+    }
+  },
+  {
+    "id": "SV1348",
+    "title": "Handled hamper assembly",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "handled",
+      "hamper",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1348.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Rotate the book style panel open around its vertical hinge.",
+      "ambient": "Keep package panels still; shimmer only small detail accents.",
+      "exit": "Fold the panel closed with eased perspective."
+    }
+  },
+  {
+    "id": "SV1349",
+    "title": "Dispatch carton label",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "dispatch",
+      "carton",
+      "label"
+    ],
+    "svg": "svg/files/SV1349.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Open carton flaps in sequence and raise the contained product.",
+      "ambient": "Let the insert rise 2 pixels, then settle.",
+      "exit": "Lower the product and fold the carton flaps closed."
+    }
+  },
+  {
+    "id": "SV1350",
+    "title": "Hexagonal gift box reveal",
+    "category": "Packaging and unboxing assemblies",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "packaging and unboxing assemblies",
+      "hexagonal",
+      "gift",
+      "box",
+      "reveal"
+    ],
+    "svg": "svg/files/SV1350.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "unboxing sequence",
+      "packaging demonstration",
+      "digital commerce product scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the pack shell, then separate the product and its insert.",
+      "ambient": "Float the detached product slowly above the insert.",
+      "exit": "Match cut from the product silhouette to a close-up."
+    }
+  },
+  {
+    "id": "SV1351",
+    "title": "Serum and dropper tray",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "serum",
+      "and",
+      "dropper",
+      "tray"
+    ],
+    "svg": "svg/files/SV1351.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the tray first; stagger the products and botanical accents.",
+      "ambient": "Move botanical details softly; keep product labels readable.",
+      "exit": "Fade the props while pushing into the hero product."
+    }
+  },
+  {
+    "id": "SV1352",
+    "title": "Skincare pump and jar tray",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "skincare",
+      "pump",
+      "and",
+      "jar",
+      "tray"
+    ],
+    "svg": "svg/files/SV1352.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Use a gentle slide-up for the larger product and a scale reveal for the smaller prop.",
+      "ambient": "Use a slow 2.5D push-in with a small side drift.",
+      "exit": "Slide the foreground down as the next background appears."
+    }
+  },
+  {
+    "id": "SV1353",
+    "title": "Compact lipstick and brush setup",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "compact",
+      "lipstick",
+      "and",
+      "brush",
+      "setup"
+    ],
+    "svg": "svg/files/SV1353.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main vessel, then lift its accessory or lid into place.",
+      "ambient": "Add a subtle hover only to detached accessories.",
+      "exit": "Close or lower the accessory before fading the scene."
+    }
+  },
+  {
+    "id": "SV1354",
+    "title": "Crystal perfume atomizer",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "crystal",
+      "perfume",
+      "atomizer"
+    ],
+    "svg": "svg/files/SV1354.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Sweep light across the main vessel, then reveal decorative props.",
+      "ambient": "Parallax the front props against the main vessel.",
+      "exit": "Cut through the central label or serving surface."
+    }
+  },
+  {
+    "id": "SV1355",
+    "title": "Citrus cosmetic tube stage",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "citrus",
+      "cosmetic",
+      "tube",
+      "stage"
+    ],
+    "svg": "svg/files/SV1355.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the serving surface; stagger food or product components upward.",
+      "ambient": "Use a very small breathing scale on the decorative accents.",
+      "exit": "Remove components in reverse order with a soft wipe."
+    }
+  },
+  {
+    "id": "SV1356",
+    "title": "Spa candle and pebble tray",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "spa",
+      "candle",
+      "and",
+      "pebble",
+      "tray"
+    ],
+    "svg": "svg/files/SV1356.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the tray first; stagger the products and botanical accents.",
+      "ambient": "Move botanical details softly; keep product labels readable.",
+      "exit": "Fade the props while pushing into the hero product."
+    }
+  },
+  {
+    "id": "SV1357",
+    "title": "Cream jar and spatula splash",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "cream",
+      "jar",
+      "and",
+      "spatula",
+      "splash"
+    ],
+    "svg": "svg/files/SV1357.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Use a gentle slide-up for the larger product and a scale reveal for the smaller prop.",
+      "ambient": "Use a slow 2.5D push-in with a small side drift.",
+      "exit": "Slide the foreground down as the next background appears."
+    }
+  },
+  {
+    "id": "SV1358",
+    "title": "Lipstick trio on podium",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "lipstick",
+      "trio",
+      "on",
+      "podium"
+    ],
+    "svg": "svg/files/SV1358.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main vessel, then lift its accessory or lid into place.",
+      "ambient": "Add a subtle hover only to detached accessories.",
+      "exit": "Close or lower the accessory before fading the scene."
+    }
+  },
+  {
+    "id": "SV1359",
+    "title": "Reed diffuser with vases",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "reed",
+      "diffuser",
+      "with",
+      "vases"
+    ],
+    "svg": "svg/files/SV1359.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Sweep light across the main vessel, then reveal decorative props.",
+      "ambient": "Parallax the front props against the main vessel.",
+      "exit": "Cut through the central label or serving surface."
+    }
+  },
+  {
+    "id": "SV1360",
+    "title": "Makeup brush storage roll",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "makeup",
+      "brush",
+      "storage",
+      "roll"
+    ],
+    "svg": "svg/files/SV1360.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the serving surface; stagger food or product components upward.",
+      "ambient": "Use a very small breathing scale on the decorative accents.",
+      "exit": "Remove components in reverse order with a soft wipe."
+    }
+  },
+  {
+    "id": "SV1361",
+    "title": "Bento meal promotion tray",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "bento",
+      "meal",
+      "promotion",
+      "tray"
+    ],
+    "svg": "svg/files/SV1361.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the tray first; stagger the products and botanical accents.",
+      "ambient": "Move botanical details softly; keep product labels readable.",
+      "exit": "Fade the props while pushing into the hero product."
+    }
+  },
+  {
+    "id": "SV1362",
+    "title": "Coffee cup and bean setup",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "coffee",
+      "cup",
+      "and",
+      "bean",
+      "setup"
+    ],
+    "svg": "svg/files/SV1362.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Use a gentle slide-up for the larger product and a scale reveal for the smaller prop.",
+      "ambient": "Use a slow 2.5D push-in with a small side drift.",
+      "exit": "Slide the foreground down as the next background appears."
+    }
+  },
+  {
+    "id": "SV1363",
+    "title": "Pastry with bakery bag",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "pastry",
+      "with",
+      "bakery",
+      "bag"
+    ],
+    "svg": "svg/files/SV1363.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main vessel, then lift its accessory or lid into place.",
+      "ambient": "Add a subtle hover only to detached accessories.",
+      "exit": "Close or lower the accessory before fading the scene."
+    }
+  },
+  {
+    "id": "SV1364",
+    "title": "Fresh fruit bowl arrangement",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "fresh",
+      "fruit",
+      "bowl",
+      "arrangement"
+    ],
+    "svg": "svg/files/SV1364.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Sweep light across the main vessel, then reveal decorative props.",
+      "ambient": "Parallax the front props against the main vessel.",
+      "exit": "Cut through the central label or serving surface."
+    }
+  },
+  {
+    "id": "SV1365",
+    "title": "Layered cake on stand",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "layered",
+      "cake",
+      "on",
+      "stand"
+    ],
+    "svg": "svg/files/SV1365.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the serving surface; stagger food or product components upward.",
+      "ambient": "Use a very small breathing scale on the decorative accents.",
+      "exit": "Remove components in reverse order with a soft wipe."
+    }
+  },
+  {
+    "id": "SV1366",
+    "title": "Honey jar and dipper",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "honey",
+      "jar",
+      "and",
+      "dipper"
+    ],
+    "svg": "svg/files/SV1366.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the tray first; stagger the products and botanical accents.",
+      "ambient": "Move botanical details softly; keep product labels readable.",
+      "exit": "Fade the props while pushing into the hero product."
+    }
+  },
+  {
+    "id": "SV1367",
+    "title": "Tea tin and cup arrangement",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "tea",
+      "tin",
+      "and",
+      "cup",
+      "arrangement"
+    ],
+    "svg": "svg/files/SV1367.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Use a gentle slide-up for the larger product and a scale reveal for the smaller prop.",
+      "ambient": "Use a slow 2.5D push-in with a small side drift.",
+      "exit": "Slide the foreground down as the next background appears."
+    }
+  },
+  {
+    "id": "SV1368",
+    "title": "Herb produce basket",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "herb",
+      "produce",
+      "basket"
+    ],
+    "svg": "svg/files/SV1368.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main vessel, then lift its accessory or lid into place.",
+      "ambient": "Add a subtle hover only to detached accessories.",
+      "exit": "Close or lower the accessory before fading the scene."
+    }
+  },
+  {
+    "id": "SV1369",
+    "title": "Coffee bag and French press",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "coffee",
+      "bag",
+      "and",
+      "french",
+      "press"
+    ],
+    "svg": "svg/files/SV1369.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Sweep light across the main vessel, then reveal decorative props.",
+      "ambient": "Parallax the front props against the main vessel.",
+      "exit": "Cut through the central label or serving surface."
+    }
+  },
+  {
+    "id": "SV1370",
+    "title": "Ice cream sundae pedestal",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "ice",
+      "cream",
+      "sundae",
+      "pedestal"
+    ],
+    "svg": "svg/files/SV1370.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the serving surface; stagger food or product components upward.",
+      "ambient": "Use a very small breathing scale on the decorative accents.",
+      "exit": "Remove components in reverse order with a soft wipe."
+    }
+  },
+  {
+    "id": "SV1371",
+    "title": "Cereal bowl with milk carton",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "cereal",
+      "bowl",
+      "with",
+      "milk",
+      "carton"
+    ],
+    "svg": "svg/files/SV1371.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the tray first; stagger the products and botanical accents.",
+      "ambient": "Move botanical details softly; keep product labels readable.",
+      "exit": "Fade the props while pushing into the hero product."
+    }
+  },
+  {
+    "id": "SV1372",
+    "title": "Pasta plate with cutlery",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "pasta",
+      "plate",
+      "with",
+      "cutlery"
+    ],
+    "svg": "svg/files/SV1372.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Use a gentle slide-up for the larger product and a scale reveal for the smaller prop.",
+      "ambient": "Use a slow 2.5D push-in with a small side drift.",
+      "exit": "Slide the foreground down as the next background appears."
+    }
+  },
+  {
+    "id": "SV1373",
+    "title": "Chilled citrus beverage can",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "chilled",
+      "citrus",
+      "beverage",
+      "can"
+    ],
+    "svg": "svg/files/SV1373.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main vessel, then lift its accessory or lid into place.",
+      "ambient": "Add a subtle hover only to detached accessories.",
+      "exit": "Close or lower the accessory before fading the scene."
+    }
+  },
+  {
+    "id": "SV1374",
+    "title": "Glass cloche food display",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "glass",
+      "cloche",
+      "food",
+      "display"
+    ],
+    "svg": "svg/files/SV1374.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Sweep light across the main vessel, then reveal decorative props.",
+      "ambient": "Parallax the front props against the main vessel.",
+      "exit": "Cut through the central label or serving surface."
+    }
+  },
+  {
+    "id": "SV1375",
+    "title": "Burger meal on serving tray",
+    "category": "Beauty and food promotion props",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "beauty and food promotion props",
+      "burger",
+      "meal",
+      "on",
+      "serving",
+      "tray"
+    ],
+    "svg": "svg/files/SV1375.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "beauty product promotion",
+      "food product promotion",
+      "social commerce hero scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the serving surface; stagger food or product components upward.",
+      "ambient": "Use a very small breathing scale on the decorative accents.",
+      "exit": "Remove components in reverse order with a soft wipe."
+    }
+  },
+  {
+    "id": "SV1376",
+    "title": "Awning product counter",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "awning",
+      "product",
+      "counter"
+    ],
+    "svg": "svg/files/SV1376.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Build the counter from its base; reveal the canopy and product lineup.",
+      "ambient": "Use a slow storefront camera push-in.",
+      "exit": "Wipe through the counter into the product close-up."
+    }
+  },
+  {
+    "id": "SV1377",
+    "title": "Three bay boutique window",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "three",
+      "bay",
+      "boutique",
+      "window"
+    ],
+    "svg": "svg/files/SV1377.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each display bay in sequence, then raise the displayed products.",
+      "ambient": "Parallax the near products against the rear wall.",
+      "exit": "Zoom into one bay for the next product scene."
+    }
+  },
+  {
+    "id": "SV1378",
+    "title": "Checkout terminal display",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "checkout",
+      "terminal",
+      "display"
+    ],
+    "svg": "svg/files/SV1378.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the retail structure, unfold its display panel, then reveal the products.",
+      "ambient": "Keep shelves stable while detail highlights drift gently.",
+      "exit": "Fold the display panel down before the structure fades."
+    }
+  },
+  {
+    "id": "SV1379",
+    "title": "Beauty shelf wall",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "beauty",
+      "shelf",
+      "wall"
+    ],
+    "svg": "svg/files/SV1379.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the shelf levels from bottom to top; stagger the inventory.",
+      "ambient": "Move the camera vertically along the shelf wall.",
+      "exit": "Pan out through the upper shelf into the next shot."
+    }
+  },
+  {
+    "id": "SV1380",
+    "title": "Glass beverage refrigerator",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "glass",
+      "beverage",
+      "refrigerator"
+    ],
+    "svg": "svg/files/SV1380.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the cabinet body, then the glass and contained product silhouettes.",
+      "ambient": "Use a subtle glass reflection sweep without obscuring products.",
+      "exit": "Zoom through the cabinet door into a hero product."
+    }
+  },
+  {
+    "id": "SV1381",
+    "title": "Apparel hanging rail",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "apparel",
+      "hanging",
+      "rail"
+    ],
+    "svg": "svg/files/SV1381.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Build the counter from its base; reveal the canopy and product lineup.",
+      "ambient": "Use a slow storefront camera push-in.",
+      "exit": "Wipe through the counter into the product close-up."
+    }
+  },
+  {
+    "id": "SV1382",
+    "title": "Handbag podium display",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "handbag",
+      "podium",
+      "display"
+    ],
+    "svg": "svg/files/SV1382.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each display bay in sequence, then raise the displayed products.",
+      "ambient": "Parallax the near products against the rear wall.",
+      "exit": "Zoom into one bay for the next product scene."
+    }
+  },
+  {
+    "id": "SV1383",
+    "title": "Bakery glass showcase",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "bakery",
+      "glass",
+      "showcase"
+    ],
+    "svg": "svg/files/SV1383.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the retail structure, unfold its display panel, then reveal the products.",
+      "ambient": "Keep shelves stable while detail highlights drift gently.",
+      "exit": "Fold the display panel down before the structure fades."
+    }
+  },
+  {
+    "id": "SV1384",
+    "title": "Stacked beverage tower",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "stacked",
+      "beverage",
+      "tower"
+    ],
+    "svg": "svg/files/SV1384.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the shelf levels from bottom to top; stagger the inventory.",
+      "ambient": "Move the camera vertically along the shelf wall.",
+      "exit": "Pan out through the upper shelf into the next shot."
+    }
+  },
+  {
+    "id": "SV1385",
+    "title": "Popup promotion tent",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "popup",
+      "promotion",
+      "tent"
+    ],
+    "svg": "svg/files/SV1385.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the cabinet body, then the glass and contained product silhouettes.",
+      "ambient": "Use a subtle glass reflection sweep without obscuring products.",
+      "exit": "Zoom through the cabinet door into a hero product."
+    }
+  },
+  {
+    "id": "SV1386",
+    "title": "Circular retail kiosk",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "circular",
+      "retail",
+      "kiosk"
+    ],
+    "svg": "svg/files/SV1386.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Build the counter from its base; reveal the canopy and product lineup.",
+      "ambient": "Use a slow storefront camera push-in.",
+      "exit": "Wipe through the counter into the product close-up."
+    }
+  },
+  {
+    "id": "SV1387",
+    "title": "Product vending machine",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "product",
+      "vending",
+      "machine"
+    ],
+    "svg": "svg/files/SV1387.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each display bay in sequence, then raise the displayed products.",
+      "ambient": "Parallax the near products against the rear wall.",
+      "exit": "Zoom into one bay for the next product scene."
+    }
+  },
+  {
+    "id": "SV1388",
+    "title": "Checkout belt and shopping bag",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "checkout",
+      "belt",
+      "and",
+      "shopping",
+      "bag"
+    ],
+    "svg": "svg/files/SV1388.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the retail structure, unfold its display panel, then reveal the products.",
+      "ambient": "Keep shelves stable while detail highlights drift gently.",
+      "exit": "Fold the display panel down before the structure fades."
+    }
+  },
+  {
+    "id": "SV1389",
+    "title": "Mobile retail cart",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "mobile",
+      "retail",
+      "cart"
+    ],
+    "svg": "svg/files/SV1389.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the shelf levels from bottom to top; stagger the inventory.",
+      "ambient": "Move the camera vertically along the shelf wall.",
+      "exit": "Pan out through the upper shelf into the next shot."
+    }
+  },
+  {
+    "id": "SV1390",
+    "title": "Book merchandising rack",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "book",
+      "merchandising",
+      "rack"
+    ],
+    "svg": "svg/files/SV1390.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the cabinet body, then the glass and contained product silhouettes.",
+      "ambient": "Use a subtle glass reflection sweep without obscuring products.",
+      "exit": "Zoom through the cabinet door into a hero product."
+    }
+  },
+  {
+    "id": "SV1391",
+    "title": "Rotating cosmetics tower",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "rotating",
+      "cosmetics",
+      "tower"
+    ],
+    "svg": "svg/files/SV1391.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Build the counter from its base; reveal the canopy and product lineup.",
+      "ambient": "Use a slow storefront camera push-in.",
+      "exit": "Wipe through the counter into the product close-up."
+    }
+  },
+  {
+    "id": "SV1392",
+    "title": "Florist bucket stand",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "florist",
+      "bucket",
+      "stand"
+    ],
+    "svg": "svg/files/SV1392.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each display bay in sequence, then raise the displayed products.",
+      "ambient": "Parallax the near products against the rear wall.",
+      "exit": "Zoom into one bay for the next product scene."
+    }
+  },
+  {
+    "id": "SV1393",
+    "title": "Houseware shelf display",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "houseware",
+      "shelf",
+      "display"
+    ],
+    "svg": "svg/files/SV1393.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the retail structure, unfold its display panel, then reveal the products.",
+      "ambient": "Keep shelves stable while detail highlights drift gently.",
+      "exit": "Fold the display panel down before the structure fades."
+    }
+  },
+  {
+    "id": "SV1394",
+    "title": "Market produce crate stack",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "market",
+      "produce",
+      "crate",
+      "stack"
+    ],
+    "svg": "svg/files/SV1394.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the shelf levels from bottom to top; stagger the inventory.",
+      "ambient": "Move the camera vertically along the shelf wall.",
+      "exit": "Pan out through the upper shelf into the next shot."
+    }
+  },
+  {
+    "id": "SV1395",
+    "title": "Arch storefront kiosk",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "arch",
+      "storefront",
+      "kiosk"
+    ],
+    "svg": "svg/files/SV1395.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the cabinet body, then the glass and contained product silhouettes.",
+      "ambient": "Use a subtle glass reflection sweep without obscuring products.",
+      "exit": "Zoom through the cabinet door into a hero product."
+    }
+  },
+  {
+    "id": "SV1396",
+    "title": "Corner exhibition booth",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "corner",
+      "exhibition",
+      "booth"
+    ],
+    "svg": "svg/files/SV1396.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Build the counter from its base; reveal the canopy and product lineup.",
+      "ambient": "Use a slow storefront camera push-in.",
+      "exit": "Wipe through the counter into the product close-up."
+    }
+  },
+  {
+    "id": "SV1397",
+    "title": "Retail peg grid wall",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "retail",
+      "peg",
+      "grid",
+      "wall"
+    ],
+    "svg": "svg/files/SV1397.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal each display bay in sequence, then raise the displayed products.",
+      "ambient": "Parallax the near products against the rear wall.",
+      "exit": "Zoom into one bay for the next product scene."
+    }
+  },
+  {
+    "id": "SV1398",
+    "title": "Hanging bag showroom",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "hanging",
+      "bag",
+      "showroom"
+    ],
+    "svg": "svg/files/SV1398.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Raise the retail structure, unfold its display panel, then reveal the products.",
+      "ambient": "Keep shelves stable while detail highlights drift gently.",
+      "exit": "Fold the display panel down before the structure fades."
+    }
+  },
+  {
+    "id": "SV1399",
+    "title": "Jewellery showcase cabinet",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "jewellery",
+      "showcase",
+      "cabinet"
+    ],
+    "svg": "svg/files/SV1399.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the shelf levels from bottom to top; stagger the inventory.",
+      "ambient": "Move the camera vertically along the shelf wall.",
+      "exit": "Pan out through the upper shelf into the next shot."
+    }
+  },
+  {
+    "id": "SV1400",
+    "title": "Small retail street facade",
+    "category": "Retail showcase structures",
+    "tags": [
+      "promotion",
+      "premium",
+      "pastel",
+      "product",
+      "retail showcase structures",
+      "small",
+      "retail",
+      "street",
+      "facade"
+    ],
+    "svg": "svg/files/SV1400.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "retail explainer",
+      "shop promotion scene",
+      "product catalogue environment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the cabinet body, then the glass and contained product silhouettes.",
+      "ambient": "Use a subtle glass reflection sweep without obscuring products.",
+      "exit": "Zoom through the cabinet door into a hero product."
+    }
+  }
+]

@@ -1,0 +1,1118 @@
+{
+  "collection": "promotion stages",
+  "first": "SV1301",
+  "last": "SV1400",
+  "count": 100,
+  "categories": 4,
+  "per_category": 25,
+  "xml_valid": 100,
+  "raster_valid": 100,
+  "unique_geometry": 100,
+  "security_valid": 100,
+  "named_layers_valid": 100,
+  "margin_pass": 100,
+  "margin_fail": [],
+  "qa_folder": "/workspace/scratch/52cf302c2e1c/assets1500_stages_qa",
+  "items": [
+    {
+      "id": "SV1301",
+      "bbox": [
+        48,
+        29,
+        208,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "0bc939ed2f8dad307ac76a3d8972fcc37516757ba627901f8c4e1c81ab51dc00"
+    },
+    {
+      "id": "SV1302",
+      "bbox": [
+        26,
+        33,
+        232,
+        222
+      ],
+      "margin_pass": true,
+      "geometry_hash": "0677d719b3bd6030c53fb0250f1efdfd96048dc78d5e8bee583ba36d70530f0d"
+    },
+    {
+      "id": "SV1303",
+      "bbox": [
+        42,
+        26,
+        214,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "d9968d658350e480e5b6e8b6f6847911aa0ee5b39aa712057f0e7c76a5bb5511"
+    },
+    {
+      "id": "SV1304",
+      "bbox": [
+        34,
+        39,
+        222,
+        208
+      ],
+      "margin_pass": true,
+      "geometry_hash": "bde42cd235f2551917d52b5508212025e0c87d6b1dfeaf9e01489d36260bcd6a"
+    },
+    {
+      "id": "SV1305",
+      "bbox": [
+        27,
+        57,
+        229,
+        243
+      ],
+      "margin_pass": true,
+      "geometry_hash": "5f7e54f8cfd695c85df001cb46162bae08ee0db54fcd77465d40419dd8602fe4"
+    },
+    {
+      "id": "SV1306",
+      "bbox": [
+        29,
+        37,
+        227,
+        212
+      ],
+      "margin_pass": true,
+      "geometry_hash": "69c6aba973a53dc16095e8f10fa7fb53f64c5248219f0f1a0c58c7048876064d"
+    },
+    {
+      "id": "SV1307",
+      "bbox": [
+        44,
+        22,
+        212,
+        221
+      ],
+      "margin_pass": true,
+      "geometry_hash": "402cfa6568651a71c8f4b6ae5aff19186fab1802c56f46a1eb892fea576f728a"
+    },
+    {
+      "id": "SV1308",
+      "bbox": [
+        25,
+        23,
+        231,
+        213
+      ],
+      "margin_pass": true,
+      "geometry_hash": "4e848e9cf172a5026dc93f4616cdedcc104dccf0faf21af903fd42b643b4a8f2"
+    },
+    {
+      "id": "SV1309",
+      "bbox": [
+        19,
+        60,
+        237,
+        238
+      ],
+      "margin_pass": true,
+      "geometry_hash": "ef4bb789a3807b8a442908a1774ada39e768534e0fd7e8edb683455813e452df"
+    },
+    {
+      "id": "SV1310",
+      "bbox": [
+        42,
+        18,
+        213,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "3b392b6073ce2e7e9d0ead806e221a52dfc80b3cdc417ea0b271d5869de115ec"
+    },
+    {
+      "id": "SV1311",
+      "bbox": [
+        46,
+        56,
+        216,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "a82955fbbe7038641e1bc5d290fb5263ffa3e824dac2d5b8d41ecafcdcb3cde5"
+    },
+    {
+      "id": "SV1312",
+      "bbox": [
+        29,
+        47,
+        227,
+        230
+      ],
+      "margin_pass": true,
+      "geometry_hash": "110fdbec215cfa53744a695685941325f0ecdcb74f887ab1353782491a9c9736"
+    },
+    {
+      "id": "SV1313",
+      "bbox": [
+        45,
+        39,
+        211,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "4404879b650dff3284f0a5ad451da541b280942834efe65a5e86a5e09286f03c"
+    },
+    {
+      "id": "SV1314",
+      "bbox": [
+        24,
+        55,
+        232,
+        215
+      ],
+      "margin_pass": true,
+      "geometry_hash": "38773c06bbc8535ac7b2910fc0dc6b6914b6e8cd9f4e3aed28ed04c4aa837bc4"
+    },
+    {
+      "id": "SV1315",
+      "bbox": [
+        29,
+        57,
+        227,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "08b1be277eac8af10f71c13500c32981a96ada7746a77e9559a0195797a36e28"
+    },
+    {
+      "id": "SV1316",
+      "bbox": [
+        34,
+        69,
+        228,
+        238
+      ],
+      "margin_pass": true,
+      "geometry_hash": "e0bdbd69c5e8023475a819540e3d2556c2778559f823093d11f8e30c19397f4f"
+    },
+    {
+      "id": "SV1317",
+      "bbox": [
+        41,
+        64,
+        208,
+        211
+      ],
+      "margin_pass": true,
+      "geometry_hash": "64cefd4912f52961e9ec90c43c5afbd0ec1b470372099a711ed4071781fe9c05"
+    },
+    {
+      "id": "SV1318",
+      "bbox": [
+        38,
+        31,
+        218,
+        221
+      ],
+      "margin_pass": true,
+      "geometry_hash": "22f64ff68f459bcf48f5693c37f81244030aa487afa0810583c5421904a0f17e"
+    },
+    {
+      "id": "SV1319",
+      "bbox": [
+        35,
+        58,
+        221,
+        242
+      ],
+      "margin_pass": true,
+      "geometry_hash": "06ffe4f9160a841c8f1732ed15c85fd57eb28d8bbd8ec9a9499f567f0ef15e35"
+    },
+    {
+      "id": "SV1320",
+      "bbox": [
+        29,
+        26,
+        230,
+        233
+      ],
+      "margin_pass": true,
+      "geometry_hash": "b10d1abc50920bb461c694be1a3cfa8f3b7d8b0fbe08b3d9915a4f7f802878b1"
+    },
+    {
+      "id": "SV1321",
+      "bbox": [
+        24,
+        27,
+        232,
+        213
+      ],
+      "margin_pass": true,
+      "geometry_hash": "f4faa817a74269df5c724950aa56c7b9011eecca41bc59519ac7135890622498"
+    },
+    {
+      "id": "SV1322",
+      "bbox": [
+        27,
+        27,
+        229,
+        244
+      ],
+      "margin_pass": true,
+      "geometry_hash": "8c34670edb3bc78a88e42418a4da2abc838f7e0188893e93afc1e89e60102d71"
+    },
+    {
+      "id": "SV1323",
+      "bbox": [
+        26,
+        59,
+        231,
+        225
+      ],
+      "margin_pass": true,
+      "geometry_hash": "0f250642244757df4c89ef945916d760566dca173527268184877253b6e38e81"
+    },
+    {
+      "id": "SV1324",
+      "bbox": [
+        26,
+        28,
+        230,
+        214
+      ],
+      "margin_pass": true,
+      "geometry_hash": "6cf59af996b4053842b82a75bd2e1c5869a342149790f46729a30d6cc1b9e03d"
+    },
+    {
+      "id": "SV1325",
+      "bbox": [
+        23,
+        68,
+        233,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "f1666c6027bc40f0ad3b9f606350dd3cb4c87b7560afdbd9ef0f9bd702ac22c3"
+    },
+    {
+      "id": "SV1326",
+      "bbox": [
+        37,
+        53,
+        211,
+        222
+      ],
+      "margin_pass": true,
+      "geometry_hash": "d33c32cb7f6d87654f5488b22c6cff7aff0f9c6c9712a6b43cb23b94ebfc1714"
+    },
+    {
+      "id": "SV1327",
+      "bbox": [
+        21,
+        55,
+        223,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "1c86264b456b5b087308a93f963a53f2e50366156b94e3cca2ef8b57c451a0fb"
+    },
+    {
+      "id": "SV1328",
+      "bbox": [
+        28,
+        49,
+        228,
+        231
+      ],
+      "margin_pass": true,
+      "geometry_hash": "0b4dc369fe3036c246bc7f5236e2c7064dab6325f6f53b51a77afdab7fb3ca07"
+    },
+    {
+      "id": "SV1329",
+      "bbox": [
+        19,
+        71,
+        233,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "bfbc3f92addbfbcd4b49a091f2dcdef71bfdc895a0335c6a83110eb2037898f1"
+    },
+    {
+      "id": "SV1330",
+      "bbox": [
+        28,
+        47,
+        227,
+        219
+      ],
+      "margin_pass": true,
+      "geometry_hash": "cd7a6b8f68d1629775066fa6598b4f960846220a0db786061c63b5977cfe40d9"
+    },
+    {
+      "id": "SV1331",
+      "bbox": [
+        32,
+        34,
+        220,
+        218
+      ],
+      "margin_pass": true,
+      "geometry_hash": "74c6dd7a628906c99e843005e09d8374d18f8ad21ff101235522bf6b5f0dcd19"
+    },
+    {
+      "id": "SV1332",
+      "bbox": [
+        30,
+        37,
+        227,
+        207
+      ],
+      "margin_pass": true,
+      "geometry_hash": "211a797e9a74f2e874f7bd9f4da2636f3568229cc1c27cc0ab4e3cc035e49131"
+    },
+    {
+      "id": "SV1333",
+      "bbox": [
+        29,
+        47,
+        221,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "a2221741d60b779d300556e15b38063f10a1f23b93e6703c461294ad6e0efe4b"
+    },
+    {
+      "id": "SV1334",
+      "bbox": [
+        20,
+        21,
+        217,
+        216
+      ],
+      "margin_pass": true,
+      "geometry_hash": "332efbd26df8eaceddef7b13f0843f74e88e78023abeffbee6945e89a2d36f54"
+    },
+    {
+      "id": "SV1335",
+      "bbox": [
+        25,
+        47,
+        232,
+        215
+      ],
+      "margin_pass": true,
+      "geometry_hash": "356c4b5648208e2ad02a98bae3ec3eff9dd0af923567fd1be2e90de7c87d4b8d"
+    },
+    {
+      "id": "SV1336",
+      "bbox": [
+        35,
+        29,
+        221,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "5bb7ce60d42ffed853241bef52382f7292b5307e4f592a8f938f2255bade2191"
+    },
+    {
+      "id": "SV1337",
+      "bbox": [
+        30,
+        38,
+        226,
+        226
+      ],
+      "margin_pass": true,
+      "geometry_hash": "6709ac36fbd1e6083da80945504b7327f396efdb66634ee49d557a2c2c7158da"
+    },
+    {
+      "id": "SV1338",
+      "bbox": [
+        26,
+        31,
+        223,
+        219
+      ],
+      "margin_pass": true,
+      "geometry_hash": "c47a2971655d493fffb08ffe55dd0a80b20f3acb7a62030d87d4c657d3175699"
+    },
+    {
+      "id": "SV1339",
+      "bbox": [
+        27,
+        71,
+        230,
+        226
+      ],
+      "margin_pass": true,
+      "geometry_hash": "ac390992c5138d10c6eb9dcc943f0cf9d73bf505a9ab67bf1dbf4cfe3c4b937b"
+    },
+    {
+      "id": "SV1340",
+      "bbox": [
+        43,
+        26,
+        221,
+        220
+      ],
+      "margin_pass": true,
+      "geometry_hash": "ba94abbda53407a982382f8422b850e20db4bb1eb3185672bb625ea06dd922cc"
+    },
+    {
+      "id": "SV1341",
+      "bbox": [
+        31,
+        35,
+        225,
+        221
+      ],
+      "margin_pass": true,
+      "geometry_hash": "fc49dd1500f4b0713192bb145921161d018d1474475d02efcc8d1060ee3e81bd"
+    },
+    {
+      "id": "SV1342",
+      "bbox": [
+        28,
+        66,
+        226,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "0754a83a875c6420f8a9c7664fa91b036726193f3913ad4afa4986d1842e2df6"
+    },
+    {
+      "id": "SV1343",
+      "bbox": [
+        33,
+        24,
+        226,
+        221
+      ],
+      "margin_pass": true,
+      "geometry_hash": "74d1dd05e0f2960938300ea66c955d6297053f84540143fdb5a7048fa3cb8d0c"
+    },
+    {
+      "id": "SV1344",
+      "bbox": [
+        36,
+        70,
+        219,
+        213
+      ],
+      "margin_pass": true,
+      "geometry_hash": "7b8019d6a777d2eb1d5d89603e6b501ea69d6b4187c33ce59076409385d3eb42"
+    },
+    {
+      "id": "SV1345",
+      "bbox": [
+        21,
+        27,
+        220,
+        216
+      ],
+      "margin_pass": true,
+      "geometry_hash": "5a02d3d9e91d3c4b98616efae74004fcb55a9875764497bfd6d9fff77374a681"
+    },
+    {
+      "id": "SV1346",
+      "bbox": [
+        24,
+        56,
+        231,
+        220
+      ],
+      "margin_pass": true,
+      "geometry_hash": "e2d82e7240414bba8c0a8493ff689f643b207a4d467d2beea60b284156779a5f"
+    },
+    {
+      "id": "SV1347",
+      "bbox": [
+        32,
+        26,
+        224,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "e26d4c04d8706768f236e42d74e812ded2e093432dc00f5902f9e8448ba0b812"
+    },
+    {
+      "id": "SV1348",
+      "bbox": [
+        33,
+        57,
+        224,
+        217
+      ],
+      "margin_pass": true,
+      "geometry_hash": "50d699f15afed4ac1c8f26529e0423ed2b5d3546323640fc2b77c8b23a8d9c74"
+    },
+    {
+      "id": "SV1349",
+      "bbox": [
+        28,
+        39,
+        229,
+        220
+      ],
+      "margin_pass": true,
+      "geometry_hash": "8df4e46edceb416055e5d79a0dc46349a9bc60e37d4cc862e02929cb36a5a933"
+    },
+    {
+      "id": "SV1350",
+      "bbox": [
+        36,
+        27,
+        220,
+        232
+      ],
+      "margin_pass": true,
+      "geometry_hash": "67dffd60a2819d6c4e6a25856fd32def78403b2779509a57e3ed450bcc9a7a02"
+    },
+    {
+      "id": "SV1351",
+      "bbox": [
+        39,
+        33,
+        228,
+        230
+      ],
+      "margin_pass": true,
+      "geometry_hash": "6c83ea2834688110239d9608e71c5fdeff1032d644893efc750667e66357262c"
+    },
+    {
+      "id": "SV1352",
+      "bbox": [
+        26,
+        49,
+        232,
+        226
+      ],
+      "margin_pass": true,
+      "geometry_hash": "00fa532111bddba4f73c2c0faabefeb3694bab297af423435658cda0b37beb2b"
+    },
+    {
+      "id": "SV1353",
+      "bbox": [
+        25,
+        36,
+        232,
+        217
+      ],
+      "margin_pass": true,
+      "geometry_hash": "1a6c4548b91393c1fb8a8d125db7416ea372936fb492c8686644ca212138bede"
+    },
+    {
+      "id": "SV1354",
+      "bbox": [
+        24,
+        37,
+        235,
+        222
+      ],
+      "margin_pass": true,
+      "geometry_hash": "42fd86c94ba04e1681ded48510dd5c88838d161c73b81156dde75f782254cdc8"
+    },
+    {
+      "id": "SV1355",
+      "bbox": [
+        34,
+        43,
+        222,
+        232
+      ],
+      "margin_pass": true,
+      "geometry_hash": "2c213999865944e0a6796fbd482d34a6c71f710cd442d8598a9a55fea90619e3"
+    },
+    {
+      "id": "SV1356",
+      "bbox": [
+        24,
+        84,
+        231,
+        235
+      ],
+      "margin_pass": true,
+      "geometry_hash": "d71efb466387a1808ddcdf92d0a1e6122725a45b86f9ca294cf24fee4fade385"
+    },
+    {
+      "id": "SV1357",
+      "bbox": [
+        28,
+        75,
+        232,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "fce1cd5befd9692e311222198486a4d5b9fccbabbcc6c8f9b8825225262bc3be"
+    },
+    {
+      "id": "SV1358",
+      "bbox": [
+        35,
+        36,
+        221,
+        240
+      ],
+      "margin_pass": true,
+      "geometry_hash": "7baee97b0aaf428be4a77174f39afb9e24b75f073afdd97f8495e4a34f4ea6b5"
+    },
+    {
+      "id": "SV1359",
+      "bbox": [
+        33,
+        21,
+        226,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "4ca7b2c45448c31dc961b48d122a3409a05b6714c7bbd794d9dce1efab968f82"
+    },
+    {
+      "id": "SV1360",
+      "bbox": [
+        24,
+        22,
+        231,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "c2d9b32b2ab4b6c0bba6a007f2ef86b60930fc8ff1ee76ef421b5997a976595c"
+    },
+    {
+      "id": "SV1361",
+      "bbox": [
+        25,
+        62,
+        231,
+        222
+      ],
+      "margin_pass": true,
+      "geometry_hash": "0b5bc9b99a2854c93d15591a6b329ba7c00b433382694c9b0bb072b3203e55f9"
+    },
+    {
+      "id": "SV1362",
+      "bbox": [
+        22,
+        23,
+        228,
+        235
+      ],
+      "margin_pass": true,
+      "geometry_hash": "fd9aebe08f890208cc8e26cb534bf739bb106fdc571b119a9208d770f2fb38cb"
+    },
+    {
+      "id": "SV1363",
+      "bbox": [
+        21,
+        60,
+        231,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "ed71dfef94cd18a759d995c89593d5be834afe7726b842afbb98e6eb6c2728a1"
+    },
+    {
+      "id": "SV1364",
+      "bbox": [
+        34,
+        47,
+        222,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "8c72dd14d6858fc81fc6b65c90a47312098c82e9e941ab0aa9fc024338846a6e"
+    },
+    {
+      "id": "SV1365",
+      "bbox": [
+        44,
+        66,
+        212,
+        235
+      ],
+      "margin_pass": true,
+      "geometry_hash": "3e9ad8a8e15a8d0a8878e7f05ea84b8aa167e6a9e998631c4f44dfe1f84e7c14"
+    },
+    {
+      "id": "SV1366",
+      "bbox": [
+        22,
+        51,
+        228,
+        220
+      ],
+      "margin_pass": true,
+      "geometry_hash": "9278ed930940323f45e907411146c7eaf83db47830a4c18e314d8816964e494a"
+    },
+    {
+      "id": "SV1367",
+      "bbox": [
+        28,
+        90,
+        238,
+        225
+      ],
+      "margin_pass": true,
+      "geometry_hash": "49165e2613333d0e0b8770dfb8c032b977a60929d9cce33f903b056fd5655c6e"
+    },
+    {
+      "id": "SV1368",
+      "bbox": [
+        27,
+        36,
+        232,
+        223
+      ],
+      "margin_pass": true,
+      "geometry_hash": "1451b31beae6949c5d67b92646b51213ecf0d81668acb0c62227dacdf0d48047"
+    },
+    {
+      "id": "SV1369",
+      "bbox": [
+        26,
+        34,
+        240,
+        233
+      ],
+      "margin_pass": true,
+      "geometry_hash": "0b6450800d032d82dbb4f06ee6a061544447c9d09002b3e431fd4a7cb34a715e"
+    },
+    {
+      "id": "SV1370",
+      "bbox": [
+        49,
+        15,
+        223,
+        232
+      ],
+      "margin_pass": true,
+      "geometry_hash": "db7948d5f60291aaab2571e1e317e5bb7b9b2b314625b9734abd465489625eea"
+    },
+    {
+      "id": "SV1371",
+      "bbox": [
+        23,
+        77,
+        225,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "4566e7b49666bceec0138614d3b733bb1b6151db50c08c7dbbafb8bf5e19d072"
+    },
+    {
+      "id": "SV1372",
+      "bbox": [
+        21,
+        35,
+        235,
+        225
+      ],
+      "margin_pass": true,
+      "geometry_hash": "832f0ef0be206f36c55ed08c570023ed6129bad35785ddca2f24bad3052ebd4f"
+    },
+    {
+      "id": "SV1373",
+      "bbox": [
+        33,
+        30,
+        229,
+        222
+      ],
+      "margin_pass": true,
+      "geometry_hash": "4afc6a9a940a5c88d0d0c24a21ff7edf64b13638225a86b20e90c0f77fb2d64a"
+    },
+    {
+      "id": "SV1374",
+      "bbox": [
+        21,
+        42,
+        235,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "45430bf96beb7c6c04d2733d8966b10e0e0c31c8f71c952128660ddd8f9bb936"
+    },
+    {
+      "id": "SV1375",
+      "bbox": [
+        22,
+        50,
+        233,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "261f563a3122f650dafd0225b31340ecdaf6ec88b7f704bccfd9b446a30a2ebe"
+    },
+    {
+      "id": "SV1376",
+      "bbox": [
+        29,
+        33,
+        228,
+        221
+      ],
+      "margin_pass": true,
+      "geometry_hash": "9be3fefe32a162b6bd868aca498c0cb10dd4df3491651a40ed65cc44b53487ad"
+    },
+    {
+      "id": "SV1377",
+      "bbox": [
+        24,
+        31,
+        232,
+        221
+      ],
+      "margin_pass": true,
+      "geometry_hash": "e043aed2e05f0546154d40d8a4e42f8be280d75a95a78e62e629f4ef317ba7c7"
+    },
+    {
+      "id": "SV1378",
+      "bbox": [
+        41,
+        49,
+        229,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "3a571938f959683334298e17460af2b9407b56f99e5809817ea7c052b60b3cd2"
+    },
+    {
+      "id": "SV1379",
+      "bbox": [
+        27,
+        19,
+        229,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "4d887d9106d1e8fa50d57a04e5b42dc7b548ffbd282a09c1443204f9ece35609"
+    },
+    {
+      "id": "SV1380",
+      "bbox": [
+        41,
+        24,
+        215,
+        230
+      ],
+      "margin_pass": true,
+      "geometry_hash": "06702586e5f19ca6b71a8dcddc184d0bcbba9d903e6592ee7cc36708a69a6288"
+    },
+    {
+      "id": "SV1381",
+      "bbox": [
+        19,
+        33,
+        239,
+        230
+      ],
+      "margin_pass": true,
+      "geometry_hash": "5e67fc48521577e5633dd5a172c96603ca69da708fe53154faae52c993fdbbb7"
+    },
+    {
+      "id": "SV1382",
+      "bbox": [
+        36,
+        40,
+        221,
+        237
+      ],
+      "margin_pass": true,
+      "geometry_hash": "a2e98ffc5e32081f37b19f732ec05c6fcd1791fc7decf3aacfc8037903540939"
+    },
+    {
+      "id": "SV1383",
+      "bbox": [
+        23,
+        63,
+        234,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "1cd982f518feea5302f492bbb127f4e1ead11c334366e2ab08ed23991e46564e"
+    },
+    {
+      "id": "SV1384",
+      "bbox": [
+        29,
+        40,
+        227,
+        229
+      ],
+      "margin_pass": true,
+      "geometry_hash": "1a20abadcfc5c3e2f2e064df17091bd73fb9c2223a489069c8b3416c5e98c308"
+    },
+    {
+      "id": "SV1385",
+      "bbox": [
+        25,
+        30,
+        231,
+        231
+      ],
+      "margin_pass": true,
+      "geometry_hash": "d10d9087efae85ffb524b6168a2155da1fbd2c556a99fb135554ab3cc45666de"
+    },
+    {
+      "id": "SV1386",
+      "bbox": [
+        24,
+        57,
+        232,
+        236
+      ],
+      "margin_pass": true,
+      "geometry_hash": "cfd32b165753aa176e20ce670d1e19cc76263f7fa87fac9385e2e4969c2da009"
+    },
+    {
+      "id": "SV1387",
+      "bbox": [
+        49,
+        22,
+        207,
+        234
+      ],
+      "margin_pass": true,
+      "geometry_hash": "e9a9412769a6d0218db4cb419d24a500eac571039eec2be8951749832efd4b06"
+    },
+    {
+      "id": "SV1388",
+      "bbox": [
+        23,
+        46,
+        232,
+        232
+      ],
+      "margin_pass": true,
+      "geometry_hash": "8b6ce5c8a0127d7e4a5ced8969bec78f1d4e61299c1090d2d5918f6fda5098f4"
+    },
+    {
+      "id": "SV1389",
+      "bbox": [
+        20,
+        43,
+        233,
+        236
+      ],
+      "margin_pass": true,
+      "geometry_hash": "eadcab79d376c56ebee6e5bccb208c1db6cc27da2ae4efca22f09275f0bd81db"
+    },
+    {
+      "id": "SV1390",
+      "bbox": [
+        27,
+        33,
+        229,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "2feb67810e3b36cc6b67f7b66798f0d4b8e751ad8fbbbc1503d8011b1269a023"
+    },
+    {
+      "id": "SV1391",
+      "bbox": [
+        40,
+        27,
+        216,
+        243
+      ],
+      "margin_pass": true,
+      "geometry_hash": "618cec1895ac89be3783243095f024fded4cbb0deef8450eb06f66cf2aabce45"
+    },
+    {
+      "id": "SV1392",
+      "bbox": [
+        23,
+        40,
+        238,
+        225
+      ],
+      "margin_pass": true,
+      "geometry_hash": "d8c833db6256a7d683f0703706e29bd35b1a3f1fb8e1b656d5a5b01db2b41046"
+    },
+    {
+      "id": "SV1393",
+      "bbox": [
+        23,
+        31,
+        233,
+        230
+      ],
+      "margin_pass": true,
+      "geometry_hash": "a0bed73bf243cf1247fb25c22f7f302966fac46bb08bf6fe7008d50fb9f82288"
+    },
+    {
+      "id": "SV1394",
+      "bbox": [
+        26,
+        105,
+        229,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "f48ff1bcd78bb8ba279aad35df2f27789d7fc633b2f65aaec71967d05b40fa07"
+    },
+    {
+      "id": "SV1395",
+      "bbox": [
+        27,
+        30,
+        229,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "82afa0298766610ca9df12665020a6a2738ab0a5ecb7afe0a249a2d3c62fd364"
+    },
+    {
+      "id": "SV1396",
+      "bbox": [
+        26,
+        37,
+        229,
+        224
+      ],
+      "margin_pass": true,
+      "geometry_hash": "f7d3070987e4ffd3f77482ef458bf033ac3d4651ffc0fc58c023f358678851b6"
+    },
+    {
+      "id": "SV1397",
+      "bbox": [
+        35,
+        26,
+        221,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "55bc94b8a10f8cd3ed83da203cce6330396c0a7cd62265c76440802335dd2d91"
+    },
+    {
+      "id": "SV1398",
+      "bbox": [
+        24,
+        47,
+        232,
+        227
+      ],
+      "margin_pass": true,
+      "geometry_hash": "80ce19b7e1157b00dc1dfc4964b1e39287643b46a04453c9b5eec08a667a2171"
+    },
+    {
+      "id": "SV1399",
+      "bbox": [
+        26,
+        37,
+        232,
+        233
+      ],
+      "margin_pass": true,
+      "geometry_hash": "a4ef2f8d792a5993e33bb504ed6c0487d46d6612af2533aa8dd35e4c803d4321"
+    },
+    {
+      "id": "SV1400",
+      "bbox": [
+        22,
+        42,
+        235,
+        228
+      ],
+      "margin_pass": true,
+      "geometry_hash": "2c9883ed80d31e8f42a7107cefbf658aa2fa3f63be7f734adc409278a904d09d"
+    }
+  ]
+}

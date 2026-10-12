@@ -1,0 +1,3564 @@
+[
+  {
+    "id": "SV1201",
+    "title": "Balanced paths and two outcomes",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "balanced",
+      "paths",
+      "and",
+      "two",
+      "outcomes"
+    ],
+    "svg": "svg/files/SV1201.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1202",
+    "title": "Forked road with checkpoint choice",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "forked",
+      "road",
+      "with",
+      "checkpoint",
+      "choice"
+    ],
+    "svg": "svg/files/SV1202.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1203",
+    "title": "Cost benefit slider comparison",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "cost",
+      "benefit",
+      "slider",
+      "comparison"
+    ],
+    "svg": "svg/files/SV1203.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1204",
+    "title": "Bridge across a decision gap",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "bridge",
+      "across",
+      "a",
+      "decision",
+      "gap"
+    ],
+    "svg": "svg/files/SV1204.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1205",
+    "title": "Compass surrounded by alternatives",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "compass",
+      "surrounded",
+      "by",
+      "alternatives"
+    ],
+    "svg": "svg/files/SV1205.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1206",
+    "title": "Strategic move on a choice board",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "strategic",
+      "move",
+      "on",
+      "a",
+      "choice",
+      "board"
+    ],
+    "svg": "svg/files/SV1206.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1207",
+    "title": "Two option voting assembly",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "two",
+      "option",
+      "voting",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1207.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1208",
+    "title": "Matching key and different locks",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "matching",
+      "key",
+      "and",
+      "different",
+      "locks"
+    ],
+    "svg": "svg/files/SV1208.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1209",
+    "title": "Selected card from a decision stack",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "selected",
+      "card",
+      "from",
+      "a",
+      "decision",
+      "stack"
+    ],
+    "svg": "svg/files/SV1209.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1210",
+    "title": "Three input tradeoff controls",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "three",
+      "input",
+      "tradeoff",
+      "controls"
+    ],
+    "svg": "svg/files/SV1210.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1211",
+    "title": "Staircase versus direct elevator",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "staircase",
+      "versus",
+      "direct",
+      "elevator"
+    ],
+    "svg": "svg/files/SV1211.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1212",
+    "title": "Two funnels and one decision gate",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "two",
+      "funnels",
+      "and",
+      "one",
+      "decision",
+      "gate"
+    ],
+    "svg": "svg/files/SV1212.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1213",
+    "title": "Knowledge versus insight balance",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "knowledge",
+      "versus",
+      "insight",
+      "balance"
+    ],
+    "svg": "svg/files/SV1213.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1214",
+    "title": "Resource budget allocation buckets",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "resource",
+      "budget",
+      "allocation",
+      "buckets"
+    ],
+    "svg": "svg/files/SV1214.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1215",
+    "title": "Time and money seesaw",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "time",
+      "and",
+      "money",
+      "seesaw"
+    ],
+    "svg": "svg/files/SV1215.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1216",
+    "title": "Detour around a blocked path",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "detour",
+      "around",
+      "a",
+      "blocked",
+      "path"
+    ],
+    "svg": "svg/files/SV1216.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1217",
+    "title": "Three doors branching choice",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "three",
+      "doors",
+      "branching",
+      "choice"
+    ],
+    "svg": "svg/files/SV1217.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1218",
+    "title": "Pros and cons under a focus lens",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "pros",
+      "and",
+      "cons",
+      "under",
+      "a",
+      "focus",
+      "lens"
+    ],
+    "svg": "svg/files/SV1218.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1219",
+    "title": "Overlapping decision criteria",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "overlapping",
+      "decision",
+      "criteria"
+    ],
+    "svg": "svg/files/SV1219.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1220",
+    "title": "Risk protection and opportunity",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "risk",
+      "protection",
+      "and",
+      "opportunity"
+    ],
+    "svg": "svg/files/SV1220.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1221",
+    "title": "Feasibility pivot and constraint",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "feasibility",
+      "pivot",
+      "and",
+      "constraint"
+    ],
+    "svg": "svg/files/SV1221.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1222",
+    "title": "Resource share comparison wheel",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "resource",
+      "share",
+      "comparison",
+      "wheel"
+    ],
+    "svg": "svg/files/SV1222.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1223",
+    "title": "Reversible decision checkpoint",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "reversible",
+      "decision",
+      "checkpoint"
+    ],
+    "svg": "svg/files/SV1223.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1224",
+    "title": "Preference spectrum control panel",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "preference",
+      "spectrum",
+      "control",
+      "panel"
+    ],
+    "svg": "svg/files/SV1224.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1225",
+    "title": "Contingency tree with fallback",
+    "category": "Decision and tradeoff metaphors",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "contingency",
+      "tree",
+      "with",
+      "fallback"
+    ],
+    "svg": "svg/files/SV1225.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "decision explainer",
+      "tradeoff teaching"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1226",
+    "title": "Triggering domino consequence chain",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "triggering",
+      "domino",
+      "consequence",
+      "chain"
+    ],
+    "svg": "svg/files/SV1226.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1227",
+    "title": "Gear impulse to output arrow",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "gear",
+      "impulse",
+      "to",
+      "output",
+      "arrow"
+    ],
+    "svg": "svg/files/SV1227.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1228",
+    "title": "Chain pull raising an outcome flag",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "chain",
+      "pull",
+      "raising",
+      "an",
+      "outcome",
+      "flag"
+    ],
+    "svg": "svg/files/SV1228.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1229",
+    "title": "Ripple source and listening receiver",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "ripple",
+      "source",
+      "and",
+      "listening",
+      "receiver"
+    ],
+    "svg": "svg/files/SV1229.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1230",
+    "title": "Seed investment growing into result",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "seed",
+      "investment",
+      "growing",
+      "into",
+      "result"
+    ],
+    "svg": "svg/files/SV1230.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1231",
+    "title": "Thermostat feedback control loop",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "thermostat",
+      "feedback",
+      "control",
+      "loop"
+    ],
+    "svg": "svg/files/SV1231.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1232",
+    "title": "Small trigger large butterfly effect",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "small",
+      "trigger",
+      "large",
+      "butterfly",
+      "effect"
+    ],
+    "svg": "svg/files/SV1232.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1233",
+    "title": "Switch circuit lighting a bulb",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "switch",
+      "circuit",
+      "lighting",
+      "a",
+      "bulb"
+    ],
+    "svg": "svg/files/SV1233.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1234",
+    "title": "Two causes mixing into one result",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "two",
+      "causes",
+      "mixing",
+      "into",
+      "one",
+      "result"
+    ],
+    "svg": "svg/files/SV1234.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1235",
+    "title": "Pressure gauge and stress release",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "pressure",
+      "gauge",
+      "and",
+      "stress",
+      "release"
+    ],
+    "svg": "svg/files/SV1235.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1236",
+    "title": "Root causes beneath a focus lens",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "root",
+      "causes",
+      "beneath",
+      "a",
+      "focus",
+      "lens"
+    ],
+    "svg": "svg/files/SV1236.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1237",
+    "title": "Visible outcome and hidden iceberg",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "visible",
+      "outcome",
+      "and",
+      "hidden",
+      "iceberg"
+    ],
+    "svg": "svg/files/SV1237.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1238",
+    "title": "Pulley effort lifting a load",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "pulley",
+      "effort",
+      "lifting",
+      "a",
+      "load"
+    ],
+    "svg": "svg/files/SV1238.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1239",
+    "title": "Queued pipeline bottleneck",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "queued",
+      "pipeline",
+      "bottleneck"
+    ],
+    "svg": "svg/files/SV1239.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1240",
+    "title": "Friction slowing an inflating balloon",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "friction",
+      "slowing",
+      "an",
+      "inflating",
+      "balloon"
+    ],
+    "svg": "svg/files/SV1240.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1241",
+    "title": "Wind drive turning energy wheel",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "wind",
+      "drive",
+      "turning",
+      "energy",
+      "wheel"
+    ],
+    "svg": "svg/files/SV1241.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1242",
+    "title": "Lever and fulcrum producing lift",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "lever",
+      "and",
+      "fulcrum",
+      "producing",
+      "lift"
+    ],
+    "svg": "svg/files/SV1242.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1243",
+    "title": "Magnet drawing separate inputs",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "magnet",
+      "drawing",
+      "separate",
+      "inputs"
+    ],
+    "svg": "svg/files/SV1243.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1244",
+    "title": "Filter funnel separating causes",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "filter",
+      "funnel",
+      "separating",
+      "causes"
+    ],
+    "svg": "svg/files/SV1244.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1245",
+    "title": "Resonant waves and linked receivers",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "resonant",
+      "waves",
+      "and",
+      "linked",
+      "receivers"
+    ],
+    "svg": "svg/files/SV1245.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1246",
+    "title": "Delayed feedback with timer",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "delayed",
+      "feedback",
+      "with",
+      "timer"
+    ],
+    "svg": "svg/files/SV1246.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1247",
+    "title": "Preventive stop in domino cascade",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "preventive",
+      "stop",
+      "in",
+      "domino",
+      "cascade"
+    ],
+    "svg": "svg/files/SV1247.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1248",
+    "title": "Reservoir overflow effect",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "reservoir",
+      "overflow",
+      "effect"
+    ],
+    "svg": "svg/files/SV1248.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1249",
+    "title": "Signal pulse reaching three outputs",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "signal",
+      "pulse",
+      "reaching",
+      "three",
+      "outputs"
+    ],
+    "svg": "svg/files/SV1249.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1250",
+    "title": "Cascading cards revealing results",
+    "category": "Cause and effect assemblies",
+    "tags": [
+      "explainer",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "cascading",
+      "cards",
+      "revealing",
+      "results"
+    ],
+    "svg": "svg/files/SV1250.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "cause and effect explainer",
+      "educational systems"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1251",
+    "title": "Course launch learning screen kit",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "course",
+      "launch",
+      "learning",
+      "screen",
+      "kit"
+    ],
+    "svg": "svg/files/SV1251.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1252",
+    "title": "Digital book bundle and access tag",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "digital",
+      "book",
+      "bundle",
+      "and",
+      "access",
+      "tag"
+    ],
+    "svg": "svg/files/SV1252.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1253",
+    "title": "Tutorial play card and three steps",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "tutorial",
+      "play",
+      "card",
+      "and",
+      "three",
+      "steps"
+    ],
+    "svg": "svg/files/SV1253.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1254",
+    "title": "Certification course completion kit",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "certification",
+      "course",
+      "completion",
+      "kit"
+    ],
+    "svg": "svg/files/SV1254.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1255",
+    "title": "Membership lessons behind access gate",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "membership",
+      "lessons",
+      "behind",
+      "access",
+      "gate"
+    ],
+    "svg": "svg/files/SV1255.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1256",
+    "title": "Prompt kit linked idea cards",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "prompt",
+      "kit",
+      "linked",
+      "idea",
+      "cards"
+    ],
+    "svg": "svg/files/SV1256.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1257",
+    "title": "Presentation template fan and sample",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "presentation",
+      "template",
+      "fan",
+      "and",
+      "sample"
+    ],
+    "svg": "svg/files/SV1257.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1258",
+    "title": "Webinar learning screen and notes",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "webinar",
+      "learning",
+      "screen",
+      "and",
+      "notes"
+    ],
+    "svg": "svg/files/SV1258.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1259",
+    "title": "Digital download package delivery",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "digital",
+      "download",
+      "package",
+      "delivery"
+    ],
+    "svg": "svg/files/SV1259.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1260",
+    "title": "Syllabus learning path kit",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "syllabus",
+      "learning",
+      "path",
+      "kit"
+    ],
+    "svg": "svg/files/SV1260.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1261",
+    "title": "Revision flashcard pack and progress",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "revision",
+      "flashcard",
+      "pack",
+      "and",
+      "progress"
+    ],
+    "svg": "svg/files/SV1261.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1262",
+    "title": "Quiz lesson correct answer journey",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "quiz",
+      "lesson",
+      "correct",
+      "answer",
+      "journey"
+    ],
+    "svg": "svg/files/SV1262.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1263",
+    "title": "Coaching session and shared workbook",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "coaching",
+      "session",
+      "and",
+      "shared",
+      "workbook"
+    ],
+    "svg": "svg/files/SV1263.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1264",
+    "title": "Creator studio course workflow",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "creator",
+      "studio",
+      "course",
+      "workflow"
+    ],
+    "svg": "svg/files/SV1264.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1265",
+    "title": "Productivity course dashboard kit",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "productivity",
+      "course",
+      "dashboard",
+      "kit"
+    ],
+    "svg": "svg/files/SV1265.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1266",
+    "title": "Coding course laptop and logic blocks",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "coding",
+      "course",
+      "laptop",
+      "and",
+      "logic",
+      "blocks"
+    ],
+    "svg": "svg/files/SV1266.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1267",
+    "title": "Audio lesson deck and headphones",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "audio",
+      "lesson",
+      "deck",
+      "and",
+      "headphones"
+    ],
+    "svg": "svg/files/SV1267.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1268",
+    "title": "Language lesson chat pair",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "language",
+      "lesson",
+      "chat",
+      "pair"
+    ],
+    "svg": "svg/files/SV1268.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1269",
+    "title": "Design asset pack and palette layers",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "design",
+      "asset",
+      "pack",
+      "and",
+      "palette",
+      "layers"
+    ],
+    "svg": "svg/files/SV1269.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1270",
+    "title": "Study notes highlighter kit",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "study",
+      "notes",
+      "highlighter",
+      "kit"
+    ],
+    "svg": "svg/files/SV1270.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1271",
+    "title": "Product demo preview and detail cards",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "product",
+      "demo",
+      "preview",
+      "and",
+      "detail",
+      "cards"
+    ],
+    "svg": "svg/files/SV1271.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1272",
+    "title": "Skill progression before after kit",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "skill",
+      "progression",
+      "before",
+      "after",
+      "kit"
+    ],
+    "svg": "svg/files/SV1272.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1273",
+    "title": "Bonus gift with digital course",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "bonus",
+      "gift",
+      "with",
+      "digital",
+      "course"
+    ],
+    "svg": "svg/files/SV1273.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1274",
+    "title": "Lifetime access learning library",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "lifetime",
+      "access",
+      "learning",
+      "library"
+    ],
+    "svg": "svg/files/SV1274.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1275",
+    "title": "Checkout license and access journey",
+    "category": "Course and digital-product promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "checkout",
+      "license",
+      "and",
+      "access",
+      "journey"
+    ],
+    "svg": "svg/files/SV1275.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "digital product promotion",
+      "course launch"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1276",
+    "title": "Clinic appointment service kit",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "clinic",
+      "appointment",
+      "service",
+      "kit"
+    ],
+    "svg": "svg/files/SV1276.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1277",
+    "title": "Practical workshop table and seats",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "practical",
+      "workshop",
+      "table",
+      "and",
+      "seats"
+    ],
+    "svg": "svg/files/SV1277.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1278",
+    "title": "Community event stage and ticket",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "community",
+      "event",
+      "stage",
+      "and",
+      "ticket"
+    ],
+    "svg": "svg/files/SV1278.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1279",
+    "title": "Product launch podium celebration",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "product",
+      "launch",
+      "podium",
+      "celebration"
+    ],
+    "svg": "svg/files/SV1279.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1280",
+    "title": "Consulting service roadmap kit",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "consulting",
+      "service",
+      "roadmap",
+      "kit"
+    ],
+    "svg": "svg/files/SV1280.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1281",
+    "title": "Booking calendar time confirmation",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "booking",
+      "calendar",
+      "time",
+      "confirmation"
+    ],
+    "svg": "svg/files/SV1281.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1282",
+    "title": "Travel event itinerary and suitcase",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "travel",
+      "event",
+      "itinerary",
+      "and",
+      "suitcase"
+    ],
+    "svg": "svg/files/SV1282.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1283",
+    "title": "Online consultation screen pair",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "online",
+      "consultation",
+      "screen",
+      "pair"
+    ],
+    "svg": "svg/files/SV1283.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1284",
+    "title": "Home service van and tools",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "home",
+      "service",
+      "van",
+      "and",
+      "tools"
+    ],
+    "svg": "svg/files/SV1284.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1285",
+    "title": "Wedding invitation foliage and rings",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "wedding",
+      "invitation",
+      "foliage",
+      "and",
+      "rings"
+    ],
+    "svg": "svg/files/SV1285.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1286",
+    "title": "Conference schedule and podium",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "conference",
+      "schedule",
+      "and",
+      "podium"
+    ],
+    "svg": "svg/files/SV1286.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1287",
+    "title": "Training registration and seats",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "training",
+      "registration",
+      "and",
+      "seats"
+    ],
+    "svg": "svg/files/SV1287.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1288",
+    "title": "Exhibition booth and visitor badge",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "exhibition",
+      "booth",
+      "and",
+      "visitor",
+      "badge"
+    ],
+    "svg": "svg/files/SV1288.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1289",
+    "title": "Webinar questions and audience",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "webinar",
+      "questions",
+      "and",
+      "audience"
+    ],
+    "svg": "svg/files/SV1289.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1290",
+    "title": "Festival stage musical event kit",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "festival",
+      "stage",
+      "musical",
+      "event",
+      "kit"
+    ],
+    "svg": "svg/files/SV1290.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1291",
+    "title": "Service offer megaphone coupon",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "service",
+      "offer",
+      "megaphone",
+      "coupon"
+    ],
+    "svg": "svg/files/SV1291.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1292",
+    "title": "Catering buffet service kit",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "catering",
+      "buffet",
+      "service",
+      "kit"
+    ],
+    "svg": "svg/files/SV1292.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1293",
+    "title": "Help desk support service kit",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "help",
+      "desk",
+      "support",
+      "service",
+      "kit"
+    ],
+    "svg": "svg/files/SV1293.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1294",
+    "title": "Charity campaign donation box",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "charity",
+      "campaign",
+      "donation",
+      "box"
+    ],
+    "svg": "svg/files/SV1294.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1295",
+    "title": "Fitness challenge checkpoint bib",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "fitness",
+      "challenge",
+      "checkpoint",
+      "bib"
+    ],
+    "svg": "svg/files/SV1295.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1296",
+    "title": "Professional networking circle",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "professional",
+      "networking",
+      "circle"
+    ],
+    "svg": "svg/files/SV1296.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1297",
+    "title": "Delivery service truck and parcels",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "delivery",
+      "service",
+      "truck",
+      "and",
+      "parcels"
+    ],
+    "svg": "svg/files/SV1297.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw relationship paths, then reveal objects in their causal order.",
+      "ambient": "Pulse the active accent and move a small highlight along existing connectors.",
+      "exit": "Retract connector strokes before fading the supporting shapes."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1298",
+    "title": "Open house doorway and location",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "open",
+      "house",
+      "doorway",
+      "and",
+      "location"
+    ],
+    "svg": "svg/files/SV1298.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Pop the central object first, then stagger the supporting choices.",
+      "ambient": "Use slight parallax between main, accent and details without changing the meaning.",
+      "exit": "Scale the complete composition down together and fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1299",
+    "title": "Photography service camera frame",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "photography",
+      "service",
+      "camera",
+      "frame"
+    ],
+    "svg": "svg/files/SV1299.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main assembly with a soft scale and trace detail strokes.",
+      "ambient": "Hold the main object while gently emphasizing one accent at a time.",
+      "exit": "Move the accent toward the conclusion, then dissolve the assembly."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  },
+  {
+    "id": "SV1300",
+    "title": "Awareness campaign boards and people",
+    "category": "Service and event promo kits",
+    "tags": [
+      "promotion",
+      "concept assembly",
+      "pastel",
+      "layered",
+      "original",
+      "awareness",
+      "campaign",
+      "boards",
+      "and",
+      "people"
+    ],
+    "svg": "svg/files/SV1300.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "promotion",
+    "use_cases": [
+      "service promotion",
+      "event invitation"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide separate objects into their final semantic composition.",
+      "ambient": "Cycle a soft focus highlight through the supporting objects.",
+      "exit": "Reverse the entrance order with a short soft fade."
+    },
+    "motion_status": "suggestion-only; static SVG"
+  }
+]

@@ -1,0 +1,3609 @@
+[
+  {
+    "id": "SV1101",
+    "title": "Validated document intake pipeline",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "validated",
+      "document",
+      "intake",
+      "pipeline"
+    ],
+    "svg": "svg/files/SV1101.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1102",
+    "title": "Queued worker processing pool",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "queued",
+      "worker",
+      "processing",
+      "pool"
+    ],
+    "svg": "svg/files/SV1102.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1103",
+    "title": "Human review release gate",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "human",
+      "review",
+      "release",
+      "gate"
+    ],
+    "svg": "svg/files/SV1103.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1104",
+    "title": "Multichannel content publishing rail",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "multichannel",
+      "content",
+      "publishing",
+      "rail"
+    ],
+    "svg": "svg/files/SV1104.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1105",
+    "title": "Controlled workflow retry loop",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "controlled",
+      "workflow",
+      "retry",
+      "loop"
+    ],
+    "svg": "svg/files/SV1105.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1106",
+    "title": "Batch source merge workspace",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "batch",
+      "source",
+      "merge",
+      "workspace"
+    ],
+    "svg": "svg/files/SV1106.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1107",
+    "title": "Mirrored local cloud synchronisation",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "mirrored",
+      "local",
+      "cloud",
+      "synchronisation"
+    ],
+    "svg": "svg/files/SV1107.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1108",
+    "title": "Software release staging chain",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "software",
+      "release",
+      "staging",
+      "chain"
+    ],
+    "svg": "svg/files/SV1108.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1109",
+    "title": "Structured API routing hub",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "structured",
+      "api",
+      "routing",
+      "hub"
+    ],
+    "svg": "svg/files/SV1109.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1110",
+    "title": "Notification channel orchestration",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "notification",
+      "channel",
+      "orchestration"
+    ],
+    "svg": "svg/files/SV1110.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1111",
+    "title": "Data quality filtering sieve",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "data",
+      "quality",
+      "filtering",
+      "sieve"
+    ],
+    "svg": "svg/files/SV1111.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1112",
+    "title": "Cache assisted processing fast lane",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "cache",
+      "assisted",
+      "processing",
+      "fast",
+      "lane"
+    ],
+    "svg": "svg/files/SV1112.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1113",
+    "title": "Form validation and submission desk",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "form",
+      "validation",
+      "and",
+      "submission",
+      "desk"
+    ],
+    "svg": "svg/files/SV1113.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1114",
+    "title": "Reference document indexing station",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "reference",
+      "document",
+      "indexing",
+      "station"
+    ],
+    "svg": "svg/files/SV1114.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1115",
+    "title": "Timed task scheduling engine",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "timed",
+      "task",
+      "scheduling",
+      "engine"
+    ],
+    "svg": "svg/files/SV1115.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1116",
+    "title": "Document scan to structured records",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "document",
+      "scan",
+      "to",
+      "structured",
+      "records"
+    ],
+    "svg": "svg/files/SV1116.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1117",
+    "title": "Workspace access provisioning",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "workspace",
+      "access",
+      "provisioning"
+    ],
+    "svg": "svg/files/SV1117.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1118",
+    "title": "Event bus service connectors",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "event",
+      "bus",
+      "service",
+      "connectors"
+    ],
+    "svg": "svg/files/SV1118.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1119",
+    "title": "Payment confirmation state assembly",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "payment",
+      "confirmation",
+      "state",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1119.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1120",
+    "title": "Media packaging export workstation",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "media",
+      "packaging",
+      "export",
+      "workstation"
+    ],
+    "svg": "svg/files/SV1120.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1121",
+    "title": "Analytics detail report branches",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "analytics",
+      "detail",
+      "report",
+      "branches"
+    ],
+    "svg": "svg/files/SV1121.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1122",
+    "title": "Rotating cloud backup assembly",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "rotating",
+      "cloud",
+      "backup",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1122.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1123",
+    "title": "Editorial approval and revision desk",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "editorial",
+      "approval",
+      "and",
+      "revision",
+      "desk"
+    ],
+    "svg": "svg/files/SV1123.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1124",
+    "title": "Sensor feedback control circuit",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "sensor",
+      "feedback",
+      "control",
+      "circuit"
+    ],
+    "svg": "svg/files/SV1124.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1125",
+    "title": "Remote command acknowledgement system",
+    "category": "Digital process assemblies",
+    "tags": [
+      "digital process assemblies",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "remote",
+      "command",
+      "acknowledgement",
+      "system"
+    ],
+    "svg": "svg/files/SV1125.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Stagger the intake, processing and output groups",
+      "ambient": "Pulse active connectors; retain the whole composition",
+      "exit": "Retract connector paths, then fade component groups"
+    }
+  },
+  {
+    "id": "SV1126",
+    "title": "Purpose limited data minimisation",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "purpose",
+      "limited",
+      "data",
+      "minimisation"
+    ],
+    "svg": "svg/files/SV1126.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1127",
+    "title": "Encrypted device server transmission",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "encrypted",
+      "device",
+      "server",
+      "transmission"
+    ],
+    "svg": "svg/files/SV1127.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1128",
+    "title": "Granular consent choice workspace",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "granular",
+      "consent",
+      "choice",
+      "workspace"
+    ],
+    "svg": "svg/files/SV1128.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1129",
+    "title": "Retention schedule and disposal archive",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "retention",
+      "schedule",
+      "and",
+      "disposal",
+      "archive"
+    ],
+    "svg": "svg/files/SV1129.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1130",
+    "title": "Anonymised record conversion assembly",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "anonymised",
+      "record",
+      "conversion",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1130.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1131",
+    "title": "Selective document redaction station",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "selective",
+      "document",
+      "redaction",
+      "station"
+    ],
+    "svg": "svg/files/SV1131.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1132",
+    "title": "Least privilege workspace access",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "least",
+      "privilege",
+      "workspace",
+      "access"
+    ],
+    "svg": "svg/files/SV1132.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1133",
+    "title": "Protected aggregate statistics",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "protected",
+      "aggregate",
+      "statistics"
+    ],
+    "svg": "svg/files/SV1133.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1134",
+    "title": "Independent device trust gateway",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "independent",
+      "device",
+      "trust",
+      "gateway"
+    ],
+    "svg": "svg/files/SV1134.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1135",
+    "title": "Public private information partition",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "public",
+      "private",
+      "information",
+      "partition"
+    ],
+    "svg": "svg/files/SV1135.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1136",
+    "title": "Accountable access audit history",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "accountable",
+      "access",
+      "audit",
+      "history"
+    ],
+    "svg": "svg/files/SV1136.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1137",
+    "title": "Document lineage provenance tree",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "document",
+      "lineage",
+      "provenance",
+      "tree"
+    ],
+    "svg": "svg/files/SV1137.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1138",
+    "title": "Scheduled secret key rotation",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "scheduled",
+      "secret",
+      "key",
+      "rotation"
+    ],
+    "svg": "svg/files/SV1138.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1139",
+    "title": "Isolated secure workspace boundary",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "isolated",
+      "secure",
+      "workspace",
+      "boundary"
+    ],
+    "svg": "svg/files/SV1139.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1140",
+    "title": "Network incident containment zones",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "network",
+      "incident",
+      "containment",
+      "zones"
+    ],
+    "svg": "svg/files/SV1140.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1141",
+    "title": "Protected backup recovery vault",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "protected",
+      "backup",
+      "recovery",
+      "vault"
+    ],
+    "svg": "svg/files/SV1141.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1142",
+    "title": "Attributable image ownership seal",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "attributable",
+      "image",
+      "ownership",
+      "seal"
+    ],
+    "svg": "svg/files/SV1142.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1143",
+    "title": "Verified download trust assembly",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "verified",
+      "download",
+      "trust",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1143.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1144",
+    "title": "Revoked credential access barrier",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "revoked",
+      "credential",
+      "access",
+      "barrier"
+    ],
+    "svg": "svg/files/SV1144.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1145",
+    "title": "Signed release verification desk",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "signed",
+      "release",
+      "verification",
+      "desk"
+    ],
+    "svg": "svg/files/SV1145.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1146",
+    "title": "Separated pseudonym mapping vault",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "separated",
+      "pseudonym",
+      "mapping",
+      "vault"
+    ],
+    "svg": "svg/files/SV1146.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1147",
+    "title": "Private clean room aggregate comparison",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "private",
+      "clean",
+      "room",
+      "aggregate",
+      "comparison"
+    ],
+    "svg": "svg/files/SV1147.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1148",
+    "title": "Readable policy inspection workspace",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "readable",
+      "policy",
+      "inspection",
+      "workspace"
+    ],
+    "svg": "svg/files/SV1148.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1149",
+    "title": "Verified storage wipe station",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "verified",
+      "storage",
+      "wipe",
+      "station"
+    ],
+    "svg": "svg/files/SV1149.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1150",
+    "title": "Shared family device privacy settings",
+    "category": "Information and privacy concepts",
+    "tags": [
+      "information and privacy concepts",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "shared",
+      "family",
+      "device",
+      "privacy",
+      "settings"
+    ],
+    "svg": "svg/files/SV1150.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the information object before its privacy control",
+      "ambient": "Trace checks or scan bars gently; keep protected records still",
+      "exit": "Close the privacy control and dissolve the assembly"
+    }
+  },
+  {
+    "id": "SV1151",
+    "title": "Multi cursor shared design canvas",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "multi",
+      "cursor",
+      "shared",
+      "design",
+      "canvas"
+    ],
+    "svg": "svg/files/SV1151.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1152",
+    "title": "Meeting decisions working table",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "meeting",
+      "decisions",
+      "working",
+      "table"
+    ],
+    "svg": "svg/files/SV1152.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1153",
+    "title": "Complementary skills coordination mesh",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "complementary",
+      "skills",
+      "coordination",
+      "mesh"
+    ],
+    "svg": "svg/files/SV1153.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1154",
+    "title": "Confirmed collaborator file handoff",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "confirmed",
+      "collaborator",
+      "file",
+      "handoff"
+    ],
+    "svg": "svg/files/SV1154.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1155",
+    "title": "Peer review comments and resolution",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "peer",
+      "review",
+      "comments",
+      "and",
+      "resolution"
+    ],
+    "svg": "svg/files/SV1155.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1156",
+    "title": "Asynchronous team briefing timeline",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "asynchronous",
+      "team",
+      "briefing",
+      "timeline"
+    ],
+    "svg": "svg/files/SV1156.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1157",
+    "title": "Coauthored document working regions",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "coauthored",
+      "document",
+      "working",
+      "regions"
+    ],
+    "svg": "svg/files/SV1157.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1158",
+    "title": "Cross source knowledge exchange",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "cross",
+      "source",
+      "knowledge",
+      "exchange"
+    ],
+    "svg": "svg/files/SV1158.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1159",
+    "title": "Balanced team capacity planner",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "balanced",
+      "team",
+      "capacity",
+      "planner"
+    ],
+    "svg": "svg/files/SV1159.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1160",
+    "title": "Buddy supported onboarding desk",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "buddy",
+      "supported",
+      "onboarding",
+      "desk"
+    ],
+    "svg": "svg/files/SV1160.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1161",
+    "title": "Constructive disagreement resolution",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "constructive",
+      "disagreement",
+      "resolution"
+    ],
+    "svg": "svg/files/SV1161.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1162",
+    "title": "Multidisciplinary project roadmap",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "multidisciplinary",
+      "project",
+      "roadmap"
+    ],
+    "svg": "svg/files/SV1162.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1163",
+    "title": "Remote standup screen assembly",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "remote",
+      "standup",
+      "screen",
+      "assembly"
+    ],
+    "svg": "svg/files/SV1163.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1164",
+    "title": "Shared milestone celebration",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "shared",
+      "milestone",
+      "celebration"
+    ],
+    "svg": "svg/files/SV1164.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1165",
+    "title": "Mentor guided learning pathway",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "mentor",
+      "guided",
+      "learning",
+      "pathway"
+    ],
+    "svg": "svg/files/SV1165.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1166",
+    "title": "Multilingual briefing relay",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "multilingual",
+      "briefing",
+      "relay"
+    ],
+    "svg": "svg/files/SV1166.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1167",
+    "title": "Cross functional product release",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "cross",
+      "functional",
+      "product",
+      "release"
+    ],
+    "svg": "svg/files/SV1167.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1168",
+    "title": "Shared resource team allocator",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "shared",
+      "resource",
+      "team",
+      "allocator"
+    ],
+    "svg": "svg/files/SV1168.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1169",
+    "title": "Consolidated team feedback station",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "consolidated",
+      "team",
+      "feedback",
+      "station"
+    ],
+    "svg": "svg/files/SV1169.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1170",
+    "title": "Archived decisions evidence shelf",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "archived",
+      "decisions",
+      "evidence",
+      "shelf"
+    ],
+    "svg": "svg/files/SV1170.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1171",
+    "title": "Expert escalation support pathway",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "expert",
+      "escalation",
+      "support",
+      "pathway"
+    ],
+    "svg": "svg/files/SV1171.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1172",
+    "title": "Healthy work availability boundaries",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "healthy",
+      "work",
+      "availability",
+      "boundaries"
+    ],
+    "svg": "svg/files/SV1172.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1173",
+    "title": "Volunteer supply coordination",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "volunteer",
+      "supply",
+      "coordination"
+    ],
+    "svg": "svg/files/SV1173.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1174",
+    "title": "Coordinated response team beacon",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "coordinated",
+      "response",
+      "team",
+      "beacon"
+    ],
+    "svg": "svg/files/SV1174.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1175",
+    "title": "Federated local team workspaces",
+    "category": "Team collaboration systems",
+    "tags": [
+      "team collaboration systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "federated",
+      "local",
+      "team",
+      "workspaces"
+    ],
+    "svg": "svg/files/SV1175.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Introduce participants, then their shared work surface",
+      "ambient": "Float cursor/comment accents or highlight the active handoff",
+      "exit": "Resolve the shared task, then separate participant groups"
+    }
+  },
+  {
+    "id": "SV1176",
+    "title": "Solar neighbourhood battery microgrid",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "solar",
+      "neighbourhood",
+      "battery",
+      "microgrid"
+    ],
+    "svg": "svg/files/SV1176.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1177",
+    "title": "Rainwater harvest and garden reuse",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "rainwater",
+      "harvest",
+      "and",
+      "garden",
+      "reuse"
+    ],
+    "svg": "svg/files/SV1177.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1178",
+    "title": "Connected public transit interchange",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "connected",
+      "public",
+      "transit",
+      "interchange"
+    ],
+    "svg": "svg/files/SV1178.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1179",
+    "title": "Circular recycling material system",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "circular",
+      "recycling",
+      "material",
+      "system"
+    ],
+    "svg": "svg/files/SV1179.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1180",
+    "title": "District cooling return circuit",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "district",
+      "cooling",
+      "return",
+      "circuit"
+    ],
+    "svg": "svg/files/SV1180.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1181",
+    "title": "Connected planted rooftop neighbourhood",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "connected",
+      "planted",
+      "rooftop",
+      "neighbourhood"
+    ],
+    "svg": "svg/files/SV1181.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1182",
+    "title": "Local food market compost loop",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "local",
+      "food",
+      "market",
+      "compost",
+      "loop"
+    ],
+    "svg": "svg/files/SV1182.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1183",
+    "title": "Pedestrian priority shaded crossing",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "pedestrian",
+      "priority",
+      "shaded",
+      "crossing"
+    ],
+    "svg": "svg/files/SV1183.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1184",
+    "title": "Covered cycle parking energy hub",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "covered",
+      "cycle",
+      "parking",
+      "energy",
+      "hub"
+    ],
+    "svg": "svg/files/SV1184.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1185",
+    "title": "Urban flood retention landscape",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "urban",
+      "flood",
+      "retention",
+      "landscape"
+    ],
+    "svg": "svg/files/SV1185.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1186",
+    "title": "Tree shaded heat mitigation street",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "tree",
+      "shaded",
+      "heat",
+      "mitigation",
+      "street"
+    ],
+    "svg": "svg/files/SV1186.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1187",
+    "title": "Sensor guided waste collection route",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "sensor",
+      "guided",
+      "waste",
+      "collection",
+      "route"
+    ],
+    "svg": "svg/files/SV1187.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1188",
+    "title": "Neighbourhood air quality station",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "neighbourhood",
+      "air",
+      "quality",
+      "station"
+    ],
+    "svg": "svg/files/SV1188.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1189",
+    "title": "Filtered water distribution network",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "filtered",
+      "water",
+      "distribution",
+      "network"
+    ],
+    "svg": "svg/files/SV1189.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1190",
+    "title": "Community product repair workshop",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "community",
+      "product",
+      "repair",
+      "workshop"
+    ],
+    "svg": "svg/files/SV1190.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1191",
+    "title": "Shared tools and books resource library",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "shared",
+      "tools",
+      "and",
+      "books",
+      "resource"
+    ],
+    "svg": "svg/files/SV1191.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1192",
+    "title": "Solar powered electric vehicle carport",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "solar",
+      "powered",
+      "electric",
+      "vehicle",
+      "carport"
+    ],
+    "svg": "svg/files/SV1192.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1193",
+    "title": "Connected urban habitat corridor",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "connected",
+      "urban",
+      "habitat",
+      "corridor"
+    ],
+    "svg": "svg/files/SV1193.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1194",
+    "title": "Raised homes shoreline protection",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "raised",
+      "homes",
+      "shoreline",
+      "protection"
+    ],
+    "svg": "svg/files/SV1194.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1195",
+    "title": "Roadside stormwater bioswale",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "roadside",
+      "stormwater",
+      "bioswale"
+    ],
+    "svg": "svg/files/SV1195.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1196",
+    "title": "Resilient distributed power hub",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "resilient",
+      "distributed",
+      "power",
+      "hub"
+    ],
+    "svg": "svg/files/SV1196.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1197",
+    "title": "Accessible tram boarding interchange",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "accessible",
+      "tram",
+      "boarding",
+      "interchange"
+    ],
+    "svg": "svg/files/SV1197.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1198",
+    "title": "Citizen participation town network",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "citizen",
+      "participation",
+      "town",
+      "network"
+    ],
+    "svg": "svg/files/SV1198.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1199",
+    "title": "Circular construction material site",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "circular",
+      "construction",
+      "material",
+      "site"
+    ],
+    "svg": "svg/files/SV1199.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  },
+  {
+    "id": "SV1200",
+    "title": "Greywater garden reuse district",
+    "category": "Sustainable city systems",
+    "tags": [
+      "sustainable city systems",
+      "explainer",
+      "original",
+      "pastel",
+      "layered",
+      "greywater",
+      "garden",
+      "reuse",
+      "district"
+    ],
+    "svg": "svg/files/SV1200.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational video explainer",
+      "Animated process explanation",
+      "Presentation infographic",
+      "Original layered motion asset"
+    ],
+    "suggested_motion": {
+      "entrance": "Build infrastructure first, then introduce the resource path",
+      "ambient": "Move small resource markers along connectors; sway plant accents",
+      "exit": "Settle resource markers, then fade the system as a whole"
+    }
+  }
+]

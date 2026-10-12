@@ -1,0 +1,3783 @@
+[
+  {
+    "id": "SV1001",
+    "title": "Guided reading with an idea cue",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "guided",
+      "reading",
+      "with",
+      "an"
+    ],
+    "svg": "svg/files/SV1001.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Guided reading with an idea cue"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1002",
+    "title": "Flashcard practice and review cycle",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "flashcard",
+      "practice",
+      "and",
+      "review"
+    ],
+    "svg": "svg/files/SV1002.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Flashcard practice and review cycle"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1003",
+    "title": "Concept scaffold steps",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "concept",
+      "scaffold",
+      "steps"
+    ],
+    "svg": "svg/files/SV1003.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Concept scaffold steps"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1004",
+    "title": "Three stage lesson sequence",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "three",
+      "stage",
+      "lesson",
+      "sequence"
+    ],
+    "svg": "svg/files/SV1004.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Three stage lesson sequence"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1005",
+    "title": "Question to answer reveal",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "question",
+      "to",
+      "answer",
+      "reveal"
+    ],
+    "svg": "svg/files/SV1005.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Question to answer reveal"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1006",
+    "title": "Think pair share discussion kit",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "think",
+      "pair",
+      "share",
+      "discussion"
+    ],
+    "svg": "svg/files/SV1006.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Think pair share discussion kit"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1007",
+    "title": "Spaced revision calendar",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "spaced",
+      "revision",
+      "calendar"
+    ],
+    "svg": "svg/files/SV1007.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Spaced revision calendar"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1008",
+    "title": "Active recall resource drawer",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "active",
+      "recall",
+      "resource",
+      "drawer"
+    ],
+    "svg": "svg/files/SV1008.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Active recall resource drawer"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1009",
+    "title": "Knowledge puzzle with reading anchor",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "knowledge",
+      "puzzle",
+      "with",
+      "reading"
+    ],
+    "svg": "svg/files/SV1009.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Knowledge puzzle with reading anchor"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1010",
+    "title": "Worked example teaching board",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "worked",
+      "example",
+      "teaching",
+      "board"
+    ],
+    "svg": "svg/files/SV1010.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Worked example teaching board"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1011",
+    "title": "Feedback loop on a worksheet",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "feedback",
+      "loop",
+      "on",
+      "a"
+    ],
+    "svg": "svg/files/SV1011.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Feedback loop on a worksheet"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1012",
+    "title": "Peer review document exchange",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "peer",
+      "review",
+      "document",
+      "exchange"
+    ],
+    "svg": "svg/files/SV1012.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Peer review document exchange"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1013",
+    "title": "Mind map branch planning",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "mind",
+      "map",
+      "branch",
+      "planning"
+    ],
+    "svg": "svg/files/SV1013.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Mind map branch planning"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1014",
+    "title": "Timeboxed study station",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "timeboxed",
+      "study",
+      "station"
+    ],
+    "svg": "svg/files/SV1014.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Timeboxed study station"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1015",
+    "title": "Learning goal bridge",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "learning",
+      "goal",
+      "bridge"
+    ],
+    "svg": "svg/files/SV1015.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Learning goal bridge"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1016",
+    "title": "Quiz answer reveal podium",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "quiz",
+      "answer",
+      "reveal",
+      "podium"
+    ],
+    "svg": "svg/files/SV1016.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Quiz answer reveal podium"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1017",
+    "title": "Skill ladder and certification",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "skill",
+      "ladder",
+      "and",
+      "certification"
+    ],
+    "svg": "svg/files/SV1017.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Skill ladder and certification"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1018",
+    "title": "Revision notebook with bookmarks",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "revision",
+      "notebook",
+      "with",
+      "bookmarks"
+    ],
+    "svg": "svg/files/SV1018.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Revision notebook with bookmarks"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1019",
+    "title": "Compare and contrast teaching board",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "compare",
+      "and",
+      "contrast",
+      "teaching"
+    ],
+    "svg": "svg/files/SV1019.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Compare and contrast teaching board"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1020",
+    "title": "Experiment and observation record",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "experiment",
+      "and",
+      "observation",
+      "record"
+    ],
+    "svg": "svg/files/SV1020.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Experiment and observation record"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1021",
+    "title": "Teach back presentation kit",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "teach",
+      "back",
+      "presentation",
+      "kit"
+    ],
+    "svg": "svg/files/SV1021.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Teach back presentation kit"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1022",
+    "title": "Learning resource shelf",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "learning",
+      "resource",
+      "shelf"
+    ],
+    "svg": "svg/files/SV1022.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Learning resource shelf"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1023",
+    "title": "Focused listening and notes",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "focused",
+      "listening",
+      "and",
+      "notes"
+    ],
+    "svg": "svg/files/SV1023.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Focused listening and notes"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1024",
+    "title": "Progress portfolio and achievement",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "progress",
+      "portfolio",
+      "and",
+      "achievement"
+    ],
+    "svg": "svg/files/SV1024.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Progress portfolio and achievement"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1025",
+    "title": "Learning journey roadmap",
+    "category": "Learning actions and teaching kits",
+    "category_slug": "learning",
+    "tags": [
+      "explainer",
+      "learning",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "learning",
+      "journey",
+      "roadmap"
+    ],
+    "svg": "svg/files/SV1025.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Educational explainer",
+      "Course introduction",
+      "Study technique tutorial",
+      "Learning journey roadmap"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1026",
+    "title": "Invitation letter and tea",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "invitation",
+      "letter",
+      "and",
+      "tea"
+    ],
+    "svg": "svg/files/SV1026.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Invitation letter and tea"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1027",
+    "title": "Morning workspace and window",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "morning",
+      "workspace",
+      "and",
+      "window"
+    ],
+    "svg": "svg/files/SV1027.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Morning workspace and window"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1028",
+    "title": "Travel departure with time cue",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "travel",
+      "departure",
+      "with",
+      "time"
+    ],
+    "svg": "svg/files/SV1028.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Travel departure with time cue"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1029",
+    "title": "Market stall opening scene",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "market",
+      "stall",
+      "opening",
+      "scene"
+    ],
+    "svg": "svg/files/SV1029.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Market stall opening scene"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1030",
+    "title": "Rainy conversation at a bench",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "rainy",
+      "conversation",
+      "at",
+      "a"
+    ],
+    "svg": "svg/files/SV1030.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Rainy conversation at a bench"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1031",
+    "title": "Village doorstep arrival",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "village",
+      "doorstep",
+      "arrival"
+    ],
+    "svg": "svg/files/SV1031.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Village doorstep arrival"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1032",
+    "title": "City crossing and daily commute",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "city",
+      "crossing",
+      "and",
+      "daily"
+    ],
+    "svg": "svg/files/SV1032.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "City crossing and daily commute"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1033",
+    "title": "Forest fork and travel choice",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "forest",
+      "fork",
+      "and",
+      "travel"
+    ],
+    "svg": "svg/files/SV1033.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Forest fork and travel choice"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1034",
+    "title": "Harbor departure and navigation",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "harbor",
+      "departure",
+      "and",
+      "navigation"
+    ],
+    "svg": "svg/files/SV1034.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Harbor departure and navigation"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1035",
+    "title": "Hidden clue in an envelope",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "hidden",
+      "clue",
+      "in",
+      "an"
+    ],
+    "svg": "svg/files/SV1035.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Hidden clue in an envelope"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1036",
+    "title": "Memory diary and photographs",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "memory",
+      "diary",
+      "and",
+      "photographs"
+    ],
+    "svg": "svg/files/SV1036.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Memory diary and photographs"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1037",
+    "title": "Deadline desk and waiting tasks",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "deadline",
+      "desk",
+      "and",
+      "waiting"
+    ],
+    "svg": "svg/files/SV1037.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Deadline desk and waiting tasks"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1038",
+    "title": "Museum artifact display",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "museum",
+      "artifact",
+      "display"
+    ],
+    "svg": "svg/files/SV1038.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Museum artifact display"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1039",
+    "title": "A new chapter through a gate",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "a",
+      "new",
+      "chapter",
+      "through"
+    ],
+    "svg": "svg/files/SV1039.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "A new chapter through a gate"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1040",
+    "title": "Shared meal conversation setting",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "shared",
+      "meal",
+      "conversation",
+      "setting"
+    ],
+    "svg": "svg/files/SV1040.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Shared meal conversation setting"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1041",
+    "title": "Lost and found welcome booth",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "lost",
+      "and",
+      "found",
+      "welcome"
+    ],
+    "svg": "svg/files/SV1041.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Lost and found welcome booth"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1042",
+    "title": "Festival preparation with gifts",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "festival",
+      "preparation",
+      "with",
+      "gifts"
+    ],
+    "svg": "svg/files/SV1042.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Festival preparation with gifts"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1043",
+    "title": "Waiting room moment",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "waiting",
+      "room",
+      "moment"
+    ],
+    "svg": "svg/files/SV1043.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Waiting room moment"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1044",
+    "title": "First day classroom belongings",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "first",
+      "day",
+      "classroom",
+      "belongings"
+    ],
+    "svg": "svg/files/SV1044.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "First day classroom belongings"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1045",
+    "title": "Workshop welcome and equipment",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "workshop",
+      "welcome",
+      "and",
+      "equipment"
+    ],
+    "svg": "svg/files/SV1045.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Workshop welcome and equipment"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1046",
+    "title": "Shop opening day",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "shop",
+      "opening",
+      "day"
+    ],
+    "svg": "svg/files/SV1046.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Shop opening day"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1047",
+    "title": "Night watch by the window",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "night",
+      "watch",
+      "by",
+      "the"
+    ],
+    "svg": "svg/files/SV1047.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Night watch by the window"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1048",
+    "title": "Garden memory and care",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "garden",
+      "memory",
+      "and",
+      "care"
+    ],
+    "svg": "svg/files/SV1048.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Garden memory and care"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1049",
+    "title": "Unexpected message on a phone",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "unexpected",
+      "message",
+      "on",
+      "a"
+    ],
+    "svg": "svg/files/SV1049.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Unexpected message on a phone"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1050",
+    "title": "Crossroads decision setup",
+    "category": "Story setup props",
+    "category_slug": "story",
+    "tags": [
+      "explainer",
+      "story",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "crossroads",
+      "decision",
+      "setup"
+    ],
+    "svg": "svg/files/SV1050.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Story opening",
+      "Context setting",
+      "Narrative transition",
+      "Crossroads decision setup"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1051",
+    "title": "Bridge the gap to support",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "bridge",
+      "the",
+      "gap",
+      "to"
+    ],
+    "svg": "svg/files/SV1051.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Bridge the gap to support"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1052",
+    "title": "Untangle a complex thread",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "untangle",
+      "a",
+      "complex",
+      "thread"
+    ],
+    "svg": "svg/files/SV1052.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Untangle a complex thread"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1053",
+    "title": "Patch the leaking bucket",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "patch",
+      "the",
+      "leaking",
+      "bucket"
+    ],
+    "svg": "svg/files/SV1053.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Patch the leaking bucket"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1054",
+    "title": "Lift a heavy load with support",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "lift",
+      "a",
+      "heavy",
+      "load"
+    ],
+    "svg": "svg/files/SV1054.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Lift a heavy load with support"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1055",
+    "title": "Release a workflow bottleneck",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "release",
+      "a",
+      "workflow",
+      "bottleneck"
+    ],
+    "svg": "svg/files/SV1055.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Release a workflow bottleneck"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1056",
+    "title": "Move from confusion to clarity",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "move",
+      "from",
+      "confusion",
+      "to"
+    ],
+    "svg": "svg/files/SV1056.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Move from confusion to clarity"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1057",
+    "title": "Repair a disconnected chain",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "repair",
+      "a",
+      "disconnected",
+      "chain"
+    ],
+    "svg": "svg/files/SV1057.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Repair a disconnected chain"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1058",
+    "title": "Find the key that fits",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "find",
+      "the",
+      "key",
+      "that"
+    ],
+    "svg": "svg/files/SV1058.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Find the key that fits"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1059",
+    "title": "Sort overload into a system",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "sort",
+      "overload",
+      "into",
+      "a"
+    ],
+    "svg": "svg/files/SV1059.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Sort overload into a system"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1060",
+    "title": "Turn tangled routes into direction",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "turn",
+      "tangled",
+      "routes",
+      "into"
+    ],
+    "svg": "svg/files/SV1060.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Turn tangled routes into direction"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1061",
+    "title": "Growth through a difficult crack",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "growth",
+      "through",
+      "a",
+      "difficult"
+    ],
+    "svg": "svg/files/SV1061.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Growth through a difficult crack"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1062",
+    "title": "Unlock a blocked opportunity",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "unlock",
+      "a",
+      "blocked",
+      "opportunity"
+    ],
+    "svg": "svg/files/SV1062.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Unlock a blocked opportunity"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1063",
+    "title": "Find evidence inside data fog",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "find",
+      "evidence",
+      "inside",
+      "data"
+    ],
+    "svg": "svg/files/SV1063.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Find evidence inside data fog"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1064",
+    "title": "Reach a goal through small steps",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "reach",
+      "a",
+      "goal",
+      "through"
+    ],
+    "svg": "svg/files/SV1064.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Reach a goal through small steps"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1065",
+    "title": "Balance knowledge and time",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "balance",
+      "knowledge",
+      "and",
+      "time"
+    ],
+    "svg": "svg/files/SV1065.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Balance knowledge and time"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1066",
+    "title": "Complete the missing puzzle",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "complete",
+      "the",
+      "missing",
+      "puzzle"
+    ],
+    "svg": "svg/files/SV1066.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Complete the missing puzzle"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1067",
+    "title": "Restore depleted energy",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "restore",
+      "depleted",
+      "energy"
+    ],
+    "svg": "svg/files/SV1067.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Restore depleted energy"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1068",
+    "title": "Resilience through strong waves",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "resilience",
+      "through",
+      "strong",
+      "waves"
+    ],
+    "svg": "svg/files/SV1068.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Resilience through strong waves"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1069",
+    "title": "Reduce friction between gears",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "reduce",
+      "friction",
+      "between",
+      "gears"
+    ],
+    "svg": "svg/files/SV1069.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Reduce friction between gears"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1070",
+    "title": "Filter noise into a clear signal",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "filter",
+      "noise",
+      "into",
+      "a"
+    ],
+    "svg": "svg/files/SV1070.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Filter noise into a clear signal"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1071",
+    "title": "Use a feedback conversation loop",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "use",
+      "a",
+      "feedback",
+      "conversation"
+    ],
+    "svg": "svg/files/SV1071.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Use a feedback conversation loop"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1072",
+    "title": "Automate a repetitive work stack",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "automate",
+      "a",
+      "repetitive",
+      "work"
+    ],
+    "svg": "svg/files/SV1072.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Automate a repetitive work stack"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1073",
+    "title": "Balance cost and human value",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "balance",
+      "cost",
+      "and",
+      "human"
+    ],
+    "svg": "svg/files/SV1073.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Balance cost and human value"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1074",
+    "title": "Grow beyond a learning plateau",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "grow",
+      "beyond",
+      "a",
+      "learning"
+    ],
+    "svg": "svg/files/SV1074.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Grow beyond a learning plateau"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1075",
+    "title": "Create inside a constraint",
+    "category": "Problem-solution metaphors",
+    "category_slug": "metaphor",
+    "tags": [
+      "explainer",
+      "metaphor",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "create",
+      "inside",
+      "a",
+      "constraint"
+    ],
+    "svg": "svg/files/SV1075.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Problem explanation",
+      "Solution comparison",
+      "Change management explainer",
+      "Create inside a constraint"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1076",
+    "title": "Clinic arrival and reception",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "clinic",
+      "arrival",
+      "and",
+      "reception"
+    ],
+    "svg": "svg/files/SV1076.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Clinic arrival and reception"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1077",
+    "title": "Plan an appointment by phone",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "plan",
+      "an",
+      "appointment",
+      "by"
+    ],
+    "svg": "svg/files/SV1077.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Plan an appointment by phone"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1078",
+    "title": "Queue ticket and waiting time",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "queue",
+      "ticket",
+      "and",
+      "waiting"
+    ],
+    "svg": "svg/files/SV1078.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Queue ticket and waiting time"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1079",
+    "title": "Consultation room conversation",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "consultation",
+      "room",
+      "conversation"
+    ],
+    "svg": "svg/files/SV1079.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Consultation room conversation"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1080",
+    "title": "Prescription collection journey",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "prescription",
+      "collection",
+      "journey"
+    ],
+    "svg": "svg/files/SV1080.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Prescription collection journey"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1081",
+    "title": "Laboratory sample handover",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "laboratory",
+      "sample",
+      "handover"
+    ],
+    "svg": "svg/files/SV1081.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Laboratory sample handover"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1082",
+    "title": "Discharge plan and return home",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "discharge",
+      "plan",
+      "and",
+      "return"
+    ],
+    "svg": "svg/files/SV1082.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Discharge plan and return home"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1083",
+    "title": "Select an item in an online store",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "select",
+      "an",
+      "item",
+      "in"
+    ],
+    "svg": "svg/files/SV1083.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Select an item in an online store"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1084",
+    "title": "Checkout and payment receipt",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "checkout",
+      "and",
+      "payment",
+      "receipt"
+    ],
+    "svg": "svg/files/SV1084.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Checkout and payment receipt"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1085",
+    "title": "Delivery at the doorstep",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "delivery",
+      "at",
+      "the",
+      "doorstep"
+    ],
+    "svg": "svg/files/SV1085.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Delivery at the doorstep"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1086",
+    "title": "Parcel return and service record",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "parcel",
+      "return",
+      "and",
+      "service"
+    ],
+    "svg": "svg/files/SV1086.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Parcel return and service record"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1087",
+    "title": "Bank counter service",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "bank",
+      "counter",
+      "service"
+    ],
+    "svg": "svg/files/SV1087.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Bank counter service"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1088",
+    "title": "Tap into public transport",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "tap",
+      "into",
+      "public",
+      "transport"
+    ],
+    "svg": "svg/files/SV1088.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Tap into public transport"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1089",
+    "title": "Hotel check in and room key",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "hotel",
+      "check",
+      "in",
+      "and"
+    ],
+    "svg": "svg/files/SV1089.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Hotel check in and room key"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1090",
+    "title": "Airport luggage screening",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "airport",
+      "luggage",
+      "screening"
+    ],
+    "svg": "svg/files/SV1090.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Airport luggage screening"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1091",
+    "title": "Food order and menu choice",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "food",
+      "order",
+      "and",
+      "menu"
+    ],
+    "svg": "svg/files/SV1091.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Food order and menu choice"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1092",
+    "title": "Cafe pickup counter",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "cafe",
+      "pickup",
+      "counter"
+    ],
+    "svg": "svg/files/SV1092.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Cafe pickup counter"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1093",
+    "title": "School registration and materials",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "school",
+      "registration",
+      "and",
+      "materials"
+    ],
+    "svg": "svg/files/SV1093.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "School registration and materials"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  },
+  {
+    "id": "SV1094",
+    "title": "Library borrowing and approval",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "library",
+      "borrowing",
+      "and",
+      "approval"
+    ],
+    "svg": "svg/files/SV1094.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Library borrowing and approval"
+    ],
+    "suggested_motion": {
+      "entrance": "Bring the foreground props in from opposite sides",
+      "ambient": "Use a subtle depth parallax between main and accent",
+      "exit": "Slide the layers downward with a short stagger"
+    }
+  },
+  {
+    "id": "SV1095",
+    "title": "Help desk issue resolution",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "help",
+      "desk",
+      "issue",
+      "resolution"
+    ],
+    "svg": "svg/files/SV1095.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Help desk issue resolution"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the main group behind a paper wipe",
+      "ambient": "Float the accent group slowly by 2\u20133 pixels",
+      "exit": "Shrink the focus cue, then fade the composition"
+    }
+  },
+  {
+    "id": "SV1096",
+    "title": "Customer feedback and review",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "customer",
+      "feedback",
+      "and",
+      "review"
+    ],
+    "svg": "svg/files/SV1096.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Customer feedback and review"
+    ],
+    "suggested_motion": {
+      "entrance": "Drop the hero prop gently into its resting position",
+      "ambient": "Pulse the focus cue once while the main group stays steady",
+      "exit": "Wipe the secondary props away before the main group"
+    }
+  },
+  {
+    "id": "SV1097",
+    "title": "Repair handover and receipt",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "repair",
+      "handover",
+      "and",
+      "receipt"
+    ],
+    "svg": "svg/files/SV1097.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Repair handover and receipt"
+    ],
+    "suggested_motion": {
+      "entrance": "Slide the main props upward in staggered layers",
+      "ambient": "Move a small highlight across the primary panel",
+      "exit": "Fold the central panel closed and fade the details"
+    }
+  },
+  {
+    "id": "SV1098",
+    "title": "Community volunteering booth",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "community",
+      "volunteering",
+      "booth"
+    ],
+    "svg": "svg/files/SV1098.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Community volunteering booth"
+    ],
+    "suggested_motion": {
+      "entrance": "Reveal the central object with a soft scale and settle",
+      "ambient": "Trace the connector path in a gentle recurring loop",
+      "exit": "Track along the connector into the next scene"
+    }
+  },
+  {
+    "id": "SV1099",
+    "title": "Event ticket and entry",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "event",
+      "ticket",
+      "and",
+      "entry"
+    ],
+    "svg": "svg/files/SV1099.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Event ticket and entry"
+    ],
+    "suggested_motion": {
+      "entrance": "Draw the connector first, then fade in each prop",
+      "ambient": "Tilt the secondary prop by 2 degrees and return",
+      "exit": "Let each group drift out with a gentle opacity fall"
+    }
+  },
+  {
+    "id": "SV1100",
+    "title": "Renewal and approval cycle",
+    "category": "Everyday service journeys",
+    "category_slug": "service",
+    "tags": [
+      "explainer",
+      "service",
+      "original",
+      "layered",
+      "pastel",
+      "composition",
+      "renewal",
+      "and",
+      "approval",
+      "cycle"
+    ],
+    "svg": "svg/files/SV1100.svg",
+    "viewBox": "0 0 256 256",
+    "license": "Original generated SVG; reusable",
+    "layers": [
+      "main",
+      "accent",
+      "details"
+    ],
+    "collection": "explainer",
+    "use_cases": [
+      "Service onboarding",
+      "Process walkthrough",
+      "Customer journey explainer",
+      "Renewal and approval cycle"
+    ],
+    "suggested_motion": {
+      "entrance": "Unfold the primary panel, then pop in the secondary cue",
+      "ambient": "Alternate emphasis between the supporting props",
+      "exit": "Gather the props toward the main group and fade out"
+    }
+  }
+]

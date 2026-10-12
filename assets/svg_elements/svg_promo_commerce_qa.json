@@ -1,0 +1,1430 @@
+{
+  "collection": "promotion",
+  "id_range": "SV1401\u2013SV1500",
+  "count": 100,
+  "category_counts": {
+    "Offer and value assemblies": 25,
+    "Audience engagement props": 25,
+    "Live-commerce production elements": 25,
+    "Launch and celebration kits": 25
+  },
+  "xml_valid": 100,
+  "cairo_rendered": 100,
+  "unique_geometry_hashes": 100,
+  "geometry_duplicates_against_original_1000": 0,
+  "original_1000_checked": 1000,
+  "clear_12px_margins": 100,
+  "margin_failures": [],
+  "static_svg": true,
+  "unsafe_tags_or_external_references": 0,
+  "visual_contact_sheets": [
+    "/workspace/scratch/52cf302c2e1c/assets1500_commerce_qa/contact_01.png",
+    "/workspace/scratch/52cf302c2e1c/assets1500_commerce_qa/contact_02.png",
+    "/workspace/scratch/52cf302c2e1c/assets1500_commerce_qa/contact_03.png",
+    "/workspace/scratch/52cf302c2e1c/assets1500_commerce_qa/contact_04.png"
+  ],
+  "visual_review": "Passed: all four 25-item contact sheets inspected. Clear silhouettes, restrained pastel palette, legible assemblies and no clipping observed.",
+  "items": [
+    {
+      "id": "SV1401",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "dd07d2c46c8563efcb4b9e5a822694169a6ce4b9a84eda884da508b95bf62b28",
+      "bbox": [
+        25.0,
+        25.0,
+        231.0,
+        228.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1402",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "1a4a0f13c94d0cb1b0959408f099c20559f21237e99ceb72e8b574e496ad7e1e",
+      "bbox": [
+        24.0,
+        49.0,
+        233.0,
+        221.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1403",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "2f929c87a80938d92d7717cb656e82a3aa4eb5886e9f5ff44a7f390e6a7b5fb0",
+      "bbox": [
+        22.0,
+        16.0,
+        234.0,
+        213.0
+      ],
+      "minimum_margin_px": 16.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1404",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "81f463a5984c6d7e0034e7cbb7be1202a447d7b219da054c94997ca3d5c75377",
+      "bbox": [
+        20.0,
+        32.0,
+        230.0,
+        226.0
+      ],
+      "minimum_margin_px": 20.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1405",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "7d42ef828875b9d8dd1dd8c8c26a0976e5908d49d953475f245b315564872d90",
+      "bbox": [
+        25.0,
+        19.0,
+        230.0,
+        216.0
+      ],
+      "minimum_margin_px": 19.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1406",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "d558375ec29c327c0aaf987ada88d5f0981f5977d8ca87d6e5515e34683495f2",
+      "bbox": [
+        29.0,
+        40.0,
+        227.0,
+        216.0
+      ],
+      "minimum_margin_px": 29.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1407",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "e7e0a6a082f7a87cb54da0d1d366e2b1493ad417a79cfbbb5955b715d39c2b10",
+      "bbox": [
+        25.0,
+        25.0,
+        231.0,
+        231.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1408",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "f02657e6de1b9c39d643129f3219a34b16ac33c173dc32056d5d3fa28c5dfe57",
+      "bbox": [
+        24.0,
+        30.0,
+        232.0,
+        218.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1409",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "967117e4b3fdf62f0eaeaa3e768f49c5b260881df16b8e1a9eb38fe8f684d451",
+      "bbox": [
+        21.0,
+        46.0,
+        234.0,
+        229.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1410",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "8346c6fe1e973f692d23cdccacf7f0ec736d0a28ec6e9135494852654db0f54e",
+      "bbox": [
+        27.0,
+        26.0,
+        229.0,
+        226.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1411",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "839e8fe738342d6a77bc0666b08b3b6a9420a8e198533ad6c376fd9fee0d9e36",
+      "bbox": [
+        20.0,
+        13.0,
+        234.0,
+        222.0
+      ],
+      "minimum_margin_px": 13.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1412",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b41b5d0a07f3a30bf5e4aba094da892b68c60d391ccfbacf849bee7919cb99c9",
+      "bbox": [
+        24.0,
+        30.0,
+        232.0,
+        226.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1413",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "8f1ee30c20effd6449a015e2ee946750fda96eb59c391d1fd452f076a67d0caf",
+      "bbox": [
+        24.0,
+        22.0,
+        232.0,
+        233.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1414",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b4ced985452fef8816a2b7793140acd9d01f2e6c162213a61679fdf73c578c7f",
+      "bbox": [
+        23.0,
+        37.0,
+        232.0,
+        232.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1415",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "f181f1431d30d1074c21cd2ced8f3df1ceb7217216c807f9a2547b1f8c06dbff",
+      "bbox": [
+        25.0,
+        28.0,
+        227.0,
+        219.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1416",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "94ee7bc0469cb380c6b5b051a0b5ebe10e7d9ab1f363bc370b09b8605ee68ce0",
+      "bbox": [
+        21.0,
+        23.0,
+        234.0,
+        226.5
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1417",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b7146bdc2ecb992d82805a182fe4830d84a657f855efad160f543f10ae6d5156",
+      "bbox": [
+        22.0,
+        23.0,
+        232.0,
+        218.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1418",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "a8940fbaf81cd1da9527913d40c37eb705a8c233909816faefb77039773bbedb",
+      "bbox": [
+        27.0,
+        54.0,
+        227.0,
+        222.0
+      ],
+      "minimum_margin_px": 27.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1419",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "c0f1e732aa8901c8c62a616ed269ad2e65cac6e0091f292c54ec3c96d30df868",
+      "bbox": [
+        25.0,
+        41.0,
+        230.0,
+        226.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1420",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "4e8d2e130ec8377e1ac4904d7de652bad017780dc666a2f370465f587e715f74",
+      "bbox": [
+        16.0,
+        23.0,
+        232.0,
+        225.0
+      ],
+      "minimum_margin_px": 16.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1421",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "e90ee253ed23cfb2f46560d8f4540f60aaa8a6b2c8e290ee98b229dec516ba58",
+      "bbox": [
+        22.0,
+        32.0,
+        233.0,
+        224.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1422",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "beb864a2278edeb0553143448c08b4beb1317674fcc3e11121fda2328e933fae",
+      "bbox": [
+        22.0,
+        20.0,
+        233.0,
+        223.0
+      ],
+      "minimum_margin_px": 20.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1423",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "7786099e88e179326e33d8b91c4ab34596e4311bd8acb0f73b163b5e4cdb3aa1",
+      "bbox": [
+        22.0,
+        23.0,
+        234.0,
+        228.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1424",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "12d949cce884086c497e94e4ce58a259ad8af07f95756b248bd97bb32a3197ca",
+      "bbox": [
+        26.0,
+        32.0,
+        230.0,
+        230.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1425",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "e69a0cbdca4fbb151888909624146b0e11d016e4d293a993e9fab06c2fb8bed7",
+      "bbox": [
+        24.0,
+        43.0,
+        232.0,
+        224.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1426",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "2872277099c4e3a8b013bec31e8446e4667b1aee294d97238bb65ef9e45c5fe9",
+      "bbox": [
+        23.0,
+        24.0,
+        230.0,
+        219.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1427",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "8854e7fc2ba132cb643b1fbc66871d5c16c1886af23d9bc7128d8a45356849cb",
+      "bbox": [
+        37.0,
+        25.0,
+        219.0,
+        223.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1428",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "32668cea0a9929d2c6ed53f8f3c6618e17ad307346a14f88e2e5a37c13f485bd",
+      "bbox": [
+        24.0,
+        30.0,
+        233.0,
+        224.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1429",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "f062d8ba7ef7b79f951b9ac11e78ae42c1fde0f918768624d05315d54777aa9f",
+      "bbox": [
+        20.0,
+        27.0,
+        228.0,
+        226.0
+      ],
+      "minimum_margin_px": 20.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1430",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "2e368e0330326e28e8bf565aee11be055a9b7636d2ab1511b5b7948c0954b496",
+      "bbox": [
+        24.0,
+        25.0,
+        234.0,
+        222.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1431",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "af6e939386b584e443de1d5e4c2b1d26a9a54bb84fbb1dd58cfcd799c034be48",
+      "bbox": [
+        27.0,
+        33.0,
+        232.0,
+        219.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1432",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "fede08ff64bd85c0be25c9a7727773187165916703fecfb58661e92fb6d658cf",
+      "bbox": [
+        23.0,
+        27.0,
+        223.0,
+        230.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1433",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "d34712454e6861801ce6f9e88f88564dc07194bdebfa8e6a0ffa0898a7e091a4",
+      "bbox": [
+        34.0,
+        34.0,
+        222.0,
+        222.0
+      ],
+      "minimum_margin_px": 34.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1434",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "def395ad8196126311e5822968af18205d008923e5ac22ef5944b53976280d52",
+      "bbox": [
+        26.5,
+        24.0,
+        227.5,
+        231.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1435",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b040531de36b3ffe7704063d55e2fdd28186e73b0b736731d5e99078670f7ca8",
+      "bbox": [
+        21.5,
+        27.0,
+        234.5,
+        203.0
+      ],
+      "minimum_margin_px": 21.5,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1436",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "c76a75459f283ee572006125f460e259e7842f822a449b42cb97dcd25539beff",
+      "bbox": [
+        25.0,
+        24.0,
+        232.0,
+        218.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1437",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "99f43349599d74e74278f4654e70fbadd1a8680798a0a3d8cd85a7ef96dd0cd9",
+      "bbox": [
+        25.0,
+        30.0,
+        231.0,
+        180.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1438",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "a77fb040d14b21afec204d68799f0d8d5a7373f3bc4e388312e5867e60621e75",
+      "bbox": [
+        23.0,
+        29.0,
+        234.0,
+        228.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1439",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "fe143070b254cf536c50060085f778f99b88d3f7b9817ecbe9470f6ffa2c4e82",
+      "bbox": [
+        23.0,
+        30.0,
+        233.0,
+        224.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1440",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "0ce386598f9858bc99ec947e877e9dbc094306d044ccbee4a73a361918d0747d",
+      "bbox": [
+        22.0,
+        29.0,
+        235.0,
+        227.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1441",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "df84d4d38c0f271e2370e758276475b380e10056b2ff078aee8229ceb0bb52d1",
+      "bbox": [
+        21.0,
+        33.0,
+        233.5,
+        222.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1442",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "37f269d4dde1825957e7a7c3f12985166b807ed2a7e416773a476fda1d95b5f1",
+      "bbox": [
+        26.0,
+        33.0,
+        231.0,
+        223.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1443",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b5584558fc7986142c3b35cc5cfc8673c3e9491df39605c9694ba648be12c9f4",
+      "bbox": [
+        23.0,
+        22.0,
+        234.0,
+        227.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1444",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "8565fb3956140d6771de22ece40ba2ccc70d36c0962487e21f7ff99e878ab63e",
+      "bbox": [
+        25.0,
+        23.0,
+        228.0,
+        235.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1445",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "067c70c6d24c99a7cf8cef0cb203e4fb08b003f050cb56324508c18705c70590",
+      "bbox": [
+        24.0,
+        29.0,
+        231.0,
+        225.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1446",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "39e53c8c491b1861389b8ceb344d92d5e2af7228f885d7eb62bcc045437d34ce",
+      "bbox": [
+        18.0,
+        29.0,
+        235.0,
+        224.0
+      ],
+      "minimum_margin_px": 18.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1447",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "69900e86f500072c3bbdfde573fdc079cbfc07da981669fc7787f2c7eb94b2b1",
+      "bbox": [
+        25.0,
+        25.0,
+        231.0,
+        228.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1448",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "5326c882468370b084bc4470bd8d7a0c789807dc3f2e80b23142123f5c38be2a",
+      "bbox": [
+        29.0,
+        36.0,
+        227.0,
+        223.0
+      ],
+      "minimum_margin_px": 29.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1449",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "3a9e2bdcb8f81f2ebe69d6188cf23f7d2812b265b1474cce6ac21fe887e13b38",
+      "bbox": [
+        24.0,
+        24.0,
+        229.0,
+        197.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1450",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b9329c87bb59d5c598e161ca7075d166799497139685ee8f0f67c641faa9a112",
+      "bbox": [
+        28.0,
+        33.0,
+        230.0,
+        235.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1451",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "3b2f23ceefd56b5e4eabc35ec8d36166f44b8043b133ffd1391deeb92e1fbe95",
+      "bbox": [
+        22.0,
+        46.0,
+        233.0,
+        232.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1452",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "a5b9db43db39c26c87b78473c64d75907a4e95254d32bdee6b4dfbd067a68ab1",
+      "bbox": [
+        18.0,
+        41.0,
+        231.0,
+        227.0
+      ],
+      "minimum_margin_px": 18.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1453",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "2de34b28dbcb885ae9835062b903abdcb85206f8eac93d5b480aa66ec3ab6c1b",
+      "bbox": [
+        23.0,
+        61.0,
+        233.0,
+        221.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1454",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "0f28efcf233ead7fc78945aa9b3299e671d6967da52d7d1953aba52141d62b63",
+      "bbox": [
+        19.0,
+        39.0,
+        237.0,
+        230.0
+      ],
+      "minimum_margin_px": 19.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1455",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "bc391f4c9e17611550a36c8ba5ba26381d1a7bc7da1fb39457ea6d6aba5008fc",
+      "bbox": [
+        18.0,
+        43.0,
+        224.0,
+        218.0
+      ],
+      "minimum_margin_px": 18.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1456",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "28286959e4b1691291103a68e186659a4e745d1678ad778eccd2c31239662f49",
+      "bbox": [
+        43.0,
+        54.0,
+        223.5,
+        231.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1457",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "ba425e8d3045c026648c550e90259e5f8f937695eeaa62df8d02f472766f4c39",
+      "bbox": [
+        28.0,
+        47.5,
+        228.0,
+        230.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1458",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "f807430ff61377df81e61c17122c22489893623d72567b1018c31e37baf0a8c2",
+      "bbox": [
+        25.0,
+        26.0,
+        230.0,
+        226.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1459",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "15a4afd3835fed063ddc6f7b9b44133ab7cbd1c3470b9e36509937b12ef03084",
+      "bbox": [
+        25.0,
+        20.0,
+        231.0,
+        228.0
+      ],
+      "minimum_margin_px": 20.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1460",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "edad191d96d42dcdd009e05ba0ad1f6b4208457936d1234e58fe8b6f3d0c187d",
+      "bbox": [
+        26.0,
+        38.0,
+        228.0,
+        221.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1461",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "c5dbdab4276238b17299a8d7e1bb3017cb259fb594fd1b3e23a27cc5dd24baa4",
+      "bbox": [
+        29.0,
+        30.0,
+        227.0,
+        238.0
+      ],
+      "minimum_margin_px": 18.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1462",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b4fc174ad3094372ab6d319f347bf4baf33366a9956c175e8f6220c6d66979f3",
+      "bbox": [
+        21.0,
+        30.0,
+        234.0,
+        235.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1463",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "e55932b9aad67bb3dc32c8a27202aad2e49d7435559ed513212198429814c88b",
+      "bbox": [
+        26.0,
+        25.0,
+        229.0,
+        231.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1464",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "061b36abec3a3acbbd13334e72b6d465fc614dd99c8edc74d9160bc28437e7e8",
+      "bbox": [
+        28.0,
+        38.0,
+        230.0,
+        225.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1465",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "8e3fd45fc8406db62136233f25cacc41e6643d9f47d22fa1481faff0847807c6",
+      "bbox": [
+        36.0,
+        25.0,
+        223.0,
+        227.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1466",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "ed577b0980b9ca7403e6ff28c0aea4e0e9aa341b978fa6acdc1e7736abd75e2f",
+      "bbox": [
+        25.0,
+        37.0,
+        231.0,
+        225.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1467",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "d2340337d54de29d672564fc916b1786df670f7cf073ef88fdc9284ca1050fa0",
+      "bbox": [
+        23.0,
+        27.0,
+        235.0,
+        232.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1468",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "a9e2afa6357df127ce0b4c2ec1e8d34725fe00e24be62457db40efa8bcc174f4",
+      "bbox": [
+        22.0,
+        26.0,
+        234.0,
+        237.0
+      ],
+      "minimum_margin_px": 19.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1469",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "99ed323ee422e2d5cbabd9edd09ad68978de8f4ab9f5576d3d820908457cf9ed",
+      "bbox": [
+        15.0,
+        19.0,
+        239.0,
+        222.0
+      ],
+      "minimum_margin_px": 15.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1470",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "49079700c8c81c00916586d02c5245c93d82f81ae9a2044bfcccca626c6afe99",
+      "bbox": [
+        18.0,
+        26.0,
+        235.0,
+        220.0
+      ],
+      "minimum_margin_px": 18.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1471",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "fb2aec5adc012bd81ab891352cc60ef4778e1175e102a8aeca8462fbdebb0049",
+      "bbox": [
+        25.0,
+        40.5,
+        233.0,
+        223.5
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1472",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "da12ba835b3749724d113b2d4775bf4493a808e271108d5f8f9d9036abbba5f8",
+      "bbox": [
+        27.0,
+        44.0,
+        230.0,
+        217.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1473",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "20ce06ed7218bc9d94528ccc2e822c05d52af44c6b9a4e38abdbe1ef68732d67",
+      "bbox": [
+        25.0,
+        32.0,
+        229.0,
+        222.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1474",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "90c9d1893351ab90a8d9eda307083cf17f627b76d5ab8f98bdcf003073f9dd9c",
+      "bbox": [
+        26.0,
+        28.0,
+        230.0,
+        226.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1475",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "cfee85a2004ca52d31ab4d4556bb18bd38897044b5b4f6a39cea2dd554a35627",
+      "bbox": [
+        24.0,
+        30.0,
+        232.0,
+        228.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1476",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "741ac93bd951b1773a08612fa7f6baffaa007528e8331999d2e7ee8394106790",
+      "bbox": [
+        30.5,
+        37.0,
+        224.0,
+        229.0
+      ],
+      "minimum_margin_px": 27.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1477",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "e862307907a108a6e488797b58808316ab53fdc91b16922c8ce8b60f0224b35c",
+      "bbox": [
+        29.0,
+        37.0,
+        230.0,
+        232.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1478",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "ffca1695d2536f2f340bc1e0bafb3492d4365fe18340901217275ad2e1388b6b",
+      "bbox": [
+        28.0,
+        27.0,
+        229.0,
+        235.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1479",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "823ab4a7e055203b0817e4855723faf40f518b1c5d41cdc6c48ac968b1ef010f",
+      "bbox": [
+        22.0,
+        31.0,
+        235.0,
+        234.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1480",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "0d86531e5971e37cda3ef4183f9b763deb2ab43eb2a2aef385cb8cdbfdc984d2",
+      "bbox": [
+        27.0,
+        23.0,
+        234.0,
+        218.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1481",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "2df1c4d0d2f7abbf0d158e7dcbe725ae8ff477fc59a3de3418e842cc42470823",
+      "bbox": [
+        26.0,
+        20.0,
+        230.0,
+        224.0
+      ],
+      "minimum_margin_px": 20.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1482",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "872e3a91d1affde58e97905d3b3fe79008fb7c40fe756fbf2b01f25fcbbb4c04",
+      "bbox": [
+        41.0,
+        29.0,
+        220.0,
+        224.0
+      ],
+      "minimum_margin_px": 29.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1483",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "97a6efc63d695cf51ddc560f2fce07fcaea83b76eeb6e7ed13fdad7b880bcd7f",
+      "bbox": [
+        34.5,
+        45.5,
+        222.0,
+        230.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1484",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "a28915b9647d47b1f84ba22552352628839214591d447d3cc62e98f3b0ff493d",
+      "bbox": [
+        25.0,
+        26.0,
+        232.0,
+        231.0
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1485",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "ecc3d4241d09474bbb30ab7320a0361cefb71d31072eabfc98f426f1bd4f595d",
+      "bbox": [
+        44.5,
+        28.0,
+        211.5,
+        231.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1486",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "769074b53836f67bbfff06d9f2f247a22cef2d146ba8739f87627767e9f08eea",
+      "bbox": [
+        21.0,
+        37.0,
+        226.0,
+        233.0
+      ],
+      "minimum_margin_px": 21.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1487",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "7d5e432a8ae2a90b18a013876bc99ef653e3c2d4afc63547d0ba939a5008f6d7",
+      "bbox": [
+        26.0,
+        30.0,
+        230.0,
+        224.0
+      ],
+      "minimum_margin_px": 26.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1488",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "e95338666977077cc2ea95fc68c4956de7f15d0a64f64668ebaf7722496dd615",
+      "bbox": [
+        24.0,
+        26.0,
+        233.0,
+        227.0
+      ],
+      "minimum_margin_px": 23.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1489",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "7492c90182a460f90d54963782ed990cf0387b45ade96ebb529da5fbd1dd4004",
+      "bbox": [
+        20.0,
+        31.0,
+        235.0,
+        231.0
+      ],
+      "minimum_margin_px": 20.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1490",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "6f5a5c3f4efd625a83bd3cbb05595b1f09539296afcba2610ff7f03d69f7f8d0",
+      "bbox": [
+        24.5,
+        33.0,
+        237.5,
+        217.0
+      ],
+      "minimum_margin_px": 18.5,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1491",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "885091dfdb1202fab45da93bfd4b8ff85cb6fb0975f78c4cc25b41f9c8145760",
+      "bbox": [
+        22.0,
+        37.0,
+        231.0,
+        232.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1492",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "8e10a5ff953c945b8eaaf7582a4dc761c64a4362de1a9bede57926dd7c7380b3",
+      "bbox": [
+        20.0,
+        25.0,
+        234.0,
+        236.0
+      ],
+      "minimum_margin_px": 20.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1493",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "aa98fea844b5c5204ff95aaf82c4ef04e618899428a9033d95f055c6703999b5",
+      "bbox": [
+        22.0,
+        52.0,
+        234.0,
+        227.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1494",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "be962479524b08b89329d819363e268965e5808ec59e36885021d8715c738ffe",
+      "bbox": [
+        22.0,
+        36.0,
+        234.0,
+        231.0
+      ],
+      "minimum_margin_px": 22.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1495",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "b30c6912b7c611ccae35abca38bf8e504f0bab322c5625c733aaf85de4c3135d",
+      "bbox": [
+        26.0,
+        28.0,
+        231.0,
+        229.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1496",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "ee336e55e8c28fdc995a6b0e1d6f79ed301f53e532b3821b65b4538de45b609a",
+      "bbox": [
+        25.0,
+        56.0,
+        232.0,
+        204.5
+      ],
+      "minimum_margin_px": 24.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1497",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "17af6c4463ff167ea5128ca9b6c0288c2a15597302c5ec681d430fbdcdd2fc6e",
+      "bbox": [
+        25.0,
+        32.0,
+        231.0,
+        228.0
+      ],
+      "minimum_margin_px": 25.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1498",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "d503653c6f3c35abce32e8a4ca863e4c9f496f42a5746b1efd6a9f492e21c8c3",
+      "bbox": [
+        24.0,
+        16.0,
+        233.0,
+        224.0
+      ],
+      "minimum_margin_px": 16.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1499",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "6e993366c8900237f1db7ebba8ac07a7188c979ec6a5796f44f248c6ab64a0f2",
+      "bbox": [
+        17.0,
+        17.0,
+        232.0,
+        237.0
+      ],
+      "minimum_margin_px": 17.0,
+      "clear_12px_margin": true
+    },
+    {
+      "id": "SV1500",
+      "xml_valid": true,
+      "cairo_rendered": true,
+      "geometry_sha256": "9f97d5629f424a498aa5f5d8219946202529058fe6a4cd7b5a46c2467816dc08",
+      "bbox": [
+        17.5,
+        39.0,
+        232.0,
+        237.0
+      ],
+      "minimum_margin_px": 17.5,
+      "clear_12px_margin": true
+    }
+  ],
+  "reproducibility": "Passed: regenerated 100 SVG files and metadata index byte-for-byte in a separate directory."
+}
