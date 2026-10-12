@@ -1,0 +1,149 @@
+{
+  "duration": 6,
+  "layers": [
+    {
+      "id": "MA0501",
+      "x": 0,
+      "y": 0,
+      "scale": 1,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0521",
+      "x": 32,
+      "y": 18,
+      "scale": 0.9,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.9
+    },
+    {
+      "id": "MA0541",
+      "x": -16,
+      "y": -9,
+      "scale": 1.05,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.7
+    },
+    {
+      "id": "MA0581",
+      "x": 13,
+      "y": 7,
+      "scale": 0.96,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.6
+    },
+    {
+      "id": "MA0601",
+      "x": -39,
+      "y": -15,
+      "scale": 0.42,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0641",
+      "x": -44,
+      "y": 100,
+      "scale": 0.42,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0661",
+      "x": 406,
+      "y": 0,
+      "scale": 0.42,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0721",
+      "x": 406,
+      "y": 100,
+      "scale": 0.42,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0761",
+      "x": -24,
+      "y": 209,
+      "scale": 0.42,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.9
+    },
+    {
+      "id": "MA0701",
+      "x": 240,
+      "y": 8,
+      "scale": 0.25,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0741",
+      "x": 392,
+      "y": 219,
+      "scale": 0.42,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0981",
+      "x": 450,
+      "y": 244,
+      "scale": 0.27,
+      "start": 0,
+      "duration": 6,
+      "opacity": 1
+    },
+    {
+      "id": "MA0021",
+      "x": 14,
+      "y": 244,
+      "scale": 0.24,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.3
+    },
+    {
+      "id": "MA0341",
+      "x": 225,
+      "y": 294,
+      "scale": 0.23,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.8
+    },
+    {
+      "id": "MA1501",
+      "x": 0,
+      "y": 0,
+      "scale": 1,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.3
+    },
+    {
+      "id": "MA1871",
+      "x": 0,
+      "y": 0,
+      "scale": 1,
+      "start": 0,
+      "duration": 6,
+      "opacity": 0.18
+    }
+  ]
+}
