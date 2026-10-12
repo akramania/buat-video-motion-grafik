@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "VL0201",
+    "type": "overlay",
+    "title": "Light leak hangat — Side spill",
+    "category": "light-leak",
+    "tags": [
+      "warm_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0201.mp4",
+    "files": [
+      "overlays/VL0201.mp4",
+      "overlays/VL0201.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0201.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0201.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0202",
+    "type": "overlay",
+    "title": "Light leak hangat — Top arc",
+    "category": "light-leak",
+    "tags": [
+      "warm_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0202.mp4",
+    "files": [
+      "overlays/VL0202.mp4",
+      "overlays/VL0202.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0202.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0202.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0203",
+    "type": "overlay",
+    "title": "Light leak hangat — Corner bloom",
+    "category": "light-leak",
+    "tags": [
+      "warm_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0203.mp4",
+    "files": [
+      "overlays/VL0203.mp4",
+      "overlays/VL0203.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0203.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0203.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0204",
+    "type": "overlay",
+    "title": "Light leak hangat — Opposing pair",
+    "category": "light-leak",
+    "tags": [
+      "warm_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0204.mp4",
+    "files": [
+      "overlays/VL0204.mp4",
+      "overlays/VL0204.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0204.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0204.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0205",
+    "type": "overlay",
+    "title": "Light leak hangat — Low haze",
+    "category": "light-leak",
+    "tags": [
+      "warm_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0205.mp4",
+    "files": [
+      "overlays/VL0205.mp4",
+      "overlays/VL0205.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0205.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0205.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0206",
+    "type": "overlay",
+    "title": "Light leak dingin — Ocean edge",
+    "category": "light-leak",
+    "tags": [
+      "cool_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0206.mp4",
+    "files": [
+      "overlays/VL0206.mp4",
+      "overlays/VL0206.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0206.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0206.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0207",
+    "type": "overlay",
+    "title": "Light leak dingin — Sky spill",
+    "category": "light-leak",
+    "tags": [
+      "cool_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0207.mp4",
+    "files": [
+      "overlays/VL0207.mp4",
+      "overlays/VL0207.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0207.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0207.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0208",
+    "type": "overlay",
+    "title": "Light leak dingin — Mint corner",
+    "category": "light-leak",
+    "tags": [
+      "cool_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0208.mp4",
+    "files": [
+      "overlays/VL0208.mp4",
+      "overlays/VL0208.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0208.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0208.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0209",
+    "type": "overlay",
+    "title": "Light leak dingin — Cyan twin",
+    "category": "light-leak",
+    "tags": [
+      "cool_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0209.mp4",
+    "files": [
+      "overlays/VL0209.mp4",
+      "overlays/VL0209.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0209.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0209.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0210",
+    "type": "overlay",
+    "title": "Light leak dingin — Blue horizon",
+    "category": "light-leak",
+    "tags": [
+      "cool_leak",
+      "light-leak",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0210.mp4",
+    "files": [
+      "overlays/VL0210.mp4",
+      "overlays/VL0210.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0210.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0210.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0211",
+    "type": "overlay",
+    "title": "Prism sweep — Diagonal narrow",
+    "category": "prism",
+    "tags": [
+      "prism_sweep",
+      "prism",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0211.mp4",
+    "files": [
+      "overlays/VL0211.mp4",
+      "overlays/VL0211.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0211.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0211.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0212",
+    "type": "overlay",
+    "title": "Prism sweep — Rising beam",
+    "category": "prism",
+    "tags": [
+      "prism_sweep",
+      "prism",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0212.mp4",
+    "files": [
+      "overlays/VL0212.mp4",
+      "overlays/VL0212.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0212.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0212.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0213",
+    "type": "overlay",
+    "title": "Prism sweep — Vertical split",
+    "category": "prism",
+    "tags": [
+      "prism_sweep",
+      "prism",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0213.mp4",
+    "files": [
+      "overlays/VL0213.mp4",
+      "overlays/VL0213.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0213.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0213.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0214",
+    "type": "overlay",
+    "title": "Prism sweep — Falling spectrum",
+    "category": "prism",
+    "tags": [
+      "prism_sweep",
+      "prism",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0214.mp4",
+    "files": [
+      "overlays/VL0214.mp4",
+      "overlays/VL0214.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0214.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0214.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0215",
+    "type": "overlay",
+    "title": "Prism sweep — Wide horizontal",
+    "category": "prism",
+    "tags": [
+      "prism_sweep",
+      "prism",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0215.mp4",
+    "files": [
+      "overlays/VL0215.mp4",
+      "overlays/VL0215.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0215.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0215.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0216",
+    "type": "overlay",
+    "title": "Anamorphic flare — High horizon",
+    "category": "lens-flare",
+    "tags": [
+      "anamorphic_flare",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0216.mp4",
+    "files": [
+      "overlays/VL0216.mp4",
+      "overlays/VL0216.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0216.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0216.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0217",
+    "type": "overlay",
+    "title": "Anamorphic flare — Center runway",
+    "category": "lens-flare",
+    "tags": [
+      "anamorphic_flare",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0217.mp4",
+    "files": [
+      "overlays/VL0217.mp4",
+      "overlays/VL0217.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0217.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0217.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0218",
+    "type": "overlay",
+    "title": "Anamorphic flare — Low glow",
+    "category": "lens-flare",
+    "tags": [
+      "anamorphic_flare",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0218.mp4",
+    "files": [
+      "overlays/VL0218.mp4",
+      "overlays/VL0218.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0218.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0218.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0219",
+    "type": "overlay",
+    "title": "Anamorphic flare — Upper ghosts",
+    "category": "lens-flare",
+    "tags": [
+      "anamorphic_flare",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0219.mp4",
+    "files": [
+      "overlays/VL0219.mp4",
+      "overlays/VL0219.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0219.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0219.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0220",
+    "type": "overlay",
+    "title": "Anamorphic flare — Lower ghosts",
+    "category": "lens-flare",
+    "tags": [
+      "anamorphic_flare",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0220.mp4",
+    "files": [
+      "overlays/VL0220.mp4",
+      "overlays/VL0220.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0220.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0220.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0221",
+    "type": "overlay",
+    "title": "Lens ghost rings — Triple drift",
+    "category": "lens-flare",
+    "tags": [
+      "lens_ring",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0221.mp4",
+    "files": [
+      "overlays/VL0221.mp4",
+      "overlays/VL0221.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0221.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0221.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0222",
+    "type": "overlay",
+    "title": "Lens ghost rings — Quad halo",
+    "category": "lens-flare",
+    "tags": [
+      "lens_ring",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0222.mp4",
+    "files": [
+      "overlays/VL0222.mp4",
+      "overlays/VL0222.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0222.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0222.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0223",
+    "type": "overlay",
+    "title": "Lens ghost rings — Double orbit",
+    "category": "lens-flare",
+    "tags": [
+      "lens_ring",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0223.mp4",
+    "files": [
+      "overlays/VL0223.mp4",
+      "overlays/VL0223.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0223.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0223.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0224",
+    "type": "overlay",
+    "title": "Lens ghost rings — Prism rings",
+    "category": "lens-flare",
+    "tags": [
+      "lens_ring",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0224.mp4",
+    "files": [
+      "overlays/VL0224.mp4",
+      "overlays/VL0224.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0224.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0224.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0225",
+    "type": "overlay",
+    "title": "Lens ghost rings — Wide lens",
+    "category": "lens-flare",
+    "tags": [
+      "lens_ring",
+      "lens-flare",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0225.mp4",
+    "files": [
+      "overlays/VL0225.mp4",
+      "overlays/VL0225.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0225.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0225.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0226",
+    "type": "overlay",
+    "title": "Bokeh terapung — Cafe glow",
+    "category": "bokeh",
+    "tags": [
+      "bokeh_drift",
+      "bokeh",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0226.mp4",
+    "files": [
+      "overlays/VL0226.mp4",
+      "overlays/VL0226.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0226.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0226.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0227",
+    "type": "overlay",
+    "title": "Bokeh terapung — Street lights",
+    "category": "bokeh",
+    "tags": [
+      "bokeh_drift",
+      "bokeh",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0227.mp4",
+    "files": [
+      "overlays/VL0227.mp4",
+      "overlays/VL0227.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0227.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0227.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0228",
+    "type": "overlay",
+    "title": "Bokeh terapung — Celebration lights",
+    "category": "bokeh",
+    "tags": [
+      "bokeh_drift",
+      "bokeh",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0228.mp4",
+    "files": [
+      "overlays/VL0228.mp4",
+      "overlays/VL0228.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0228.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0228.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0229",
+    "type": "overlay",
+    "title": "Bokeh terapung — Golden hour",
+    "category": "bokeh",
+    "tags": [
+      "bokeh_drift",
+      "bokeh",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0229.mp4",
+    "files": [
+      "overlays/VL0229.mp4",
+      "overlays/VL0229.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0229.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0229.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0230",
+    "type": "overlay",
+    "title": "Bokeh terapung — Night market",
+    "category": "bokeh",
+    "tags": [
+      "bokeh_drift",
+      "bokeh",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0230.mp4",
+    "files": [
+      "overlays/VL0230.mp4",
+      "overlays/VL0230.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0230.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0230.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0231",
+    "type": "overlay",
+    "title": "Film dust & scratch — Fine dust",
+    "category": "film-texture",
+    "tags": [
+      "dust_gate",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0231.mp4",
+    "files": [
+      "overlays/VL0231.mp4",
+      "overlays/VL0231.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0231.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0231.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0232",
+    "type": "overlay",
+    "title": "Film dust & scratch — Gate scratch",
+    "category": "film-texture",
+    "tags": [
+      "dust_gate",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0232.mp4",
+    "files": [
+      "overlays/VL0232.mp4",
+      "overlays/VL0232.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0232.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0232.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0233",
+    "type": "overlay",
+    "title": "Film dust & scratch — Dense specks",
+    "category": "film-texture",
+    "tags": [
+      "dust_gate",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0233.mp4",
+    "files": [
+      "overlays/VL0233.mp4",
+      "overlays/VL0233.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0233.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0233.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0234",
+    "type": "overlay",
+    "title": "Film dust & scratch — Twin scratch",
+    "category": "film-texture",
+    "tags": [
+      "dust_gate",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0234.mp4",
+    "files": [
+      "overlays/VL0234.mp4",
+      "overlays/VL0234.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0234.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0234.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0235",
+    "type": "overlay",
+    "title": "Film dust & scratch — Archive dust",
+    "category": "film-texture",
+    "tags": [
+      "dust_gate",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0235.mp4",
+    "files": [
+      "overlays/VL0235.mp4",
+      "overlays/VL0235.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0235.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0235.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0236",
+    "type": "overlay",
+    "title": "Film grain simulasi — Fine 16mm",
+    "category": "film-texture",
+    "tags": [
+      "film_grain",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0236.mp4",
+    "files": [
+      "overlays/VL0236.mp4",
+      "overlays/VL0236.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0236.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0236.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0237",
+    "type": "overlay",
+    "title": "Film grain simulasi — Soft 35mm",
+    "category": "film-texture",
+    "tags": [
+      "film_grain",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0237.mp4",
+    "files": [
+      "overlays/VL0237.mp4",
+      "overlays/VL0237.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0237.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0237.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0238",
+    "type": "overlay",
+    "title": "Film grain simulasi — Directional grain",
+    "category": "film-texture",
+    "tags": [
+      "film_grain",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0238.mp4",
+    "files": [
+      "overlays/VL0238.mp4",
+      "overlays/VL0238.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0238.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0238.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0239",
+    "type": "overlay",
+    "title": "Film grain simulasi — Bright speck grain",
+    "category": "film-texture",
+    "tags": [
+      "film_grain",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0239.mp4",
+    "files": [
+      "overlays/VL0239.mp4",
+      "overlays/VL0239.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0239.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0239.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0240",
+    "type": "overlay",
+    "title": "Film grain simulasi — Pulsing grain",
+    "category": "film-texture",
+    "tags": [
+      "film_grain",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0240.mp4",
+    "files": [
+      "overlays/VL0240.mp4",
+      "overlays/VL0240.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0240.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0240.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0241",
+    "type": "overlay",
+    "title": "Projector flicker — Warm gate",
+    "category": "film-texture",
+    "tags": [
+      "projector_flicker",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0241.mp4",
+    "files": [
+      "overlays/VL0241.mp4",
+      "overlays/VL0241.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0241.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0241.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0242",
+    "type": "overlay",
+    "title": "Projector flicker — Rapid shimmer",
+    "category": "film-texture",
+    "tags": [
+      "projector_flicker",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0242.mp4",
+    "files": [
+      "overlays/VL0242.mp4",
+      "overlays/VL0242.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0242.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0242.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0243",
+    "type": "overlay",
+    "title": "Projector flicker — Archive reel",
+    "category": "film-texture",
+    "tags": [
+      "projector_flicker",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0243.mp4",
+    "files": [
+      "overlays/VL0243.mp4",
+      "overlays/VL0243.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0243.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0243.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0244",
+    "type": "overlay",
+    "title": "Projector flicker — Dusty beam",
+    "category": "film-texture",
+    "tags": [
+      "projector_flicker",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0244.mp4",
+    "files": [
+      "overlays/VL0244.mp4",
+      "overlays/VL0244.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0244.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0244.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0245",
+    "type": "overlay",
+    "title": "Projector flicker — Cinema pulse",
+    "category": "film-texture",
+    "tags": [
+      "projector_flicker",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0245.mp4",
+    "files": [
+      "overlays/VL0245.mp4",
+      "overlays/VL0245.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0245.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0245.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0246",
+    "type": "overlay",
+    "title": "Rolling scanlines — Fine raster",
+    "category": "analog",
+    "tags": [
+      "scanline_roll",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0246.mp4",
+    "files": [
+      "overlays/VL0246.mp4",
+      "overlays/VL0246.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0246.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0246.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0247",
+    "type": "overlay",
+    "title": "Rolling scanlines — Medium raster",
+    "category": "analog",
+    "tags": [
+      "scanline_roll",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0247.mp4",
+    "files": [
+      "overlays/VL0247.mp4",
+      "overlays/VL0247.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0247.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0247.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0248",
+    "type": "overlay",
+    "title": "Rolling scanlines — Wide raster",
+    "category": "analog",
+    "tags": [
+      "scanline_roll",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0248.mp4",
+    "files": [
+      "overlays/VL0248.mp4",
+      "overlays/VL0248.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0248.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0248.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0249",
+    "type": "overlay",
+    "title": "Rolling scanlines — Retro bands",
+    "category": "analog",
+    "tags": [
+      "scanline_roll",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0249.mp4",
+    "files": [
+      "overlays/VL0249.mp4",
+      "overlays/VL0249.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0249.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0249.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0250",
+    "type": "overlay",
+    "title": "Rolling scanlines — Broad scan",
+    "category": "analog",
+    "tags": [
+      "scanline_roll",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0250.mp4",
+    "files": [
+      "overlays/VL0250.mp4",
+      "overlays/VL0250.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0250.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0250.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0251",
+    "type": "overlay",
+    "title": "Chromatic glitch — Signal burst",
+    "category": "glitch",
+    "tags": [
+      "chromatic_glitch",
+      "glitch",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0251.mp4",
+    "files": [
+      "overlays/VL0251.mp4",
+      "overlays/VL0251.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0251.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0251.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0252",
+    "type": "overlay",
+    "title": "Chromatic glitch — Channel drift",
+    "category": "glitch",
+    "tags": [
+      "chromatic_glitch",
+      "glitch",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0252.mp4",
+    "files": [
+      "overlays/VL0252.mp4",
+      "overlays/VL0252.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0252.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0252.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0253",
+    "type": "overlay",
+    "title": "Chromatic glitch — Packet bars",
+    "category": "glitch",
+    "tags": [
+      "chromatic_glitch",
+      "glitch",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0253.mp4",
+    "files": [
+      "overlays/VL0253.mp4",
+      "overlays/VL0253.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0253.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0253.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0254",
+    "type": "overlay",
+    "title": "Chromatic glitch — Band breakup",
+    "category": "glitch",
+    "tags": [
+      "chromatic_glitch",
+      "glitch",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0254.mp4",
+    "files": [
+      "overlays/VL0254.mp4",
+      "overlays/VL0254.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0254.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0254.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0255",
+    "type": "overlay",
+    "title": "Chromatic glitch — Digital storm",
+    "category": "glitch",
+    "tags": [
+      "chromatic_glitch",
+      "glitch",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0255.mp4",
+    "files": [
+      "overlays/VL0255.mp4",
+      "overlays/VL0255.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0255.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0255.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0256",
+    "type": "overlay",
+    "title": "Rain on window — Fine drizzle",
+    "category": "weather",
+    "tags": [
+      "rain_window",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0256.mp4",
+    "files": [
+      "overlays/VL0256.mp4",
+      "overlays/VL0256.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0256.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0256.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0257",
+    "type": "overlay",
+    "title": "Rain on window — Soft rain",
+    "category": "weather",
+    "tags": [
+      "rain_window",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0257.mp4",
+    "files": [
+      "overlays/VL0257.mp4",
+      "overlays/VL0257.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0257.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0257.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0258",
+    "type": "overlay",
+    "title": "Rain on window — Night rain",
+    "category": "weather",
+    "tags": [
+      "rain_window",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0258.mp4",
+    "files": [
+      "overlays/VL0258.mp4",
+      "overlays/VL0258.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0258.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0258.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0259",
+    "type": "overlay",
+    "title": "Rain on window — Travel rain",
+    "category": "weather",
+    "tags": [
+      "rain_window",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0259.mp4",
+    "files": [
+      "overlays/VL0259.mp4",
+      "overlays/VL0259.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0259.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0259.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0260",
+    "type": "overlay",
+    "title": "Rain on window — Heavy beads",
+    "category": "weather",
+    "tags": [
+      "rain_window",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0260.mp4",
+    "files": [
+      "overlays/VL0260.mp4",
+      "overlays/VL0260.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0260.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0260.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0261",
+    "type": "overlay",
+    "title": "Snow particles — Light snowfall",
+    "category": "weather",
+    "tags": [
+      "snowfall",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0261.mp4",
+    "files": [
+      "overlays/VL0261.mp4",
+      "overlays/VL0261.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0261.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0261.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0262",
+    "type": "overlay",
+    "title": "Snow particles — Winter drift",
+    "category": "weather",
+    "tags": [
+      "snowfall",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0262.mp4",
+    "files": [
+      "overlays/VL0262.mp4",
+      "overlays/VL0262.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0262.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0262.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0263",
+    "type": "overlay",
+    "title": "Snow particles — Soft flakes",
+    "category": "weather",
+    "tags": [
+      "snowfall",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0263.mp4",
+    "files": [
+      "overlays/VL0263.mp4",
+      "overlays/VL0263.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0263.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0263.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0264",
+    "type": "overlay",
+    "title": "Snow particles — Dense snow",
+    "category": "weather",
+    "tags": [
+      "snowfall",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0264.mp4",
+    "files": [
+      "overlays/VL0264.mp4",
+      "overlays/VL0264.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0264.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0264.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0265",
+    "type": "overlay",
+    "title": "Snow particles — Snow globe",
+    "category": "weather",
+    "tags": [
+      "snowfall",
+      "weather",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0265.mp4",
+    "files": [
+      "overlays/VL0265.mp4",
+      "overlays/VL0265.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0265.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0265.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0266",
+    "type": "overlay",
+    "title": "Sparkle trail — Soft sparkle",
+    "category": "particles",
+    "tags": [
+      "sparkle_trail",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0266.mp4",
+    "files": [
+      "overlays/VL0266.mp4",
+      "overlays/VL0266.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0266.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0266.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0267",
+    "type": "overlay",
+    "title": "Sparkle trail — Beauty sparkle",
+    "category": "particles",
+    "tags": [
+      "sparkle_trail",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0267.mp4",
+    "files": [
+      "overlays/VL0267.mp4",
+      "overlays/VL0267.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0267.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0267.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0268",
+    "type": "overlay",
+    "title": "Sparkle trail — Gold dust stars",
+    "category": "particles",
+    "tags": [
+      "sparkle_trail",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0268.mp4",
+    "files": [
+      "overlays/VL0268.mp4",
+      "overlays/VL0268.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0268.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0268.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0269",
+    "type": "overlay",
+    "title": "Sparkle trail — Celebration glints",
+    "category": "particles",
+    "tags": [
+      "sparkle_trail",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0269.mp4",
+    "files": [
+      "overlays/VL0269.mp4",
+      "overlays/VL0269.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0269.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0269.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0270",
+    "type": "overlay",
+    "title": "Sparkle trail — Magical trail",
+    "category": "particles",
+    "tags": [
+      "sparkle_trail",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0270.mp4",
+    "files": [
+      "overlays/VL0270.mp4",
+      "overlays/VL0270.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0270.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0270.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0271",
+    "type": "overlay",
+    "title": "Ember particles — Campfire",
+    "category": "particles",
+    "tags": [
+      "ember_rise",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0271.mp4",
+    "files": [
+      "overlays/VL0271.mp4",
+      "overlays/VL0271.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0271.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0271.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0272",
+    "type": "overlay",
+    "title": "Ember particles — Golden embers",
+    "category": "particles",
+    "tags": [
+      "ember_rise",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0272.mp4",
+    "files": [
+      "overlays/VL0272.mp4",
+      "overlays/VL0272.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0272.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0272.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0273",
+    "type": "overlay",
+    "title": "Ember particles — Stage sparks",
+    "category": "particles",
+    "tags": [
+      "ember_rise",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0273.mp4",
+    "files": [
+      "overlays/VL0273.mp4",
+      "overlays/VL0273.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0273.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0273.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0274",
+    "type": "overlay",
+    "title": "Ember particles — Copper rise",
+    "category": "particles",
+    "tags": [
+      "ember_rise",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0274.mp4",
+    "files": [
+      "overlays/VL0274.mp4",
+      "overlays/VL0274.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0274.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0274.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0275",
+    "type": "overlay",
+    "title": "Ember particles — Warm festival",
+    "category": "particles",
+    "tags": [
+      "ember_rise",
+      "particles",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0275.mp4",
+    "files": [
+      "overlays/VL0275.mp4",
+      "overlays/VL0275.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0275.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0275.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0276",
+    "type": "overlay",
+    "title": "Neon light ribbons — Triple wave",
+    "category": "abstract-light",
+    "tags": [
+      "neon_ribbons",
+      "abstract-light",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0276.mp4",
+    "files": [
+      "overlays/VL0276.mp4",
+      "overlays/VL0276.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0276.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0276.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0277",
+    "type": "overlay",
+    "title": "Neon light ribbons — Four wave",
+    "category": "abstract-light",
+    "tags": [
+      "neon_ribbons",
+      "abstract-light",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0277.mp4",
+    "files": [
+      "overlays/VL0277.mp4",
+      "overlays/VL0277.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0277.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0277.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0278",
+    "type": "overlay",
+    "title": "Neon light ribbons — Soft sinusoid",
+    "category": "abstract-light",
+    "tags": [
+      "neon_ribbons",
+      "abstract-light",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0278.mp4",
+    "files": [
+      "overlays/VL0278.mp4",
+      "overlays/VL0278.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0278.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0278.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0279",
+    "type": "overlay",
+    "title": "Neon light ribbons — Triple electric",
+    "category": "abstract-light",
+    "tags": [
+      "neon_ribbons",
+      "abstract-light",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0279.mp4",
+    "files": [
+      "overlays/VL0279.mp4",
+      "overlays/VL0279.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0279.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0279.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0280",
+    "type": "overlay",
+    "title": "Neon light ribbons — Four ribbons",
+    "category": "abstract-light",
+    "tags": [
+      "neon_ribbons",
+      "abstract-light",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0280.mp4",
+    "files": [
+      "overlays/VL0280.mp4",
+      "overlays/VL0280.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0280.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0280.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0281",
+    "type": "overlay",
+    "title": "Frame edge glow — Thin halo",
+    "category": "frame-glow",
+    "tags": [
+      "edge_glow",
+      "frame-glow",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0281.mp4",
+    "files": [
+      "overlays/VL0281.mp4",
+      "overlays/VL0281.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0281.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0281.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0282",
+    "type": "overlay",
+    "title": "Frame edge glow — Soft border",
+    "category": "frame-glow",
+    "tags": [
+      "edge_glow",
+      "frame-glow",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0282.mp4",
+    "files": [
+      "overlays/VL0282.mp4",
+      "overlays/VL0282.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0282.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0282.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0283",
+    "type": "overlay",
+    "title": "Frame edge glow — Bloom edge",
+    "category": "frame-glow",
+    "tags": [
+      "edge_glow",
+      "frame-glow",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0283.mp4",
+    "files": [
+      "overlays/VL0283.mp4",
+      "overlays/VL0283.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0283.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0283.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0284",
+    "type": "overlay",
+    "title": "Frame edge glow — Dream glow",
+    "category": "frame-glow",
+    "tags": [
+      "edge_glow",
+      "frame-glow",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0284.mp4",
+    "files": [
+      "overlays/VL0284.mp4",
+      "overlays/VL0284.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0284.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0284.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0285",
+    "type": "overlay",
+    "title": "Frame edge glow — Ambient frame",
+    "category": "frame-glow",
+    "tags": [
+      "edge_glow",
+      "frame-glow",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0285.mp4",
+    "files": [
+      "overlays/VL0285.mp4",
+      "overlays/VL0285.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0285.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0285.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0286",
+    "type": "overlay",
+    "title": "CRT luminous grid — Fine dot grid",
+    "category": "analog",
+    "tags": [
+      "crt_grid",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0286.mp4",
+    "files": [
+      "overlays/VL0286.mp4",
+      "overlays/VL0286.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0286.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0286.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0287",
+    "type": "overlay",
+    "title": "CRT luminous grid — Green monitor",
+    "category": "analog",
+    "tags": [
+      "crt_grid",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0287.mp4",
+    "files": [
+      "overlays/VL0287.mp4",
+      "overlays/VL0287.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0287.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0287.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0288",
+    "type": "overlay",
+    "title": "CRT luminous grid — Soft pixels",
+    "category": "analog",
+    "tags": [
+      "crt_grid",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0288.mp4",
+    "files": [
+      "overlays/VL0288.mp4",
+      "overlays/VL0288.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0288.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0288.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0289",
+    "type": "overlay",
+    "title": "CRT luminous grid — Wide phosphor",
+    "category": "analog",
+    "tags": [
+      "crt_grid",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0289.mp4",
+    "files": [
+      "overlays/VL0289.mp4",
+      "overlays/VL0289.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0289.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0289.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0290",
+    "type": "overlay",
+    "title": "CRT luminous grid — Retro panel",
+    "category": "analog",
+    "tags": [
+      "crt_grid",
+      "analog",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0290.mp4",
+    "files": [
+      "overlays/VL0290.mp4",
+      "overlays/VL0290.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0290.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0290.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0291",
+    "type": "overlay",
+    "title": "Film burn sweep — Left edge burn",
+    "category": "film-texture",
+    "tags": [
+      "film_burn",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0291.mp4",
+    "files": [
+      "overlays/VL0291.mp4",
+      "overlays/VL0291.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0291.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0291.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0292",
+    "type": "overlay",
+    "title": "Film burn sweep — Right flare burn",
+    "category": "film-texture",
+    "tags": [
+      "film_burn",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0292.mp4",
+    "files": [
+      "overlays/VL0292.mp4",
+      "overlays/VL0292.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0292.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0292.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0293",
+    "type": "overlay",
+    "title": "Film burn sweep — Sprocket glow",
+    "category": "film-texture",
+    "tags": [
+      "film_burn",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0293.mp4",
+    "files": [
+      "overlays/VL0293.mp4",
+      "overlays/VL0293.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0293.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0293.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0294",
+    "type": "overlay",
+    "title": "Film burn sweep — Right roll burn",
+    "category": "film-texture",
+    "tags": [
+      "film_burn",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0294.mp4",
+    "files": [
+      "overlays/VL0294.mp4",
+      "overlays/VL0294.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0294.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0294.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0295",
+    "type": "overlay",
+    "title": "Film burn sweep — Center rip",
+    "category": "film-texture",
+    "tags": [
+      "film_burn",
+      "film-texture",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0295.mp4",
+    "files": [
+      "overlays/VL0295.mp4",
+      "overlays/VL0295.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0295.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0295.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0296",
+    "type": "overlay",
+    "title": "Speed light streaks — Horizontal rush",
+    "category": "speed",
+    "tags": [
+      "speed_streaks",
+      "speed",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0296.mp4",
+    "files": [
+      "overlays/VL0296.mp4",
+      "overlays/VL0296.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0296.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0296.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0297",
+    "type": "overlay",
+    "title": "Speed light streaks — Rising rush",
+    "category": "speed",
+    "tags": [
+      "speed_streaks",
+      "speed",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0297.mp4",
+    "files": [
+      "overlays/VL0297.mp4",
+      "overlays/VL0297.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0297.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0297.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0298",
+    "type": "overlay",
+    "title": "Speed light streaks — Falling rush",
+    "category": "speed",
+    "tags": [
+      "speed_streaks",
+      "speed",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0298.mp4",
+    "files": [
+      "overlays/VL0298.mp4",
+      "overlays/VL0298.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0298.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0298.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0299",
+    "type": "overlay",
+    "title": "Speed light streaks — Diagonal lift",
+    "category": "speed",
+    "tags": [
+      "speed_streaks",
+      "speed",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0299.mp4",
+    "files": [
+      "overlays/VL0299.mp4",
+      "overlays/VL0299.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0299.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0299.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  },
+  {
+    "id": "VL0300",
+    "type": "overlay",
+    "title": "Speed light streaks — Diagonal drop",
+    "category": "speed",
+    "tags": [
+      "speed_streaks",
+      "speed",
+      "vlog",
+      "montage",
+      "screen",
+      "original"
+    ],
+    "use_cases": [
+      "vlogging",
+      "travel montage",
+      "cinematic B-roll"
+    ],
+    "format": "mp4+json",
+    "file": "overlays/VL0300.mp4",
+    "files": [
+      "overlays/VL0300.mp4",
+      "overlays/VL0300.json"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/overlays/VL0300.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/overlays/VL0300.mp4",
+    "duration": 2,
+    "technical": {
+      "blend": "screen",
+      "loopable": true,
+      "resolution": [
+        640,
+        360
+      ],
+      "fps": 24,
+      "audio": false,
+      "opacity_recommendation": [
+        0.15,
+        0.65
+      ],
+      "preview_background": "Original procedural travel scene; source MP4 is black-neutral",
+      "source": "original procedural RGB overlay; no stock footage"
+    }
+  }
+]

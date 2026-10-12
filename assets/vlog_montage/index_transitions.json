@@ -1,0 +1,4302 @@
+[
+  {
+    "id": "VL0101",
+    "type": "transition",
+    "title": "Directional Wipe 01",
+    "category": "Directional Wipe",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "linear",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0101.json",
+    "files": [
+      "transitions/VL0101.json",
+      "transitions/VL0101-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0101.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0101.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "linear",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0102",
+    "type": "transition",
+    "title": "Directional Wipe 02",
+    "category": "Directional Wipe",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "linear",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0102.json",
+    "files": [
+      "transitions/VL0102.json",
+      "transitions/VL0102-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0102.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0102.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "linear",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0103",
+    "type": "transition",
+    "title": "Directional Wipe 03",
+    "category": "Directional Wipe",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "linear",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0103.json",
+    "files": [
+      "transitions/VL0103.json",
+      "transitions/VL0103-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0103.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0103.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "linear",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0104",
+    "type": "transition",
+    "title": "Directional Wipe 04",
+    "category": "Directional Wipe",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "linear",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0104.json",
+    "files": [
+      "transitions/VL0104.json",
+      "transitions/VL0104-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0104.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0104.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "linear",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0105",
+    "type": "transition",
+    "title": "Directional Wipe 05",
+    "category": "Directional Wipe",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "linear",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0105.json",
+    "files": [
+      "transitions/VL0105.json",
+      "transitions/VL0105-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0105.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0105.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "linear",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0106",
+    "type": "transition",
+    "title": "Bent Angle 01",
+    "category": "Bent Angle",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "angular",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0106.json",
+    "files": [
+      "transitions/VL0106.json",
+      "transitions/VL0106-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0106.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0106.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "angular",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0107",
+    "type": "transition",
+    "title": "Bent Angle 02",
+    "category": "Bent Angle",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "angular",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0107.json",
+    "files": [
+      "transitions/VL0107.json",
+      "transitions/VL0107-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0107.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0107.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "angular",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0108",
+    "type": "transition",
+    "title": "Bent Angle 03",
+    "category": "Bent Angle",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "angular",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0108.json",
+    "files": [
+      "transitions/VL0108.json",
+      "transitions/VL0108-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0108.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0108.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "angular",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0109",
+    "type": "transition",
+    "title": "Bent Angle 04",
+    "category": "Bent Angle",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "angular",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0109.json",
+    "files": [
+      "transitions/VL0109.json",
+      "transitions/VL0109-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0109.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0109.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "angular",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0110",
+    "type": "transition",
+    "title": "Bent Angle 05",
+    "category": "Bent Angle",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "angular",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0110.json",
+    "files": [
+      "transitions/VL0110.json",
+      "transitions/VL0110-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0110.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0110.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "angular",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0111",
+    "type": "transition",
+    "title": "Elliptical Iris 01",
+    "category": "Elliptical Iris",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "iris",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0111.json",
+    "files": [
+      "transitions/VL0111.json",
+      "transitions/VL0111-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0111.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0111.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "iris",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0112",
+    "type": "transition",
+    "title": "Elliptical Iris 02",
+    "category": "Elliptical Iris",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "iris",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0112.json",
+    "files": [
+      "transitions/VL0112.json",
+      "transitions/VL0112-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0112.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0112.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "iris",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0113",
+    "type": "transition",
+    "title": "Elliptical Iris 03",
+    "category": "Elliptical Iris",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "iris",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0113.json",
+    "files": [
+      "transitions/VL0113.json",
+      "transitions/VL0113-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0113.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0113.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "iris",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0114",
+    "type": "transition",
+    "title": "Elliptical Iris 04",
+    "category": "Elliptical Iris",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "iris",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0114.json",
+    "files": [
+      "transitions/VL0114.json",
+      "transitions/VL0114-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0114.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0114.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "iris",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0115",
+    "type": "transition",
+    "title": "Elliptical Iris 05",
+    "category": "Elliptical Iris",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "iris",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0115.json",
+    "files": [
+      "transitions/VL0115.json",
+      "transitions/VL0115-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0115.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0115.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "iris",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0116",
+    "type": "transition",
+    "title": "Diamond Bloom 01",
+    "category": "Diamond Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "diamond",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0116.json",
+    "files": [
+      "transitions/VL0116.json",
+      "transitions/VL0116-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0116.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0116.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "diamond",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0117",
+    "type": "transition",
+    "title": "Diamond Bloom 02",
+    "category": "Diamond Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "diamond",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0117.json",
+    "files": [
+      "transitions/VL0117.json",
+      "transitions/VL0117-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0117.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0117.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "diamond",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0118",
+    "type": "transition",
+    "title": "Diamond Bloom 03",
+    "category": "Diamond Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "diamond",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0118.json",
+    "files": [
+      "transitions/VL0118.json",
+      "transitions/VL0118-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0118.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0118.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "diamond",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0119",
+    "type": "transition",
+    "title": "Diamond Bloom 04",
+    "category": "Diamond Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "diamond",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0119.json",
+    "files": [
+      "transitions/VL0119.json",
+      "transitions/VL0119-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0119.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0119.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "diamond",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0120",
+    "type": "transition",
+    "title": "Diamond Bloom 05",
+    "category": "Diamond Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "diamond",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0120.json",
+    "files": [
+      "transitions/VL0120.json",
+      "transitions/VL0120-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0120.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0120.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "diamond",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0121",
+    "type": "transition",
+    "title": "Clock Sweep 01",
+    "category": "Clock Sweep",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "clock",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0121.json",
+    "files": [
+      "transitions/VL0121.json",
+      "transitions/VL0121-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0121.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0121.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "clock",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0122",
+    "type": "transition",
+    "title": "Clock Sweep 02",
+    "category": "Clock Sweep",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "clock",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0122.json",
+    "files": [
+      "transitions/VL0122.json",
+      "transitions/VL0122-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0122.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0122.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "clock",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0123",
+    "type": "transition",
+    "title": "Clock Sweep 03",
+    "category": "Clock Sweep",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "clock",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0123.json",
+    "files": [
+      "transitions/VL0123.json",
+      "transitions/VL0123-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0123.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0123.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "clock",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0124",
+    "type": "transition",
+    "title": "Clock Sweep 04",
+    "category": "Clock Sweep",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "clock",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0124.json",
+    "files": [
+      "transitions/VL0124.json",
+      "transitions/VL0124-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0124.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0124.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "clock",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0125",
+    "type": "transition",
+    "title": "Clock Sweep 05",
+    "category": "Clock Sweep",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "clock",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0125.json",
+    "files": [
+      "transitions/VL0125.json",
+      "transitions/VL0125-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0125.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0125.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "clock",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0126",
+    "type": "transition",
+    "title": "Spiral Reveal 01",
+    "category": "Spiral Reveal",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "spiral",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0126.json",
+    "files": [
+      "transitions/VL0126.json",
+      "transitions/VL0126-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0126.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0126.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "spiral",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0127",
+    "type": "transition",
+    "title": "Spiral Reveal 02",
+    "category": "Spiral Reveal",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "spiral",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0127.json",
+    "files": [
+      "transitions/VL0127.json",
+      "transitions/VL0127-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0127.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0127.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "spiral",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0128",
+    "type": "transition",
+    "title": "Spiral Reveal 03",
+    "category": "Spiral Reveal",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "spiral",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0128.json",
+    "files": [
+      "transitions/VL0128.json",
+      "transitions/VL0128-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0128.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0128.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "spiral",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0129",
+    "type": "transition",
+    "title": "Spiral Reveal 04",
+    "category": "Spiral Reveal",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "spiral",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0129.json",
+    "files": [
+      "transitions/VL0129.json",
+      "transitions/VL0129-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0129.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0129.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "spiral",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0130",
+    "type": "transition",
+    "title": "Spiral Reveal 05",
+    "category": "Spiral Reveal",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "spiral",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0130.json",
+    "files": [
+      "transitions/VL0130.json",
+      "transitions/VL0130-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0130.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0130.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "spiral",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0131",
+    "type": "transition",
+    "title": "Staggered Blinds 01",
+    "category": "Staggered Blinds",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "venetian",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0131.json",
+    "files": [
+      "transitions/VL0131.json",
+      "transitions/VL0131-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0131.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0131.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "venetian",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0132",
+    "type": "transition",
+    "title": "Staggered Blinds 02",
+    "category": "Staggered Blinds",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "venetian",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0132.json",
+    "files": [
+      "transitions/VL0132.json",
+      "transitions/VL0132-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0132.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0132.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "venetian",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0133",
+    "type": "transition",
+    "title": "Staggered Blinds 03",
+    "category": "Staggered Blinds",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "venetian",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0133.json",
+    "files": [
+      "transitions/VL0133.json",
+      "transitions/VL0133-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0133.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0133.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "venetian",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0134",
+    "type": "transition",
+    "title": "Staggered Blinds 04",
+    "category": "Staggered Blinds",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "venetian",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0134.json",
+    "files": [
+      "transitions/VL0134.json",
+      "transitions/VL0134-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0134.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0134.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "venetian",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0135",
+    "type": "transition",
+    "title": "Staggered Blinds 05",
+    "category": "Staggered Blinds",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "venetian",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0135.json",
+    "files": [
+      "transitions/VL0135.json",
+      "transitions/VL0135-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0135.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0135.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "venetian",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0136",
+    "type": "transition",
+    "title": "Slit Shutter 01",
+    "category": "Slit Shutter",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "shutter",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0136.json",
+    "files": [
+      "transitions/VL0136.json",
+      "transitions/VL0136-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0136.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0136.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "shutter",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0137",
+    "type": "transition",
+    "title": "Slit Shutter 02",
+    "category": "Slit Shutter",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "shutter",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0137.json",
+    "files": [
+      "transitions/VL0137.json",
+      "transitions/VL0137-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0137.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0137.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "shutter",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0138",
+    "type": "transition",
+    "title": "Slit Shutter 03",
+    "category": "Slit Shutter",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "shutter",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0138.json",
+    "files": [
+      "transitions/VL0138.json",
+      "transitions/VL0138-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0138.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0138.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "shutter",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0139",
+    "type": "transition",
+    "title": "Slit Shutter 04",
+    "category": "Slit Shutter",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "shutter",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0139.json",
+    "files": [
+      "transitions/VL0139.json",
+      "transitions/VL0139-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0139.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0139.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "shutter",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0140",
+    "type": "transition",
+    "title": "Slit Shutter 05",
+    "category": "Slit Shutter",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "shutter",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0140.json",
+    "files": [
+      "transitions/VL0140.json",
+      "transitions/VL0140-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0140.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0140.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "shutter",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0141",
+    "type": "transition",
+    "title": "Tile Cascade 01",
+    "category": "Tile Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "mosaic",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0141.json",
+    "files": [
+      "transitions/VL0141.json",
+      "transitions/VL0141-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0141.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0141.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "mosaic",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0142",
+    "type": "transition",
+    "title": "Tile Cascade 02",
+    "category": "Tile Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "mosaic",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0142.json",
+    "files": [
+      "transitions/VL0142.json",
+      "transitions/VL0142-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0142.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0142.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "mosaic",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0143",
+    "type": "transition",
+    "title": "Tile Cascade 03",
+    "category": "Tile Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "mosaic",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0143.json",
+    "files": [
+      "transitions/VL0143.json",
+      "transitions/VL0143-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0143.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0143.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "mosaic",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0144",
+    "type": "transition",
+    "title": "Tile Cascade 04",
+    "category": "Tile Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "mosaic",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0144.json",
+    "files": [
+      "transitions/VL0144.json",
+      "transitions/VL0144-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0144.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0144.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "mosaic",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0145",
+    "type": "transition",
+    "title": "Tile Cascade 05",
+    "category": "Tile Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "mosaic",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0145.json",
+    "files": [
+      "transitions/VL0145.json",
+      "transitions/VL0145-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0145.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0145.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "mosaic",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0146",
+    "type": "transition",
+    "title": "Checker Bloom 01",
+    "category": "Checker Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "checker",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0146.json",
+    "files": [
+      "transitions/VL0146.json",
+      "transitions/VL0146-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0146.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0146.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "checker",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0147",
+    "type": "transition",
+    "title": "Checker Bloom 02",
+    "category": "Checker Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "checker",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0147.json",
+    "files": [
+      "transitions/VL0147.json",
+      "transitions/VL0147-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0147.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0147.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "checker",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0148",
+    "type": "transition",
+    "title": "Checker Bloom 03",
+    "category": "Checker Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "checker",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0148.json",
+    "files": [
+      "transitions/VL0148.json",
+      "transitions/VL0148-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0148.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0148.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "checker",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0149",
+    "type": "transition",
+    "title": "Checker Bloom 04",
+    "category": "Checker Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "checker",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0149.json",
+    "files": [
+      "transitions/VL0149.json",
+      "transitions/VL0149-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0149.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0149.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "checker",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0150",
+    "type": "transition",
+    "title": "Checker Bloom 05",
+    "category": "Checker Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "checker",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0150.json",
+    "files": [
+      "transitions/VL0150.json",
+      "transitions/VL0150-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0150.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0150.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "checker",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0151",
+    "type": "transition",
+    "title": "Liquid Wave 01",
+    "category": "Liquid Wave",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "waves",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0151.json",
+    "files": [
+      "transitions/VL0151.json",
+      "transitions/VL0151-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0151.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0151.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "waves",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0152",
+    "type": "transition",
+    "title": "Liquid Wave 02",
+    "category": "Liquid Wave",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "waves",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0152.json",
+    "files": [
+      "transitions/VL0152.json",
+      "transitions/VL0152-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0152.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0152.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "waves",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0153",
+    "type": "transition",
+    "title": "Liquid Wave 03",
+    "category": "Liquid Wave",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "waves",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0153.json",
+    "files": [
+      "transitions/VL0153.json",
+      "transitions/VL0153-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0153.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0153.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "waves",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0154",
+    "type": "transition",
+    "title": "Liquid Wave 04",
+    "category": "Liquid Wave",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "waves",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0154.json",
+    "files": [
+      "transitions/VL0154.json",
+      "transitions/VL0154-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0154.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0154.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "waves",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0155",
+    "type": "transition",
+    "title": "Liquid Wave 05",
+    "category": "Liquid Wave",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "waves",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0155.json",
+    "files": [
+      "transitions/VL0155.json",
+      "transitions/VL0155-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0155.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0155.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "waves",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0156",
+    "type": "transition",
+    "title": "Radial Ripple 01",
+    "category": "Radial Ripple",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ripple",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0156.json",
+    "files": [
+      "transitions/VL0156.json",
+      "transitions/VL0156-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0156.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0156.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ripple",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0157",
+    "type": "transition",
+    "title": "Radial Ripple 02",
+    "category": "Radial Ripple",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ripple",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0157.json",
+    "files": [
+      "transitions/VL0157.json",
+      "transitions/VL0157-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0157.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0157.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ripple",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0158",
+    "type": "transition",
+    "title": "Radial Ripple 03",
+    "category": "Radial Ripple",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ripple",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0158.json",
+    "files": [
+      "transitions/VL0158.json",
+      "transitions/VL0158-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0158.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0158.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ripple",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0159",
+    "type": "transition",
+    "title": "Radial Ripple 04",
+    "category": "Radial Ripple",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ripple",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0159.json",
+    "files": [
+      "transitions/VL0159.json",
+      "transitions/VL0159-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0159.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0159.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ripple",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0160",
+    "type": "transition",
+    "title": "Radial Ripple 05",
+    "category": "Radial Ripple",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ripple",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0160.json",
+    "files": [
+      "transitions/VL0160.json",
+      "transitions/VL0160-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0160.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0160.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ripple",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0161",
+    "type": "transition",
+    "title": "Hex Cascade 01",
+    "category": "Hex Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "hex",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0161.json",
+    "files": [
+      "transitions/VL0161.json",
+      "transitions/VL0161-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0161.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0161.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "hex",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0162",
+    "type": "transition",
+    "title": "Hex Cascade 02",
+    "category": "Hex Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "hex",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0162.json",
+    "files": [
+      "transitions/VL0162.json",
+      "transitions/VL0162-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0162.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0162.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "hex",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0163",
+    "type": "transition",
+    "title": "Hex Cascade 03",
+    "category": "Hex Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "hex",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0163.json",
+    "files": [
+      "transitions/VL0163.json",
+      "transitions/VL0163-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0163.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0163.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "hex",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0164",
+    "type": "transition",
+    "title": "Hex Cascade 04",
+    "category": "Hex Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "hex",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0164.json",
+    "files": [
+      "transitions/VL0164.json",
+      "transitions/VL0164-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0164.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0164.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "hex",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0165",
+    "type": "transition",
+    "title": "Hex Cascade 05",
+    "category": "Hex Cascade",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "hex",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0165.json",
+    "files": [
+      "transitions/VL0165.json",
+      "transitions/VL0165-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0165.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0165.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "hex",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0166",
+    "type": "transition",
+    "title": "Arrow Fold 01",
+    "category": "Arrow Fold",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "chevron",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0166.json",
+    "files": [
+      "transitions/VL0166.json",
+      "transitions/VL0166-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0166.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0166.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "chevron",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0167",
+    "type": "transition",
+    "title": "Arrow Fold 02",
+    "category": "Arrow Fold",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "chevron",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0167.json",
+    "files": [
+      "transitions/VL0167.json",
+      "transitions/VL0167-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0167.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0167.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "chevron",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0168",
+    "type": "transition",
+    "title": "Arrow Fold 03",
+    "category": "Arrow Fold",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "chevron",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0168.json",
+    "files": [
+      "transitions/VL0168.json",
+      "transitions/VL0168-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0168.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0168.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "chevron",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0169",
+    "type": "transition",
+    "title": "Arrow Fold 04",
+    "category": "Arrow Fold",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "chevron",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0169.json",
+    "files": [
+      "transitions/VL0169.json",
+      "transitions/VL0169-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0169.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0169.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "chevron",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0170",
+    "type": "transition",
+    "title": "Arrow Fold 05",
+    "category": "Arrow Fold",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "chevron",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0170.json",
+    "files": [
+      "transitions/VL0170.json",
+      "transitions/VL0170-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0170.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0170.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "chevron",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0171",
+    "type": "transition",
+    "title": "Sawtooth Slide 01",
+    "category": "Sawtooth Slide",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "zigzag",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0171.json",
+    "files": [
+      "transitions/VL0171.json",
+      "transitions/VL0171-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0171.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0171.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "zigzag",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0172",
+    "type": "transition",
+    "title": "Sawtooth Slide 02",
+    "category": "Sawtooth Slide",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "zigzag",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0172.json",
+    "files": [
+      "transitions/VL0172.json",
+      "transitions/VL0172-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0172.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0172.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "zigzag",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0173",
+    "type": "transition",
+    "title": "Sawtooth Slide 03",
+    "category": "Sawtooth Slide",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "zigzag",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0173.json",
+    "files": [
+      "transitions/VL0173.json",
+      "transitions/VL0173-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0173.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0173.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "zigzag",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0174",
+    "type": "transition",
+    "title": "Sawtooth Slide 04",
+    "category": "Sawtooth Slide",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "zigzag",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0174.json",
+    "files": [
+      "transitions/VL0174.json",
+      "transitions/VL0174-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0174.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0174.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "zigzag",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0175",
+    "type": "transition",
+    "title": "Sawtooth Slide 05",
+    "category": "Sawtooth Slide",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "zigzag",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0175.json",
+    "files": [
+      "transitions/VL0175.json",
+      "transitions/VL0175-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0175.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0175.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "zigzag",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0176",
+    "type": "transition",
+    "title": "Film Gate Lift 01",
+    "category": "Film Gate Lift",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "film_gate",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0176.json",
+    "files": [
+      "transitions/VL0176.json",
+      "transitions/VL0176-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0176.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0176.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "film_gate",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0177",
+    "type": "transition",
+    "title": "Film Gate Lift 02",
+    "category": "Film Gate Lift",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "film_gate",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0177.json",
+    "files": [
+      "transitions/VL0177.json",
+      "transitions/VL0177-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0177.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0177.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "film_gate",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0178",
+    "type": "transition",
+    "title": "Film Gate Lift 03",
+    "category": "Film Gate Lift",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "film_gate",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0178.json",
+    "files": [
+      "transitions/VL0178.json",
+      "transitions/VL0178-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0178.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0178.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "film_gate",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0179",
+    "type": "transition",
+    "title": "Film Gate Lift 04",
+    "category": "Film Gate Lift",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "film_gate",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0179.json",
+    "files": [
+      "transitions/VL0179.json",
+      "transitions/VL0179-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0179.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0179.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "film_gate",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0180",
+    "type": "transition",
+    "title": "Film Gate Lift 05",
+    "category": "Film Gate Lift",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "film_gate",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0180.json",
+    "files": [
+      "transitions/VL0180.json",
+      "transitions/VL0180-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0180.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0180.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "film_gate",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0181",
+    "type": "transition",
+    "title": "Organic Cloud 01",
+    "category": "Organic Cloud",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "cloud",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0181.json",
+    "files": [
+      "transitions/VL0181.json",
+      "transitions/VL0181-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0181.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0181.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "cloud",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0182",
+    "type": "transition",
+    "title": "Organic Cloud 02",
+    "category": "Organic Cloud",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "cloud",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0182.json",
+    "files": [
+      "transitions/VL0182.json",
+      "transitions/VL0182-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0182.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0182.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "cloud",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0183",
+    "type": "transition",
+    "title": "Organic Cloud 03",
+    "category": "Organic Cloud",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "cloud",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0183.json",
+    "files": [
+      "transitions/VL0183.json",
+      "transitions/VL0183-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0183.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0183.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "cloud",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0184",
+    "type": "transition",
+    "title": "Organic Cloud 04",
+    "category": "Organic Cloud",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "cloud",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0184.json",
+    "files": [
+      "transitions/VL0184.json",
+      "transitions/VL0184-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0184.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0184.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "cloud",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0185",
+    "type": "transition",
+    "title": "Organic Cloud 05",
+    "category": "Organic Cloud",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "cloud",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0185.json",
+    "files": [
+      "transitions/VL0185.json",
+      "transitions/VL0185-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0185.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0185.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "cloud",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0186",
+    "type": "transition",
+    "title": "Ink Bloom 01",
+    "category": "Ink Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ink",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0186.json",
+    "files": [
+      "transitions/VL0186.json",
+      "transitions/VL0186-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0186.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0186.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ink",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0187",
+    "type": "transition",
+    "title": "Ink Bloom 02",
+    "category": "Ink Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ink",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0187.json",
+    "files": [
+      "transitions/VL0187.json",
+      "transitions/VL0187-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0187.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0187.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ink",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0188",
+    "type": "transition",
+    "title": "Ink Bloom 03",
+    "category": "Ink Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ink",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0188.json",
+    "files": [
+      "transitions/VL0188.json",
+      "transitions/VL0188-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0188.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0188.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ink",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0189",
+    "type": "transition",
+    "title": "Ink Bloom 04",
+    "category": "Ink Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ink",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0189.json",
+    "files": [
+      "transitions/VL0189.json",
+      "transitions/VL0189-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0189.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0189.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ink",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0190",
+    "type": "transition",
+    "title": "Ink Bloom 05",
+    "category": "Ink Bloom",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "ink",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0190.json",
+    "files": [
+      "transitions/VL0190.json",
+      "transitions/VL0190-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0190.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0190.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "ink",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0191",
+    "type": "transition",
+    "title": "Petal Aperture 01",
+    "category": "Petal Aperture",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "petal",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0191.json",
+    "files": [
+      "transitions/VL0191.json",
+      "transitions/VL0191-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0191.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0191.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "petal",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0192",
+    "type": "transition",
+    "title": "Petal Aperture 02",
+    "category": "Petal Aperture",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "petal",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0192.json",
+    "files": [
+      "transitions/VL0192.json",
+      "transitions/VL0192-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0192.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0192.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "petal",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0193",
+    "type": "transition",
+    "title": "Petal Aperture 03",
+    "category": "Petal Aperture",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "petal",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0193.json",
+    "files": [
+      "transitions/VL0193.json",
+      "transitions/VL0193-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0193.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0193.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "petal",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0194",
+    "type": "transition",
+    "title": "Petal Aperture 04",
+    "category": "Petal Aperture",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "petal",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0194.json",
+    "files": [
+      "transitions/VL0194.json",
+      "transitions/VL0194-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0194.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0194.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "petal",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0195",
+    "type": "transition",
+    "title": "Petal Aperture 05",
+    "category": "Petal Aperture",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "petal",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0195.json",
+    "files": [
+      "transitions/VL0195.json",
+      "transitions/VL0195-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0195.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0195.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "petal",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0196",
+    "type": "transition",
+    "title": "Box Split 01",
+    "category": "Box Split",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "split",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0196.json",
+    "files": [
+      "transitions/VL0196.json",
+      "transitions/VL0196-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0196.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0196.mp4",
+    "duration": 0.8,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "split",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0197",
+    "type": "transition",
+    "title": "Box Split 02",
+    "category": "Box Split",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "split",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0197.json",
+    "files": [
+      "transitions/VL0197.json",
+      "transitions/VL0197-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0197.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0197.mp4",
+    "duration": 0.9,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "split",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0198",
+    "type": "transition",
+    "title": "Box Split 03",
+    "category": "Box Split",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "split",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0198.json",
+    "files": [
+      "transitions/VL0198.json",
+      "transitions/VL0198-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0198.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0198.mp4",
+    "duration": 1.0,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "split",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0199",
+    "type": "transition",
+    "title": "Box Split 04",
+    "category": "Box Split",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "split",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0199.json",
+    "files": [
+      "transitions/VL0199.json",
+      "transitions/VL0199-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0199.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0199.mp4",
+    "duration": 1.1,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "split",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  },
+  {
+    "id": "VL0200",
+    "type": "transition",
+    "title": "Box Split 05",
+    "category": "Box Split",
+    "tags": [
+      "vlog",
+      "montage",
+      "transition",
+      "reveal",
+      "split",
+      "peralihan"
+    ],
+    "use_cases": [
+      "Travel vlog scene change",
+      "Music montage beat change",
+      "Explainer or product scene reveal"
+    ],
+    "format": "json+mp4",
+    "file": "transitions/VL0200.json",
+    "files": [
+      "transitions/VL0200.json",
+      "transitions/VL0200-matte.mp4"
+    ],
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0200.webp",
+    "preview_video": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/transitions/VL0200.mp4",
+    "duration": 1.2,
+    "technical": {
+      "white_reveals": "B",
+      "normalized_time": true,
+      "matte_resolution": [
+        640,
+        360
+      ],
+      "matte_fps": 30,
+      "matte_codec": "H.264 grayscale encoded as yuv420p",
+      "source_resolution_independent": true,
+      "source_family": "split",
+      "temporal_easing": "smoothstep",
+      "alpha": "grayscale matte, not embedded alpha",
+      "audio": false
+    }
+  }
+]

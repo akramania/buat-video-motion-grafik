@@ -1,0 +1,3702 @@
+[
+  {
+    "id": "VL0301",
+    "type": "vlog-graphic",
+    "title": "Recording HUD / Composition 01",
+    "category": "HUD rakaman",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "recording-hud",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Rakaman POV dan pembukaan vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0301.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0301.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0302",
+    "type": "vlog-graphic",
+    "title": "Recording HUD / Composition 02",
+    "category": "HUD rakaman",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "recording-hud",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Rakaman POV dan pembukaan vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0302.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0302.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0303",
+    "type": "vlog-graphic",
+    "title": "Recording HUD / Composition 03",
+    "category": "HUD rakaman",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "recording-hud",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Rakaman POV dan pembukaan vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0303.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0303.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0304",
+    "type": "vlog-graphic",
+    "title": "Recording HUD / Composition 04",
+    "category": "HUD rakaman",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "recording-hud",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Rakaman POV dan pembukaan vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0304.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0304.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0305",
+    "type": "vlog-graphic",
+    "title": "Recording HUD / Composition 05",
+    "category": "HUD rakaman",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "recording-hud",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Rakaman POV dan pembukaan vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0305.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0305.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0306",
+    "type": "vlog-graphic",
+    "title": "Travel stamp / Composition 01",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "travel-stamp",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Cap destinasi dan montaj perjalanan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0306.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0306.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0307",
+    "type": "vlog-graphic",
+    "title": "Travel stamp / Composition 02",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "travel-stamp",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Cap destinasi dan montaj perjalanan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0307.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0307.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0308",
+    "type": "vlog-graphic",
+    "title": "Travel stamp / Composition 03",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "travel-stamp",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Cap destinasi dan montaj perjalanan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0308.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0308.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0309",
+    "type": "vlog-graphic",
+    "title": "Travel stamp / Composition 04",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "travel-stamp",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Cap destinasi dan montaj perjalanan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0309.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0309.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0310",
+    "type": "vlog-graphic",
+    "title": "Travel stamp / Composition 05",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "travel-stamp",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Cap destinasi dan montaj perjalanan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0310.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0310.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0311",
+    "type": "vlog-graphic",
+    "title": "Map route / Composition 01",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "map-route",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Menunjukkan perjalanan antara lokasi",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0311.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0311.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0312",
+    "type": "vlog-graphic",
+    "title": "Map route / Composition 02",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "map-route",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Menunjukkan perjalanan antara lokasi",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0312.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0312.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0313",
+    "type": "vlog-graphic",
+    "title": "Map route / Composition 03",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "map-route",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Menunjukkan perjalanan antara lokasi",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0313.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0313.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0314",
+    "type": "vlog-graphic",
+    "title": "Map route / Composition 04",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "map-route",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Menunjukkan perjalanan antara lokasi",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0314.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0314.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0315",
+    "type": "vlog-graphic",
+    "title": "Map route / Composition 05",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "map-route",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Menunjukkan perjalanan antara lokasi",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0315.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0315.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0316",
+    "type": "vlog-graphic",
+    "title": "Location card / Composition 01",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "location-pin",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Memperkenalkan lokasi semasa",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0316.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0316.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0317",
+    "type": "vlog-graphic",
+    "title": "Location card / Composition 02",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "location-pin",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Memperkenalkan lokasi semasa",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0317.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0317.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0318",
+    "type": "vlog-graphic",
+    "title": "Location card / Composition 03",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "location-pin",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Memperkenalkan lokasi semasa",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0318.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0318.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0319",
+    "type": "vlog-graphic",
+    "title": "Location card / Composition 04",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "location-pin",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Memperkenalkan lokasi semasa",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0319.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0319.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0320",
+    "type": "vlog-graphic",
+    "title": "Location card / Composition 05",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "location-pin",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Memperkenalkan lokasi semasa",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0320.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0320.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0321",
+    "type": "vlog-graphic",
+    "title": "Day chapter / Composition 01",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "day-chapter",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Pembahagian hari atau bab vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0321.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0321.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0322",
+    "type": "vlog-graphic",
+    "title": "Day chapter / Composition 02",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "day-chapter",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Pembahagian hari atau bab vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0322.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0322.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0323",
+    "type": "vlog-graphic",
+    "title": "Day chapter / Composition 03",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "day-chapter",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Pembahagian hari atau bab vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0323.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0323.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0324",
+    "type": "vlog-graphic",
+    "title": "Day chapter / Composition 04",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "day-chapter",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Pembahagian hari atau bab vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0324.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0324.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0325",
+    "type": "vlog-graphic",
+    "title": "Day chapter / Composition 05",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "day-chapter",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Pembahagian hari atau bab vlog",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0325.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0325.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0326",
+    "type": "vlog-graphic",
+    "title": "Episode badge / Composition 01",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "episode-badge",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Pembukaan siri dan penanda episod",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0326.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0326.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0327",
+    "type": "vlog-graphic",
+    "title": "Episode badge / Composition 02",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "episode-badge",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Pembukaan siri dan penanda episod",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0327.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0327.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0328",
+    "type": "vlog-graphic",
+    "title": "Episode badge / Composition 03",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "episode-badge",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Pembukaan siri dan penanda episod",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0328.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0328.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0329",
+    "type": "vlog-graphic",
+    "title": "Episode badge / Composition 04",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "episode-badge",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Pembukaan siri dan penanda episod",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0329.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0329.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0330",
+    "type": "vlog-graphic",
+    "title": "Episode badge / Composition 05",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "episode-badge",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Pembukaan siri dan penanda episod",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0330.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0330.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0331",
+    "type": "vlog-graphic",
+    "title": "Caption callout / Composition 01",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "caption-callout",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Komen ringkas dan highlight moment",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0331.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0331.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0332",
+    "type": "vlog-graphic",
+    "title": "Caption callout / Composition 02",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "caption-callout",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Komen ringkas dan highlight moment",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0332.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0332.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0333",
+    "type": "vlog-graphic",
+    "title": "Caption callout / Composition 03",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "caption-callout",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Komen ringkas dan highlight moment",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0333.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0333.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0334",
+    "type": "vlog-graphic",
+    "title": "Caption callout / Composition 04",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "caption-callout",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Komen ringkas dan highlight moment",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0334.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0334.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0335",
+    "type": "vlog-graphic",
+    "title": "Caption callout / Composition 05",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "caption-callout",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Komen ringkas dan highlight moment",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0335.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0335.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0336",
+    "type": "vlog-graphic",
+    "title": "Engagement prompt / Composition 01",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "engagement",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Ajakan mengikuti, komen atau simpan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0336.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0336.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0337",
+    "type": "vlog-graphic",
+    "title": "Engagement prompt / Composition 02",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "engagement",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Ajakan mengikuti, komen atau simpan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0337.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0337.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0338",
+    "type": "vlog-graphic",
+    "title": "Engagement prompt / Composition 03",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "engagement",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Ajakan mengikuti, komen atau simpan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0338.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0338.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0339",
+    "type": "vlog-graphic",
+    "title": "Engagement prompt / Composition 04",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "engagement",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Ajakan mengikuti, komen atau simpan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0339.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0339.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0340",
+    "type": "vlog-graphic",
+    "title": "Engagement prompt / Composition 05",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "engagement",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Ajakan mengikuti, komen atau simpan",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0340.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0340.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0341",
+    "type": "vlog-graphic",
+    "title": "Creator lower third / Composition 01",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "lower-third",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Nama hos dan maklumat ringkas",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0341.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0341.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0342",
+    "type": "vlog-graphic",
+    "title": "Creator lower third / Composition 02",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "lower-third",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Nama hos dan maklumat ringkas",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0342.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0342.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0343",
+    "type": "vlog-graphic",
+    "title": "Creator lower third / Composition 03",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "lower-third",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Nama hos dan maklumat ringkas",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0343.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0343.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0344",
+    "type": "vlog-graphic",
+    "title": "Creator lower third / Composition 04",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "lower-third",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Nama hos dan maklumat ringkas",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0344.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0344.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0345",
+    "type": "vlog-graphic",
+    "title": "Creator lower third / Composition 05",
+    "category": "Captions & callouts",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "lower-third",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Nama hos dan maklumat ringkas",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0345.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0345.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0346",
+    "type": "vlog-graphic",
+    "title": "Time card / Composition 01",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "time-card",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Peralihan masa dan rutin harian",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0346.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0346.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0347",
+    "type": "vlog-graphic",
+    "title": "Time card / Composition 02",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "time-card",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Peralihan masa dan rutin harian",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0347.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0347.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0348",
+    "type": "vlog-graphic",
+    "title": "Time card / Composition 03",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "time-card",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Peralihan masa dan rutin harian",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0348.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0348.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0349",
+    "type": "vlog-graphic",
+    "title": "Time card / Composition 04",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "time-card",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Peralihan masa dan rutin harian",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0349.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0349.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0350",
+    "type": "vlog-graphic",
+    "title": "Time card / Composition 05",
+    "category": "Chapters & titles",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "time-card",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Peralihan masa dan rutin harian",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0350.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0350.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0351",
+    "type": "vlog-graphic",
+    "title": "Food review / Composition 01",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "food-review",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Vlog makanan, menu dan tasting",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0351.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0351.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0352",
+    "type": "vlog-graphic",
+    "title": "Food review / Composition 02",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "food-review",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Vlog makanan, menu dan tasting",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0352.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0352.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0353",
+    "type": "vlog-graphic",
+    "title": "Food review / Composition 03",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "food-review",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Vlog makanan, menu dan tasting",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0353.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0353.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0354",
+    "type": "vlog-graphic",
+    "title": "Food review / Composition 04",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "food-review",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Vlog makanan, menu dan tasting",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0354.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0354.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0355",
+    "type": "vlog-graphic",
+    "title": "Food review / Composition 05",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "food-review",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Vlog makanan, menu dan tasting",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0355.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0355.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0356",
+    "type": "vlog-graphic",
+    "title": "Review rating / Composition 01",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "rating",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Penilaian pengalaman dan produk",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0356.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0356.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0357",
+    "type": "vlog-graphic",
+    "title": "Review rating / Composition 02",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "rating",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Penilaian pengalaman dan produk",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0357.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0357.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0358",
+    "type": "vlog-graphic",
+    "title": "Review rating / Composition 03",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "rating",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Penilaian pengalaman dan produk",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0358.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0358.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0359",
+    "type": "vlog-graphic",
+    "title": "Review rating / Composition 04",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "rating",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Penilaian pengalaman dan produk",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0359.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0359.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0360",
+    "type": "vlog-graphic",
+    "title": "Review rating / Composition 05",
+    "category": "Reviews & lifestyle",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "rating",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Penilaian pengalaman dan produk",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0360.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0360.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0361",
+    "type": "vlog-graphic",
+    "title": "Camera and gear frame / Composition 01",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "gear-frame",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Sorotan kamera dan peralatan kreator",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0361.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0361.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0362",
+    "type": "vlog-graphic",
+    "title": "Camera and gear frame / Composition 02",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "gear-frame",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Sorotan kamera dan peralatan kreator",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0362.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0362.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0363",
+    "type": "vlog-graphic",
+    "title": "Camera and gear frame / Composition 03",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "gear-frame",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Sorotan kamera dan peralatan kreator",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0363.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0363.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0364",
+    "type": "vlog-graphic",
+    "title": "Camera and gear frame / Composition 04",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "gear-frame",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Sorotan kamera dan peralatan kreator",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0364.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0364.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0365",
+    "type": "vlog-graphic",
+    "title": "Camera and gear frame / Composition 05",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "gear-frame",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Sorotan kamera dan peralatan kreator",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0365.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0365.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0366",
+    "type": "vlog-graphic",
+    "title": "Journey ticket / Composition 01",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "journey-ticket",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Kad perjalanan dan ringkasan trip",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0366.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0366.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0367",
+    "type": "vlog-graphic",
+    "title": "Journey ticket / Composition 02",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "journey-ticket",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Kad perjalanan dan ringkasan trip",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0367.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0367.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0368",
+    "type": "vlog-graphic",
+    "title": "Journey ticket / Composition 03",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "journey-ticket",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Kad perjalanan dan ringkasan trip",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0368.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0368.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0369",
+    "type": "vlog-graphic",
+    "title": "Journey ticket / Composition 04",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "journey-ticket",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Kad perjalanan dan ringkasan trip",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0369.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0369.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0370",
+    "type": "vlog-graphic",
+    "title": "Journey ticket / Composition 05",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "journey-ticket",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Kad perjalanan dan ringkasan trip",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0370.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0370.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0371",
+    "type": "vlog-graphic",
+    "title": "Weather cue / Composition 01",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "weather-cue",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Menunjukkan suasana dan cuaca",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0371.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0371.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0372",
+    "type": "vlog-graphic",
+    "title": "Weather cue / Composition 02",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "weather-cue",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Menunjukkan suasana dan cuaca",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0372.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0372.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0373",
+    "type": "vlog-graphic",
+    "title": "Weather cue / Composition 03",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "weather-cue",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Menunjukkan suasana dan cuaca",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0373.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0373.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0374",
+    "type": "vlog-graphic",
+    "title": "Weather cue / Composition 04",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "weather-cue",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Menunjukkan suasana dan cuaca",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0374.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0374.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0375",
+    "type": "vlog-graphic",
+    "title": "Weather cue / Composition 05",
+    "category": "Travel & journey",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "weather-cue",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Menunjukkan suasana dan cuaca",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0375.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0375.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0376",
+    "type": "vlog-graphic",
+    "title": "Photo moment / Composition 01",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "photo-moment",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Foto, kenangan dan highlight montaj",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0376.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0376.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0377",
+    "type": "vlog-graphic",
+    "title": "Photo moment / Composition 02",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "photo-moment",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Foto, kenangan dan highlight montaj",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0377.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0377.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0378",
+    "type": "vlog-graphic",
+    "title": "Photo moment / Composition 03",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "photo-moment",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Foto, kenangan dan highlight montaj",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0378.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0378.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0379",
+    "type": "vlog-graphic",
+    "title": "Photo moment / Composition 04",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "photo-moment",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Foto, kenangan dan highlight montaj",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0379.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0379.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0380",
+    "type": "vlog-graphic",
+    "title": "Photo moment / Composition 05",
+    "category": "Frames & photography",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "photo-moment",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Foto, kenangan dan highlight montaj",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0380.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0380.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0381",
+    "type": "vlog-graphic",
+    "title": "Vlog checklist / Composition 01",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "checklist",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Rutin, persediaan dan senarai aktiviti",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0381.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0381.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0382",
+    "type": "vlog-graphic",
+    "title": "Vlog checklist / Composition 02",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "checklist",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Rutin, persediaan dan senarai aktiviti",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0382.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0382.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0383",
+    "type": "vlog-graphic",
+    "title": "Vlog checklist / Composition 03",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "checklist",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Rutin, persediaan dan senarai aktiviti",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0383.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0383.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0384",
+    "type": "vlog-graphic",
+    "title": "Vlog checklist / Composition 04",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "checklist",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Rutin, persediaan dan senarai aktiviti",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0384.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0384.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0385",
+    "type": "vlog-graphic",
+    "title": "Vlog checklist / Composition 05",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "checklist",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Rutin, persediaan dan senarai aktiviti",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0385.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0385.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0386",
+    "type": "vlog-graphic",
+    "title": "Question sticker / Composition 01",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "question-sticker",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Soalan penonton dan Q&A",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0386.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0386.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0387",
+    "type": "vlog-graphic",
+    "title": "Question sticker / Composition 02",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "question-sticker",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Soalan penonton dan Q&A",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0387.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0387.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0388",
+    "type": "vlog-graphic",
+    "title": "Question sticker / Composition 03",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "question-sticker",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Soalan penonton dan Q&A",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0388.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0388.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0389",
+    "type": "vlog-graphic",
+    "title": "Question sticker / Composition 04",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "question-sticker",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Soalan penonton dan Q&A",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0389.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0389.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0390",
+    "type": "vlog-graphic",
+    "title": "Question sticker / Composition 05",
+    "category": "Engagement",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "question-sticker",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Soalan penonton dan Q&A",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0390.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0390.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0391",
+    "type": "vlog-graphic",
+    "title": "Story progress / Composition 01",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "story-progress",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Kemajuan cabaran dan perjalanan cerita",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0391.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0391.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0392",
+    "type": "vlog-graphic",
+    "title": "Story progress / Composition 02",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "story-progress",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Kemajuan cabaran dan perjalanan cerita",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0392.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0392.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0393",
+    "type": "vlog-graphic",
+    "title": "Story progress / Composition 03",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "story-progress",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Kemajuan cabaran dan perjalanan cerita",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0393.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0393.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0394",
+    "type": "vlog-graphic",
+    "title": "Story progress / Composition 04",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "story-progress",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Kemajuan cabaran dan perjalanan cerita",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0394.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0394.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0395",
+    "type": "vlog-graphic",
+    "title": "Story progress / Composition 05",
+    "category": "Planning & progress",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "story-progress",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Kemajuan cabaran dan perjalanan cerita",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0395.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0395.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  },
+  {
+    "id": "VL0396",
+    "type": "vlog-graphic",
+    "title": "Audio and music indicator / Composition 01",
+    "category": "Audio & rhythm",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "audio-indicator",
+      "composition-1"
+    ],
+    "use_cases": [
+      "Sorotan muzik, dialog dan suasana",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0396.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0396.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Stroke-reveal HUD corners, blink recording dot, fade text in; exit with 6-frame fade."
+  },
+  {
+    "id": "VL0397",
+    "type": "vlog-graphic",
+    "title": "Audio and music indicator / Composition 02",
+    "category": "Audio & rhythm",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "audio-indicator",
+      "composition-2"
+    ],
+    "use_cases": [
+      "Sorotan muzik, dialog dan suasana",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0397.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0397.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Scale badge from 94% with gentle ease-out; stagger the title and decorative mark."
+  },
+  {
+    "id": "VL0398",
+    "type": "vlog-graphic",
+    "title": "Audio and music indicator / Composition 03",
+    "category": "Audio & rhythm",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "audio-indicator",
+      "composition-3"
+    ],
+    "use_cases": [
+      "Sorotan muzik, dialog dan suasana",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0398.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0398.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Draw the route or frame path before revealing its label; drift artwork 3 px during hold."
+  },
+  {
+    "id": "VL0399",
+    "type": "vlog-graphic",
+    "title": "Audio and music indicator / Composition 04",
+    "category": "Audio & rhythm",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "audio-indicator",
+      "composition-4"
+    ],
+    "use_cases": [
+      "Sorotan muzik, dialog dan suasana",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0399.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0399.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Slide composition upward 18 px with cubic ease-out; accent layer follows after 0.08 s."
+  },
+  {
+    "id": "VL0400",
+    "type": "vlog-graphic",
+    "title": "Audio and music indicator / Composition 05",
+    "category": "Audio & rhythm",
+    "tags": [
+      "vlog",
+      "vector",
+      "editable",
+      "transparent",
+      "audio-indicator",
+      "composition-5"
+    ],
+    "use_cases": [
+      "Sorotan muzik, dialog dan suasana",
+      "Vlogging, creator videos and personal montage"
+    ],
+    "format": "svg",
+    "file": "graphics_vlog/VL0400.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_vlog/VL0400.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360",
+      "width": 640,
+      "height": 360,
+      "layers": [
+        "main",
+        "accent",
+        "details",
+        "text"
+      ],
+      "color_space": "sRGB",
+      "editable": true,
+      "text": "Editable SVG text using DejaVu Sans / generic sans-serif; outline with the target editor if needed."
+    },
+    "suggested_motion": "Reveal card with a short clip wipe; pulse its focus detail once; exit with downward fade."
+  }
+]

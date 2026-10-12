@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "VL0001",
+    "type": "lut",
+    "title": "Amber Diary · Balanced",
+    "category": "Everyday warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "amber diary",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "daily diaries, home routines, warm travel memories",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0001.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0001.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0002",
+    "type": "lut",
+    "title": "Amber Diary · Backlight",
+    "category": "Everyday warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "amber diary",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "daily diaries, home routines, warm travel memories",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0002.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0002.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0003",
+    "type": "lut",
+    "title": "Amber Diary · Indoor",
+    "category": "Everyday warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "amber diary",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "daily diaries, home routines, warm travel memories",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0003.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0003.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0004",
+    "type": "lut",
+    "title": "Amber Diary · Lowlight",
+    "category": "Everyday warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "amber diary",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "daily diaries, home routines, warm travel memories",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0004.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0004.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0005",
+    "type": "lut",
+    "title": "Amber Diary · Bold",
+    "category": "Everyday warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "amber diary",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "daily diaries, home routines, warm travel memories",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0005.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0005.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0006",
+    "type": "lut",
+    "title": "Coastal Air · Balanced",
+    "category": "Coastal travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "coastal air",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "beach trips, water sports, island montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0006.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0006.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0007",
+    "type": "lut",
+    "title": "Coastal Air · Backlight",
+    "category": "Coastal travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "coastal air",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "beach trips, water sports, island montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0007.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0007.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0008",
+    "type": "lut",
+    "title": "Coastal Air · Indoor",
+    "category": "Coastal travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "coastal air",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "beach trips, water sports, island montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0008.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0008.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0009",
+    "type": "lut",
+    "title": "Coastal Air · Lowlight",
+    "category": "Coastal travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "coastal air",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "beach trips, water sports, island montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0009.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0009.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0010",
+    "type": "lut",
+    "title": "Coastal Air · Bold",
+    "category": "Coastal travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "coastal air",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "beach trips, water sports, island montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0010.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0010.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0011",
+    "type": "lut",
+    "title": "Alpine Pine · Balanced",
+    "category": "Nature travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "alpine pine",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "forest hikes, mountains, outdoor journals",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0011.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0011.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0012",
+    "type": "lut",
+    "title": "Alpine Pine · Backlight",
+    "category": "Nature travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "alpine pine",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "forest hikes, mountains, outdoor journals",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0012.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0012.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0013",
+    "type": "lut",
+    "title": "Alpine Pine · Indoor",
+    "category": "Nature travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "alpine pine",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "forest hikes, mountains, outdoor journals",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0013.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0013.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0014",
+    "type": "lut",
+    "title": "Alpine Pine · Lowlight",
+    "category": "Nature travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "alpine pine",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "forest hikes, mountains, outdoor journals",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0014.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0014.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0015",
+    "type": "lut",
+    "title": "Alpine Pine · Bold",
+    "category": "Nature travel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "alpine pine",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "forest hikes, mountains, outdoor journals",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0015.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0015.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0016",
+    "type": "lut",
+    "title": "Tropical Pop · Balanced",
+    "category": "Nature vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "tropical pop",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "tropical holidays, parks, vivid destination reels",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0016.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0016.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0017",
+    "type": "lut",
+    "title": "Tropical Pop · Backlight",
+    "category": "Nature vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "tropical pop",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "tropical holidays, parks, vivid destination reels",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0017.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0017.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0018",
+    "type": "lut",
+    "title": "Tropical Pop · Indoor",
+    "category": "Nature vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "tropical pop",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "tropical holidays, parks, vivid destination reels",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0018.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0018.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0019",
+    "type": "lut",
+    "title": "Tropical Pop · Lowlight",
+    "category": "Nature vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "tropical pop",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "tropical holidays, parks, vivid destination reels",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0019.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0019.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0020",
+    "type": "lut",
+    "title": "Tropical Pop · Bold",
+    "category": "Nature vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "tropical pop",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "tropical holidays, parks, vivid destination reels",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0020.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0020.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0021",
+    "type": "lut",
+    "title": "Desert Rose · Balanced",
+    "category": "Warm pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "desert rose",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "sand landscapes, road trips, soft warm montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0021.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0021.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0022",
+    "type": "lut",
+    "title": "Desert Rose · Backlight",
+    "category": "Warm pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "desert rose",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "sand landscapes, road trips, soft warm montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0022.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0022.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0023",
+    "type": "lut",
+    "title": "Desert Rose · Indoor",
+    "category": "Warm pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "desert rose",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "sand landscapes, road trips, soft warm montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0023.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0023.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0024",
+    "type": "lut",
+    "title": "Desert Rose · Lowlight",
+    "category": "Warm pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "desert rose",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "sand landscapes, road trips, soft warm montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0024.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0024.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0025",
+    "type": "lut",
+    "title": "Desert Rose · Bold",
+    "category": "Warm pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "desert rose",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "sand landscapes, road trips, soft warm montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0025.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0025.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0026",
+    "type": "lut",
+    "title": "Urban Steel · Balanced",
+    "category": "Urban cool",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "urban steel",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "city walks, architecture, high contrast urban b-roll",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0026.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0026.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0027",
+    "type": "lut",
+    "title": "Urban Steel · Backlight",
+    "category": "Urban cool",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "urban steel",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "city walks, architecture, high contrast urban b-roll",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0027.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0027.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0028",
+    "type": "lut",
+    "title": "Urban Steel · Indoor",
+    "category": "Urban cool",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "urban steel",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "city walks, architecture, high contrast urban b-roll",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0028.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0028.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0029",
+    "type": "lut",
+    "title": "Urban Steel · Lowlight",
+    "category": "Urban cool",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "urban steel",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "city walks, architecture, high contrast urban b-roll",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0029.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0029.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0030",
+    "type": "lut",
+    "title": "Urban Steel · Bold",
+    "category": "Urban cool",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "urban steel",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "city walks, architecture, high contrast urban b-roll",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0030.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0030.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0031",
+    "type": "lut",
+    "title": "Neon Nights · Balanced",
+    "category": "Night colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "neon nights",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "night streets, concert diaries, neon city montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0031.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0031.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0032",
+    "type": "lut",
+    "title": "Neon Nights · Backlight",
+    "category": "Night colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "neon nights",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "night streets, concert diaries, neon city montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0032.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0032.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0033",
+    "type": "lut",
+    "title": "Neon Nights · Indoor",
+    "category": "Night colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "neon nights",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "night streets, concert diaries, neon city montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0033.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0033.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0034",
+    "type": "lut",
+    "title": "Neon Nights · Lowlight",
+    "category": "Night colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "neon nights",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "night streets, concert diaries, neon city montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0034.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0034.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0035",
+    "type": "lut",
+    "title": "Neon Nights · Bold",
+    "category": "Night colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "neon nights",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "night streets, concert diaries, neon city montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0035.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0035.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0036",
+    "type": "lut",
+    "title": "Cafe Mocha · Balanced",
+    "category": "Food warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "cafe mocha",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "cafe visits, coffee preparation, cozy food vlogs",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0036.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0036.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0037",
+    "type": "lut",
+    "title": "Cafe Mocha · Backlight",
+    "category": "Food warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "cafe mocha",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "cafe visits, coffee preparation, cozy food vlogs",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0037.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0037.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0038",
+    "type": "lut",
+    "title": "Cafe Mocha · Indoor",
+    "category": "Food warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "cafe mocha",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "cafe visits, coffee preparation, cozy food vlogs",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0038.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0038.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0039",
+    "type": "lut",
+    "title": "Cafe Mocha · Lowlight",
+    "category": "Food warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "cafe mocha",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "cafe visits, coffee preparation, cozy food vlogs",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0039.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0039.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0040",
+    "type": "lut",
+    "title": "Cafe Mocha · Bold",
+    "category": "Food warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "cafe mocha",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "cafe visits, coffee preparation, cozy food vlogs",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0040.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0040.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0041",
+    "type": "lut",
+    "title": "Food Fresh · Balanced",
+    "category": "Food vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "food fresh",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "cooking closeups, fruit, fresh food promotional montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0041.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0041.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0042",
+    "type": "lut",
+    "title": "Food Fresh · Backlight",
+    "category": "Food vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "food fresh",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "cooking closeups, fruit, fresh food promotional montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0042.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0042.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0043",
+    "type": "lut",
+    "title": "Food Fresh · Indoor",
+    "category": "Food vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "food fresh",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "cooking closeups, fruit, fresh food promotional montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0043.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0043.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0044",
+    "type": "lut",
+    "title": "Food Fresh · Lowlight",
+    "category": "Food vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "food fresh",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "cooking closeups, fruit, fresh food promotional montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0044.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0044.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0045",
+    "type": "lut",
+    "title": "Food Fresh · Bold",
+    "category": "Food vivid",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "food fresh",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "cooking closeups, fruit, fresh food promotional montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0045.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0045.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0046",
+    "type": "lut",
+    "title": "Golden Wedding · Balanced",
+    "category": "Wedding warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "golden wedding",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "weddings, romantic celebrations, golden hour portraits",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0046.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0046.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0047",
+    "type": "lut",
+    "title": "Golden Wedding · Backlight",
+    "category": "Wedding warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "golden wedding",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "weddings, romantic celebrations, golden hour portraits",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0047.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0047.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0048",
+    "type": "lut",
+    "title": "Golden Wedding · Indoor",
+    "category": "Wedding warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "golden wedding",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "weddings, romantic celebrations, golden hour portraits",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0048.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0048.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0049",
+    "type": "lut",
+    "title": "Golden Wedding · Lowlight",
+    "category": "Wedding warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "golden wedding",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "weddings, romantic celebrations, golden hour portraits",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0049.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0049.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0050",
+    "type": "lut",
+    "title": "Golden Wedding · Bold",
+    "category": "Wedding warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "golden wedding",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "weddings, romantic celebrations, golden hour portraits",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0050.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0050.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0051",
+    "type": "lut",
+    "title": "Pearl Portrait · Balanced",
+    "category": "Portrait soft",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "pearl portrait",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "talking heads, beauty routines, gentle portrait montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0051.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0051.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0052",
+    "type": "lut",
+    "title": "Pearl Portrait · Backlight",
+    "category": "Portrait soft",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "pearl portrait",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "talking heads, beauty routines, gentle portrait montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0052.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0052.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0053",
+    "type": "lut",
+    "title": "Pearl Portrait · Indoor",
+    "category": "Portrait soft",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "pearl portrait",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "talking heads, beauty routines, gentle portrait montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0053.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0053.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0054",
+    "type": "lut",
+    "title": "Pearl Portrait · Lowlight",
+    "category": "Portrait soft",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "pearl portrait",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "talking heads, beauty routines, gentle portrait montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0054.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0054.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0055",
+    "type": "lut",
+    "title": "Pearl Portrait · Bold",
+    "category": "Portrait soft",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "pearl portrait",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "talking heads, beauty routines, gentle portrait montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0055.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0055.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0056",
+    "type": "lut",
+    "title": "Retro Print · Balanced",
+    "category": "Retro colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "retro print",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "memory reels, nostalgic travel, diary chapters",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0056.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0056.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0057",
+    "type": "lut",
+    "title": "Retro Print · Backlight",
+    "category": "Retro colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "retro print",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "memory reels, nostalgic travel, diary chapters",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0057.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0057.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0058",
+    "type": "lut",
+    "title": "Retro Print · Indoor",
+    "category": "Retro colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "retro print",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "memory reels, nostalgic travel, diary chapters",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0058.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0058.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0059",
+    "type": "lut",
+    "title": "Retro Print · Lowlight",
+    "category": "Retro colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "retro print",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "memory reels, nostalgic travel, diary chapters",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0059.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0059.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0060",
+    "type": "lut",
+    "title": "Retro Print · Bold",
+    "category": "Retro colour",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "retro print",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "memory reels, nostalgic travel, diary chapters",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0060.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0060.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0061",
+    "type": "lut",
+    "title": "Vintage Sepia · Balanced",
+    "category": "Monochrome warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "vintage sepia",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "heritage walks, archival style memory montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0061.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0061.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0062",
+    "type": "lut",
+    "title": "Vintage Sepia · Backlight",
+    "category": "Monochrome warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "vintage sepia",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "heritage walks, archival style memory montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0062.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0062.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0063",
+    "type": "lut",
+    "title": "Vintage Sepia · Indoor",
+    "category": "Monochrome warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "vintage sepia",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "heritage walks, archival style memory montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0063.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0063.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0064",
+    "type": "lut",
+    "title": "Vintage Sepia · Lowlight",
+    "category": "Monochrome warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "vintage sepia",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "heritage walks, archival style memory montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0064.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0064.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0065",
+    "type": "lut",
+    "title": "Vintage Sepia · Bold",
+    "category": "Monochrome warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "vintage sepia",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "heritage walks, archival style memory montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0065.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0065.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0066",
+    "type": "lut",
+    "title": "Silver B&W · Balanced",
+    "category": "Monochrome neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "silver b&w",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "documentary vlogs, expressive portrait and rhythm montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0066.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0066.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0067",
+    "type": "lut",
+    "title": "Silver B&W · Backlight",
+    "category": "Monochrome neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "silver b&w",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "documentary vlogs, expressive portrait and rhythm montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0067.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0067.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0068",
+    "type": "lut",
+    "title": "Silver B&W · Indoor",
+    "category": "Monochrome neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "silver b&w",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "documentary vlogs, expressive portrait and rhythm montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0068.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0068.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0069",
+    "type": "lut",
+    "title": "Silver B&W · Lowlight",
+    "category": "Monochrome neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "silver b&w",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "documentary vlogs, expressive portrait and rhythm montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0069.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0069.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0070",
+    "type": "lut",
+    "title": "Silver B&W · Bold",
+    "category": "Monochrome neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "silver b&w",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "documentary vlogs, expressive portrait and rhythm montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0070.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0070.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0071",
+    "type": "lut",
+    "title": "Matte Street · Balanced",
+    "category": "Matte urban",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "matte street",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "streetwear, skate diaries, low contrast lifestyle reels",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0071.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0071.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0072",
+    "type": "lut",
+    "title": "Matte Street · Backlight",
+    "category": "Matte urban",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "matte street",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "streetwear, skate diaries, low contrast lifestyle reels",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0072.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0072.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0073",
+    "type": "lut",
+    "title": "Matte Street · Indoor",
+    "category": "Matte urban",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "matte street",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "streetwear, skate diaries, low contrast lifestyle reels",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0073.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0073.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0074",
+    "type": "lut",
+    "title": "Matte Street · Lowlight",
+    "category": "Matte urban",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "matte street",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "streetwear, skate diaries, low contrast lifestyle reels",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0074.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0074.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0075",
+    "type": "lut",
+    "title": "Matte Street · Bold",
+    "category": "Matte urban",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "matte street",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "streetwear, skate diaries, low contrast lifestyle reels",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0075.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0075.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0076",
+    "type": "lut",
+    "title": "Teal Cinema · Balanced",
+    "category": "Cinematic split",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "teal cinema",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "dramatic travel edits, action and cinematic montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0076.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0076.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0077",
+    "type": "lut",
+    "title": "Teal Cinema · Backlight",
+    "category": "Cinematic split",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "teal cinema",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "dramatic travel edits, action and cinematic montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0077.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0077.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0078",
+    "type": "lut",
+    "title": "Teal Cinema · Indoor",
+    "category": "Cinematic split",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "teal cinema",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "dramatic travel edits, action and cinematic montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0078.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0078.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0079",
+    "type": "lut",
+    "title": "Teal Cinema · Lowlight",
+    "category": "Cinematic split",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "teal cinema",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "dramatic travel edits, action and cinematic montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0079.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0079.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0080",
+    "type": "lut",
+    "title": "Teal Cinema · Bold",
+    "category": "Cinematic split",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "teal cinema",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "dramatic travel edits, action and cinematic montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0080.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0080.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0081",
+    "type": "lut",
+    "title": "Sunset Stories · Balanced",
+    "category": "Sunset warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "sunset stories",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "sunset walks, golden skies, emotive travel diaries",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0081.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0081.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0082",
+    "type": "lut",
+    "title": "Sunset Stories · Backlight",
+    "category": "Sunset warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "sunset stories",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "sunset walks, golden skies, emotive travel diaries",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0082.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0082.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0083",
+    "type": "lut",
+    "title": "Sunset Stories · Indoor",
+    "category": "Sunset warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "sunset stories",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "sunset walks, golden skies, emotive travel diaries",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0083.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0083.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0084",
+    "type": "lut",
+    "title": "Sunset Stories · Lowlight",
+    "category": "Sunset warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "sunset stories",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "sunset walks, golden skies, emotive travel diaries",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0084.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0084.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0085",
+    "type": "lut",
+    "title": "Sunset Stories · Bold",
+    "category": "Sunset warm",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "sunset stories",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "sunset walks, golden skies, emotive travel diaries",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0085.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0085.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0086",
+    "type": "lut",
+    "title": "Winter Blue · Balanced",
+    "category": "Cool pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "winter blue",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "snow trips, winter cities, calm cool montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0086.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0086.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0087",
+    "type": "lut",
+    "title": "Winter Blue · Backlight",
+    "category": "Cool pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "winter blue",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "snow trips, winter cities, calm cool montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0087.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0087.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0088",
+    "type": "lut",
+    "title": "Winter Blue · Indoor",
+    "category": "Cool pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "winter blue",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "snow trips, winter cities, calm cool montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0088.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0088.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0089",
+    "type": "lut",
+    "title": "Winter Blue · Lowlight",
+    "category": "Cool pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "winter blue",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "snow trips, winter cities, calm cool montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0089.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0089.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0090",
+    "type": "lut",
+    "title": "Winter Blue · Bold",
+    "category": "Cool pastel",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "winter blue",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "snow trips, winter cities, calm cool montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0090.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0090.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0091",
+    "type": "lut",
+    "title": "Adventure Crisp · Balanced",
+    "category": "Action crisp",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "adventure crisp",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "hiking, cycling, energetic outdoor montages",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0091.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0091.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0092",
+    "type": "lut",
+    "title": "Adventure Crisp · Backlight",
+    "category": "Action crisp",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "adventure crisp",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "hiking, cycling, energetic outdoor montages",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0092.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0092.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0093",
+    "type": "lut",
+    "title": "Adventure Crisp · Indoor",
+    "category": "Action crisp",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "adventure crisp",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "hiking, cycling, energetic outdoor montages",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0093.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0093.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0094",
+    "type": "lut",
+    "title": "Adventure Crisp · Lowlight",
+    "category": "Action crisp",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "adventure crisp",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "hiking, cycling, energetic outdoor montages",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0094.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0094.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0095",
+    "type": "lut",
+    "title": "Adventure Crisp · Bold",
+    "category": "Action crisp",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "adventure crisp",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "hiking, cycling, energetic outdoor montages",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0095.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0095.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0096",
+    "type": "lut",
+    "title": "Clean Montage · Balanced",
+    "category": "Clean neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "clean montage",
+      "balanced",
+      "rec709"
+    ],
+    "use_cases": [
+      "mixed footage, everyday montages, clean product b-roll",
+      "balanced exposure and daylight footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0096.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0096.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "balanced exposure and daylight footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0097",
+    "type": "lut",
+    "title": "Clean Montage · Backlight",
+    "category": "Clean neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "clean montage",
+      "backlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "mixed footage, everyday montages, clean product b-roll",
+      "gentle shadow lift and highlight compression for backlit scenes"
+    ],
+    "format": "cube",
+    "file": "luts/VL0097.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0097.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "gentle shadow lift and highlight compression for backlit scenes",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0098",
+    "type": "lut",
+    "title": "Clean Montage · Indoor",
+    "category": "Clean neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "clean montage",
+      "indoor",
+      "rec709"
+    ],
+    "use_cases": [
+      "mixed footage, everyday montages, clean product b-roll",
+      "subtly cooler white balance for warm indoor footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0098.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0098.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "subtly cooler white balance for warm indoor footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0099",
+    "type": "lut",
+    "title": "Clean Montage · Lowlight",
+    "category": "Clean neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "clean montage",
+      "lowlight",
+      "rec709"
+    ],
+    "use_cases": [
+      "mixed footage, everyday montages, clean product b-roll",
+      "open shadows with restrained saturation for darker footage"
+    ],
+    "format": "cube",
+    "file": "luts/VL0099.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0099.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "open shadows with restrained saturation for darker footage",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  },
+  {
+    "id": "VL0100",
+    "type": "lut",
+    "title": "Clean Montage · Bold",
+    "category": "Clean neutral",
+    "tags": [
+      "vlog",
+      "montage",
+      "colour grading",
+      "clean montage",
+      "bold",
+      "rec709"
+    ],
+    "use_cases": [
+      "mixed footage, everyday montages, clean product b-roll",
+      "stronger midtone separation for energetic rhythmic edits"
+    ],
+    "format": "cube",
+    "file": "luts/VL0100.cube",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/luts/VL0100.webp",
+    "technical": {
+      "input_color_space": "SDR Rec.709",
+      "output_color_space": "SDR Rec.709",
+      "encoding": "gamma-encoded RGB",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "lut_3d_size": 33,
+      "entry_count": 35937,
+      "ordering": "red fastest; green next; blue slowest",
+      "interpolation_recommendation": "trilinear or tetrahedral",
+      "purpose": "creative look; not camera Log/HDR conversion",
+      "preview_source": "original procedural illustration and analytic colour/grayscale chart",
+      "variant_target": "stronger midtone separation for energetic rhythmic edits",
+      "adjustment_hint": "Normalize exposure and white balance first; adjust LUT strength to footage."
+    }
+  }
+]

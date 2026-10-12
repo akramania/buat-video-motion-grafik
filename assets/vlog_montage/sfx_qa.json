@@ -1,0 +1,1020 @@
+{
+  "count": 100,
+  "family_count": 20,
+  "variants_per_family": 5,
+  "all_pcm_headers_verified": true,
+  "all_sample_data_reloaded": true,
+  "unique_sha256": 100,
+  "duration_range_seconds": [
+    0.14,
+    2.6
+  ],
+  "highest_peak_dbfs": -1.5148,
+  "lowest_rms_dbfs": -28.5754,
+  "max_channel_dc": 7.145043575402462e-06,
+  "all_endpoints_zero": true,
+  "sample_provenance": "Original synthesized audio, no third-party samples",
+  "validation_limitations": "Signal-level and waveform QA; subjective audition of every effect was not performed.",
+  "files": [
+    {
+      "id": "VL0501",
+      "frames": 24960,
+      "duration": 0.52,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.1902,
+      "max_channel_dc": 9.5367431640625e-08,
+      "endpoints_zero": true,
+      "sha256": "d3acceb0af16ff01aede3b8c534567d95b04e02ba4d20dea762646896e3b5e97"
+    },
+    {
+      "id": "VL0502",
+      "frames": 45120,
+      "duration": 0.94,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.8291,
+      "max_channel_dc": 4.3963709621564714e-08,
+      "endpoints_zero": true,
+      "sha256": "b7f1ec536aaca4a4617e4e597fc066248d807e24d11fa5cbd8244a8adc4f02a3"
+    },
+    {
+      "id": "VL0503",
+      "frames": 32160,
+      "duration": 0.67,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.5682,
+      "max_channel_dc": 5.7884709752021144e-08,
+      "endpoints_zero": true,
+      "sha256": "517cbc760a6e5f9d0aa7edf09a15145036bd5bb306d3cfc7500bd6e71c7ea99b"
+    },
+    {
+      "id": "VL0504",
+      "frames": 41280,
+      "duration": 0.86,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.8153,
+      "max_channel_dc": 2.883201421693314e-08,
+      "endpoints_zero": true,
+      "sha256": "6f5d8a85788617eaa479764c51b98353ed386a8a3bb80ef8f70283731d013865"
+    },
+    {
+      "id": "VL0505",
+      "frames": 61440,
+      "duration": 1.28,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.3109,
+      "max_channel_dc": 3.178914388020833e-08,
+      "endpoints_zero": true,
+      "sha256": "258f28f6e37a44273f826a51c099b3fd45c69ecdbdc15ad4f18f87cf8b70df7f"
+    },
+    {
+      "id": "VL0506",
+      "frames": 13440,
+      "duration": 0.28,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.9502,
+      "max_channel_dc": 5.631219773065476e-07,
+      "endpoints_zero": true,
+      "sha256": "27f8ef9f9bd1c5c066d00a2e6d20ad5a655cae1c6359e364f569e79e782d7a24"
+    },
+    {
+      "id": "VL0507",
+      "frames": 27360,
+      "duration": 0.57,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.6803,
+      "max_channel_dc": 5.510118272569444e-07,
+      "endpoints_zero": true,
+      "sha256": "86573c6b062d8da0bf699fe0ca5dba52ffaf205ce4c6cb0339722f5dda25fe9d"
+    },
+    {
+      "id": "VL0508",
+      "frames": 15360,
+      "duration": 0.32,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.4687,
+      "max_channel_dc": 1.1781851450602213e-06,
+      "endpoints_zero": true,
+      "sha256": "e02296a238b4110f07c6d3b04b2c04028a6e1d478fba63021cb5c2962b6ea5fb"
+    },
+    {
+      "id": "VL0509",
+      "frames": 23520,
+      "duration": 0.49,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.4512,
+      "max_channel_dc": 2.116248721168155e-06,
+      "endpoints_zero": true,
+      "sha256": "0f5279bd069bdecc864d2726cfad794bcf104b38ec5d670555f752dc03da0ad2"
+    },
+    {
+      "id": "VL0510",
+      "frames": 39840,
+      "duration": 0.83,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.4444,
+      "max_channel_dc": 3.906617681664157e-08,
+      "endpoints_zero": true,
+      "sha256": "9fb24afb1664a5ed878ae699655a3bebc5b30c9ad6be97636544bbdc58eae211"
+    },
+    {
+      "id": "VL0511",
+      "frames": 40800,
+      "duration": 0.85,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.2277,
+      "max_channel_dc": 1.869949640012255e-08,
+      "endpoints_zero": true,
+      "sha256": "7ef922dec8079e9219d381bcf572b7048f88d923642aba070662cf48611f240b"
+    },
+    {
+      "id": "VL0512",
+      "frames": 67200,
+      "duration": 1.4,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.2044,
+      "max_channel_dc": 2.316066196986607e-08,
+      "endpoints_zero": true,
+      "sha256": "689c166ae36207380d800007b0781960e511a629a711ffe83569e1beba01e629"
+    },
+    {
+      "id": "VL0513",
+      "frames": 57600,
+      "duration": 1.2,
+      "peak_dbfs": -1.9258,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 2.384185791015625e-08,
+      "endpoints_zero": true,
+      "sha256": "04a56cff49d21f7aeb0cc76448e2785d4bd3505a9e385b41dda943ad452dee26"
+    },
+    {
+      "id": "VL0514",
+      "frames": 86400,
+      "duration": 1.8,
+      "peak_dbfs": -1.7697,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 3.744054723668981e-08,
+      "endpoints_zero": true,
+      "sha256": "3bf21f35c751d6e8a6fe26518d544b38791410550c6cc9c567a5a56819d8ba83"
+    },
+    {
+      "id": "VL0515",
+      "frames": 110400,
+      "duration": 2.3,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.4067,
+      "max_channel_dc": 4.2016955389492755e-08,
+      "endpoints_zero": true,
+      "sha256": "26a7929e7e368d6100f2d83b18fc071d73494278613d1a94ff402d7343fa6df0"
+    },
+    {
+      "id": "VL0516",
+      "frames": 23040,
+      "duration": 0.48,
+      "peak_dbfs": -2.2082,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 7.947285970052083e-08,
+      "endpoints_zero": true,
+      "sha256": "9e8625a4edcc5fa15f23cabfc432a9e6f73fa69562beed42e424151e837d6fa1"
+    },
+    {
+      "id": "VL0517",
+      "frames": 39840,
+      "duration": 0.83,
+      "peak_dbfs": -5.4453,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 1.0264446457705823e-07,
+      "endpoints_zero": true,
+      "sha256": "1253c48180aa2f15390bdb122692c4d47612b8fcef3bacf46a5bb4d8085e96a8"
+    },
+    {
+      "id": "VL0518",
+      "frames": 29760,
+      "duration": 0.62,
+      "peak_dbfs": -4.3184,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 7.383285030241936e-08,
+      "endpoints_zero": true,
+      "sha256": "759fc045c72a3d76588ee4abd66cafbfeea724dbbcf3f26c37a914cc9a94e262"
+    },
+    {
+      "id": "VL0519",
+      "frames": 37440,
+      "duration": 0.78,
+      "peak_dbfs": -5.8739,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 3.830999390691774e-08,
+      "endpoints_zero": true,
+      "sha256": "aa5beba695aa505b277a17c2a5fd0bce6c58e6850bc99093a47aa1717f6824cc"
+    },
+    {
+      "id": "VL0520",
+      "frames": 56640,
+      "duration": 1.18,
+      "peak_dbfs": -6.5085,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 5.280230678407486e-08,
+      "endpoints_zero": true,
+      "sha256": "951f1fd2896455736194f5d72f04946122585eacc7c62eab28879ef1e651ef8e"
+    },
+    {
+      "id": "VL0521",
+      "frames": 9600,
+      "duration": 0.2,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -22.2891,
+      "max_channel_dc": 1.0077158610026041e-06,
+      "endpoints_zero": true,
+      "sha256": "ad6bf4ba67edcd097af05123bf4474dd53f72a319673ca4820dfa3b01cd25f7e"
+    },
+    {
+      "id": "VL0522",
+      "frames": 19200,
+      "duration": 0.4,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.3182,
+      "max_channel_dc": 3.24249267578125e-07,
+      "endpoints_zero": true,
+      "sha256": "7175446d5c5a4871d9f02a4d6d8715f5cd1f6f547375b167ca4081e5b9d2b6e1"
+    },
+    {
+      "id": "VL0523",
+      "frames": 12480,
+      "duration": 0.26,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.1991,
+      "max_channel_dc": 8.803147536057693e-08,
+      "endpoints_zero": true,
+      "sha256": "0169eda51418b7e13e2d95e4ea304ba454312502cbae092fe6e28eb41d840088"
+    },
+    {
+      "id": "VL0524",
+      "frames": 14880,
+      "duration": 0.31,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.8501,
+      "max_channel_dc": 6.56292002688172e-08,
+      "endpoints_zero": true,
+      "sha256": "6ee1677c3465e505e943544e27858641627a8dc710bd68ff5d50082cac21e3fc"
+    },
+    {
+      "id": "VL0525",
+      "frames": 31200,
+      "duration": 0.65,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.9966,
+      "max_channel_dc": 1.2911283052884615e-07,
+      "endpoints_zero": true,
+      "sha256": "70076e29677931931ff0ddb0f6e59676e66c4787ccb768fe051920224d95fff4"
+    },
+    {
+      "id": "VL0526",
+      "frames": 9600,
+      "duration": 0.2,
+      "peak_dbfs": -3.0281,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 1.4940897623697918e-07,
+      "endpoints_zero": true,
+      "sha256": "cac77a547a6bc6723cd2ab86899629cb5a14eeb646a90a93a7505c78c90d37f3"
+    },
+    {
+      "id": "VL0527",
+      "frames": 21120,
+      "duration": 0.44,
+      "peak_dbfs": -2.9254,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 7.369301535866477e-08,
+      "endpoints_zero": true,
+      "sha256": "b38cba2c1449942bbe8ac6f4e0d659f6ad43751b8ae8b8b32a395257c737b7dc"
+    },
+    {
+      "id": "VL0528",
+      "frames": 12960,
+      "duration": 0.27,
+      "peak_dbfs": -2.8884,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 1.2009232132523147e-07,
+      "endpoints_zero": true,
+      "sha256": "6886e7f345c4e5d417dae472df066881ada66a96c30e9b7ba382370e991f68ba"
+    },
+    {
+      "id": "VL0529",
+      "frames": 15840,
+      "duration": 0.33,
+      "peak_dbfs": -2.7939,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 3.853229561237374e-08,
+      "endpoints_zero": true,
+      "sha256": "1078bb5240ef798952287901b72384640d93d7a9d264848435303e985f60ac5e"
+    },
+    {
+      "id": "VL0530",
+      "frames": 33600,
+      "duration": 0.7,
+      "peak_dbfs": -4.4373,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 8.628481910342262e-08,
+      "endpoints_zero": true,
+      "sha256": "ffe405077fc12f7564c9833fccf468fee7772350ecae7d57594aeebe429ad414"
+    },
+    {
+      "id": "VL0531",
+      "frames": 6720,
+      "duration": 0.14,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.1956,
+      "max_channel_dc": 1.816522507440476e-07,
+      "endpoints_zero": true,
+      "sha256": "20910de6ca7f896e17504c97bb752ecc5d7f046ca84e8be045c2fc4aedcbd77a"
+    },
+    {
+      "id": "VL0532",
+      "frames": 13920,
+      "duration": 0.29,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.9551,
+      "max_channel_dc": 2.499284415409483e-07,
+      "endpoints_zero": true,
+      "sha256": "c111cc38ce75bc1620c0a0d278792ba864099b6ee46511439f282f4acbd79baa"
+    },
+    {
+      "id": "VL0533",
+      "frames": 9120,
+      "duration": 0.19,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.4016,
+      "max_channel_dc": 1.5727260656524124e-07,
+      "endpoints_zero": true,
+      "sha256": "e54a8bf08a96290aeef117540c8bbabc8f2de28d111c0f36ed3ed0247370afd1"
+    },
+    {
+      "id": "VL0534",
+      "frames": 11520,
+      "duration": 0.24,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.6366,
+      "max_channel_dc": 2.5961134168836803e-07,
+      "endpoints_zero": true,
+      "sha256": "82d22503154ea25b8140c6fb1c718105ed9f93cce31d651413b49555066d6798"
+    },
+    {
+      "id": "VL0535",
+      "frames": 22080,
+      "duration": 0.46,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -17.7312,
+      "max_channel_dc": 9.674956833106885e-08,
+      "endpoints_zero": true,
+      "sha256": "d41b6d519fd5903dcc228e8bd9869dde2d3e0c8fb2c0239818252491958332ce"
+    },
+    {
+      "id": "VL0536",
+      "frames": 33600,
+      "duration": 0.7,
+      "peak_dbfs": -2.8423,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 4.1780017671130955e-08,
+      "endpoints_zero": true,
+      "sha256": "e8756232255167bb598bae69ec86675ca8aaf654426fc4a597e800bb6f900b59"
+    },
+    {
+      "id": "VL0537",
+      "frames": 48960,
+      "duration": 1.02,
+      "peak_dbfs": -3.7121,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 9.973064746732025e-09,
+      "endpoints_zero": true,
+      "sha256": "4cd2608c73bcb01dc01ecd568b1296f4cb5f616154c889b65b53baf38be83244"
+    },
+    {
+      "id": "VL0538",
+      "frames": 45600,
+      "duration": 0.95,
+      "peak_dbfs": -3.9373,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 6.357828776041667e-08,
+      "endpoints_zero": true,
+      "sha256": "1cfcadc2b98a5f5bd8e9de3b6eae804222ff3e076222c232f3b8a2e275146f4b"
+    },
+    {
+      "id": "VL0539",
+      "frames": 53760,
+      "duration": 1.12,
+      "peak_dbfs": -3.018,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 5.108969552176339e-08,
+      "endpoints_zero": true,
+      "sha256": "68c68f9bf1148144fa357d3772b262f104b235a7decfa4da09b2fc2a7c5f4f6a"
+    },
+    {
+      "id": "VL0540",
+      "frames": 71040,
+      "duration": 1.48,
+      "peak_dbfs": -5.1775,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 3.866247228673987e-09,
+      "endpoints_zero": true,
+      "sha256": "d424b87a27ed017f4afd1714b8cae0e90c2acbd79f2ad5da3af51220ae6d73a9"
+    },
+    {
+      "id": "VL0541",
+      "frames": 13440,
+      "duration": 0.28,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.0747,
+      "max_channel_dc": 3.3083416166759674e-06,
+      "endpoints_zero": true,
+      "sha256": "62aad0f2cf396bc9cb0b306567a7629b2a04c2f27953a4608e7b833d8aa68cdc"
+    },
+    {
+      "id": "VL0542",
+      "frames": 29760,
+      "duration": 0.62,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -23.9832,
+      "max_channel_dc": 2.7184845298849127e-06,
+      "endpoints_zero": true,
+      "sha256": "b121c8869bad3c43bfb403c4e66508ec7aac9013f9cd21cfa98a6c9c33255657"
+    },
+    {
+      "id": "VL0543",
+      "frames": 16800,
+      "duration": 0.35,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -23.4895,
+      "max_channel_dc": 3.0463082449776787e-06,
+      "endpoints_zero": true,
+      "sha256": "af8933196e6d1a727f356affac8ca5ccd5ae5c42a720813ed1e40f0b99d32af5"
+    },
+    {
+      "id": "VL0544",
+      "frames": 22080,
+      "duration": 0.46,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -23.3258,
+      "max_channel_dc": 6.742062775985054e-06,
+      "endpoints_zero": true,
+      "sha256": "429d07d65f76eb81de9cd4724c2df85438fba8ad40317d2611640ca0cc0e5519"
+    },
+    {
+      "id": "VL0545",
+      "frames": 53760,
+      "duration": 1.12,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -25.3352,
+      "max_channel_dc": 3.977048964727492e-06,
+      "endpoints_zero": true,
+      "sha256": "ccafc46a4ad748059740743b56c504c4a6778b582bb1c8c315e46fcae8fd91a6"
+    },
+    {
+      "id": "VL0546",
+      "frames": 17280,
+      "duration": 0.36,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.6717,
+      "max_channel_dc": 2.578452781394676e-07,
+      "endpoints_zero": true,
+      "sha256": "daf57ec2a249fbb552e3473038c91bf5b512c3580e82bd26f90b7d53600349bf"
+    },
+    {
+      "id": "VL0547",
+      "frames": 35520,
+      "duration": 0.74,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.7615,
+      "max_channel_dc": 8.866593644425676e-07,
+      "endpoints_zero": true,
+      "sha256": "79664eea7a867757c24e167e6148c2c92c75c32f2ff16d4de86f062ce3748b31"
+    },
+    {
+      "id": "VL0548",
+      "frames": 18720,
+      "duration": 0.39,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.101,
+      "max_channel_dc": 3.064799512553419e-07,
+      "endpoints_zero": true,
+      "sha256": "d275277fca3cbd909040ad4c7b8e0ccd2d328657dc351db49842267bd05056cc"
+    },
+    {
+      "id": "VL0549",
+      "frames": 25920,
+      "duration": 0.54,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.0367,
+      "max_channel_dc": 2.2099341875241125e-06,
+      "endpoints_zero": true,
+      "sha256": "8af70f12703d6c580f098d5170069b29510b22c69f34494635182031dd81d458"
+    },
+    {
+      "id": "VL0550",
+      "frames": 50880,
+      "duration": 1.06,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.8548,
+      "max_channel_dc": 4.546447370037343e-07,
+      "endpoints_zero": true,
+      "sha256": "7a753398d94a9272bf13c1164ee2da04ca915b06f47368cf55ee68282fcbd175"
+    },
+    {
+      "id": "VL0551",
+      "frames": 31200,
+      "duration": 0.65,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -25.6273,
+      "max_channel_dc": 2.3377247345753205e-07,
+      "endpoints_zero": true,
+      "sha256": "fafd1e20333a6d931a5e32c8b2526d50e2ecd3c26bcf7ba4a68e5997afa89f09"
+    },
+    {
+      "id": "VL0552",
+      "frames": 54720,
+      "duration": 1.14,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -25.2522,
+      "max_channel_dc": 1.3725102296349598e-06,
+      "endpoints_zero": true,
+      "sha256": "72f1d8d6fd2565c8b7bd04d0708b89e12d21361d38c96c9a63faddfaf478ab1e"
+    },
+    {
+      "id": "VL0553",
+      "frames": 38400,
+      "duration": 0.8,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -25.028,
+      "max_channel_dc": 7.065137227376302e-07,
+      "endpoints_zero": true,
+      "sha256": "ddf3605ccbe522c7f8c05b4b56aaeb9ce7110832a7b4f16d441e2c282cd4eae0"
+    },
+    {
+      "id": "VL0554",
+      "frames": 45120,
+      "duration": 0.94,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -23.8824,
+      "max_channel_dc": 1.8951740670711437e-06,
+      "endpoints_zero": true,
+      "sha256": "d1e11a8deed1676d441770c2c1756596ef55cb49c3d0eb561326d173fd0c532f"
+    },
+    {
+      "id": "VL0555",
+      "frames": 93600,
+      "duration": 1.95,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -24.7442,
+      "max_channel_dc": 1.041053706764156e-06,
+      "endpoints_zero": true,
+      "sha256": "89331ba51b9404a0661f3c0634fcee49b1d331809f1a0ce0b31d2367d472f751"
+    },
+    {
+      "id": "VL0556",
+      "frames": 24000,
+      "duration": 0.5,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -26.4105,
+      "max_channel_dc": 3.5654703776041666e-06,
+      "endpoints_zero": true,
+      "sha256": "cda3c930ce148b16d25c3108004315ea79ce12379d53e99f1ab234910e68d84c"
+    },
+    {
+      "id": "VL0557",
+      "frames": 44160,
+      "duration": 0.92,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -26.52,
+      "max_channel_dc": 4.249379254769588e-06,
+      "endpoints_zero": true,
+      "sha256": "fc496e76066cb16a3f8facb7303a467648eda228bf6c6c983360e43223896b4b"
+    },
+    {
+      "id": "VL0558",
+      "frames": 38400,
+      "duration": 0.8,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -25.4239,
+      "max_channel_dc": 1.7722447713216145e-07,
+      "endpoints_zero": true,
+      "sha256": "c4b3b3bbe058a7d993510aa44d2950d141d876980128b7f85e9984b76bd52917"
+    },
+    {
+      "id": "VL0559",
+      "frames": 52800,
+      "duration": 1.1,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -28.5754,
+      "max_channel_dc": 7.145043575402462e-06,
+      "endpoints_zero": true,
+      "sha256": "f902e9edd54cef29961f7921cd75361bd4a152feeb861cacdaa702c9c50a3664"
+    },
+    {
+      "id": "VL0560",
+      "frames": 81600,
+      "duration": 1.7,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -26.5954,
+      "max_channel_dc": 3.068213369332108e-06,
+      "endpoints_zero": true,
+      "sha256": "f6389863d1c9bfc606d777a6b9491cfdafa9f430d7a42caf5974edd47cca27b7"
+    },
+    {
+      "id": "VL0561",
+      "frames": 28800,
+      "duration": 0.6,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.0704,
+      "max_channel_dc": 1.1338127983940972e-07,
+      "endpoints_zero": true,
+      "sha256": "6368420994cb2544c455d8438ea2defa4153255444f18ca7f2ff1c67f207a710"
+    },
+    {
+      "id": "VL0562",
+      "frames": 50400,
+      "duration": 1.05,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.2343,
+      "max_channel_dc": 1.9981747581845237e-08,
+      "endpoints_zero": true,
+      "sha256": "47c2cf0fa085c7f7d56a655dcf53620ee581e5e5b431afda6ff15e854f180146"
+    },
+    {
+      "id": "VL0563",
+      "frames": 43200,
+      "duration": 0.9,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.3169,
+      "max_channel_dc": 2.755059136284722e-08,
+      "endpoints_zero": true,
+      "sha256": "3e1c52523ad038512e08d36adf3a9216aafa79e92f280345022af0c51fd2633b"
+    },
+    {
+      "id": "VL0564",
+      "frames": 62400,
+      "duration": 1.3,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.6026,
+      "max_channel_dc": 2.6898506360176282e-08,
+      "endpoints_zero": true,
+      "sha256": "e64f7bc81a2db8b36dafba54ea7368ea0a83cefa44101269aa9cf8a54171d464"
+    },
+    {
+      "id": "VL0565",
+      "frames": 76800,
+      "duration": 1.6,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.7208,
+      "max_channel_dc": 1.2715657552083334e-08,
+      "endpoints_zero": true,
+      "sha256": "e7c4f5b12c06c79d7c2a662ac937c1d6997ec79b5158647cc48810a10eb123ab"
+    },
+    {
+      "id": "VL0566",
+      "frames": 14400,
+      "duration": 0.3,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -17.8367,
+      "max_channel_dc": 1.8437703450520833e-07,
+      "endpoints_zero": true,
+      "sha256": "148163c7c35e589528e46397a7b232225d48f0268b4d4ce539581c9398886a89"
+    },
+    {
+      "id": "VL0567",
+      "frames": 27360,
+      "duration": 0.57,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -17.9449,
+      "max_channel_dc": 9.146350169042397e-07,
+      "endpoints_zero": true,
+      "sha256": "8f09416b007997ecfa3ccaddc1ac0ae92adc6a96109cebc2ef2b5922ce86a031"
+    },
+    {
+      "id": "VL0568",
+      "frames": 18240,
+      "duration": 0.38,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.3021,
+      "max_channel_dc": 5.320498817845394e-07,
+      "endpoints_zero": true,
+      "sha256": "e9894392e60b049f5ebf8fbe292d638e8abba1ad76f6fd81ed5bb86328a52dc7"
+    },
+    {
+      "id": "VL0569",
+      "frames": 30720,
+      "duration": 0.64,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.1852,
+      "max_channel_dc": 1.4881292978922525e-06,
+      "endpoints_zero": true,
+      "sha256": "d4e05e853dce136d5072056d8a447553e7de290a24c4359d890069370c4528f6"
+    },
+    {
+      "id": "VL0570",
+      "frames": 48000,
+      "duration": 1.0,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -17.7669,
+      "max_channel_dc": 1.6829172770182291e-06,
+      "endpoints_zero": true,
+      "sha256": "7c2e4466b4f681ff786d5a649d4d67197f5fe99d6fccc343d2db4a5a6bd2c9fa"
+    },
+    {
+      "id": "VL0571",
+      "frames": 21600,
+      "duration": 0.45,
+      "peak_dbfs": -7.2425,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 5.0862630208333337e-08,
+      "endpoints_zero": true,
+      "sha256": "0fa8a3c86acef84bb3987840fd7b163c49afbb8a8a08a9801f59b667bb6e34b8"
+    },
+    {
+      "id": "VL0572",
+      "frames": 42240,
+      "duration": 0.88,
+      "peak_dbfs": -3.9749,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 8.308526241418088e-08,
+      "endpoints_zero": true,
+      "sha256": "fe1d98187d3b0c572da7529c301a453edda5f6037bb287d1934a039d43c76d6b"
+    },
+    {
+      "id": "VL0573",
+      "frames": 31200,
+      "duration": 0.65,
+      "peak_dbfs": -7.7333,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 1.7606295072115386e-08,
+      "endpoints_zero": true,
+      "sha256": "6c791ab4ad5ab89e3719ec9f2aa952f4003327ff0cd39fe5969aa554218abd0a"
+    },
+    {
+      "id": "VL0574",
+      "frames": 45120,
+      "duration": 0.94,
+      "peak_dbfs": -7.6121,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 5.4109181072695034e-08,
+      "endpoints_zero": true,
+      "sha256": "c2434ee8da4efbe7554c9798d4e0eaebb0809de303060fa70fc73824fcbad2ea"
+    },
+    {
+      "id": "VL0575",
+      "frames": 62400,
+      "duration": 1.3,
+      "peak_dbfs": -2.8655,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 5.1840757712339746e-08,
+      "endpoints_zero": true,
+      "sha256": "54ba988d3a32942194b7fc8ee5d610c41a27199ce3c91f3390a5d024aa9bd4b2"
+    },
+    {
+      "id": "VL0576",
+      "frames": 18720,
+      "duration": 0.39,
+      "peak_dbfs": -1.9089,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 8.151062533386752e-08,
+      "endpoints_zero": true,
+      "sha256": "1d31415115779bdcff89da2cdc55602dd189264fe0589a61123edc9bc5c5aec4"
+    },
+    {
+      "id": "VL0577",
+      "frames": 36000,
+      "duration": 0.75,
+      "peak_dbfs": -1.9998,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 1.2715657552083333e-07,
+      "endpoints_zero": true,
+      "sha256": "9e110c3dedcff059a1d0dd66069d02ec575dfca0059fd3f8d6d3b886621cf1d9"
+    },
+    {
+      "id": "VL0578",
+      "frames": 25920,
+      "duration": 0.54,
+      "peak_dbfs": -2.0346,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 1.0243168583622685e-07,
+      "endpoints_zero": true,
+      "sha256": "d5c3bb5fb241752b83012b94d88cd90622531fd981e7d5214783ad710562591c"
+    },
+    {
+      "id": "VL0579",
+      "frames": 30720,
+      "duration": 0.64,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -17.8826,
+      "max_channel_dc": 2.39411989847819e-07,
+      "endpoints_zero": true,
+      "sha256": "3a8c572f43317f695171c1e5c308cf9e847323a79725864c54b38c84a86b6826"
+    },
+    {
+      "id": "VL0580",
+      "frames": 49920,
+      "duration": 1.04,
+      "peak_dbfs": -1.6753,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 5.868765024038462e-08,
+      "endpoints_zero": true,
+      "sha256": "ce4c3e3b8d11120deb50ced926775ed8f877f7c8999ab94140c01fc2f518b218"
+    },
+    {
+      "id": "VL0581",
+      "frames": 31680,
+      "duration": 0.66,
+      "peak_dbfs": -1.6112,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 8.477105034722223e-08,
+      "endpoints_zero": true,
+      "sha256": "a19f279ff6661e11f90a137a1adab993d81a859d95a82c4d16604a97f97b3a72"
+    },
+    {
+      "id": "VL0582",
+      "frames": 47040,
+      "duration": 0.98,
+      "peak_dbfs": -2.5168,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 6.292952972204506e-08,
+      "endpoints_zero": true,
+      "sha256": "e9209baac037ac75c390d60920c2cca86ee9a31a49bc3706dc10766a08a88ae6"
+    },
+    {
+      "id": "VL0583",
+      "frames": 41280,
+      "duration": 0.86,
+      "peak_dbfs": -3.2295,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 6.727469983951066e-08,
+      "endpoints_zero": true,
+      "sha256": "0b3f47bbe6fefb2fd84e96d059f308b8c7b2f8925b659a51a0e897cedb05df4c"
+    },
+    {
+      "id": "VL0584",
+      "frames": 48000,
+      "duration": 1.0,
+      "peak_dbfs": -2.086,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 4.514058430989583e-08,
+      "endpoints_zero": true,
+      "sha256": "e4d86812c6e97576f696729d3fe88207bede9247db4040ce161e7fe57387014a"
+    },
+    {
+      "id": "VL0585",
+      "frames": 71040,
+      "duration": 1.48,
+      "peak_dbfs": -4.3367,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 7.86136936497044e-08,
+      "endpoints_zero": true,
+      "sha256": "f78200d2c00c2ede522541694f9e383ddb7b6c846c2b1758bc0570dad7d2ffe0"
+    },
+    {
+      "id": "VL0586",
+      "frames": 22080,
+      "duration": 0.46,
+      "peak_dbfs": -9.0559,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 4.975692085597826e-08,
+      "endpoints_zero": true,
+      "sha256": "d28a26a4b84a53799a7b8ce64ca8aa3deab32bd4d215d7abd46739fbc215332d"
+    },
+    {
+      "id": "VL0587",
+      "frames": 35040,
+      "duration": 0.73,
+      "peak_dbfs": -4.9099,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 8.099699673587329e-08,
+      "endpoints_zero": true,
+      "sha256": "0977ff3743cba7fdd890d03b2bc220e84d079ab6ce9235c82ace7c516dcab208"
+    },
+    {
+      "id": "VL0588",
+      "frames": 26400,
+      "duration": 0.55,
+      "peak_dbfs": -9.0589,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 4.6238754734848485e-08,
+      "endpoints_zero": true,
+      "sha256": "4db5014a84c62f4a5951068c076af8e24ccb8b479d525c147c503901dc20ad5b"
+    },
+    {
+      "id": "VL0589",
+      "frames": 41280,
+      "duration": 0.86,
+      "peak_dbfs": -9.0958,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 3.918196803839632e-08,
+      "endpoints_zero": true,
+      "sha256": "74e81e5d0fe3700d440f19023c7a65c69989eacce12d7c900156e55e49d1531d"
+    },
+    {
+      "id": "VL0590",
+      "frames": 69600,
+      "duration": 1.45,
+      "peak_dbfs": -9.3208,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 2.323896035380747e-08,
+      "endpoints_zero": true,
+      "sha256": "88f385af5f85e8b95e849befd3876afb51ee3d679c7701118d8b055d055dfef7"
+    },
+    {
+      "id": "VL0591",
+      "frames": 11520,
+      "duration": 0.24,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.2106,
+      "max_channel_dc": 1.6954210069444445e-07,
+      "endpoints_zero": true,
+      "sha256": "a0a6529b1cf3b8678d8f807e995e72446bd9568fe7a7ce13e3e66d91edaa5149"
+    },
+    {
+      "id": "VL0592",
+      "frames": 24960,
+      "duration": 0.52,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -21.2443,
+      "max_channel_dc": 4.279307830028045e-08,
+      "endpoints_zero": true,
+      "sha256": "990f1053d817100fcd9acb0105ad5128f57189c93dff320c9596bfbbea44e17b"
+    },
+    {
+      "id": "VL0593",
+      "frames": 13440,
+      "duration": 0.28,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -18.6222,
+      "max_channel_dc": 4.76837158203125e-08,
+      "endpoints_zero": true,
+      "sha256": "89749d5c985090bc0631301aeb22e42e5c7206e41d3f34849d5b8c7a9c5d00fc"
+    },
+    {
+      "id": "VL0594",
+      "frames": 18720,
+      "duration": 0.39,
+      "peak_dbfs": -1.7392,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 8.966168786725427e-08,
+      "endpoints_zero": true,
+      "sha256": "932ca12bab21426c72ddb95c1886550bacabbc37cd45d1a3893e313f27bd10b7"
+    },
+    {
+      "id": "VL0595",
+      "frames": 32640,
+      "duration": 0.68,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.703,
+      "max_channel_dc": 9.349748200061274e-08,
+      "endpoints_zero": true,
+      "sha256": "f1b9abc77ed394958bfa7b3662aa0ebffa1078961ba9f89f9756d35ac604c7cd"
+    },
+    {
+      "id": "VL0596",
+      "frames": 44160,
+      "duration": 0.92,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -20.076,
+      "max_channel_dc": 1.1057093523550725e-08,
+      "endpoints_zero": true,
+      "sha256": "ac74480213359ce98b46a10c6282719821428100246f7abe3a3132bab6dd7da2"
+    },
+    {
+      "id": "VL0597",
+      "frames": 70080,
+      "duration": 1.46,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -19.1792,
+      "max_channel_dc": 1.9160579873002283e-08,
+      "endpoints_zero": true,
+      "sha256": "67939e2c419a3c23442be7c2d7816c431279d0635d246f9b244c856732836c03"
+    },
+    {
+      "id": "VL0598",
+      "frames": 53760,
+      "duration": 1.12,
+      "peak_dbfs": -1.7973,
+      "rms_dbfs": -17.7214,
+      "max_channel_dc": 1.419158208937872e-08,
+      "endpoints_zero": true,
+      "sha256": "23a17b25f79f7f5826e51b6da059888eb5f8321e981207ccd768c1e8b4a52bf5"
+    },
+    {
+      "id": "VL0599",
+      "frames": 72000,
+      "duration": 1.5,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -17.8184,
+      "max_channel_dc": 2.4159749348958333e-08,
+      "endpoints_zero": true,
+      "sha256": "ccb3a06a4e7d2cdfe8d5cd49b249e8a406406fb3cdf5fef17b1b1d84ffb1dec3"
+    },
+    {
+      "id": "VL0600",
+      "frames": 124800,
+      "duration": 2.6,
+      "peak_dbfs": -1.5148,
+      "rms_dbfs": -17.8734,
+      "max_channel_dc": 1.736176319611378e-08,
+      "endpoints_zero": true,
+      "sha256": "3755c0c53eab4d18e67e3010a83ad2f8bd3308350ffb61365db1042c01878143"
+    }
+  ]
+}

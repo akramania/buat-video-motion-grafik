@@ -1,0 +1,11 @@
+Original Vlogging and Montage Assets — VL0001 through VL0600
+
+These assets and their procedural source were created for this user's Motion Atlas.
+Permission is granted to use, copy, edit, combine and render them in personal and
+commercial video projects. Attribution is optional. Preserve this notice when
+redistributing the unmodified asset collection or its procedural source.
+
+No third-party templates, stock footage, photographs, music samples, logos or
+Envato downloads are included in this collection. Creative LUTs are intended for
+normalized SDR Rec.709 RGB and are not camera-specific Log or HDR transforms.
+Assets are supplied without a warranty of fitness for a particular production.

@@ -1,0 +1,1918 @@
+{
+  "asset_count": 100,
+  "mechanism_families": 20,
+  "variants_per_family": 5,
+  "matte_mp4_count": 100,
+  "preview_mp4_count": 100,
+  "poster_webp_count": 100,
+  "all_full_decode_passed": true,
+  "all_frame_counts_passed": true,
+  "all_exact_analytic_endpoints_passed": true,
+  "all_decoded_endpoints_passed": true,
+  "decoded_endpoint_tolerance_8bit": 0,
+  "all_monotonic_progressions_passed": true,
+  "unique_midpoint_geometry": 100,
+  "source": "Original analytic geometry; no third-party assets",
+  "checks": [
+    {
+      "id": "VL0101",
+      "family": "linear",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "e7ecc8cc8f28313765712afd9c636bda1f029fdb5824e19a72464707b6ffd391",
+      "recipe_sha256": "05c679ba14f94153c154893211c0f7e9d9c997719418a184b6b652dfd7457096",
+      "matte_sha256": "aac7e206e0ac3cadd0bde35292b344a4e8014783d71bf8f6d2c367e881c6e37c",
+      "preview_sha256": "775e15aa205ab47e5559a352c561c09620ec38715fae8ff8ab57c144a889d80d"
+    },
+    {
+      "id": "VL0102",
+      "family": "linear",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "c61b9ffccf1ddd30622e2c2c779c8991b7d558f8e050b51b6afccf27aceed8e3",
+      "recipe_sha256": "b5066ea4a688e4d63a6dd89a640cceeeadacad0ba24058d7d73ce9704b9e6d43",
+      "matte_sha256": "31a953156d371371b9cd8a3daae528458550ffbeba85eb9f4176dbe5d3d8f436",
+      "preview_sha256": "915aaf53ee50d48f1bef238a5b6fca6a1be0e2b3a4611325df9156e7c457ae1c"
+    },
+    {
+      "id": "VL0103",
+      "family": "linear",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "506bff8d683738ad2a2cfcad2b6e7f77f79ab950b5dc7649fb3773a7bb5152a8",
+      "recipe_sha256": "6c6e7f669d6838039dbb51ab47b6422f10b2f2cd97d867cf623c772c9d03304e",
+      "matte_sha256": "05b618405bb2846d7b120ed402e67d96ff6ed5929e62857ab48db86f87912e06",
+      "preview_sha256": "7ef01c28c7a63596d3eb4a1fb87e3e52b0b0c2154d28fdbc1dff4f3160abed71"
+    },
+    {
+      "id": "VL0104",
+      "family": "linear",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "88477672c5a8dd207f35c7e9e57edfeb06e4dea0546e4b75152086a5c21236a9",
+      "recipe_sha256": "f9a02dd97c491c95234f6be000e48da05682396140c61379bf1489814591b87a",
+      "matte_sha256": "277261c12303d7cdf1d31093cb6d505c9ed69ae7c025a94b4794cca51abbcac2",
+      "preview_sha256": "511cf8db76610c21a0dedaa785998240e412148ea862ad23daea0bf54b7c9272"
+    },
+    {
+      "id": "VL0105",
+      "family": "linear",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "73145fb8f706e9b3bf3c14c9e5cb417a74ca913b48afc3d4bd5e856f689f57e0",
+      "recipe_sha256": "edd82f1b06ab3c2d78c0cd0461688dd0aaace56f2c3cb2d6b3c466b82646b185",
+      "matte_sha256": "ed9762d7680e40dddf49b3283751d513b6665ce1c9e104245e9fce15a2837db6",
+      "preview_sha256": "575d156c7ebbe6ab69ef707214e0ca7cbea23415a6221a479e788f4099de1135"
+    },
+    {
+      "id": "VL0106",
+      "family": "angular",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "13bfdf7ecdd064637d723aefd8ad643173966de9f29616e29cdafa4e729620ab",
+      "recipe_sha256": "d097d24069437a5e797e5461507b4b595d7731347e27822ddab7c71c85d0bd20",
+      "matte_sha256": "dcc5a3a098c61f3d6a822a86c74ccf4542ac1983df3aa46400ed234c83134022",
+      "preview_sha256": "1c4c953f68c6c54b01d2ba5d15f320d6ac4767c621c1bdeaf89ae8f71bbbccd9"
+    },
+    {
+      "id": "VL0107",
+      "family": "angular",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "52bcfe0884640910d08b5f6340463252e5800c680384cedf3541ce84fda59968",
+      "recipe_sha256": "fd7d1995053f25dc81d97a7643ee995bb7e5a7535f47bdcbd6a169c0fd699392",
+      "matte_sha256": "2ebaeef86b53b8325e7883a6736fa14cd888a674f1ed2fb7fc66d0f811866156",
+      "preview_sha256": "7cb91dfc06259bc5a88bf3fc852493e1120010ff50349da10db6619f01c704d4"
+    },
+    {
+      "id": "VL0108",
+      "family": "angular",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "c4843b3dfe1e49715212e15793ee9ac7a83cd74dcd9d27559da6619542534d5e",
+      "recipe_sha256": "ee9382d2f73ee87641da0a5070b18c1c3c95c79836cea98543e981d5ae71e6d2",
+      "matte_sha256": "fc17453f39ddf6b03226d2774fbc900a585f7ce4310898af9874847abd1296bd",
+      "preview_sha256": "e3737863325d4fb61257cdaddbbece15ef11f29bdd455110dd40b93e7a1ff9b1"
+    },
+    {
+      "id": "VL0109",
+      "family": "angular",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "9f07041222d3a250b68cf151feb33f8ca40518bf6caa4ed3613230b9fed94850",
+      "recipe_sha256": "a3270a3bf0a4d5fe4b52f033da4612d589bd3466254fd6758337e3dff9d8cb21",
+      "matte_sha256": "de45376f6ada1b5a4fef73d458d2444a873a75c6eb11aca88313b0a3e282a9e0",
+      "preview_sha256": "1ef814b4c29b1d357b4ee6faaaa23a2b52a2408c7ae6ed9820b2a140aacddb16"
+    },
+    {
+      "id": "VL0110",
+      "family": "angular",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "6b8c249f5f8f975e8ca4ded1ae4a1fc8184968ec781711f23b94ebd8c0da14af",
+      "recipe_sha256": "4a0b254a78cc65f8c9c697d622539a37192a2ed675f7b3e17423fb95463d7ff8",
+      "matte_sha256": "2f85dedd94c2900526c991a06fdc4d56d4add592a38da1f6b2bbe4b6e55ff4ad",
+      "preview_sha256": "73dc82f3e508bf9211c440878058b96c320ea1e225b8f197b023e57551e0d21f"
+    },
+    {
+      "id": "VL0111",
+      "family": "iris",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "6ba5e23bd847d3e78ace25c55fa30628322507f3102784099b7ffbd302ab6240",
+      "recipe_sha256": "10250922ee24fb5c007f6a21207a5cb19bc89a4180be1ece19555ddfbd0a60ef",
+      "matte_sha256": "b6326d4f8f0b3197b95c4f4abe9da245c8de7450e66a39330fce8006c0276187",
+      "preview_sha256": "36cc7298c23fff0cd1a400d4632e28dd9cc07caed868f2ffcd38812fdfce9b1a"
+    },
+    {
+      "id": "VL0112",
+      "family": "iris",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "0a0928b2d8e20304661fcfa1dfc0395aad0cb25721da16fe6f9781fe36b291b3",
+      "recipe_sha256": "317a3d4bb536db8a0d270ecbaac58a120a795d67e214669b5157cf74be4b9a3a",
+      "matte_sha256": "9a26dda45661b8f5815f4428ed0691f03c7c6fcd49d0d84c384a5395b0504fa9",
+      "preview_sha256": "b6a65d3b9b6b65f0dee2bce2652f1f9fb36130715b18522ce0e6e84f794045b4"
+    },
+    {
+      "id": "VL0113",
+      "family": "iris",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "d6987164beaec1927f42dd8620f0bd8aa72359161ee530a31d64f52c7d07d3d7",
+      "recipe_sha256": "54f27ae8e6c140d24e5bc581fecd6f2b5a0e7b9b72f394b81ee977795914a2b6",
+      "matte_sha256": "3330e8dad6a25436c6abcf3a982c0f89168dbee732367f5bda026a47b9969aaa",
+      "preview_sha256": "228bedae65b1af050edbc8880df3ff4a6b22d12808328ccdf782004e5e86f3c4"
+    },
+    {
+      "id": "VL0114",
+      "family": "iris",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "c6479c5c68b39f390018a66df822d5a358e3dfe8be844dd5466152841d68d0c2",
+      "recipe_sha256": "4dd937dee66f60c619497d0760470b9acf993ce2ccdadd25fe847da76823c17f",
+      "matte_sha256": "ce9e975968eef56ebb318049d530b86c2dd5c619b7de299fe3d61c257c6f0f27",
+      "preview_sha256": "e1dbfcb91a158259c3f4a6044232ec75d5823a5aa4afcd2587e88a5a566157ec"
+    },
+    {
+      "id": "VL0115",
+      "family": "iris",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "2cc1a1a9fb5e991ca72b7870ca5c2840244283239907646a6ed781cf863d11ac",
+      "recipe_sha256": "a8a05b3d39bc13576f88471d381ceda360216e5eba419a13b3f1ab2551e78526",
+      "matte_sha256": "35625976efe757b4f79c1484aa4ab42c37d19f6b5b1e5ff28192006c529ee71c",
+      "preview_sha256": "bc1e9734dee3c7c957983cea0a1655d2051e07892a4b90c7e865e01c4ee46e98"
+    },
+    {
+      "id": "VL0116",
+      "family": "diamond",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "1737390161311fbac1db5c027d17ca18eead6e0b69bedf39e3458e93d239b8e4",
+      "recipe_sha256": "c6ecd635efd80e9ee3c734f3972a0987202b83aa70d37cf8b1b904496998fc7d",
+      "matte_sha256": "cdca6dcf94ef8a925b4abac9cbd794fcb8e9d41cbfda7502c8370e7a8bb17670",
+      "preview_sha256": "9ea0daaa56798adc946d8f7097c579a00611fb4f6aa82d20faeafc8f075149fb"
+    },
+    {
+      "id": "VL0117",
+      "family": "diamond",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "f5bcfba3b2fc26e2a5edd877f2eddf44da144d950ade0bdd946a99aea9d0a943",
+      "recipe_sha256": "13d44ca6b737a0f9fd51ebbf827c1f4b7cd7cc34e56e7c1c8ad665519f8c43eb",
+      "matte_sha256": "d58bd8fa4872e5795f59ed619e8ae21b0f9ebcd3b3a7dd8a5b7aa32e286021bb",
+      "preview_sha256": "230b5dad7dcacb512f3a4626cc2cacd135acfedcba45dee9186f69f23c8bdd1c"
+    },
+    {
+      "id": "VL0118",
+      "family": "diamond",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "3b85f6270cad337d114e3ecdf80e16f5ef79e0b0eec33d150ac96a0fe45e393a",
+      "recipe_sha256": "204458dede14f44b74da8e109170db0e4109d5a2df701870259948b1c4a799bf",
+      "matte_sha256": "449918187c4c0c195140320553b0ccd2d05d6a989b3913d3411f85cea225071d",
+      "preview_sha256": "4757d86afe85a60f877c9455b4655ad7dd594ca6eb06734c8106020b7945906b"
+    },
+    {
+      "id": "VL0119",
+      "family": "diamond",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "26fb6c16494a0a1074be4fb92a87c1b8e31fadfb4d70e36cad5b193d098d63f5",
+      "recipe_sha256": "0fdf895ba6eb7e6d657d1d444ae4f58b8057b78522ff66db9aac40277da9be08",
+      "matte_sha256": "5bb02f35d94e96bbbfde2ec17e8fcffb2a092c2cda46561bd344a55af6e0de2b",
+      "preview_sha256": "241c2b5101881a2ba8eff1c5fb025cffec4d0013c55e4cf5a842918ececfadef"
+    },
+    {
+      "id": "VL0120",
+      "family": "diamond",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "871f0c06ca42738e10f5607a093b8db7b230dee0216a9ef37eb974095d6b6bc6",
+      "recipe_sha256": "d4fa586d7f1c7dcd67d60b32cf37e47f94606348e8a16e08b60ae4b657068116",
+      "matte_sha256": "b51c9c9fc68f9dcd5e11fcc67ea4947f2024d25bb532699c3e6c161d43b0d5f8",
+      "preview_sha256": "e265799113ac3e722da46dccb4bf2b19b0fa9a27751ae831aed37e925fa86e3d"
+    },
+    {
+      "id": "VL0121",
+      "family": "clock",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "8da11a94869c8e2f7b629a1d415700a0b6553b7f18b0ce08c2bcc56afa19c1c7",
+      "recipe_sha256": "0f2df1bd783749bf629f50f133b65ea7a78a3cb46d9b716904895149e685ca51",
+      "matte_sha256": "ea79883da9827d5c48f415211d5777d0888eed677b0b0b11245cb6068dc73624",
+      "preview_sha256": "4cfb2af8b519c9faf7a289519728ce56c4772cf1ebf764a667c3f3d21b89e360"
+    },
+    {
+      "id": "VL0122",
+      "family": "clock",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "df58972939b84ee2761aa11325736dbcae6ba462ebd2386a710529bd1bce8015",
+      "recipe_sha256": "6fdd4cc2e29a8df44294d6eee4a4405eb60131275779685dac2e518569bdc924",
+      "matte_sha256": "9b823691187f2e5b1fe9eb2986d6add81de27ef831a24d4b4f42acbd5e8d82a1",
+      "preview_sha256": "e277048a820f79f714f87b18c297fa07c6425620eb799ac3bab5cde7197497e3"
+    },
+    {
+      "id": "VL0123",
+      "family": "clock",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "b1cd2b47b458b6fe3f4f5f13c6e711ec43cef4ac539a0e4345c1029db52a62a0",
+      "recipe_sha256": "37b655b5a588927317b0c9dceef9a699bb56736d8eef2ba807f758809de2f9ed",
+      "matte_sha256": "464e1e2a620e7413d3439d323ec6a11ee52028cfa3eede9f97472428e9ea1578",
+      "preview_sha256": "e215611492df2a8fc422c3e8ca10956864da98f3ab8fce53106e25e141d1f09b"
+    },
+    {
+      "id": "VL0124",
+      "family": "clock",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "18c0c655d0c4102c46c5eeb3a81c5588f1afec4564a494e24f9b86b810f15f5e",
+      "recipe_sha256": "265ce8de37b38b44c30639ebd3ef3f8b7d80a0acf3903ca8b61b8b04bacd39b8",
+      "matte_sha256": "c921c91e18249d9e45bbf1d00c6d949c1fafd561c98a50dcf74c6fdb86e1183d",
+      "preview_sha256": "b7642a152f7bd494473414b55e38b2cb4c6463081c36e3367887bf6ed3a8f250"
+    },
+    {
+      "id": "VL0125",
+      "family": "clock",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "53d8652472ec12f2b1ffc4345560fbf1186f861a9ff8294ab12a5125ea894b68",
+      "recipe_sha256": "42f5e453175358d3700931e3d7cfdf42325b8fa0da0ab3cbc9dc41d22290f1b6",
+      "matte_sha256": "a5e2fa6fc64ab73ca1557a5beb36cb8cccdaad0f72c13ce508b05f0af9b081eb",
+      "preview_sha256": "ee1c8590fd8d9026895eaf908df834895f10f0e117dc3c5626f0d7cdbe18aaa3"
+    },
+    {
+      "id": "VL0126",
+      "family": "spiral",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "b550a3a0a953d5e974ee4b02f6def95efdd1e9e3526fa028ddcaebb49830d641",
+      "recipe_sha256": "0e7e0aacaa505318a716aa643b6beb65333002d0877d2e94c5338135c8d2a1ca",
+      "matte_sha256": "c9c6804cd2fd3600c80d6cf2c1264d25a774da93d2b4a50ec9d818f75575ac39",
+      "preview_sha256": "df6e17687368a9d982fc8d54d4468fa3aa740a59b397a349865197ebc1156b9b"
+    },
+    {
+      "id": "VL0127",
+      "family": "spiral",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "e540244dcd8980b80c2d586f374d6c4ec17a7eb5244c6758a27307e430b33599",
+      "recipe_sha256": "b469cdedee3cc18549969801b641935dc5ccbedcf7f70c8bd3c297e3a9e8709c",
+      "matte_sha256": "f3f166c8774769ed80633440e42d43e24c63add93b4508120ccb419e8af4937f",
+      "preview_sha256": "2cf1bfed87223d69d687b51de3c4f11a29c6819e568206fbd3c6ecba853d8ad1"
+    },
+    {
+      "id": "VL0128",
+      "family": "spiral",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "7e0996e6d2d92fc9c7c97842a8e6595bf96e4881c49a266408c8fdd0a3eee8da",
+      "recipe_sha256": "0e58160a9edba4f1301a3e6b52013599a6f64c9d9553dfaad6ffba10f02cc2f6",
+      "matte_sha256": "25beb45d505e425c4ade6bf14e075fcdaeec27bb426a4a720817700e1e8bd197",
+      "preview_sha256": "aec5b7bd0008a66bb89667f350bb2fcc79dd92f4bf70f6a00eadc13a9bd8eb9e"
+    },
+    {
+      "id": "VL0129",
+      "family": "spiral",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "bf5176426f61f580f21c97f63167f7e4df1de793c03bd0698aeb601e88726b22",
+      "recipe_sha256": "9ae6412653c7675c9f8ec92ae07ec932c3639a5f8b1b36b43a6bf6a5251ff44d",
+      "matte_sha256": "39f28c6adb502ba4be4e6150f894cedb3bf13033f51dcf5169590333c78ca55f",
+      "preview_sha256": "a03f059974149dae9f3bb10c24f1b2f6333401e207470273a1f369849c4bd455"
+    },
+    {
+      "id": "VL0130",
+      "family": "spiral",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "5259f94b2033378fa9ffdc79fc210fead4b09e476861d3968abc3385bf99c00b",
+      "recipe_sha256": "3107f8fcdb1f122981a2022b7e0cf63b3aedb88267d7537a8ca843fc8f55bdcc",
+      "matte_sha256": "95456f710a2489ac5330f1500e717127c10343851fc24503b6fd0343c2bd9662",
+      "preview_sha256": "58588d6e1c12c38e37a609058c3a0f9f5ab24837356e9b93a566f640ce6914a3"
+    },
+    {
+      "id": "VL0131",
+      "family": "venetian",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "98a14c829357122a1bf09d5247383d1055e688f4caf2edcea41d1a3ac549758b",
+      "recipe_sha256": "5d9cc17d246b79385c31b10466ba1bb60f39caaafaafbff98d679ab9121e0a3a",
+      "matte_sha256": "d7aea5ed27ac3893d69d0b8aa87f644f07b427d4269ebb2b49baad9c3a44d167",
+      "preview_sha256": "5fb89e9fb0b229b0beb74459d6cceea957e9cdfe31617b149048fbe779f42507"
+    },
+    {
+      "id": "VL0132",
+      "family": "venetian",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "44f203cbe4b079f9dd078489897fa21bf6249b3b83f12a239e0468ab7b83c90b",
+      "recipe_sha256": "a861e3a81708108dd581fa7749c24165928249fe11dd40451a6ffc01cc3ec4b4",
+      "matte_sha256": "1a7c304de576f7473bfc8f188e211cfede680123657b1066a7d2d6a6be3779d4",
+      "preview_sha256": "ddb425d38cf4805a128c5897a30be31d0e1989a6e2dd221f5a4cec4ba44156bb"
+    },
+    {
+      "id": "VL0133",
+      "family": "venetian",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "6d3eb5267af3445f19ab665872301fb04918189a7375804a1d6fbfb63277786a",
+      "recipe_sha256": "6ba811885704dde74cf7fb275292ccb1dd6b2258d36b88d67f22f98f889120b9",
+      "matte_sha256": "d1ba70d46b15ccdf93637ff67a7e3d17112d6dd6d1509d56473233725ebb04ff",
+      "preview_sha256": "c7d09fb18f17ee429458ff6bd81c4324237ac3af99765c1d0ade981487892ed8"
+    },
+    {
+      "id": "VL0134",
+      "family": "venetian",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "630052ab4c96b0257a8761efde405796e556ca0ad93755fb68cbcd864533af91",
+      "recipe_sha256": "73c11e7efc7f38402bdfa69f2dd61d0b6520a0bacd94937aae57bf8b3681da94",
+      "matte_sha256": "b37f43364e3fae8fbd98c0a99c1c13dd2264043d308c7dd82b1cd7a5e0b38f12",
+      "preview_sha256": "2563119542b135638f31ea0762464ad4d0c73c79dc6fd2e50e63444d7875b99c"
+    },
+    {
+      "id": "VL0135",
+      "family": "venetian",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "6d069cc12d05060f0dad9e52d8ae7da722230aee131f575721ab633241673cbd",
+      "recipe_sha256": "ef08aded09d08e18ac241e5e12818f624808531e55740ed87e84bae6d2cf5484",
+      "matte_sha256": "2d62f6441276ee2e8373b9d28cd048aaee62febeaa9ec9ad630549f1fffebbfd",
+      "preview_sha256": "e3c4220bd212f060f5c173b299d72b92782bd79bc4e5a2f430d4b73c6d741b3d"
+    },
+    {
+      "id": "VL0136",
+      "family": "shutter",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "6462d4d6bc323cb72f9531d10d9e1fc9793cb0ca6d16baf5ad0fb96b85be4a3f",
+      "recipe_sha256": "2f9abd03e39a1ce19d4ba682608e04c48d45f3bdaf8783bd5d97d5fcc6be8b90",
+      "matte_sha256": "2cb79f16cd695d13ac5a4034cada3a0f42ad1af71e44a51f2edf743d04f3c448",
+      "preview_sha256": "06e6722a9e9514ea27c20ca08d33844111be969a7a4007abcb3c640af68fc11f"
+    },
+    {
+      "id": "VL0137",
+      "family": "shutter",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "d7325b06ac55c95d802d2f9918021f4d788eabe63380040ba7e9b08c8be80c3e",
+      "recipe_sha256": "a533bed7f4227d050cc732d42e3d39cc81bbceecc67a7b6cf309f8bad40281a3",
+      "matte_sha256": "2b168abe3d8d8c21d32ad2a1a623cb9cdb338e7a057dd0450dcaea365af61eb7",
+      "preview_sha256": "8b067efb53550aa61f0716f2bc3d0ed5240e8bc002bd4cdfe50cbb237ebaad75"
+    },
+    {
+      "id": "VL0138",
+      "family": "shutter",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "f0926cbaf98e95bfff8d695d682f3efa2d4aeaa2cb8cdf038c4d9a041c442cf7",
+      "recipe_sha256": "d989e4c167e88566a097db4e9f7b36a42c474be5fff396ab55e58421ec1a6da5",
+      "matte_sha256": "28163093251bf44325e41889a08b2431a687720abe7263f15f8720be42a9906b",
+      "preview_sha256": "96ce42e900d90a345a52ca66bab79da58f2f9fc499293dcb089aa11db4dd24fd"
+    },
+    {
+      "id": "VL0139",
+      "family": "shutter",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "57e5f44a5a961e824988ad0c8d9da9c98178db26bde550402940a79c24d3262a",
+      "recipe_sha256": "9b84041d2b1ede7efb209257e7c84b316d5ef6c1017b06ecbc543c99434f6ef2",
+      "matte_sha256": "193415e25001b4e47c0d390d6d8481c048581a48c59d46afd8aba04dbf2b3bd6",
+      "preview_sha256": "327af391c158dafac6951ca33578598f620a1311820e33212b8b44c26f4db7a4"
+    },
+    {
+      "id": "VL0140",
+      "family": "shutter",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "f252fcb8e539e8c243986d8085c63c2987635d057bbf940961f621643e76517f",
+      "recipe_sha256": "b2cc380a57ad46c40acae389645c78793b24c42412f71a46b854b4ce4af0c827",
+      "matte_sha256": "2afb65e54d3c9eb8be1829067dbe538da7172e40432cc8a74e950b7344bf0a66",
+      "preview_sha256": "17da23ba783075ddff53b54b66a7c39bb096508e939569d03f9b4b7d2d457a5c"
+    },
+    {
+      "id": "VL0141",
+      "family": "mosaic",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "669117f8398730826c9089e7c444a60509bf6e21ce4031fd67b570b94ef2c948",
+      "recipe_sha256": "ad7131f6009b5d567db46993703ae395a06541908ff852d8bfedd9fe7bd356b6",
+      "matte_sha256": "115efb9dd1e85c5426a2cedda455bce8499d5a47f969d060c6fb8b62f109e8e0",
+      "preview_sha256": "2609a72b196d29728d57f638b7f2a1a14c50f5b8b62a42629e6940400aef21f3"
+    },
+    {
+      "id": "VL0142",
+      "family": "mosaic",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "ec7845fa3182dbf67164b3a287f3dcac28885a3821cca163590bb54e0e78b311",
+      "recipe_sha256": "820479205e2afddbeefe1965145e901d77da91a96bb03f57455827c3b8f40473",
+      "matte_sha256": "e9d93629eba088facb3feffaf5cdc4b5527c3c789a98d8e5b99e5bd41e54fe81",
+      "preview_sha256": "49151dbe5936b3ab3956722b9664d8c8e48bccb9e9dba7a5e812f8131082816d"
+    },
+    {
+      "id": "VL0143",
+      "family": "mosaic",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "cbf4970f1ad64083ca3a37896254e1918e8ef1f0d4abe4234daebd6d0333d918",
+      "recipe_sha256": "7980535a5d99bee6109fe183047937913b669f29e94513e361fa04ca13351c12",
+      "matte_sha256": "952a6150e0364838039533e683c0b610bc57e0df99802acd88cd1c93b537c504",
+      "preview_sha256": "e5977c2c3e4302471f17d2fb0ee46fc0efc4deaace20cbeca9eaa5ebb5c47c66"
+    },
+    {
+      "id": "VL0144",
+      "family": "mosaic",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "a7abbea061808afe2f576e62c3d56ddaa8f7048350d63e5aaf029297b0ca8398",
+      "recipe_sha256": "f65708c9fe1eb343ec6ac7a8c205b25e995e04f5b1ad44d58f33816d2196a020",
+      "matte_sha256": "4fff3b8aea590cdaf603e05cdb6106e0eb35f6944b8d8845196e0238e4a0d9b9",
+      "preview_sha256": "980bb9a489505daf47ac72b6bf328284157dafe9b69ee343f32899fe6ae68633"
+    },
+    {
+      "id": "VL0145",
+      "family": "mosaic",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "5144870e7be272cc1f27110b15a1d6ad7e0e5c6bb36a90123b8fc472c9e16a55",
+      "recipe_sha256": "0f5c3ba92fd1a143e634d8dba096f1c2a595e81fbe38f1f8964ac46e883e067e",
+      "matte_sha256": "6aee86c6cdef4933a80c2c943427783db6a2d5d0c65606707623fefcc0698b9d",
+      "preview_sha256": "736951216cac7f74a7a67ca48967571e0a15b972c7e4e2b0ce59f08f346037bc"
+    },
+    {
+      "id": "VL0146",
+      "family": "checker",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "40e5eaf9302e01c926f32c9b84c00b3734702c80c84b1271eabbedd70830fc54",
+      "recipe_sha256": "99f027de9299efe053e862fbf543c857521bbadc014c5bd4b914bde3634e881c",
+      "matte_sha256": "50422af9b0b0304179fdd6007abc113bc6cb58dba1a3b8dac85b98f1026a4c6d",
+      "preview_sha256": "68974f13dac2a21cdd50ce8db01c084a5ef36313dc190eb1ec507aa0adb08287"
+    },
+    {
+      "id": "VL0147",
+      "family": "checker",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "e0d39e852ffba057c31bc83e774d2e4ccbb114be6a27420eb7aeca7b26819084",
+      "recipe_sha256": "bf5148490ca2ae158e0157704e6db56255087f128dd3af0efe661dc1be888adb",
+      "matte_sha256": "2b3b4eae1f724920fb09cc199d181c67f2df04210eef85ad6bc58212d102f4e3",
+      "preview_sha256": "8ab1659e22612872e49e046ce51641316d8a3a32d10a13d924d42c29c63050d8"
+    },
+    {
+      "id": "VL0148",
+      "family": "checker",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "3c989a06a0db6a2837b6936ca0b0236fa313edf96704de5706e727bf4dd32d72",
+      "recipe_sha256": "40f701dbd2abf5165022272b8bc87bb4603b04e1602cf071290f5e3e3d82e2f8",
+      "matte_sha256": "6e80126724f717df8644b93a9f1a1f06baf517aedcb87ea93fbe20d4a7df0d84",
+      "preview_sha256": "202f32442fb0f2c5bd6efe3ad1292d97ad02d401581291ab369f7cb61663b81e"
+    },
+    {
+      "id": "VL0149",
+      "family": "checker",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "0731f6b90d34ccfa5d36f24a245f9947690ce052b85bb9d79c07742bef3ce301",
+      "recipe_sha256": "589451d928a972a5bfc6ec3c44063d3b239d770338c4e650fa5babf0f092a13e",
+      "matte_sha256": "c987fe92d213f89e8b58a5f2701815a747fab1b5e9323d181985780a725896dc",
+      "preview_sha256": "b0ba69a2e3f693f9aedb57e181c0718154ee4ad8751f7c2c7bc5097d7b26a307"
+    },
+    {
+      "id": "VL0150",
+      "family": "checker",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "43f01a5961ca6cf9bd038cc23424671b99a97cf07747a07d710694470454b65e",
+      "recipe_sha256": "33d417df5b171993e837165c907875b41afda99635933ee0c595a8838d964935",
+      "matte_sha256": "df8c43f3ff118ef72184c2af2e190d0019ab577313a686035c7ea5c121ca680d",
+      "preview_sha256": "0cc8a23630fa1b7401bfa5e0ad3b64657a556a57e7fcaa062ef3d185baa7d84c"
+    },
+    {
+      "id": "VL0151",
+      "family": "waves",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "b4fd330c778d8ed681e9361f19abc802e788e2377fd033e5bc584eb4804e3259",
+      "recipe_sha256": "2815102604dba6dc5f7ce1a245478e6d168ef40b0fe0e7a3e6ddde2caedf4bb6",
+      "matte_sha256": "55ba5cdba270a05e85d804da13806387624a473979e5b2cd923ebf6bd1dff6b2",
+      "preview_sha256": "f58f86864d8383581ec3fb8369ec273c9c2610a9fdbc943508ff1512e285ed43"
+    },
+    {
+      "id": "VL0152",
+      "family": "waves",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "87784cd7174c4549919b5581fe74741626dc4287e95ccb112edc6fd9598a5197",
+      "recipe_sha256": "554b8be49b601bac67f8396ca74f7044e0f3808f58d020f92e55d8a8edc23cd4",
+      "matte_sha256": "407c85341540df1ca72645dd5c072fda5bfea391d56f81c2f2f1d2e0ffaf0288",
+      "preview_sha256": "f82e6b0186abdff66c729dd8fc7b9ab6261edce3db000de695c0e2a7fe1451a1"
+    },
+    {
+      "id": "VL0153",
+      "family": "waves",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "70fa6f85de526eacb75c0be48cabe531be2e9518fae4cbec6b44823ba18e6dcb",
+      "recipe_sha256": "aad409e0e632771f095b1d368a64bdc4086dbc1d5a9f18fe1df80d1517f17d2a",
+      "matte_sha256": "25862358c31219cdd87bcdf4e74341c2af81e43e03ca397e27f9c3de0794b23b",
+      "preview_sha256": "0d7464ee835899777141dd41b7a9b9eb4891e0648a0bbedc4e2423d37a1fe8a3"
+    },
+    {
+      "id": "VL0154",
+      "family": "waves",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "5e1fcd033f425f3506180036abba86a6af1483efbdaf01872eb33d80aaf10485",
+      "recipe_sha256": "bb342490df7ed1cd3c700f6d4955ae128fe6b196c69a02a9b6df2814810518a0",
+      "matte_sha256": "05b1a0efbecf0ee779dd70f3919cd1b2a251603de3f38b3b47226f27f7e40cd7",
+      "preview_sha256": "b33a3593c3e12d15306567f49ca9ee8f87e43d6ad08600bd3feb13173731b707"
+    },
+    {
+      "id": "VL0155",
+      "family": "waves",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "172c241a479e4d715a062715f904f79e7b98add64b2d3f4032384e560d348412",
+      "recipe_sha256": "f0583d7132d08c499082b729486b25de4b5ba3a91c46d92c6c3b23ccc156bf70",
+      "matte_sha256": "63cf943d76d4c26769120bc2eb4c47728443b77aa1b41bc81a38bf35674fae70",
+      "preview_sha256": "2f5b52e8dc9c92ca5793f61b0975d25cbc0366b492a438f3adefab3cea2c5b99"
+    },
+    {
+      "id": "VL0156",
+      "family": "ripple",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "98cae923b61fb179ac456404d5b9a0911f622f4d9c711c2c151377679de2226a",
+      "recipe_sha256": "788beedf37059413b1eacc60a07ba35439f1383ca67a9073b74f06eacbddd199",
+      "matte_sha256": "ddb7eefcf7d5a2c65d067d67eb38e15d6561855cd422701efdcabe9d277e1a1e",
+      "preview_sha256": "a93d04e92ae3090cfe05958908bf673d54e791d599d7e1830b38e1cc23da01b0"
+    },
+    {
+      "id": "VL0157",
+      "family": "ripple",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "f591eafa78216a0ca88f0c8e212206fa12ae18803f5988ec0087c4010a11649e",
+      "recipe_sha256": "19a6e3add1a5ac2908d9d15e88e9ad23ee7c957763467569cd77ec1be1322593",
+      "matte_sha256": "f1952e280015354d2de8b724150a807473a728a7499971f62ce7f60afa612e2b",
+      "preview_sha256": "0966fe0906434cae5c895992202e0c3859e53376863cb2035b5406fab2342e47"
+    },
+    {
+      "id": "VL0158",
+      "family": "ripple",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "a94b3eca5025cb8e0b9a9ef2ec0a657f94ec0629adefbb9fa3f8d57e528187dd",
+      "recipe_sha256": "186e39643cc1634a0dd6f9d0d2f6309a0ad121340f05d4d92932f3aa3b666d8c",
+      "matte_sha256": "74d78b2570f187b18ef943511e3dba6232ded5409a0b3600364066f7ce04fff2",
+      "preview_sha256": "8a80a582b4813908287aa07bfd52811f9d3de055c22337ff334fc042d3d22d00"
+    },
+    {
+      "id": "VL0159",
+      "family": "ripple",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "08cd2000658b170b219607d88246257e6ca0a7c635e4f79d29ed5ef1019493df",
+      "recipe_sha256": "44222d7c27b0890b01e4c25d4531cb35ffaeff8a0859318a222cf668477d0509",
+      "matte_sha256": "1659a213bdefd62f1d5e6b2e442d2f92a7375b013c1ec770afff94a81d160de6",
+      "preview_sha256": "8d522a7034cec7cfc74419b6f471ba57269702ba0474f3dbe9e0271b02ee839d"
+    },
+    {
+      "id": "VL0160",
+      "family": "ripple",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "ea9578d804084c91971065dcd5b9fb0d9c124883468bb3b4607be784b5607ed5",
+      "recipe_sha256": "92f60054b29e63bf5a3cf0833b70801ce574706bca3aca436fba509a5d1c63d4",
+      "matte_sha256": "6009c93da859c1543777ae80cd8ca9afa697e039f56f151439cc2c324df601ce",
+      "preview_sha256": "e51f0846ca75a79ed60e130238f79ca04f5247005f793c8392a33537fd333d3a"
+    },
+    {
+      "id": "VL0161",
+      "family": "hex",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "d0293f3dd61b2f4621e9c5004bf534b38f405c69399de6071d2f40d3847ce180",
+      "recipe_sha256": "102ae7d77c8caa6636eb504f059d6c20b7fe84d0cdac26d5956677359402a8ee",
+      "matte_sha256": "b0201b0b3cb864139621ca7afb61b9c32651e7216f2afb056237f0f97410ca39",
+      "preview_sha256": "bb3cc0ae678502f34b0df1b855439a320cf5e4deeb1aa3d904be48bb76795d1d"
+    },
+    {
+      "id": "VL0162",
+      "family": "hex",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "211cdbc55cef423e2239ebd4609ec6d6558b5b1772e1e80a90b8e7187f6e441c",
+      "recipe_sha256": "2775c219308c64ba0a715ce3b5fa6d3598fb1f30d10f35dbe77ac923bb216b42",
+      "matte_sha256": "7e1417b0967e8e846e45d421a79b988fe0fac48621ae61194837ea8fcd4026a7",
+      "preview_sha256": "4da4c92b0937b5aa2392811e835f11f79f492091dfdda2cc2277e55e12d8ee44"
+    },
+    {
+      "id": "VL0163",
+      "family": "hex",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "11586a714ab0252b32d3be2599e051366a192814e1c4c73acf50466c2dc89776",
+      "recipe_sha256": "3cfd006b4d2b23054b9092c9af10afa9369cc569693dadf56b82723efccbbb5a",
+      "matte_sha256": "d15d17188964d9c7b573ed5eb832d079119b9975b408cb249077e14bc71d62f3",
+      "preview_sha256": "3c93ea0398dbc430cc2e6b9c9370cc9bfd1d592caf9a2cde2b0836cd6c0facf1"
+    },
+    {
+      "id": "VL0164",
+      "family": "hex",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "6fe62a75d58864d351dbe56e7618031f5d51be82473097359826f42d38dd27bd",
+      "recipe_sha256": "3c317d2ffc8c65b1860ac80477cde96bbd095aa11b1b0023145d8ed44c3193d2",
+      "matte_sha256": "350ad1c47b35e94f70ed89a547974597fe89ef18d05de19afd3cac3e0d09e43b",
+      "preview_sha256": "50953922cf3b0826e9fe73040c8233c3876a28eb799af72e1707dc3683502041"
+    },
+    {
+      "id": "VL0165",
+      "family": "hex",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "e48ab241b82fb86c50bc27ec439a2a8987c9de1578cbcdfbfc1364c683340ae3",
+      "recipe_sha256": "7cf8e9a086c6cd8af963137bcd9b283cdb6f212bbb10c3068c366d4e3ddce52d",
+      "matte_sha256": "35ffee0ab3ebd9e56880d411333141efbb42890e89e18e094c5ba097d8f72896",
+      "preview_sha256": "b7b1277946980a68b56cb42b20d3168e506b1db5f3d80de4d2545de3950a7888"
+    },
+    {
+      "id": "VL0166",
+      "family": "chevron",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "10f714ded14cfa9f5393fa17e648ab08371bff8b93bbb11539036c9a2c2f0ff1",
+      "recipe_sha256": "5071c5621a4cf7a094363d8691f935500f5b9857738158ade0b0290b33ff802e",
+      "matte_sha256": "0122af1b407d0d3bcfd14d4c771b5c2f0ceb011414c3c96ba3f659a88c5f5eb9",
+      "preview_sha256": "fdbfe13ae42f61c7ad11482fc9c2e1b4ba0df227118ab24cd267997af1362da2"
+    },
+    {
+      "id": "VL0167",
+      "family": "chevron",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "3cc59b37d427761b8056e04550d93c99ac8430a5bd25161885ed5d67b5b0332e",
+      "recipe_sha256": "f1019a66b6255c693b6d5a4fec34674b9bdefbf70d1f909cfb376376d0df92ee",
+      "matte_sha256": "1ec87bbdcc899b281c8a97bcf220d46412136d7996b384ba87ec322c7c827242",
+      "preview_sha256": "97830a0bc2febc465378a4b5595941175411c490ebab38e1c681ccbf5e64c3d4"
+    },
+    {
+      "id": "VL0168",
+      "family": "chevron",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "702b13d7546b9ed33048ff1ae5bd73677ba2c28fa9c0b67d0ac204c2813e34ba",
+      "recipe_sha256": "23f2b0423068e70bd5970816a31f6773148f4b12ac4caf932bf9fc43f3c72c3d",
+      "matte_sha256": "632e25e695d3a702208db8e927eec225fb55ea57ea65808671a3e0afccadc5cb",
+      "preview_sha256": "05fd8085f4dbd93373ef815f61912df77971f7360800e1c7a0ba7c37aedf7f90"
+    },
+    {
+      "id": "VL0169",
+      "family": "chevron",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "6deded0dc74a5771591f7438c527e1770078b8670b0b307dd7f7ac422c788e5a",
+      "recipe_sha256": "69a4fcaaf842718f3e8ae7dbd4f3e1cbe50405cc30b285704a85c548bf354598",
+      "matte_sha256": "c799cb26ee97a8609001458bfd4560dacd249ee902f9602aec02745e7fee7ea8",
+      "preview_sha256": "56181f6b356efddf1d9af0cbfa92eee8069d200c782d52bfd44efc9ce6cbb591"
+    },
+    {
+      "id": "VL0170",
+      "family": "chevron",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "5eeae6ab1e0a70510e3d26901cc328d6f43341a981c9075b2b3a3b32f1b205b6",
+      "recipe_sha256": "40da68abb51d42c915c9fc228dfd469d07be280f2b41bb9a7b021f6af6a029ba",
+      "matte_sha256": "af78005d52034089df2bffd87c58ce4a25628d771a4aea6a610b8c41360b4cd9",
+      "preview_sha256": "7a0c42ac4ef8e90611113a5517b2aee5215515282dcdd837a684ef2c380f752f"
+    },
+    {
+      "id": "VL0171",
+      "family": "zigzag",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "31e3c0f82cecb44b062ffc1ccf75b899f77e635e8cd19bfedfa5b8abe45e4b7e",
+      "recipe_sha256": "4a93edf9ebbd514f4df44990bc393f8e11c6e8e3fa3ac2022dfe52627ccb5ed3",
+      "matte_sha256": "df9be274c9fc81422be133d9c6aa17fcad0003a63eb5062a1f5c529280c7f780",
+      "preview_sha256": "c5bc7ee46e0ffaa9f5fd9615db316e7d59ffec0dff1aef266da29ce1ee1df4d4"
+    },
+    {
+      "id": "VL0172",
+      "family": "zigzag",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "429335e48e4db6200a9d321a51a6d5e8ccf44b8e84ef3eb9b897a4b8f34f2844",
+      "recipe_sha256": "aacf6ef244379bb30441e6920776b876eb2813b90253f2cd59b093cfa3eae434",
+      "matte_sha256": "324ec57c1791e027c796148a60965acc33281a10e29a8646f14c185bf8e6c40e",
+      "preview_sha256": "e51ec04cb230a15d30f5b1f72883b933e2dfa1622db9d0cda3d8504518f20881"
+    },
+    {
+      "id": "VL0173",
+      "family": "zigzag",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "5d6713bbd442d4db6044af7005931f18852b6af284c152bb5321975a240ae95d",
+      "recipe_sha256": "83c1ea3427346a0d70b0b982861ea055599b08eb193db5d7c9b192644d0ba6ff",
+      "matte_sha256": "ff781d629867c2e00b9bb92bf08431f8d3901a332133fb320266c2b00c24675e",
+      "preview_sha256": "519fdd910930e1d12fb2772cc172eeef61efc69ac136e0a5dcc848498a1da777"
+    },
+    {
+      "id": "VL0174",
+      "family": "zigzag",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "33822856c9bbd263feba743ca40cbbd02a9b043fe71a5d313648bc5cf76a686e",
+      "recipe_sha256": "c6b8075f57eac37da3ae93ebc750ec8a541423524d3240ac498be86b089cff72",
+      "matte_sha256": "6cb5567ead74735e007f7344e6308ab7d3a9eca3813f37f154366134d4dcc5db",
+      "preview_sha256": "62b03031fdbcca185ed97733918637fcda2bc691fa2f28b0c4ce95b4ba82d7cc"
+    },
+    {
+      "id": "VL0175",
+      "family": "zigzag",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "3dc75f2d3dad6f3e457b86298a0e3d4e9094c8db647453e9319f63ef3c4d7cba",
+      "recipe_sha256": "fd0eeb4f4b93fcf85f5422355e499c4d691285a6cd808ce8dc12d6095b86c3c2",
+      "matte_sha256": "6ff898443bed299d4319ae4095deec3f37164ef8dc47ca0259a6e33e01489102",
+      "preview_sha256": "eb81335eb3c37d5ff9dbed3dd66976602b3270d903e58a93f266a280edddaa08"
+    },
+    {
+      "id": "VL0176",
+      "family": "film_gate",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "c919d4cb02ef2b813556972ff26db2bd4a4d073b260943f70e57b5ae86c65d2b",
+      "recipe_sha256": "4a86bdd2777926f8be4f02b73fffb3115d3e1761b8d225b447672fea73a09f63",
+      "matte_sha256": "37db38a9f7342145ca72d1b16ff5bc2693184fb53f5f773d3302b454259a5e2e",
+      "preview_sha256": "f336db5fbcd357b84f63ee729400ef2f57c5375ee9c27353d206611e416f60cb"
+    },
+    {
+      "id": "VL0177",
+      "family": "film_gate",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "707111d6e021d1b990b7a23055511eb53aa075cbb0e8577a7abf7c53b8bdab84",
+      "recipe_sha256": "d3cf98ed4358e2a4d496d95e05b09426a26945cb465c75d2caca90b5e3c76c64",
+      "matte_sha256": "b8f87c0c06aa06372e31e40c5bf29b1bcbf0e7ba37c41a41c3415988ff9ddca3",
+      "preview_sha256": "18993af48aa69ff3bb9ffb449f9e273b087c134cc632cfeaebe2c8f5e4f62f42"
+    },
+    {
+      "id": "VL0178",
+      "family": "film_gate",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "d5977904ee5256cd56d6ca7c1c241f1b4eac996ef69a72c4ae37e874a4350bbb",
+      "recipe_sha256": "31e22f483184a13bf0cdc0177228c0c149694668bd8b70ab35756e6624d515f9",
+      "matte_sha256": "0d7b6cc21edc5450bc96d258fe7e0fbb4586dfee0375e23ac1131a16c780782e",
+      "preview_sha256": "ae0c45f0a00ed66e7b1f31b57f0b091ca3723535761171f8ef41eb22f21046b8"
+    },
+    {
+      "id": "VL0179",
+      "family": "film_gate",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "ee20a9ba696042c4b0da1596f771049fa525fe7723d6ca363515143f7a4a7744",
+      "recipe_sha256": "af4443a69ac2573b9f9e4f19035fd2fd8dc4808f7385b3021142625fb921f45d",
+      "matte_sha256": "b0a9c4ab162f0558da942663591c741fb8cebddc0c5660c50e425c8b8fe69278",
+      "preview_sha256": "4643e13287a6f584d65568ecd8edd6a9fc9703158feca1c103472092a0a09005"
+    },
+    {
+      "id": "VL0180",
+      "family": "film_gate",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "25bb936a9342dc3674bc863bc5b20081bd554d78dec415525bf8b94f8cca206c",
+      "recipe_sha256": "d21c2d327b198f91392159b4c77eb143809088ae9546e878bdcb4f37bc8f7151",
+      "matte_sha256": "b216e64facadbfd16eb224b208fd33fc907cbf533ae1be2f005cffa6e4857fbd",
+      "preview_sha256": "d3625f59efade31a330df50340da9080cb6ec0674b59e4620c07d97ddcb7b729"
+    },
+    {
+      "id": "VL0181",
+      "family": "cloud",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "0b3b6c4d7506a12e6c896b39d12278817df2037f1f60bfc2be708e701905337f",
+      "recipe_sha256": "1a9512c499eabdfec3231d717bf58456153d6da1f0ba24e40860cf4b2ca181c1",
+      "matte_sha256": "3292d9dbd00ba0292ea3e182fbb124ba2aed085552573a54f937f12efa81b5d0",
+      "preview_sha256": "33f6d2a436517e2175ae1d52aa61fa7060526a0e362f721a545bc827c4831a06"
+    },
+    {
+      "id": "VL0182",
+      "family": "cloud",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "bb337ce6714f1136a462c914e050958eedcc55b3c328e02eab4005d870a294dd",
+      "recipe_sha256": "8b1dce33d841d527ce1538a8e5425a95aabd5eb1810f09a6a46a449bf9025d81",
+      "matte_sha256": "627f19ee9d9e1b59f431cefdac59acb98bfdfa249944d503b30b3b48c44b4e56",
+      "preview_sha256": "d1993f2e6a72261fa9a6958ac4cd1bacec73e7bc837a86e0df1cf8b9c073b7cd"
+    },
+    {
+      "id": "VL0183",
+      "family": "cloud",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "fa07912372e68a121f27af4cd76b27dea73d4e1f9b24cba1252df90b786867f9",
+      "recipe_sha256": "143d2ac7f5f5c198619548d8c2f87ea2d86a769dfcc75d25ae68c286c088a94b",
+      "matte_sha256": "b789a056d5394bb14c9bafbedb6b723c406494becb02f29f8df35a133c3bf8b0",
+      "preview_sha256": "e172226f2fe437e9053debfdb32f3dd6abfac17b3fe7d44f53f2faf69f4336aa"
+    },
+    {
+      "id": "VL0184",
+      "family": "cloud",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "48c21df868951055eb4f9561cc9573344666bb699188460fa90d364147af31ae",
+      "recipe_sha256": "8fdd5a05b677371322918bb7cc90e72d4cec6ffb9501efb622a3f8a7140e548e",
+      "matte_sha256": "4b2f1f431e7c7dba7ba232301563301daea2a07253aa941b569529f99a546f37",
+      "preview_sha256": "99a70201f380557c2d351c463d90ebb8ea949c01462a064835e03ad01cd43643"
+    },
+    {
+      "id": "VL0185",
+      "family": "cloud",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "d1dcf5ae7cb4394d4d6abecb6e19db149f29edd774e11aa936636ea44800496a",
+      "recipe_sha256": "d1b83e2fcb113b5b8e89dae7e4edebd640c82f97ec02f33f84bd8efb55788340",
+      "matte_sha256": "ce713f0afe2af0f4a674d1f01d8c8827c6c4c4a1bceee0f885f27e663dbcbb84",
+      "preview_sha256": "3ea875ab70973dcb87e1171984ed948162006518ef2cdd7e886d4b664a70303e"
+    },
+    {
+      "id": "VL0186",
+      "family": "ink",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "29cec6b590c65cd490430354795ce4e05d3b95a01ed49a0b246c0123e95daf09",
+      "recipe_sha256": "d37a6a67545c1a22a3ec7ea44ae49829094bd5028193915b6fa837c4a7f6367b",
+      "matte_sha256": "ee4ab90cfcf3e02af85622bd3c16f10284f9315ca9dc06c56047a59759faf298",
+      "preview_sha256": "d181e93e89060ac909d53b008806e7feb6331eec363fe2cd84d32763f392526d"
+    },
+    {
+      "id": "VL0187",
+      "family": "ink",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "b924df55bfcca4aff50438eef5c12c5837ded0e1d2f5381e765d7c005fb4cab5",
+      "recipe_sha256": "10288aea1144bc1f5fa9b4e804ea7443989ce133ba7ab8dee403579f0b198abd",
+      "matte_sha256": "58f0934439200bb5b5ae0558bb5c1208bfd27cb66f4320639d63014f7495d60d",
+      "preview_sha256": "ad588e33bf0cd2248a2ddfee5a69f14b999124ae1d064b0b6283c5240ba4849c"
+    },
+    {
+      "id": "VL0188",
+      "family": "ink",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "dd607112b7adec89fd1261396f8a0e5495c64a4dac0a16e975d251ee4af15ab0",
+      "recipe_sha256": "1b1dbe431c03a3879d711db5d734ff005bbae34384e36911b5ccc3bd94fc5d62",
+      "matte_sha256": "79a954bcd29b1a254597af420576494837951ac14a6b650ca737fc98edd3ee5a",
+      "preview_sha256": "e98638dce96f6fbd25da9045fb777928ea17a0f031b55495794545c3269dfbfb"
+    },
+    {
+      "id": "VL0189",
+      "family": "ink",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "a0f4c0303156b1a8d6b31ca6d4c7cebb461c24f3bb11398944f781f45cc6fc34",
+      "recipe_sha256": "ca8410da43a490fd86c65a4d3427eaa43fc54d96d4c4f3f6dc537e8e4e2b5aa6",
+      "matte_sha256": "a221b7f463d5c80ad31070dc46e0b3d9eb9944d5bacb4ea8f58708de27cedb44",
+      "preview_sha256": "04d6e15736853ca190a239f4ff5e53f874006401704607dabb25d797772e2193"
+    },
+    {
+      "id": "VL0190",
+      "family": "ink",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "9101841debc187a3df7fb6aee5485b479058f698edb565d32e680dfd31a23da7",
+      "recipe_sha256": "3c3e6318e37d99ba9c8a60549c99c709711b26b61240c1440ec03dee1eca99ec",
+      "matte_sha256": "fa4617edf15b755fa75b81228625a6894ba0b934868bb4ada39878829897e96e",
+      "preview_sha256": "ce70720dea5bc574b443c901fad9fa5ffa6900ddad67ca9bd60783fe6c1a15f4"
+    },
+    {
+      "id": "VL0191",
+      "family": "petal",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "43f119acf4225e3b294753d6edf037c6ae906a60219d288dbfff59f457f14785",
+      "recipe_sha256": "5c6704b8827b7246d95e48bb42df2865158f4381322583d623436f654faf46fb",
+      "matte_sha256": "33847d7a2a330c5cec54a47eef8ed9d7260b06ead2e3b8eeea12c604d15ce962",
+      "preview_sha256": "5f81520908af4b30b774565e95fae6f0aabbd55b38bdb779259f77edc12e6004"
+    },
+    {
+      "id": "VL0192",
+      "family": "petal",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "12616781022716663a88d28e8b21a0a8b5bf21441412b1d2cf51a47df05b1106",
+      "recipe_sha256": "3bedf50cc47e63e7a5ba50b9087302752359417e77c3404247259b20819eb724",
+      "matte_sha256": "d6207b5c0cb1a6657a04869a94555bf324c16e9a42bcd15082c63e293d2e97d8",
+      "preview_sha256": "e3cfc29d252dfc3148868250be9012ca057f1657c197074744905c00cfb040f5"
+    },
+    {
+      "id": "VL0193",
+      "family": "petal",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "dce63308707dffa1a23bef72609a2e47977613b875a34dbd181d0f1ad5c24862",
+      "recipe_sha256": "d807387b9f109f74cb80a95584099c4d0ab43b5693e5d3d5d95197b2ba0ac906",
+      "matte_sha256": "306c73d5cdeea126c8d5e01fbcb752d276c8678d4569522a16e13b9528ad8964",
+      "preview_sha256": "1daec150eb4ed59597741f403657d056c5065413111d366c62ed9dbec0a10c29"
+    },
+    {
+      "id": "VL0194",
+      "family": "petal",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "718ceda17ed5834037ddbd50c4d58584d8968a217bbd732afbb42885b01f7bdd",
+      "recipe_sha256": "c6373e7bab506cfd61f78a90becff1087faba9838bc59a36283e385ab11c0683",
+      "matte_sha256": "aa1bb63a3e30fc4657fd976b7e3cc72cb296e8b1ca1158ac3e9e890bc9e06141",
+      "preview_sha256": "4c594b98e3d8b6684914c6d40402dbb9186cea8bdca31d6a46201af9c3adf38b"
+    },
+    {
+      "id": "VL0195",
+      "family": "petal",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "4fcc881b5026f10eb6c08cca91781c69c6ed89ff0eba5303cf75b2ca6e32d8d0",
+      "recipe_sha256": "1cefae45677cd2202b635ff33dc419728d9af04eab26d989f93696ec441515c2",
+      "matte_sha256": "34b255ef9057f28dde612db627f2cefdf9356d3b3cbb95faca62336d0785f955",
+      "preview_sha256": "897257708f6d5ef2831c853ceea5dbd9d595392ff989df851a7ff51e37fb2b02"
+    },
+    {
+      "id": "VL0196",
+      "family": "split",
+      "frames_per_video": 24,
+      "duration": 0.8,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "12a596fe0e6c113fbda4070240276d3636a0adc2a9f64e5fcaa14621ca152c95",
+      "recipe_sha256": "7ac409379440c1df719a5a802bb301222c71ab56390a2580dc8a861f133f2990",
+      "matte_sha256": "f82f92a79dae1d9c38ef0282cbd601cfbf3d1440962838b1d1979c098782d85e",
+      "preview_sha256": "5db431af33e12d4a10f224e2ca07cc6d925cc0f71bd196b55f4eca972b5de784"
+    },
+    {
+      "id": "VL0197",
+      "family": "split",
+      "frames_per_video": 27,
+      "duration": 0.9,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "81f0cf99c2f660c313cd714325a801f272776574ba85c6214f1b3a5fb6a9b662",
+      "recipe_sha256": "0ff7e272f9b2b792651798974507a4f36eba505550688837008ef55d519ae64e",
+      "matte_sha256": "7161e7fec829f6c185b37cdfb6722403325f9bdef22f55f779afb17235ec01b0",
+      "preview_sha256": "9fb46e9f2ff60d98834c3211f70fd4c80d5f4e9180bca8a13be56f37b3ee8d2e"
+    },
+    {
+      "id": "VL0198",
+      "family": "split",
+      "frames_per_video": 30,
+      "duration": 1.0,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "399566060a072a19b4dd8e8eca960dd45ba4087a09e9812737755c8aa596768c",
+      "recipe_sha256": "06196350a70d4b6636ccd44b36c160dfb831bd3eb223976ec33ebf7501552b63",
+      "matte_sha256": "5ed74e54944a02677d5f1b5f12cc7f85873779b6240754e1bbfafbb7441bc279",
+      "preview_sha256": "937290bc33b1918708faa1ef1f476d269ea35dc8214f3770e4ce7e24fea817b1"
+    },
+    {
+      "id": "VL0199",
+      "family": "split",
+      "frames_per_video": 33,
+      "duration": 1.1,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "0cb7531ae3f5cd61993f6ccd0314843b8da58d74fe9df2bd564ba201f38988de",
+      "recipe_sha256": "99543d67af105c8b9412b53721488b876d39ad467e9b3e0e293574ff1857bf0b",
+      "matte_sha256": "dd25698662df151a9e5be0ff387c1d795c4674e7378974bb6c6b12c5487f1c6a",
+      "preview_sha256": "de949642fe272f231b91801c8ac85b23d3909e4901e39c56ed3a46b1bd025fac"
+    },
+    {
+      "id": "VL0200",
+      "family": "split",
+      "frames_per_video": 36,
+      "duration": 1.2,
+      "decode": "passed",
+      "monotonic_analytic": true,
+      "analytic_endpoint_exact": true,
+      "decoded_matte_endpoints_min_max": [
+        0,
+        0,
+        255,
+        255
+      ],
+      "midpoint_geometry_sha256": "43973f8fc8b59eeb4eedab709ee859fbedc72917d35d2954485940c59644224a",
+      "recipe_sha256": "881cd2fb88192374121f7000b865b07085938ca257b8c45055b2db7b4a59f753",
+      "matte_sha256": "87851b16cb603fd0ff102d18d6f677890b89219b04a4d192d486c3d2a078dfe4",
+      "preview_sha256": "f5bfa8bc8e1810a948a8c19fe4b9f3c7dcf79322dad77c5cbcaa8fbf82ac7be0"
+    }
+  ]
+}

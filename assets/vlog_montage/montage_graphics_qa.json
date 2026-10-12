@@ -1,0 +1,1243 @@
+{
+  "count": 100,
+  "id_range": [
+    "VL0401",
+    "VL0500"
+  ],
+  "geometry_unique": 100,
+  "rendered_previews": 100,
+  "minimum_margin_px": 12,
+  "security": "No images, scripts, references, URLs, or event handlers",
+  "checks": [
+    {
+      "id": "VL0401",
+      "geometry_sha256": "320ae440a1c9d48bf5bbfd8d3fc0162705fd7115687e48a2a28498da3a1614e2",
+      "alpha_bbox": [
+        34,
+        37,
+        606,
+        317
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0402",
+      "geometry_sha256": "fb1d8fa0b0ac32f7eefe7b30b72addec82407c57e6b915ecbeb067205273a836",
+      "alpha_bbox": [
+        39,
+        40,
+        601,
+        313
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0403",
+      "geometry_sha256": "ab9861c7e1dde3705f3119fd53ceb4c75da2efb3aec7356bab26138eb513e28e",
+      "alpha_bbox": [
+        36,
+        43,
+        604,
+        309
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0404",
+      "geometry_sha256": "13f0a944546b0e894291dde2a4b895517049ce2dd08f8edd75d721c629cd0d51",
+      "alpha_bbox": [
+        49,
+        46,
+        591,
+        305
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 210
+    },
+    {
+      "id": "VL0405",
+      "geometry_sha256": "35acb524dff89d445b4e64cdfb8df7b1df8ca89f310fd806f820f3427a22dcb6",
+      "alpha_bbox": [
+        54,
+        25,
+        586,
+        333
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0406",
+      "geometry_sha256": "9986dbaf1c768a72479b5b236820b282557553403574990a22ebe94cb1aaad7f",
+      "alpha_bbox": [
+        40,
+        52,
+        600,
+        327
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0407",
+      "geometry_sha256": "dab5b9643a9b0ba949fee45cc5fc536b609193318813e765e49174c555548c78",
+      "alpha_bbox": [
+        55,
+        40,
+        572,
+        305
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 198
+    },
+    {
+      "id": "VL0408",
+      "geometry_sha256": "1d63df41f7eea1cefadf91e71f8921e43fca82808289fd3c9ef3c4ec7e3edb3c",
+      "alpha_bbox": [
+        40,
+        60,
+        600,
+        319
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0409",
+      "geometry_sha256": "ea1276e82570644deacadc9c652c9e7b3df6110379a03ca5198b9e71d7a4c77b",
+      "alpha_bbox": [
+        76,
+        54,
+        564,
+        298
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 172
+    },
+    {
+      "id": "VL0410",
+      "geometry_sha256": "cfc57cdbb138d061981f53bba63f565644c052f8c5be15d8b51de11459746c48",
+      "alpha_bbox": [
+        40,
+        68,
+        600,
+        311
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0411",
+      "geometry_sha256": "7358683e9c73e0e067205389006014bbbb5a809fd2f76859cd56e5cc459e8f0f",
+      "alpha_bbox": [
+        66,
+        44,
+        569,
+        317
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0412",
+      "geometry_sha256": "5e104df1a003c4286b75011b6acd8d334c17410e0132e678def2afae28d54421",
+      "alpha_bbox": [
+        39,
+        37,
+        597,
+        300
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0413",
+      "geometry_sha256": "93a735d9fee98ff80a45e4cff7da5359632691012d8610971d90dedefa42a613",
+      "alpha_bbox": [
+        109,
+        24,
+        534,
+        330
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0414",
+      "geometry_sha256": "58979aa58ffebce27da1e3d95348121f2599dddf575e579cb3cb59e868babb2e",
+      "alpha_bbox": [
+        53,
+        35,
+        590,
+        331
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0415",
+      "geometry_sha256": "8b85c77ff7aba06fb7cd5df3d246ac2b52bc6f3c119b874f3089561c7f33dc5f",
+      "alpha_bbox": [
+        48,
+        45,
+        597,
+        311
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0416",
+      "geometry_sha256": "6d6ec4627e7c5399b3e2d082047717867bffc172310467c9c61c09428b15d707",
+      "alpha_bbox": [
+        40,
+        51,
+        598,
+        257
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 186
+    },
+    {
+      "id": "VL0417",
+      "geometry_sha256": "dce4c9802fc14aa9f4fc87ee1cf7203c19fb9795068b92efd9d6df34d793322f",
+      "alpha_bbox": [
+        40,
+        51,
+        598,
+        265
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 133
+    },
+    {
+      "id": "VL0418",
+      "geometry_sha256": "d8db591d83a0283315cacf628ed77e69a8582ed75de6faa0e5ba41970a555cd9",
+      "alpha_bbox": [
+        40,
+        51,
+        598,
+        273
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 178
+    },
+    {
+      "id": "VL0419",
+      "geometry_sha256": "79bebb2c81b5ccdceed91dbf6dfb2d053c250d12ebdf5d7d231cc60532a855a4",
+      "alpha_bbox": [
+        45,
+        61,
+        594,
+        339
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 172
+    },
+    {
+      "id": "VL0420",
+      "geometry_sha256": "31ea2f750f7af67ae5d09548d35f5b4f4cb3082d3a7d50ff39a9625d88382622",
+      "alpha_bbox": [
+        45,
+        61,
+        594,
+        339
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 161
+    },
+    {
+      "id": "VL0421",
+      "geometry_sha256": "2203cbfaba1c8668bc51983f22bad55ef126b7502ce91047c09a94f0ba14784f",
+      "alpha_bbox": [
+        38,
+        50,
+        602,
+        338
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0422",
+      "geometry_sha256": "6158e45ddbe4bad06acbc7a82883e778a9efc6d11ee9a551d2bf2dd5404eb1f2",
+      "alpha_bbox": [
+        38,
+        68,
+        602,
+        338
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 214
+    },
+    {
+      "id": "VL0423",
+      "geometry_sha256": "03461cbd0b22892fccfba58f9c30fbb3375ee0723db4fa9f2e71ce1e6030e662",
+      "alpha_bbox": [
+        40,
+        42,
+        600,
+        339
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 192
+    },
+    {
+      "id": "VL0424",
+      "geometry_sha256": "9e92c542e6aaf30324a0fc011e81a09a52dd4008e82b75a7552abbfd2cb17354",
+      "alpha_bbox": [
+        40,
+        48,
+        600,
+        338
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 198
+    },
+    {
+      "id": "VL0425",
+      "geometry_sha256": "a4d5dbbad71ea38c228d3855bd4463d2e860187e5deaeb5dc340181619208fb9",
+      "alpha_bbox": [
+        42,
+        48,
+        598,
+        338
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 199
+    },
+    {
+      "id": "VL0426",
+      "geometry_sha256": "780f667fb60edd3d2b58d3460e70c518c66726c738d2f563bcdd03055110daec",
+      "alpha_bbox": [
+        43,
+        61,
+        355,
+        289
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0427",
+      "geometry_sha256": "b62892637b8991e579ccd1b1359248079ccef328a1f0e5675afa866e0801695b",
+      "alpha_bbox": [
+        269,
+        53,
+        597,
+        293
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0428",
+      "geometry_sha256": "1259e1ae9e8cfff5dc760baa6dde9aae5d327cc9e317a4b20daaa3105cc433a9",
+      "alpha_bbox": [
+        47,
+        199,
+        595,
+        316
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0429",
+      "geometry_sha256": "c50150384bd9359e305c6e26de667c5e98045978ddb31271cf044238ff3a26e0",
+      "alpha_bbox": [
+        54,
+        41,
+        589,
+        148
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0430",
+      "geometry_sha256": "1b25cb193e0357655f956e309849241d1e24961817dfd5051b092b5bf21da1fa",
+      "alpha_bbox": [
+        114,
+        77,
+        524,
+        284
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0431",
+      "geometry_sha256": "d32cfec003c5cd30c5af5507d09e42f2586baaf8173cb59c648b022d3daba687",
+      "alpha_bbox": [
+        67,
+        56,
+        574,
+        298
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0432",
+      "geometry_sha256": "aac4f09bef949dc1bbe8377df8114e71740cb1a666ff096e9811954dc841f09c",
+      "alpha_bbox": [
+        68,
+        33,
+        549,
+        317
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0433",
+      "geometry_sha256": "335a7a178df45931cbfaba602679540bf035e7659ccfba253a4f3d8ea97f86a3",
+      "alpha_bbox": [
+        62,
+        152,
+        578,
+        217
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0434",
+      "geometry_sha256": "b71fb3ca1d186142da361cf5ba24b06c51b5f0c530305eb6de213aecf5d35ffc",
+      "alpha_bbox": [
+        96,
+        60,
+        546,
+        296
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0435",
+      "geometry_sha256": "ec26a257aa200ffae56d37547030a529832d88594691e80c6062a1671dd0522b",
+      "alpha_bbox": [
+        66,
+        35,
+        572,
+        309
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0436",
+      "geometry_sha256": "9b61f2b6f67e39c13b90ada2f9fe39802ac5cb0767ce19ddb4939bc06493c07e",
+      "alpha_bbox": [
+        55,
+        60,
+        297,
+        309
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0437",
+      "geometry_sha256": "1e11ee2a5f244398e2e6eca32eff7ad6833e7171f7e044a2962a7adb9c42a68f",
+      "alpha_bbox": [
+        54,
+        52,
+        586,
+        306
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0438",
+      "geometry_sha256": "dae1e4c49e284111fba2acdb09db94dacca4bba9b1f43dddf2c166db5f133356",
+      "alpha_bbox": [
+        58,
+        68,
+        444,
+        326
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0439",
+      "geometry_sha256": "0cd9b75ef1dbf17e09e4c7f408e7caa1beb08c4dff4e1c733824a98381d6d0db",
+      "alpha_bbox": [
+        51,
+        47,
+        259,
+        306
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0440",
+      "geometry_sha256": "b8021fd87e112a73f94e06704d7c321d178563bfdf1acab3dc6049971b0811fe",
+      "alpha_bbox": [
+        58,
+        76,
+        584,
+        299
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0441",
+      "geometry_sha256": "3096fa9ac9497f99e68de4ec43ab7edc9b8ef0879ade9d2a8473fb0f03380646",
+      "alpha_bbox": [
+        43,
+        268,
+        592,
+        328
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0442",
+      "geometry_sha256": "874d61089b496b678ea7fec16fd53eb47d55f628e1c490b39142c2c96dbd79cb",
+      "alpha_bbox": [
+        45,
+        46,
+        592,
+        322
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0443",
+      "geometry_sha256": "6d111934be4904cd4a322fee9c7df9ab927e87ba25905a3b0bd30bc6e93661eb",
+      "alpha_bbox": [
+        45,
+        58,
+        595,
+        316
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0444",
+      "geometry_sha256": "2694002ece9b8f7a61c28eaf211b6dce0b0ec6ea5ca518d0ac7ac91fda9df3e3",
+      "alpha_bbox": [
+        45,
+        46,
+        592,
+        310
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0445",
+      "geometry_sha256": "b3c4b8e4e30602b97340d59b44a951e891319b605bfb31746cc0c3675da6355e",
+      "alpha_bbox": [
+        45,
+        58,
+        592,
+        304
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0446",
+      "geometry_sha256": "0cd79b41da76e85564a067bfd54a02ad261da019d05bc87ebb5846e4c106f35e",
+      "alpha_bbox": [
+        40,
+        51,
+        498,
+        294
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0447",
+      "geometry_sha256": "01e15f31187eb35f834976a0223a5ad1af0fedf5a799f63d425975b8b9679b01",
+      "alpha_bbox": [
+        47,
+        51,
+        519,
+        286
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0448",
+      "geometry_sha256": "b9873366db313c58ecb74d97dbd0f0627d59c53ff9e3ef672dd8bd04fbe9d0b9",
+      "alpha_bbox": [
+        43,
+        51,
+        540,
+        278
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0449",
+      "geometry_sha256": "ac07e92a4db4a3576837f450879673f3163883205dc8f262bfc70dadde18ccb9",
+      "alpha_bbox": [
+        61,
+        51,
+        561,
+        270
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0450",
+      "geometry_sha256": "b55887645a9e38695a8b2a045b0a2b88128febf3ec06568737841f56df1a914e",
+      "alpha_bbox": [
+        68,
+        51,
+        582,
+        262
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0451",
+      "geometry_sha256": "266598721bbd76804479de1f94ae25f5e5aa96fe6df6c224e68f0a859f59a5e3",
+      "alpha_bbox": [
+        49,
+        87,
+        576,
+        329
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0452",
+      "geometry_sha256": "4fa8e728cac465817ad43c11cb99a86ca09979406b64659a6399ec175e5baa22",
+      "alpha_bbox": [
+        50,
+        54,
+        564,
+        329
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0453",
+      "geometry_sha256": "cb60942d78f943b5412641fe7044972dc9e4225f69aff5795d76aed4fdc11e80",
+      "alpha_bbox": [
+        50,
+        94,
+        575,
+        331
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0454",
+      "geometry_sha256": "fcaa4143c8a787f13f6aa6ff10904b04f3104a7b8ecf03a59c84cd5aca714c93",
+      "alpha_bbox": [
+        50,
+        65,
+        580,
+        329
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0455",
+      "geometry_sha256": "9131f29957b797663b2778078c09119274753bf7697fe4f9098f487b378aa4ce",
+      "alpha_bbox": [
+        49,
+        53,
+        583,
+        329
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0456",
+      "geometry_sha256": "012824a2633b315db363a352fb3c51906837f84a6fbfaf45cad6d12ab4dda43d",
+      "alpha_bbox": [
+        29,
+        71,
+        611,
+        292
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0457",
+      "geometry_sha256": "eac42e4092f2154991a65789d90e94804606fb81e75f482da44d51a84e938ea1",
+      "alpha_bbox": [
+        60,
+        75,
+        580,
+        289
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0458",
+      "geometry_sha256": "44c49f37376897893bf1ef2746e40b524bc30874b8d6e7832481ce3a179662f9",
+      "alpha_bbox": [
+        45,
+        79,
+        595,
+        286
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0459",
+      "geometry_sha256": "133e2d1db71bd820f72f45d471c3d39515149ec683c112ba9abf959e8e63e89b",
+      "alpha_bbox": [
+        76,
+        83,
+        564,
+        283
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0460",
+      "geometry_sha256": "14a6cc5fb854096aa5d820cf44cd99f8fcfe2142d7d6f017456aa8511f1c8302",
+      "alpha_bbox": [
+        61,
+        87,
+        579,
+        280
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0461",
+      "geometry_sha256": "064d23e3102663a2e8600020214b21c8a3138ae7b9513c7961f966b7fddf2a10",
+      "alpha_bbox": [
+        29,
+        48,
+        560,
+        302
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0462",
+      "geometry_sha256": "da9307d88917272815a552262173902e492e79484f3133f8c8f2f0a7beab12d5",
+      "alpha_bbox": [
+        41,
+        55,
+        548,
+        296
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0463",
+      "geometry_sha256": "ee673d66ba451c86f531378381ebc23cb01bee10dfc90034f073934028bc1618",
+      "alpha_bbox": [
+        53,
+        47,
+        536,
+        290
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0464",
+      "geometry_sha256": "1ffac0eb223b4ca628f482b01d4cca0b7b4853aaf0159adfa51c2c7dfcb4f1a1",
+      "alpha_bbox": [
+        65,
+        47,
+        524,
+        284
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0465",
+      "geometry_sha256": "cef5c54fb9913ed3ccc6333a4b33099f9b3cf6d0424742803182133b615868be",
+      "alpha_bbox": [
+        77,
+        47,
+        512,
+        278
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0466",
+      "geometry_sha256": "9788d2de22af659adb3125f9100ff0c3a5475e587919c12909eceafddc915cbd",
+      "alpha_bbox": [
+        47,
+        74,
+        380,
+        295
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0467",
+      "geometry_sha256": "8d982e93769ab0583f982c933f1c40a22ba3a4c1b744cba8125dbb39e9b976a9",
+      "alpha_bbox": [
+        255,
+        72,
+        591,
+        300
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0468",
+      "geometry_sha256": "6fbf9b43fa1543ace21ee6991320d95ae60bea0607b86b930961229c3a089f69",
+      "alpha_bbox": [
+        93,
+        85,
+        543,
+        279
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0469",
+      "geometry_sha256": "1e80371cd589333d398b53f75633083dd451a9b9c6593cf3f8141c00879b5acb",
+      "alpha_bbox": [
+        49,
+        191,
+        591,
+        314
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0470",
+      "geometry_sha256": "6563612e1d72f3afd4c0dc92966b6275bbc6007703be8c7e7a308c4ed1ebb609",
+      "alpha_bbox": [
+        80,
+        43,
+        563,
+        282
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0471",
+      "geometry_sha256": "e1313dd075e8f1b8eaf77a299d941e555b53e8ddb7b0a3d6801b30f85b12da4e",
+      "alpha_bbox": [
+        404,
+        45,
+        600,
+        314
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0472",
+      "geometry_sha256": "8d4560fea3b1b120143aadb5c07ce13c3806485614cd072a00df7bdaf37d4e1e",
+      "alpha_bbox": [
+        43,
+        45,
+        263,
+        314
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0473",
+      "geometry_sha256": "c48af0d6b98449a345009debfe969e7e1cdcf12af1d76501a75e11e3d9ed16be",
+      "alpha_bbox": [
+        46,
+        254,
+        595,
+        321
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0474",
+      "geometry_sha256": "e352a39ab96221609be003f5eee9d7074f4eb5f85736720749e764e76c16012f",
+      "alpha_bbox": [
+        57,
+        41,
+        579,
+        122
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0475",
+      "geometry_sha256": "0b4edb9a24c482caa819c6025fd8d05fbc4ba9a9ffb25295204c745620e1e514",
+      "alpha_bbox": [
+        200,
+        46,
+        440,
+        315
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0476",
+      "geometry_sha256": "38cedc408436709662ffb0596245f16a021f253648d0fa5034c6440cd855c208",
+      "alpha_bbox": [
+        45,
+        39,
+        595,
+        310
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 194
+    },
+    {
+      "id": "VL0477",
+      "geometry_sha256": "eb7805e890d0cdce6a978b70be521832af34eb2b03dde29ae036bbc1fc5aed72",
+      "alpha_bbox": [
+        49,
+        62,
+        590,
+        317
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 144
+    },
+    {
+      "id": "VL0478",
+      "geometry_sha256": "f4b1943f7de5476ea7c8e48960e70476bbf51ae1f7c861ec9f3a8fd0e6d30e27",
+      "alpha_bbox": [
+        45,
+        39,
+        595,
+        318
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 191
+    },
+    {
+      "id": "VL0479",
+      "geometry_sha256": "f779e86946fe7ffd2f348076dcb69244210372125f359e8dff3ca10afbaa96ab",
+      "alpha_bbox": [
+        49,
+        58,
+        590,
+        317
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 144
+    },
+    {
+      "id": "VL0480",
+      "geometry_sha256": "22102921f91b57fc0d0bb2bc0d387928536168fb4c99f2ca4cb1372d50916edf",
+      "alpha_bbox": [
+        45,
+        39,
+        595,
+        326
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 188
+    },
+    {
+      "id": "VL0481",
+      "geometry_sha256": "c26cde74a5fd910ad909a69c50025e7aa4cebfc7deb596366d67669e1545bd21",
+      "alpha_bbox": [
+        44,
+        45,
+        596,
+        315
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0482",
+      "geometry_sha256": "429f78c15d88e893ba2a3f35b0cd16bd75ad24744d45e08be29c3aadaf967b55",
+      "alpha_bbox": [
+        50,
+        50,
+        590,
+        310
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0483",
+      "geometry_sha256": "d40ea5ac4d03adb63f9e2721150956b79e8dd5051c94981ceda4896da15d8bbd",
+      "alpha_bbox": [
+        56,
+        55,
+        584,
+        305
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0484",
+      "geometry_sha256": "1f9022e0a8f053c01427bc5080ee4ebd21bf0b79379fa036b25701e414ad0b26",
+      "alpha_bbox": [
+        62,
+        60,
+        578,
+        300
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0485",
+      "geometry_sha256": "31fa5c418c2be11717357b9081c2d92d2b187afb8795534e3243475dd83197c6",
+      "alpha_bbox": [
+        68,
+        65,
+        572,
+        295
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0486",
+      "geometry_sha256": "443c6a3fc1c357ba90577d5476327fbe85bf979af3c8e8e3fd3a580c66923eb1",
+      "alpha_bbox": [
+        46,
+        186,
+        594,
+        315
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0487",
+      "geometry_sha256": "60ac55e2f9df2e2ea08529583fe30619b2adfc2c2fd4e43f2a3c39f00b5ef459",
+      "alpha_bbox": [
+        45,
+        175,
+        595,
+        307
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0488",
+      "geometry_sha256": "2588df922fef2ba307e19b5aca33e1666ecd2862cf610df37ff089ba028ac0ba",
+      "alpha_bbox": [
+        46,
+        51,
+        594,
+        297
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0489",
+      "geometry_sha256": "90fac266a6e9864dfabed85bc5666f31d299bb3f6cab8ee1b989e14cf9305379",
+      "alpha_bbox": [
+        45,
+        51,
+        595,
+        288
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0490",
+      "geometry_sha256": "0e31c32ff2bd1fd50a833e3998ded1aac172dc5b1817a7efcd0668c8c942a962",
+      "alpha_bbox": [
+        46,
+        51,
+        594,
+        276
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0491",
+      "geometry_sha256": "3e40b9d1d9cae7a2187643029cd2e03e046961ffe6eb5094129fb096fba8fcef",
+      "alpha_bbox": [
+        68,
+        260,
+        573,
+        312
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0492",
+      "geometry_sha256": "1621716339b98c1a120588416e342c97a9a404ce5f198da99a74b69d3f16e5ec",
+      "alpha_bbox": [
+        112,
+        245,
+        530,
+        306
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0493",
+      "geometry_sha256": "173d6a247d77a6e8ad4b7b18d42ab532d0283e7eeeb08a250316b98d2b53aae4",
+      "alpha_bbox": [
+        52,
+        269,
+        588,
+        315
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0494",
+      "geometry_sha256": "45dc3333b55367ed1f6874389597acdfaee7f941c1a691ee38c89224f2f41a6b",
+      "alpha_bbox": [
+        67,
+        223,
+        577,
+        312
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0495",
+      "geometry_sha256": "f404be141e01fdffae5aa92800b21a3aa65311ea275463bd6cbb052d7fe07080",
+      "alpha_bbox": [
+        102,
+        248,
+        539,
+        308
+      ],
+      "transparent": true,
+      "xml_safe": true
+    },
+    {
+      "id": "VL0496",
+      "geometry_sha256": "76a6aa6af53eb2be9d170d4714ffa0a030996a2a0b600499880ca1dee919c5d6",
+      "alpha_bbox": [
+        61,
+        40,
+        578,
+        329
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0497",
+      "geometry_sha256": "c12536b778617621452cdda9cde033d0d5c83df6daef9b36387c3299d6bd1946",
+      "alpha_bbox": [
+        103,
+        34,
+        537,
+        336
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    },
+    {
+      "id": "VL0498",
+      "geometry_sha256": "83fc0e070e6d8d75bbdbf7eda5301b6d1ce8d8555ebede1de7cd0af4d3cd9518",
+      "alpha_bbox": [
+        52,
+        78,
+        587,
+        291
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 210
+    },
+    {
+      "id": "VL0499",
+      "geometry_sha256": "daa8546f19fd620016cc57e72ab29468f7c6e5ea74bfbd298845fff3a646958c",
+      "alpha_bbox": [
+        77,
+        51,
+        567,
+        316
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 214
+    },
+    {
+      "id": "VL0500",
+      "geometry_sha256": "7e2c19732a527fae1223552da9f65a47792c6df04b1e2f2374b381ac721cfb93",
+      "alpha_bbox": [
+        135,
+        27,
+        508,
+        345
+      ],
+      "transparent": true,
+      "xml_safe": true,
+      "transparent_window_sample_count": 216
+    }
+  ]
+}

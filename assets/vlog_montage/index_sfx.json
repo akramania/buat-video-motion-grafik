@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "VL0501",
+    "type": "sfx",
+    "title": "Air Whoosh — Quick Air",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "air-whoosh",
+      "quick air"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0501.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0501.webp",
+    "duration": 0.52,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0502",
+    "type": "sfx",
+    "title": "Air Whoosh — Double Sweep",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "air-whoosh",
+      "double sweep"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0502.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0502.webp",
+    "duration": 0.94,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0503",
+    "type": "sfx",
+    "title": "Air Whoosh — Wide Soft Air",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "air-whoosh",
+      "wide soft air"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0503.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0503.webp",
+    "duration": 0.67,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0504",
+    "type": "sfx",
+    "title": "Air Whoosh — Low Wind Sweep",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "air-whoosh",
+      "low wind sweep"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0504.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0504.webp",
+    "duration": 0.86,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0505",
+    "type": "sfx",
+    "title": "Air Whoosh — Long Lift",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "air-whoosh",
+      "long lift"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0505.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0505.webp",
+    "duration": 1.28,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0506",
+    "type": "sfx",
+    "title": "Swish — Fine Brush",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "swish",
+      "fine brush"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0506.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0506.webp",
+    "duration": 0.28,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0507",
+    "type": "sfx",
+    "title": "Swish — Twin Flick",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "swish",
+      "twin flick"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0507.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0507.webp",
+    "duration": 0.57,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0508",
+    "type": "sfx",
+    "title": "Swish — Bright Brush",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "swish",
+      "bright brush"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0508.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0508.webp",
+    "duration": 0.32,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0509",
+    "type": "sfx",
+    "title": "Swish — Soft Fabric",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "swish",
+      "soft fabric"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0509.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0509.webp",
+    "duration": 0.49,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0510",
+    "type": "sfx",
+    "title": "Swish — Triple Brush",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "swish",
+      "triple brush"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0510.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0510.webp",
+    "duration": 0.83,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0511",
+    "type": "sfx",
+    "title": "Riser — Short Lift",
+    "category": "build-up",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "riser",
+      "short lift"
+    ],
+    "use_cases": [
+      "Build into a montage reveal",
+      "Raise anticipation before a scene change"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0511.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0511.webp",
+    "duration": 0.85,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0512",
+    "type": "sfx",
+    "title": "Riser — Stepped Lift",
+    "category": "build-up",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "riser",
+      "stepped lift"
+    ],
+    "use_cases": [
+      "Build into a montage reveal",
+      "Raise anticipation before a scene change"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0512.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0512.webp",
+    "duration": 1.4,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0513",
+    "type": "sfx",
+    "title": "Riser — Shimmer Lift",
+    "category": "build-up",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "riser",
+      "shimmer lift"
+    ],
+    "use_cases": [
+      "Build into a montage reveal",
+      "Raise anticipation before a scene change"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0513.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0513.webp",
+    "duration": 1.2,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0514",
+    "type": "sfx",
+    "title": "Riser — Bass Lift",
+    "category": "build-up",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "riser",
+      "bass lift"
+    ],
+    "use_cases": [
+      "Build into a montage reveal",
+      "Raise anticipation before a scene change"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0514.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0514.webp",
+    "duration": 1.8,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0515",
+    "type": "sfx",
+    "title": "Riser — Accelerating Lift",
+    "category": "build-up",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "riser",
+      "accelerating lift"
+    ],
+    "use_cases": [
+      "Build into a montage reveal",
+      "Raise anticipation before a scene change"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0515.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0515.webp",
+    "duration": 2.3,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0516",
+    "type": "sfx",
+    "title": "Bass Impact — Tight Sub",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "bass-impact",
+      "tight sub"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0516.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0516.webp",
+    "duration": 0.48,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0517",
+    "type": "sfx",
+    "title": "Bass Impact — Double Thump",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "bass-impact",
+      "double thump"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0517.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0517.webp",
+    "duration": 0.83,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0518",
+    "type": "sfx",
+    "title": "Bass Impact — Metallic Thump",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "bass-impact",
+      "metallic thump"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0518.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0518.webp",
+    "duration": 0.62,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0519",
+    "type": "sfx",
+    "title": "Bass Impact — Soft Sub Drop",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "bass-impact",
+      "soft sub drop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0519.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0519.webp",
+    "duration": 0.78,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0520",
+    "type": "sfx",
+    "title": "Bass Impact — Deep Tail",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "bass-impact",
+      "deep tail"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0520.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0520.webp",
+    "duration": 1.18,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0521",
+    "type": "sfx",
+    "title": "Soft Hit — Muted Knock",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "soft-hit",
+      "muted knock"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0521.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0521.webp",
+    "duration": 0.2,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0522",
+    "type": "sfx",
+    "title": "Soft Hit — Twin Knock",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "soft-hit",
+      "twin knock"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0522.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0522.webp",
+    "duration": 0.4,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0523",
+    "type": "sfx",
+    "title": "Soft Hit — Wooden Tap",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "soft-hit",
+      "wooden tap"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0523.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0523.webp",
+    "duration": 0.26,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0524",
+    "type": "sfx",
+    "title": "Soft Hit — Felt Tap",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "soft-hit",
+      "felt tap"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0524.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0524.webp",
+    "duration": 0.31,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0525",
+    "type": "sfx",
+    "title": "Soft Hit — Three Soft Taps",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "soft-hit",
+      "three soft taps"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0525.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0525.webp",
+    "duration": 0.65,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0526",
+    "type": "sfx",
+    "title": "Pop — Bubble Pop",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "pop",
+      "bubble pop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0526.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0526.webp",
+    "duration": 0.2,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0527",
+    "type": "sfx",
+    "title": "Pop — Twin Bubbles",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "pop",
+      "twin bubbles"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0527.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0527.webp",
+    "duration": 0.44,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0528",
+    "type": "sfx",
+    "title": "Pop — Bright Drop",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "pop",
+      "bright drop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0528.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0528.webp",
+    "duration": 0.27,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0529",
+    "type": "sfx",
+    "title": "Pop — Rounded Pop",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "pop",
+      "rounded pop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0529.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0529.webp",
+    "duration": 0.33,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0530",
+    "type": "sfx",
+    "title": "Pop — Bubble Cascade",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "pop",
+      "bubble cascade"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0530.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0530.webp",
+    "duration": 0.7,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0531",
+    "type": "sfx",
+    "title": "UI Click — Small Select",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ui-click",
+      "small select"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0531.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0531.webp",
+    "duration": 0.14,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0532",
+    "type": "sfx",
+    "title": "UI Click — Double Select",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ui-click",
+      "double select"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0532.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0532.webp",
+    "duration": 0.29,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0533",
+    "type": "sfx",
+    "title": "UI Click — Glass Select",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ui-click",
+      "glass select"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0533.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0533.webp",
+    "duration": 0.19,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0534",
+    "type": "sfx",
+    "title": "UI Click — Soft Toggle",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ui-click",
+      "soft toggle"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0534.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0534.webp",
+    "duration": 0.24,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0535",
+    "type": "sfx",
+    "title": "UI Click — Triple Select",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ui-click",
+      "triple select"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0535.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0535.webp",
+    "duration": 0.46,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0536",
+    "type": "sfx",
+    "title": "Notification — Gentle Ping",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "notification",
+      "gentle ping"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0536.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0536.webp",
+    "duration": 0.7,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0537",
+    "type": "sfx",
+    "title": "Notification — Two Note Alert",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "notification",
+      "two note alert"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0537.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0537.webp",
+    "duration": 1.02,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0538",
+    "type": "sfx",
+    "title": "Notification — Bright Bell",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "notification",
+      "bright bell"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0538.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0538.webp",
+    "duration": 0.95,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0539",
+    "type": "sfx",
+    "title": "Notification — Warm Reminder",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "notification",
+      "warm reminder"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0539.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0539.webp",
+    "duration": 1.12,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0540",
+    "type": "sfx",
+    "title": "Notification — Three Note Success",
+    "category": "interface",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "notification",
+      "three note success"
+    ],
+    "use_cases": [
+      "Phone or app overlay",
+      "On-screen selection or notification"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0540.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0540.webp",
+    "duration": 1.48,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0541",
+    "type": "sfx",
+    "title": "Camera Shutter — Compact Snap",
+    "category": "camera",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "camera-shutter",
+      "compact snap"
+    ],
+    "use_cases": [
+      "Photo freeze frame",
+      "Camera or memory montage graphic"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0541.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0541.webp",
+    "duration": 0.28,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0542",
+    "type": "sfx",
+    "title": "Camera Shutter — Double Shot",
+    "category": "camera",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "camera-shutter",
+      "double shot"
+    ],
+    "use_cases": [
+      "Photo freeze frame",
+      "Camera or memory montage graphic"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0542.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0542.webp",
+    "duration": 0.62,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0543",
+    "type": "sfx",
+    "title": "Camera Shutter — Crisp Snap",
+    "category": "camera",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "camera-shutter",
+      "crisp snap"
+    ],
+    "use_cases": [
+      "Photo freeze frame",
+      "Camera or memory montage graphic"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0543.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0543.webp",
+    "duration": 0.35,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0544",
+    "type": "sfx",
+    "title": "Camera Shutter — Soft Mirror Snap",
+    "category": "camera",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "camera-shutter",
+      "soft mirror snap"
+    ],
+    "use_cases": [
+      "Photo freeze frame",
+      "Camera or memory montage graphic"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0544.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0544.webp",
+    "duration": 0.46,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0545",
+    "type": "sfx",
+    "title": "Camera Shutter — Burst Capture",
+    "category": "camera",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "camera-shutter",
+      "burst capture"
+    ],
+    "use_cases": [
+      "Photo freeze frame",
+      "Camera or memory montage graphic"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0545.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0545.webp",
+    "duration": 1.12,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0546",
+    "type": "sfx",
+    "title": "Page Flip — Single Turn",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "page-flip",
+      "single turn"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0546.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0546.webp",
+    "duration": 0.36,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0547",
+    "type": "sfx",
+    "title": "Page Flip — Double Turn",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "page-flip",
+      "double turn"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0547.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0547.webp",
+    "duration": 0.74,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0548",
+    "type": "sfx",
+    "title": "Page Flip — Crisp Paper",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "page-flip",
+      "crisp paper"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0548.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0548.webp",
+    "duration": 0.39,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0549",
+    "type": "sfx",
+    "title": "Page Flip — Soft Page",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "page-flip",
+      "soft page"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0549.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0549.webp",
+    "duration": 0.54,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0550",
+    "type": "sfx",
+    "title": "Page Flip — Notebook Shuffle",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "page-flip",
+      "notebook shuffle"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0550.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0550.webp",
+    "duration": 1.06,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0551",
+    "type": "sfx",
+    "title": "Typing — Short Word",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "typing",
+      "short word"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0551.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0551.webp",
+    "duration": 0.65,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0552",
+    "type": "sfx",
+    "title": "Typing — Two Word Rhythm",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "typing",
+      "two word rhythm"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0552.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0552.webp",
+    "duration": 1.14,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0553",
+    "type": "sfx",
+    "title": "Typing — Crisp Keyboard",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "typing",
+      "crisp keyboard"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0553.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0553.webp",
+    "duration": 0.8,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0554",
+    "type": "sfx",
+    "title": "Typing — Soft Keys",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "typing",
+      "soft keys"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0554.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0554.webp",
+    "duration": 0.94,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0555",
+    "type": "sfx",
+    "title": "Typing — Fast Sentence",
+    "category": "storytelling",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "typing",
+      "fast sentence"
+    ],
+    "use_cases": [
+      "Journal, chapter or caption reveal",
+      "Travel diary and vlog storytelling"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0555.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0555.webp",
+    "duration": 1.95,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0556",
+    "type": "sfx",
+    "title": "Ticking — Two Ticks",
+    "category": "rhythm",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ticking",
+      "two ticks"
+    ],
+    "use_cases": [
+      "Countdown and time jump",
+      "Rhythmic vlog montage punctuation"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0556.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0556.webp",
+    "duration": 0.5,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0557",
+    "type": "sfx",
+    "title": "Ticking — Four Tick Count",
+    "category": "rhythm",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ticking",
+      "four tick count"
+    ],
+    "use_cases": [
+      "Countdown and time jump",
+      "Rhythmic vlog montage punctuation"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0557.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0557.webp",
+    "duration": 0.92,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0558",
+    "type": "sfx",
+    "title": "Ticking — Bright Timer",
+    "category": "rhythm",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ticking",
+      "bright timer"
+    ],
+    "use_cases": [
+      "Countdown and time jump",
+      "Rhythmic vlog montage punctuation"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0558.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0558.webp",
+    "duration": 0.8,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0559",
+    "type": "sfx",
+    "title": "Ticking — Muted Clock",
+    "category": "rhythm",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ticking",
+      "muted clock"
+    ],
+    "use_cases": [
+      "Countdown and time jump",
+      "Rhythmic vlog montage punctuation"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0559.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0559.webp",
+    "duration": 1.1,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0560",
+    "type": "sfx",
+    "title": "Ticking — Accelerating Timer",
+    "category": "rhythm",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "ticking",
+      "accelerating timer"
+    ],
+    "use_cases": [
+      "Countdown and time jump",
+      "Rhythmic vlog montage punctuation"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0560.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0560.webp",
+    "duration": 1.7,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0561",
+    "type": "sfx",
+    "title": "Reverse Swell — Short Reverse",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "reverse-swell",
+      "short reverse"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0561.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0561.webp",
+    "duration": 0.6,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0562",
+    "type": "sfx",
+    "title": "Reverse Swell — Twin Reverse",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "reverse-swell",
+      "twin reverse"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0562.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0562.webp",
+    "duration": 1.05,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0563",
+    "type": "sfx",
+    "title": "Reverse Swell — Shimmer Reverse",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "reverse-swell",
+      "shimmer reverse"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0563.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0563.webp",
+    "duration": 0.9,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0564",
+    "type": "sfx",
+    "title": "Reverse Swell — Low Reverse",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "reverse-swell",
+      "low reverse"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0564.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0564.webp",
+    "duration": 1.3,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0565",
+    "type": "sfx",
+    "title": "Reverse Swell — Reverse To Hit",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "reverse-swell",
+      "reverse to hit"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0565.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0565.webp",
+    "duration": 1.6,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0566",
+    "type": "sfx",
+    "title": "Glitch — Data Skip",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "glitch",
+      "data skip"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0566.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0566.webp",
+    "duration": 0.3,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0567",
+    "type": "sfx",
+    "title": "Glitch — Double Dropout",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "glitch",
+      "double dropout"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0567.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0567.webp",
+    "duration": 0.57,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0568",
+    "type": "sfx",
+    "title": "Glitch — Bright Pixel Tear",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "glitch",
+      "bright pixel tear"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0568.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0568.webp",
+    "duration": 0.38,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0569",
+    "type": "sfx",
+    "title": "Glitch — Low Buffer",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "glitch",
+      "low buffer"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0569.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0569.webp",
+    "duration": 0.64,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0570",
+    "type": "sfx",
+    "title": "Glitch — Fragment Burst",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "glitch",
+      "fragment burst"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0570.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0570.webp",
+    "duration": 1.0,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0571",
+    "type": "sfx",
+    "title": "Digital Scan — Quick Scan",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "digital-scan",
+      "quick scan"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0571.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0571.webp",
+    "duration": 0.45,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0572",
+    "type": "sfx",
+    "title": "Digital Scan — Double Scan",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "digital-scan",
+      "double scan"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0572.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0572.webp",
+    "duration": 0.88,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0573",
+    "type": "sfx",
+    "title": "Digital Scan — Laser Sweep",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "digital-scan",
+      "laser sweep"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0573.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0573.webp",
+    "duration": 0.65,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0574",
+    "type": "sfx",
+    "title": "Digital Scan — Low Scanner",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "digital-scan",
+      "low scanner"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0574.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0574.webp",
+    "duration": 0.94,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0575",
+    "type": "sfx",
+    "title": "Digital Scan — Progress Scan",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "digital-scan",
+      "progress scan"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0575.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0575.webp",
+    "duration": 1.3,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0576",
+    "type": "sfx",
+    "title": "Transition Accent — Swoop Tap",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "transition-accent",
+      "swoop tap"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0576.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0576.webp",
+    "duration": 0.39,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0577",
+    "type": "sfx",
+    "title": "Transition Accent — Two Beat Cut",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "transition-accent",
+      "two beat cut"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0577.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0577.webp",
+    "duration": 0.75,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0578",
+    "type": "sfx",
+    "title": "Transition Accent — Spark Cut",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "transition-accent",
+      "spark cut"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0578.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0578.webp",
+    "duration": 0.54,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0579",
+    "type": "sfx",
+    "title": "Transition Accent — Soft Slide Tap",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "transition-accent",
+      "soft slide tap"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0579.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0579.webp",
+    "duration": 0.64,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0580",
+    "type": "sfx",
+    "title": "Transition Accent — Three Beat Reveal",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "transition-accent",
+      "three beat reveal"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0580.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0580.webp",
+    "duration": 1.04,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0581",
+    "type": "sfx",
+    "title": "Sparkle — Single Twinkle",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "sparkle",
+      "single twinkle"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0581.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0581.webp",
+    "duration": 0.66,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0582",
+    "type": "sfx",
+    "title": "Sparkle — Twin Stars",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "sparkle",
+      "twin stars"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0582.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0582.webp",
+    "duration": 0.98,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0583",
+    "type": "sfx",
+    "title": "Sparkle — Bright Glimmer",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "sparkle",
+      "bright glimmer"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0583.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0583.webp",
+    "duration": 0.86,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0584",
+    "type": "sfx",
+    "title": "Sparkle — Warm Shine",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "sparkle",
+      "warm shine"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0584.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0584.webp",
+    "duration": 1.0,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0585",
+    "type": "sfx",
+    "title": "Sparkle — Star Cascade",
+    "category": "graphic-accent",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "sparkle",
+      "star cascade"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0585.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0585.webp",
+    "duration": 1.48,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0586",
+    "type": "sfx",
+    "title": "Tape Stop — Quick Stop",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "tape-stop",
+      "quick stop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0586.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0586.webp",
+    "duration": 0.46,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0587",
+    "type": "sfx",
+    "title": "Tape Stop — Stutter Stop",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "tape-stop",
+      "stutter stop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0587.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0587.webp",
+    "duration": 0.73,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0588",
+    "type": "sfx",
+    "title": "Tape Stop — Bright Reel Stop",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "tape-stop",
+      "bright reel stop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0588.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0588.webp",
+    "duration": 0.55,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0589",
+    "type": "sfx",
+    "title": "Tape Stop — Low Reel Stop",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "tape-stop",
+      "low reel stop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0589.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0589.webp",
+    "duration": 0.86,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0590",
+    "type": "sfx",
+    "title": "Tape Stop — Slow Reel Stop",
+    "category": "digital",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "tape-stop",
+      "slow reel stop"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0590.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0590.webp",
+    "duration": 1.45,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0591",
+    "type": "sfx",
+    "title": "Whip — Fast Whip",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "whip",
+      "fast whip"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0591.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0591.webp",
+    "duration": 0.24,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0592",
+    "type": "sfx",
+    "title": "Whip — Double Whip",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "whip",
+      "double whip"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0592.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0592.webp",
+    "duration": 0.52,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0593",
+    "type": "sfx",
+    "title": "Whip — Sharp Whip",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "whip",
+      "sharp whip"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0593.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0593.webp",
+    "duration": 0.28,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0594",
+    "type": "sfx",
+    "title": "Whip — Soft Whip",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "whip",
+      "soft whip"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0594.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0594.webp",
+    "duration": 0.39,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0595",
+    "type": "sfx",
+    "title": "Whip — Whip And Snap",
+    "category": "transition",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "whip",
+      "whip and snap"
+    ],
+    "use_cases": [
+      "Accent a montage cut or reveal",
+      "Support a vlog scene transition"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0595.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0595.webp",
+    "duration": 0.68,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0596",
+    "type": "sfx",
+    "title": "Cinematic Boom — Short Boom",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "cinematic-boom",
+      "short boom"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0596.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0596.webp",
+    "duration": 0.92,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0597",
+    "type": "sfx",
+    "title": "Cinematic Boom — Two Stage Boom",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "cinematic-boom",
+      "two stage boom"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0597.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0597.webp",
+    "duration": 1.46,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0598",
+    "type": "sfx",
+    "title": "Cinematic Boom — Bright Cinematic Hit",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "cinematic-boom",
+      "bright cinematic hit"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0598.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0598.webp",
+    "duration": 1.12,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0599",
+    "type": "sfx",
+    "title": "Cinematic Boom — Warm Low Boom",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "cinematic-boom",
+      "warm low boom"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0599.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0599.webp",
+    "duration": 1.5,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  },
+  {
+    "id": "VL0600",
+    "type": "sfx",
+    "title": "Cinematic Boom — Wide Boom Tail",
+    "category": "impact",
+    "tags": [
+      "vlog",
+      "montage",
+      "original",
+      "synthesized",
+      "cinematic-boom",
+      "wide boom tail"
+    ],
+    "use_cases": [
+      "Accent a title or graphic reveal",
+      "Punctuate a vlog or promotional montage"
+    ],
+    "format": "wav",
+    "file": "sfx/VL0600.wav",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/sfx/VL0600.webp",
+    "duration": 2.6,
+    "technical": {
+      "sample_rate": 48000,
+      "channels": 2,
+      "bit_depth": 16,
+      "encoding": "PCM signed little-endian",
+      "provenance": "Original deterministic synthesis; no external samples",
+      "intended_use": "Spot sound effect; lower gain to suit dialogue and music"
+    }
+  }
+]

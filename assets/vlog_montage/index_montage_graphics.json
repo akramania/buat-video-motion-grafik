@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "VL0401",
+    "type": "montage-graphic",
+    "title": "Wide Screen",
+    "category": "cinematic-frame",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "cinematic-frame",
+      "original"
+    ],
+    "use_cases": [
+      "Frame a cinematic montage without covering the footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0401.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0401.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0402",
+    "type": "montage-graphic",
+    "title": "Inset Portrait",
+    "category": "cinematic-frame",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "cinematic-frame",
+      "original"
+    ],
+    "use_cases": [
+      "Frame a cinematic montage without covering the footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0402.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0402.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0403",
+    "type": "montage-graphic",
+    "title": "Parallel Rails",
+    "category": "cinematic-frame",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "cinematic-frame",
+      "original"
+    ],
+    "use_cases": [
+      "Frame a cinematic montage without covering the footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0403.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0403.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0404",
+    "type": "montage-graphic",
+    "title": "Picture in Picture",
+    "category": "cinematic-frame",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "cinematic-frame",
+      "original"
+    ],
+    "use_cases": [
+      "Frame a cinematic montage without covering the footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0404.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0404.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0405",
+    "type": "montage-graphic",
+    "title": "Starlit Cinema",
+    "category": "cinematic-frame",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "cinematic-frame",
+      "original"
+    ],
+    "use_cases": [
+      "Frame a cinematic montage without covering the footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0405.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0405.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0406",
+    "type": "montage-graphic",
+    "title": "35mm Wide",
+    "category": "film-border",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "film-border",
+      "original"
+    ],
+    "use_cases": [
+      "Add an editable film-roll border to footage or photographs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0406.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0406.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0407",
+    "type": "montage-graphic",
+    "title": "Twin Reels",
+    "category": "film-border",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "film-border",
+      "original"
+    ],
+    "use_cases": [
+      "Add an editable film-roll border to footage or photographs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0407.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0407.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0408",
+    "type": "montage-graphic",
+    "title": "Two Takes",
+    "category": "film-border",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "film-border",
+      "original"
+    ],
+    "use_cases": [
+      "Add an editable film-roll border to footage or photographs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0408.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0408.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0409",
+    "type": "montage-graphic",
+    "title": "Offset Twin",
+    "category": "film-border",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "film-border",
+      "original"
+    ],
+    "use_cases": [
+      "Add an editable film-roll border to footage or photographs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0409.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0409.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0410",
+    "type": "montage-graphic",
+    "title": "Triple Exposure",
+    "category": "film-border",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "film-border",
+      "original"
+    ],
+    "use_cases": [
+      "Add an editable film-roll border to footage or photographs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0410.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0410.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0411",
+    "type": "montage-graphic",
+    "title": "Two Memories",
+    "category": "polaroid-cluster",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "polaroid-cluster",
+      "original"
+    ],
+    "use_cases": [
+      "Place photos below transparent polaroid openings."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0411.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0411.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0412",
+    "type": "montage-graphic",
+    "title": "Three Friends",
+    "category": "polaroid-cluster",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "polaroid-cluster",
+      "original"
+    ],
+    "use_cases": [
+      "Place photos below transparent polaroid openings."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0412.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0412.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0413",
+    "type": "montage-graphic",
+    "title": "Layered Keepsake",
+    "category": "polaroid-cluster",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "polaroid-cluster",
+      "original"
+    ],
+    "use_cases": [
+      "Place photos below transparent polaroid openings."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0413.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0413.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0414",
+    "type": "montage-graphic",
+    "title": "Weekend Pair",
+    "category": "polaroid-cluster",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "polaroid-cluster",
+      "original"
+    ],
+    "use_cases": [
+      "Place photos below transparent polaroid openings."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0414.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0414.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0415",
+    "type": "montage-graphic",
+    "title": "Three Diary Pages",
+    "category": "polaroid-cluster",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "polaroid-cluster",
+      "original"
+    ],
+    "use_cases": [
+      "Place photos below transparent polaroid openings."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0415.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0415.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0416",
+    "type": "montage-graphic",
+    "title": "Three Frames",
+    "category": "contact-strip",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "contact-strip",
+      "original"
+    ],
+    "use_cases": [
+      "Build a photo contact-sheet sequence with visible frame numbering."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0416.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0416.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0417",
+    "type": "montage-graphic",
+    "title": "Four Frames",
+    "category": "contact-strip",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "contact-strip",
+      "original"
+    ],
+    "use_cases": [
+      "Build a photo contact-sheet sequence with visible frame numbering."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0417.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0417.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0418",
+    "type": "montage-graphic",
+    "title": "Five Frames",
+    "category": "contact-strip",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "contact-strip",
+      "original"
+    ],
+    "use_cases": [
+      "Build a photo contact-sheet sequence with visible frame numbering."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0418.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0418.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0419",
+    "type": "montage-graphic",
+    "title": "Six Contact Prints",
+    "category": "contact-strip",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "contact-strip",
+      "original"
+    ],
+    "use_cases": [
+      "Build a photo contact-sheet sequence with visible frame numbering."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0419.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0419.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0420",
+    "type": "montage-graphic",
+    "title": "Eight Contact Prints",
+    "category": "contact-strip",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "contact-strip",
+      "original"
+    ],
+    "use_cases": [
+      "Build a photo contact-sheet sequence with visible frame numbering."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0420.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0420.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0421",
+    "type": "montage-graphic",
+    "title": "Dual Perspective",
+    "category": "split-screen",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "split-screen",
+      "original"
+    ],
+    "use_cases": [
+      "Align clips under transparent multi-screen frames."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0421.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0421.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0422",
+    "type": "montage-graphic",
+    "title": "Three Angles",
+    "category": "split-screen",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "split-screen",
+      "original"
+    ],
+    "use_cases": [
+      "Align clips under transparent multi-screen frames."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0422.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0422.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0423",
+    "type": "montage-graphic",
+    "title": "Above and Below",
+    "category": "split-screen",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "split-screen",
+      "original"
+    ],
+    "use_cases": [
+      "Align clips under transparent multi-screen frames."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0423.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0423.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0424",
+    "type": "montage-graphic",
+    "title": "Hero and Details",
+    "category": "split-screen",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "split-screen",
+      "original"
+    ],
+    "use_cases": [
+      "Align clips under transparent multi-screen frames."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0424.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0424.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0425",
+    "type": "montage-graphic",
+    "title": "Details and Hero",
+    "category": "split-screen",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "split-screen",
+      "original"
+    ],
+    "use_cases": [
+      "Align clips under transparent multi-screen frames."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0425.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0425.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0426",
+    "type": "montage-graphic",
+    "title": "Left Story Panel",
+    "category": "editorial-title",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "editorial-title",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a montage chapter with a bold editable title panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0426.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0426.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0427",
+    "type": "montage-graphic",
+    "title": "Right Story Panel",
+    "category": "editorial-title",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "editorial-title",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a montage chapter with a bold editable title panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0427.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0427.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0428",
+    "type": "montage-graphic",
+    "title": "Lower Editorial",
+    "category": "editorial-title",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "editorial-title",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a montage chapter with a bold editable title panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0428.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0428.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0429",
+    "type": "montage-graphic",
+    "title": "Upper Editorial",
+    "category": "editorial-title",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "editorial-title",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a montage chapter with a bold editable title panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0429.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0429.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0430",
+    "type": "montage-graphic",
+    "title": "Central Manifesto",
+    "category": "editorial-title",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "editorial-title",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a montage chapter with a bold editable title panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0430.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0430.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0431",
+    "type": "montage-graphic",
+    "title": "Tape Corners",
+    "category": "tape-paper",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "tape-paper",
+      "original"
+    ],
+    "use_cases": [
+      "Add tactile scrapbook accents around a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0431.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0431.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0432",
+    "type": "montage-graphic",
+    "title": "Three Tape Notes",
+    "category": "tape-paper",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "tape-paper",
+      "original"
+    ],
+    "use_cases": [
+      "Add tactile scrapbook accents around a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0432.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0432.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0433",
+    "type": "montage-graphic",
+    "title": "Story Tape",
+    "category": "tape-paper",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "tape-paper",
+      "original"
+    ],
+    "use_cases": [
+      "Add tactile scrapbook accents around a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0433.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0433.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0434",
+    "type": "montage-graphic",
+    "title": "Memory Bands",
+    "category": "tape-paper",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "tape-paper",
+      "original"
+    ],
+    "use_cases": [
+      "Add tactile scrapbook accents around a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0434.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0434.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0435",
+    "type": "montage-graphic",
+    "title": "Scrapbook Marks",
+    "category": "tape-paper",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "tape-paper",
+      "original"
+    ],
+    "use_cases": [
+      "Add tactile scrapbook accents around a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0435.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0435.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0436",
+    "type": "montage-graphic",
+    "title": "City Diary",
+    "category": "date-location",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "date-location",
+      "original"
+    ],
+    "use_cases": [
+      "Label a location, date, or time in an editable capsule."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0436.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0436.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0437",
+    "type": "montage-graphic",
+    "title": "On Location",
+    "category": "date-location",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "date-location",
+      "original"
+    ],
+    "use_cases": [
+      "Label a location, date, or time in an editable capsule."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0437.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0437.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0438",
+    "type": "montage-graphic",
+    "title": "Adventure Log",
+    "category": "date-location",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "date-location",
+      "original"
+    ],
+    "use_cases": [
+      "Label a location, date, or time in an editable capsule."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0438.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0438.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0439",
+    "type": "montage-graphic",
+    "title": "Day by Day",
+    "category": "date-location",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "date-location",
+      "original"
+    ],
+    "use_cases": [
+      "Label a location, date, or time in an editable capsule."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0439.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0439.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0440",
+    "type": "montage-graphic",
+    "title": "Take Me Back",
+    "category": "date-location",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "date-location",
+      "original"
+    ],
+    "use_cases": [
+      "Label a location, date, or time in an editable capsule."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0440.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0440.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0441",
+    "type": "montage-graphic",
+    "title": "Cut on Beat",
+    "category": "beat-markers",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "beat-markers",
+      "original"
+    ],
+    "use_cases": [
+      "Overlay rhythmic marks and a visual timeline for a music montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0441.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0441.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0442",
+    "type": "montage-graphic",
+    "title": "Sync the Moment",
+    "category": "beat-markers",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "beat-markers",
+      "original"
+    ],
+    "use_cases": [
+      "Overlay rhythmic marks and a visual timeline for a music montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0442.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0442.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0443",
+    "type": "montage-graphic",
+    "title": "Rhythm Map",
+    "category": "beat-markers",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "beat-markers",
+      "original"
+    ],
+    "use_cases": [
+      "Overlay rhythmic marks and a visual timeline for a music montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0443.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0443.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0444",
+    "type": "montage-graphic",
+    "title": "Keep the Pace",
+    "category": "beat-markers",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "beat-markers",
+      "original"
+    ],
+    "use_cases": [
+      "Overlay rhythmic marks and a visual timeline for a music montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0444.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0444.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0445",
+    "type": "montage-graphic",
+    "title": "Build the Energy",
+    "category": "beat-markers",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "beat-markers",
+      "original"
+    ],
+    "use_cases": [
+      "Overlay rhythmic marks and a visual timeline for a music montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0445.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0445.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0446",
+    "type": "montage-graphic",
+    "title": "Keep Moving",
+    "category": "sports-energy",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "sports-energy",
+      "original"
+    ],
+    "use_cases": [
+      "Add angular energy graphics to sports, gym, or activity footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0446.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0446.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0447",
+    "type": "montage-graphic",
+    "title": "All In",
+    "category": "sports-energy",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "sports-energy",
+      "original"
+    ],
+    "use_cases": [
+      "Add angular energy graphics to sports, gym, or activity footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0447.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0447.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0448",
+    "type": "montage-graphic",
+    "title": "Next Level",
+    "category": "sports-energy",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "sports-energy",
+      "original"
+    ],
+    "use_cases": [
+      "Add angular energy graphics to sports, gym, or activity footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0448.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0448.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0449",
+    "type": "montage-graphic",
+    "title": "Go the Distance",
+    "category": "sports-energy",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "sports-energy",
+      "original"
+    ],
+    "use_cases": [
+      "Add angular energy graphics to sports, gym, or activity footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0449.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0449.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0450",
+    "type": "montage-graphic",
+    "title": "Built for This",
+    "category": "sports-energy",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "sports-energy",
+      "original"
+    ],
+    "use_cases": [
+      "Add angular energy graphics to sports, gym, or activity footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0450.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0450.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0451",
+    "type": "montage-graphic",
+    "title": "Road Ahead",
+    "category": "travel-route",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "travel-route",
+      "original"
+    ],
+    "use_cases": [
+      "Show an abstract journey using pins and editable route arcs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0451.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0451.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0452",
+    "type": "montage-graphic",
+    "title": "Places and Moments",
+    "category": "travel-route",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "travel-route",
+      "original"
+    ],
+    "use_cases": [
+      "Show an abstract journey using pins and editable route arcs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0452.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0452.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0453",
+    "type": "montage-graphic",
+    "title": "Many Stories",
+    "category": "travel-route",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "travel-route",
+      "original"
+    ],
+    "use_cases": [
+      "Show an abstract journey using pins and editable route arcs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0453.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0453.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0454",
+    "type": "montage-graphic",
+    "title": "Follow the Route",
+    "category": "travel-route",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "travel-route",
+      "original"
+    ],
+    "use_cases": [
+      "Show an abstract journey using pins and editable route arcs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0454.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0454.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0455",
+    "type": "montage-graphic",
+    "title": "Adventure Notes",
+    "category": "travel-route",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "travel-route",
+      "original"
+    ],
+    "use_cases": [
+      "Show an abstract journey using pins and editable route arcs."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0455.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0455.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0456",
+    "type": "montage-graphic",
+    "title": "The Beginning",
+    "category": "chapter-divider",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "chapter-divider",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a chapter with a spacious title and framing accents."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0456.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0456.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0457",
+    "type": "montage-graphic",
+    "title": "A Day to Keep",
+    "category": "chapter-divider",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "chapter-divider",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a chapter with a spacious title and framing accents."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0457.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0457.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0458",
+    "type": "montage-graphic",
+    "title": "In Between",
+    "category": "chapter-divider",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "chapter-divider",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a chapter with a spacious title and framing accents."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0458.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0458.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0459",
+    "type": "montage-graphic",
+    "title": "Moving Forward",
+    "category": "chapter-divider",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "chapter-divider",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a chapter with a spacious title and framing accents."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0459.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0459.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0460",
+    "type": "montage-graphic",
+    "title": "The Next Story",
+    "category": "chapter-divider",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "chapter-divider",
+      "original"
+    ],
+    "use_cases": [
+      "Introduce a chapter with a spacious title and framing accents."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0460.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0460.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0461",
+    "type": "montage-graphic",
+    "title": "Circle and Arrow",
+    "category": "hand-doodles",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "hand-doodles",
+      "original"
+    ],
+    "use_cases": [
+      "Highlight subjects with hand-drawn arrows, loops, and sparks."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0461.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0461.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0462",
+    "type": "montage-graphic",
+    "title": "Little Sparks",
+    "category": "hand-doodles",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "hand-doodles",
+      "original"
+    ],
+    "use_cases": [
+      "Highlight subjects with hand-drawn arrows, loops, and sparks."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0462.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0462.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0463",
+    "type": "montage-graphic",
+    "title": "Happy Marks",
+    "category": "hand-doodles",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "hand-doodles",
+      "original"
+    ],
+    "use_cases": [
+      "Highlight subjects with hand-drawn arrows, loops, and sparks."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0463.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0463.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0464",
+    "type": "montage-graphic",
+    "title": "Wonder Notes",
+    "category": "hand-doodles",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "hand-doodles",
+      "original"
+    ],
+    "use_cases": [
+      "Highlight subjects with hand-drawn arrows, loops, and sparks."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0464.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0464.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0465",
+    "type": "montage-graphic",
+    "title": "Star Story",
+    "category": "hand-doodles",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "hand-doodles",
+      "original"
+    ],
+    "use_cases": [
+      "Highlight subjects with hand-drawn arrows, loops, and sparks."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0465.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0465.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0466",
+    "type": "montage-graphic",
+    "title": "Every Frame",
+    "category": "quote-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "quote-card",
+      "original"
+    ],
+    "use_cases": [
+      "Place an editable quote beside or over montage footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0466.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0466.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0467",
+    "type": "montage-graphic",
+    "title": "Keep What Moves You",
+    "category": "quote-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "quote-card",
+      "original"
+    ],
+    "use_cases": [
+      "Place an editable quote beside or over montage footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0467.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0467.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0468",
+    "type": "montage-graphic",
+    "title": "Make Time",
+    "category": "quote-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "quote-card",
+      "original"
+    ],
+    "use_cases": [
+      "Place an editable quote beside or over montage footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0468.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0468.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0469",
+    "type": "montage-graphic",
+    "title": "Days That Stay",
+    "category": "quote-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "quote-card",
+      "original"
+    ],
+    "use_cases": [
+      "Place an editable quote beside or over montage footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0469.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0469.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0470",
+    "type": "montage-graphic",
+    "title": "One Moment at a Time",
+    "category": "quote-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "quote-card",
+      "original"
+    ],
+    "use_cases": [
+      "Place an editable quote beside or over montage footage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0470.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0470.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0471",
+    "type": "montage-graphic",
+    "title": "Right Credits",
+    "category": "credits-panel",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "credits-panel",
+      "original"
+    ],
+    "use_cases": [
+      "Credit creators with an editable typography panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0471.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0471.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0472",
+    "type": "montage-graphic",
+    "title": "Left Credits",
+    "category": "credits-panel",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "credits-panel",
+      "original"
+    ],
+    "use_cases": [
+      "Credit creators with an editable typography panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0472.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0472.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0473",
+    "type": "montage-graphic",
+    "title": "Lower Credits",
+    "category": "credits-panel",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "credits-panel",
+      "original"
+    ],
+    "use_cases": [
+      "Credit creators with an editable typography panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0473.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0473.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0474",
+    "type": "montage-graphic",
+    "title": "Upper Credits",
+    "category": "credits-panel",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "credits-panel",
+      "original"
+    ],
+    "use_cases": [
+      "Credit creators with an editable typography panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0474.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0474.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0475",
+    "type": "montage-graphic",
+    "title": "Central Credits",
+    "category": "credits-panel",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "credits-panel",
+      "original"
+    ],
+    "use_cases": [
+      "Credit creators with an editable typography panel."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0475.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0475.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0476",
+    "type": "montage-graphic",
+    "title": "Next Up",
+    "category": "end-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "end-card",
+      "original"
+    ],
+    "use_cases": [
+      "Arrange end-screen clips and a call to action."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0476.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0476.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0477",
+    "type": "montage-graphic",
+    "title": "Stay Curious",
+    "category": "end-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "end-card",
+      "original"
+    ],
+    "use_cases": [
+      "Arrange end-screen clips and a call to action."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0477.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0477.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0478",
+    "type": "montage-graphic",
+    "title": "More Moments",
+    "category": "end-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "end-card",
+      "original"
+    ],
+    "use_cases": [
+      "Arrange end-screen clips and a call to action."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0478.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0478.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0479",
+    "type": "montage-graphic",
+    "title": "Follow the Adventure",
+    "category": "end-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "end-card",
+      "original"
+    ],
+    "use_cases": [
+      "Arrange end-screen clips and a call to action."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0479.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0479.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0480",
+    "type": "montage-graphic",
+    "title": "Continue the Story",
+    "category": "end-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "end-card",
+      "original"
+    ],
+    "use_cases": [
+      "Arrange end-screen clips and a call to action."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0480.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0480.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0481",
+    "type": "montage-graphic",
+    "title": "Crosshair Record",
+    "category": "camera-hud",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "camera-hud",
+      "original"
+    ],
+    "use_cases": [
+      "Add a clean camera overlay with editable recording metadata."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0481.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0481.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0482",
+    "type": "montage-graphic",
+    "title": "Focus Circle",
+    "category": "camera-hud",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "camera-hud",
+      "original"
+    ],
+    "use_cases": [
+      "Add a clean camera overlay with editable recording metadata."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0482.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0482.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0483",
+    "type": "montage-graphic",
+    "title": "Focus Boxes",
+    "category": "camera-hud",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "camera-hud",
+      "original"
+    ],
+    "use_cases": [
+      "Add a clean camera overlay with editable recording metadata."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0483.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0483.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0484",
+    "type": "montage-graphic",
+    "title": "Split Reticle",
+    "category": "camera-hud",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "camera-hud",
+      "original"
+    ],
+    "use_cases": [
+      "Add a clean camera overlay with editable recording metadata."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0484.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0484.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0485",
+    "type": "montage-graphic",
+    "title": "Four Focus Points",
+    "category": "camera-hud",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "camera-hud",
+      "original"
+    ],
+    "use_cases": [
+      "Add a clean camera overlay with editable recording metadata."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0485.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0485.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0486",
+    "type": "montage-graphic",
+    "title": "Soundtrack",
+    "category": "audio-waveform",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "audio-waveform",
+      "original"
+    ],
+    "use_cases": [
+      "Use an original waveform-shaped graphic as a music or ambience accent."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0486.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0486.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0487",
+    "type": "montage-graphic",
+    "title": "The Ambience",
+    "category": "audio-waveform",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "audio-waveform",
+      "original"
+    ],
+    "use_cases": [
+      "Use an original waveform-shaped graphic as a music or ambience accent."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0487.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0487.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0488",
+    "type": "montage-graphic",
+    "title": "Audio Notes",
+    "category": "audio-waveform",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "audio-waveform",
+      "original"
+    ],
+    "use_cases": [
+      "Use an original waveform-shaped graphic as a music or ambience accent."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0488.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0488.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0489",
+    "type": "montage-graphic",
+    "title": "Waves and Moments",
+    "category": "audio-waveform",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "audio-waveform",
+      "original"
+    ],
+    "use_cases": [
+      "Use an original waveform-shaped graphic as a music or ambience accent."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0489.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0489.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0490",
+    "type": "montage-graphic",
+    "title": "Listen Close",
+    "category": "audio-waveform",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "audio-waveform",
+      "original"
+    ],
+    "use_cases": [
+      "Use an original waveform-shaped graphic as a music or ambience accent."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0490.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0490.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0491",
+    "type": "montage-graphic",
+    "title": "Story Begins",
+    "category": "subtitle-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "subtitle-card",
+      "original"
+    ],
+    "use_cases": [
+      "Add a readable editable caption block to a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0491.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0491.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0492",
+    "type": "montage-graphic",
+    "title": "One Memory",
+    "category": "subtitle-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "subtitle-card",
+      "original"
+    ],
+    "use_cases": [
+      "Add a readable editable caption block to a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0492.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0492.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0493",
+    "type": "montage-graphic",
+    "title": "Everyday Adventures",
+    "category": "subtitle-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "subtitle-card",
+      "original"
+    ],
+    "use_cases": [
+      "Add a readable editable caption block to a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0493.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0493.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0494",
+    "type": "montage-graphic",
+    "title": "Little Things",
+    "category": "subtitle-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "subtitle-card",
+      "original"
+    ],
+    "use_cases": [
+      "Add a readable editable caption block to a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0494.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0494.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0495",
+    "type": "montage-graphic",
+    "title": "Day Worth Remembering",
+    "category": "subtitle-card",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "subtitle-card",
+      "original"
+    ],
+    "use_cases": [
+      "Add a readable editable caption block to a montage."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0495.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0495.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0496",
+    "type": "montage-graphic",
+    "title": "Saved Frame",
+    "category": "photo-corners",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "photo-corners",
+      "original"
+    ],
+    "use_cases": [
+      "Frame photographs with transparent corner mounts and tape."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0496.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0496.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0497",
+    "type": "montage-graphic",
+    "title": "Day in Frames",
+    "category": "photo-corners",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "photo-corners",
+      "original"
+    ],
+    "use_cases": [
+      "Frame photographs with transparent corner mounts and tape."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0497.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0497.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0498",
+    "type": "montage-graphic",
+    "title": "Memory Edit",
+    "category": "photo-corners",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "photo-corners",
+      "original"
+    ],
+    "use_cases": [
+      "Frame photographs with transparent corner mounts and tape."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0498.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0498.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0499",
+    "type": "montage-graphic",
+    "title": "Collected Moments",
+    "category": "photo-corners",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "photo-corners",
+      "original"
+    ],
+    "use_cases": [
+      "Frame photographs with transparent corner mounts and tape."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0499.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0499.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  },
+  {
+    "id": "VL0500",
+    "type": "montage-graphic",
+    "title": "Life in Motion",
+    "category": "photo-corners",
+    "tags": [
+      "montage",
+      "editable",
+      "transparent",
+      "photo-corners",
+      "original"
+    ],
+    "use_cases": [
+      "Frame photographs with transparent corner mounts and tape."
+    ],
+    "format": "svg",
+    "file": "graphics_montage/VL0500.svg",
+    "preview": "https://motion-preset-atlas.akramania.chatgpt.site/vlog/previews/graphics_montage/VL0500.webp",
+    "technical": {
+      "background": "transparent",
+      "viewbox": "0 0 640 360"
+    },
+    "suggested_motion": "Reveal main group over 0.4 seconds with opacity and a 12 px rise; stagger accent and details by 0.1 seconds; hold over footage, then fade over 0.3 seconds."
+  }
+]

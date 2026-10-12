@@ -1,0 +1,64 @@
+{
+  "lut": {
+    "full_decode": true,
+    "frames": 30,
+    "size": [
+      640,
+      360
+    ],
+    "duration": 1.0,
+    "audio_streams": 1,
+    "first_last_mean_diff": 9.530849247685186
+  },
+  "transition": {
+    "full_decode": true,
+    "frames": 24,
+    "size": [
+      640,
+      360
+    ],
+    "duration": 0.8,
+    "audio_streams": 0,
+    "first_last_mean_diff": 123.10486255787038
+  },
+  "graphic": {
+    "full_decode": true,
+    "frames": 30,
+    "size": [
+      640,
+      360
+    ],
+    "duration": 1.0,
+    "audio_streams": 1,
+    "first_last_mean_diff": 9.309796006944444
+  },
+  "sfx": {
+    "full_decode": true,
+    "frames": 30,
+    "duration": 1.0,
+    "audio_streams": 1
+  },
+  "overlay": {
+    "full_decode": true,
+    "frames": 30,
+    "size": [
+      640,
+      360
+    ],
+    "duration": 1.0,
+    "audio_streams": 1,
+    "first_last_mean_diff": 11.504936342592593
+  },
+  "vlog-graphic": {
+    "full_decode": true,
+    "frames": 30,
+    "duration": 1.0,
+    "audio_streams": 1
+  },
+  "sfx-silent-source": {
+    "full_decode": true,
+    "frames": 30,
+    "duration": 1.0,
+    "audio_streams": 1
+  }
+}
