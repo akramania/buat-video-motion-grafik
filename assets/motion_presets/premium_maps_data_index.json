@@ -1,0 +1,4744 @@
+{
+  "PX101": {
+    "name": "Rail Camera / Overhead Pursuit",
+    "description": "World translates around a moving train with an overhead pursuit camera and route draw-on. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Rail Camera · Overhead Pursuit",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/map-route-animations-YBD3UMX",
+    "observation_basis": "listing-description",
+    "mechanism": "World translates around a moving train with an overhead pursuit camera and route draw-on.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 0,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX102": {
+    "name": "Rail Camera / Banked Chase",
+    "description": "Oblique ground projection banks with heading while a train remains camera-centred. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Rail Camera · Banked Chase",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/map-route-animations-YBD3UMX",
+    "observation_basis": "listing-description",
+    "mechanism": "Oblique ground projection banks with heading while a train remains camera-centred.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 0,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX103": {
+    "name": "Rail Camera / Horizon Corridor",
+    "description": "Vanishing-point railway corridor advances toward camera with station gates and moving sleepers. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Rail Camera · Horizon Corridor",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/map-route-animations-YBD3UMX",
+    "observation_basis": "listing-description",
+    "mechanism": "Vanishing-point railway corridor advances toward camera with station gates and moving sleepers.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 0,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX104": {
+    "name": "Rail Camera / Descent to Destination",
+    "description": "A wide schematic route descends through a smooth camera zoom to the destination marker. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Rail Camera · Descent to Destination",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/map-route-animations-YBD3UMX",
+    "observation_basis": "listing-description",
+    "mechanism": "A wide schematic route descends through a smooth camera zoom to the destination marker.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 0,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX105": {
+    "name": "Metro / Transfer Pulse",
+    "description": "Two route lines draw independently and a transfer node emits timed rings. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Metro · Transfer Pulse",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/canada-map-toolkit-3GXT9YP",
+    "observation_basis": "listing-description",
+    "mechanism": "Two route lines draw independently and a transfer node emits timed rings.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 1,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX106": {
+    "name": "Network / Hub Dispatch",
+    "description": "A central interchange dispatches travelling packets along curved spokes. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Network · Hub Dispatch",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/canada-map-toolkit-3GXT9YP",
+    "observation_basis": "listing-description",
+    "mechanism": "A central interchange dispatches travelling packets along curved spokes.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 1,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX107": {
+    "name": "Metro / Interchange Weave",
+    "description": "Three intersecting metro lines weave under a central highlighted connection. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Metro · Interchange Weave",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/canada-map-toolkit-3GXT9YP",
+    "observation_basis": "listing-description",
+    "mechanism": "Three intersecting metro lines weave under a central highlighted connection.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 1,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX108": {
+    "name": "Rail / Branch Selection",
+    "description": "A train reaches a junction, pauses, then selects a highlighted branch. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Rail · Branch Selection",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/canada-map-toolkit-3GXT9YP",
+    "observation_basis": "listing-description",
+    "mechanism": "A train reaches a junction, pauses, then selects a highlighted branch.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 1,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX109": {
+    "name": "Coverage / Hex Field Sweep",
+    "description": "Staggered hexagonal cells gain data intensity under a travelling sweep. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Coverage · Hex Field Sweep",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/vox-map-documentary-45MRMKM",
+    "observation_basis": "listing-description",
+    "mechanism": "Staggered hexagonal cells gain data intensity under a travelling sweep.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 2,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX110": {
+    "name": "Regions / Lifted Choropleth",
+    "description": "Irregular schematic region slabs lift sequentially with quantitative callouts. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Regions · Lifted Choropleth",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/vox-map-documentary-45MRMKM",
+    "observation_basis": "listing-description",
+    "mechanism": "Irregular schematic region slabs lift sequentially with quantitative callouts.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 2,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX111": {
+    "name": "Coverage / Radar Reach",
+    "description": "Concentric reach rings expand and a rotating radar wedge locates site markers. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Coverage · Radar Reach",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/vox-map-documentary-45MRMKM",
+    "observation_basis": "listing-description",
+    "mechanism": "Concentric reach rings expand and a rotating radar wedge locates site markers.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 2,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX112": {
+    "name": "Coverage / Contour Arrival",
+    "description": "Nested isochrone polygons expand outward with timed arrival labels. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Coverage · Contour Arrival",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/vox-map-documentary-45MRMKM",
+    "observation_basis": "listing-description",
+    "mechanism": "Nested isochrone polygons expand outward with timed arrival labels.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 2,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX113": {
+    "name": "Journey / Platform Milestones",
+    "description": "Platform stops advance through a connected milestone rail with a train shuttle. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Journey · Platform Milestones",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/panama-map-republic-of-panama-travel-map-UFDZHW7",
+    "observation_basis": "listing-description",
+    "mechanism": "Platform stops advance through a connected milestone rail with a train shuttle.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 3,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX114": {
+    "name": "Journey / Waypoint Flyby",
+    "description": "Waypoint panels rise near a moving route marker with gated active-state focus. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Journey · Waypoint Flyby",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/panama-map-republic-of-panama-travel-map-UFDZHW7",
+    "observation_basis": "listing-description",
+    "mechanism": "Waypoint panels rise near a moving route marker with gated active-state focus.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 3,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX115": {
+    "name": "Journey / Elevation Rail",
+    "description": "An elevation area chart draws along a railway route with animated ascent marker. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Journey · Elevation Rail",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/panama-map-republic-of-panama-travel-map-UFDZHW7",
+    "observation_basis": "listing-description",
+    "mechanism": "An elevation area chart draws along a railway route with animated ascent marker.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 3,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX116": {
+    "name": "Journey / ETA Ribbon",
+    "description": "An ETA ribbon counter advances concurrently with route progress and station handoffs. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Journey · ETA Ribbon",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/panama-map-republic-of-panama-travel-map-UFDZHW7",
+    "observation_basis": "listing-description",
+    "mechanism": "An ETA ribbon counter advances concurrently with route progress and station handoffs.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 3,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX117": {
+    "name": "Globe / Meridian Dispatch",
+    "description": "Rotating schematic meridians carry a route point around a globe silhouette. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Globe · Meridian Dispatch",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/world-map-pro-travels-4TD6XUX",
+    "observation_basis": "listing-description",
+    "mechanism": "Rotating schematic meridians carry a route point around a globe silhouette.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 4,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX118": {
+    "name": "Globe / Arc Constellation",
+    "description": "A globe disk adds intercity arcs and rotating destination beacons. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Globe · Arc Constellation",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/world-map-pro-travels-4TD6XUX",
+    "observation_basis": "listing-description",
+    "mechanism": "A globe disk adds intercity arcs and rotating destination beacons.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 4,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX119": {
+    "name": "Globe / Projection Unfold",
+    "description": "A circular globe stretches into a wide cylindrical projection while a route transfers. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Globe · Projection Unfold",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/world-map-pro-travels-4TD6XUX",
+    "observation_basis": "listing-description",
+    "mechanism": "A circular globe stretches into a wide cylindrical projection while a route transfers.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 4,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX120": {
+    "name": "Globe / Journey Inset",
+    "description": "An inset globe overview hands off to a magnified curved journey path. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Globe · Journey Inset",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/world-map-pro-travels-4TD6XUX",
+    "observation_basis": "listing-description",
+    "mechanism": "An inset globe overview hands off to a magnified curved journey path.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 4,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX121": {
+    "name": "Logistics / Parcel Convoy",
+    "description": "A convoy of parcel nodes moves through a curved delivery route into endpoint stacks. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Logistics · Parcel Convoy",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/norway-map-kingdom-of-norway-travel-map-RASHKVH",
+    "observation_basis": "listing-description",
+    "mechanism": "A convoy of parcel nodes moves through a curved delivery route into endpoint stacks.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 5,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX122": {
+    "name": "Logistics / Last Mile Grid",
+    "description": "Orthogonal delivery streets animate a last-mile vehicle and staggered customer stops. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Logistics · Last Mile Grid",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/norway-map-kingdom-of-norway-travel-map-RASHKVH",
+    "observation_basis": "listing-description",
+    "mechanism": "Orthogonal delivery streets animate a last-mile vehicle and staggered customer stops.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 5,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX123": {
+    "name": "Logistics / Ocean Corridor",
+    "description": "A vessel glides along a long ocean arc with wave parallax and port markers. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Logistics · Ocean Corridor",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/norway-map-kingdom-of-norway-travel-map-RASHKVH",
+    "observation_basis": "listing-description",
+    "mechanism": "A vessel glides along a long ocean arc with wave parallax and port markers.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 5,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX124": {
+    "name": "Logistics / Drone Altitude",
+    "description": "Drone altitude rises in a side profile then descends at a location grid. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "saas",
+    "text": "Logistics · Drone Altitude",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/norway-map-kingdom-of-norway-travel-map-RASHKVH",
+    "observation_basis": "listing-description",
+    "mechanism": "Drone altitude rises in a side profile then descends at a location grid.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 5,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX125": {
+    "name": "Race / Lap Camera",
+    "description": "A track pursuit camera centres on a moving car while a lap rail progresses. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Race · Lap Camera",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/speedometer-pack-K2VWGVL",
+    "observation_basis": "listing-description",
+    "mechanism": "A track pursuit camera centres on a moving car while a lap rail progresses.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 6,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX126": {
+    "name": "Race / Sector Timeline",
+    "description": "Track sectors reveal sequentially with a corresponding split-time timeline. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Race · Sector Timeline",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/speedometer-pack-K2VWGVL",
+    "observation_basis": "listing-description",
+    "mechanism": "Track sectors reveal sequentially with a corresponding split-time timeline.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 6,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX127": {
+    "name": "Race / Speed Heat Track",
+    "description": "A racetrack gains speed-coloured segments while a telemetry needle follows the lap. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Race · Speed Heat Track",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/speedometer-pack-K2VWGVL",
+    "observation_basis": "listing-description",
+    "mechanism": "A racetrack gains speed-coloured segments while a telemetry needle follows the lap.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 6,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX128": {
+    "name": "Race / Ghost Duel",
+    "description": "Two cars travel with different eased progress while a live gap readout changes. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Race · Ghost Duel",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/speedometer-pack-K2VWGVL",
+    "observation_basis": "listing-description",
+    "mechanism": "Two cars travel with different eased progress while a live gap readout changes.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels",
+      "normalised route coordinates"
+    ],
+    "use_cases": [
+      "rail and travel explainer",
+      "logistics",
+      "sports telemetry"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 6,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX129": {
+    "name": "Bars / Ranked Ladder",
+    "description": "Ranked bars expand sequentially in descending order and settle exact values. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Bars · Ranked Ladder",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-vertical-bars-TXJ9KM3",
+    "observation_basis": "listing-description",
+    "mechanism": "Ranked bars expand sequentially in descending order and settle exact values.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 7,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX130": {
+    "name": "Bars / Diverging Balance",
+    "description": "Positive and negative bars emerge from a common centreline with balance readout. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Bars · Diverging Balance",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-vertical-bars-TXJ9KM3",
+    "observation_basis": "listing-description",
+    "mechanism": "Positive and negative bars emerge from a common centreline with balance readout.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 7,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX131": {
+    "name": "Bars / Grouped Comparison",
+    "description": "Paired bars grow together by group with labelled values and comparison markers. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Bars · Grouped Comparison",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-vertical-bars-TXJ9KM3",
+    "observation_basis": "listing-description",
+    "mechanism": "Paired bars grow together by group with labelled values and comparison markers.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 7,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX132": {
+    "name": "Bars / Composition Stacks",
+    "description": "Stacked category columns assemble segment by segment with total labels. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Bars · Composition Stacks",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-vertical-bars-TXJ9KM3",
+    "observation_basis": "listing-description",
+    "mechanism": "Stacked category columns assemble segment by segment with total labels.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 7,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX133": {
+    "name": "Trend / Scanline Reveal",
+    "description": "An axis scan reveals a polyline and tracks the current value at the reveal head. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Trend · Scanline Reveal",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/ui-infographic-6SV9XWN",
+    "observation_basis": "listing-description",
+    "mechanism": "An axis scan reveals a polyline and tracks the current value at the reveal head.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 8,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX134": {
+    "name": "Trend / Multi Series Chase",
+    "description": "Three line series chase across a shared axis with independent end labels. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Trend · Multi Series Chase",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/ui-infographic-6SV9XWN",
+    "observation_basis": "listing-description",
+    "mechanism": "Three line series chase across a shared axis with independent end labels.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 8,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX135": {
+    "name": "Trend / Confidence Envelope",
+    "description": "A line grows inside a translucent uncertainty envelope and resolves a final value. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Trend · Confidence Envelope",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/ui-infographic-6SV9XWN",
+    "observation_basis": "listing-description",
+    "mechanism": "A line grows inside a translucent uncertainty envelope and resolves a final value.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 8,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX136": {
+    "name": "Trend / Ridgeline Layers",
+    "description": "Four filled ridgelines sweep in from back to front with separated row labels. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Trend · Ridgeline Layers",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/ui-infographic-6SV9XWN",
+    "observation_basis": "listing-description",
+    "mechanism": "Four filled ridgelines sweep in from back to front with separated row labels.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 8,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX137": {
+    "name": "Radial / Donut Assembly",
+    "description": "Donut wedges assemble angularly and a centre total counts to the exact sum. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Radial · Donut Assembly",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-W7P7MQJ",
+    "observation_basis": "listing-description",
+    "mechanism": "Donut wedges assemble angularly and a centre total counts to the exact sum.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 9,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX138": {
+    "name": "Radial / Concentric Progress",
+    "description": "Independent concentric progress arcs sweep to separate exact target values. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Radial · Concentric Progress",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-W7P7MQJ",
+    "observation_basis": "listing-description",
+    "mechanism": "Independent concentric progress arcs sweep to separate exact target values.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 9,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX139": {
+    "name": "Radial / Hierarchy Sunburst",
+    "description": "Parent arcs and nested child arcs reveal as a hierarchy rather than one ring. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Radial · Hierarchy Sunburst",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-W7P7MQJ",
+    "observation_basis": "listing-description",
+    "mechanism": "Parent arcs and nested child arcs reveal as a hierarchy rather than one ring.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 9,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX140": {
+    "name": "Radial / Polar Columns",
+    "description": "Radial columns extend from a circular baseline with aligned outside values. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Radial · Polar Columns",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographics-W7P7MQJ",
+    "observation_basis": "listing-description",
+    "mechanism": "Radial columns extend from a circular baseline with aligned outside values.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 9,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX141": {
+    "name": "KPI / Odometer Vault",
+    "description": "Staggered counters accumulate through a row of vault tiles and resolve exact digits. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "KPI · Odometer Vault",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographic-widgets-pack-clean-ui-kit-CVNA2KE",
+    "observation_basis": "listing-description",
+    "mechanism": "Staggered counters accumulate through a row of vault tiles and resolve exact digits.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 10,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX142": {
+    "name": "KPI / Split Flap Ledger",
+    "description": "A split-flap styled ledger sweeps a moving highlight above numeral seams before settling labelled targets. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "KPI · Split Flap Ledger",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographic-widgets-pack-clean-ui-kit-CVNA2KE",
+    "observation_basis": "listing-description",
+    "mechanism": "A split-flap styled ledger sweeps a moving highlight above numeral seams before settling labelled targets.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 10,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX143": {
+    "name": "KPI / Mechanical Dial",
+    "description": "A mechanical needle sweeps through a calibrated dial and resolves a value. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "KPI · Mechanical Dial",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographic-widgets-pack-clean-ui-kit-CVNA2KE",
+    "observation_basis": "listing-description",
+    "mechanism": "A mechanical needle sweeps through a calibrated dial and resolves a value.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 10,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX144": {
+    "name": "KPI / Perimeter Progress",
+    "description": "A card perimeter traces in four edge stages alongside its numeric counter. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "KPI · Perimeter Progress",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographic-widgets-pack-clean-ui-kit-CVNA2KE",
+    "observation_basis": "listing-description",
+    "mechanism": "A card perimeter traces in four edge stages alongside its numeric counter.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 10,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX145": {
+    "name": "Flow / Ribbon Allocation",
+    "description": "Width-weighted ribbons split from a source into proportional destinations. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Flow · Ribbon Allocation",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-W3798EF",
+    "observation_basis": "listing-description",
+    "mechanism": "Width-weighted ribbons split from a source into proportional destinations.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 11,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX146": {
+    "name": "Flow / Conversion Funnel",
+    "description": "Funnel trapezoids narrow by stage and consecutive conversion counts appear. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Flow · Conversion Funnel",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-W3798EF",
+    "observation_basis": "listing-description",
+    "mechanism": "Funnel trapezoids narrow by stage and consecutive conversion counts appear.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 11,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX147": {
+    "name": "Flow / Waterfall Bridge",
+    "description": "Positive and negative incremental columns connect into a final waterfall total. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Flow · Waterfall Bridge",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-W3798EF",
+    "observation_basis": "listing-description",
+    "mechanism": "Positive and negative incremental columns connect into a final waterfall total.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 11,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX148": {
+    "name": "Flow / Decision Branches",
+    "description": "A decision node grows into two branches then into four labelled leaves. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Flow · Decision Branches",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-W3798EF",
+    "observation_basis": "listing-description",
+    "mechanism": "A decision node grows into two branches then into four labelled leaves.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 11,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX149": {
+    "name": "Matrix / Heatmap Sweep",
+    "description": "A row-major scan fills matrix cells with scaled quantitative intensity. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Matrix · Heatmap Sweep",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/heatmap-infographic-template-2DYTMWT",
+    "observation_basis": "listing-description",
+    "mechanism": "A row-major scan fills matrix cells with scaled quantitative intensity.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 12,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX150": {
+    "name": "Matrix / Waffle Fill",
+    "description": "A 10×10 waffle grid lights by exact percentage with a live counter. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Matrix · Waffle Fill",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/heatmap-infographic-template-2DYTMWT",
+    "observation_basis": "listing-description",
+    "mechanism": "A 10×10 waffle grid lights by exact percentage with a live counter.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 12,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX151": {
+    "name": "Matrix / Calendar Intensity",
+    "description": "A seven-column calendar staggers activity cells by week with legends. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Matrix · Calendar Intensity",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/heatmap-infographic-template-2DYTMWT",
+    "observation_basis": "listing-description",
+    "mechanism": "A seven-column calendar staggers activity cells by week with legends.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 12,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX152": {
+    "name": "Matrix / Correlation Focus",
+    "description": "A symmetric correlation matrix builds mirrored cells and highlights a chosen pair. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Matrix · Correlation Focus",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/heatmap-infographic-template-2DYTMWT",
+    "observation_basis": "listing-description",
+    "mechanism": "A symmetric correlation matrix builds mirrored cells and highlights a chosen pair.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 12,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX153": {
+    "name": "Scatter / Bubble Trails",
+    "description": "Bubble points grow then travel on curved trails before reaching target coordinates. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Scatter · Bubble Trails",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographic-pack-9X55V7T",
+    "observation_basis": "listing-description",
+    "mechanism": "Bubble points grow then travel on curved trails before reaching target coordinates.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 13,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX154": {
+    "name": "Scatter / Strategic Quadrants",
+    "description": "Quadrant zones unfold and labelled strategy points settle into their positions. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Scatter · Strategic Quadrants",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographic-pack-9X55V7T",
+    "observation_basis": "listing-description",
+    "mechanism": "Quadrant zones unfold and labelled strategy points settle into their positions.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 13,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX155": {
+    "name": "Scatter / Population Swarm",
+    "description": "A deterministic point swarm separates into four column populations. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Scatter · Population Swarm",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographic-pack-9X55V7T",
+    "observation_basis": "listing-description",
+    "mechanism": "A deterministic point swarm separates into four column populations.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 13,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX156": {
+    "name": "Scatter / Ranked Dot Plot",
+    "description": "Ranked dot rows connect to a baseline with lollipop stems and exact values. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Scatter · Ranked Dot Plot",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/infographic-pack-9X55V7T",
+    "observation_basis": "listing-description",
+    "mechanism": "Ranked dot rows connect to a baseline with lollipop stems and exact values.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 13,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX157": {
+    "name": "Science / Molecular Bond Build",
+    "description": "Molecular nodes appear in a staggered scaffold and bonds draw between them. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Science · Molecular Bond Build",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/scientific-infographics-VP7UDFR",
+    "observation_basis": "listing-description",
+    "mechanism": "Molecular nodes appear in a staggered scaffold and bonds draw between them.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 14,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX158": {
+    "name": "Science / DNA Ribbon Scan",
+    "description": "A rotating double helix slides behind a scanning bracket and readout cards. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Science · DNA Ribbon Scan",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/scientific-infographics-VP7UDFR",
+    "observation_basis": "listing-description",
+    "mechanism": "A rotating double helix slides behind a scanning bracket and readout cards.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 14,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX159": {
+    "name": "Science / Orbital Capture",
+    "description": "Nested orbital tracks rotate particles around a central body with capture pulses. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Science · Orbital Capture",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/scientific-infographics-VP7UDFR",
+    "observation_basis": "listing-description",
+    "mechanism": "Nested orbital tracks rotate particles around a central body with capture pulses.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 14,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX160": {
+    "name": "Science / Harmonic Interference",
+    "description": "Two wave signals propagate and an interference sum is built in a separate lane. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "education",
+    "text": "Science · Harmonic Interference",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/scientific-infographics-VP7UDFR",
+    "observation_basis": "listing-description",
+    "mechanism": "Two wave signals propagate and an interference sum is built in a separate lane.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 14,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX161": {
+    "name": "Engineering / Layer Cutaway",
+    "description": "A machine stack separates vertically to expose layers with leader-line callouts. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Engineering · Layer Cutaway",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-info-medical-panel-1-MJUYDDH",
+    "observation_basis": "listing-description",
+    "mechanism": "A machine stack separates vertically to expose layers with leader-line callouts.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 15,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX162": {
+    "name": "Engineering / Sensor Network",
+    "description": "Sensor nodes connect in a topology and send moving readings to a central monitor. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Engineering · Sensor Network",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-info-medical-panel-1-MJUYDDH",
+    "observation_basis": "listing-description",
+    "mechanism": "Sensor nodes connect in a topology and send moving readings to a central monitor.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 15,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX163": {
+    "name": "Engineering / Plant Pipeline",
+    "description": "A pipeline fills through tanks, a pump and a valve with phased flow packets. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Engineering · Plant Pipeline",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-info-medical-panel-1-MJUYDDH",
+    "observation_basis": "listing-description",
+    "mechanism": "A pipeline fills through tanks, a pump and a valve with phased flow packets.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 15,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX164": {
+    "name": "Engineering / Gauge Manifold",
+    "description": "Four calibrated gauges share a manifold and animate independent readings. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "documentary",
+    "text": "Engineering · Gauge Manifold",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-info-medical-panel-1-MJUYDDH",
+    "observation_basis": "listing-description",
+    "mechanism": "Four calibrated gauges share a manifold and animate independent readings.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 15,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX165": {
+    "name": "Biology / Cell Callouts",
+    "description": "A schematic cell membrane forms, organelles populate and callouts extend. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Biology · Cell Callouts",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-molecular-dna-KTTS2NV",
+    "observation_basis": "listing-description",
+    "mechanism": "A schematic cell membrane forms, organelles populate and callouts extend.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 16,
+    "recipe_variant": 0,
+    "schematic": true
+  },
+  "PX166": {
+    "name": "Biology / Synaptic Relay",
+    "description": "A neuron-shaped node relays a pulse to receptor branches through synaptic gaps. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Biology · Synaptic Relay",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-molecular-dna-KTTS2NV",
+    "observation_basis": "listing-description",
+    "mechanism": "A neuron-shaped node relays a pulse to receptor branches through synaptic gaps.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 16,
+    "recipe_variant": 1,
+    "schematic": true
+  },
+  "PX167": {
+    "name": "Biology / Specimen Carousel",
+    "description": "Three specimen cards slide into a research carousel with active scan focus. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Biology · Specimen Carousel",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-molecular-dna-KTTS2NV",
+    "observation_basis": "listing-description",
+    "mechanism": "Three specimen cards slide into a research carousel with active scan focus.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 16,
+    "recipe_variant": 2,
+    "schematic": true
+  },
+  "PX168": {
+    "name": "Biology / Energy Cycle",
+    "description": "Four biological energy stages connect in a loop with circulating packets. Illustrative schematic, not surveyed geography or clinical illustration.",
+    "genre": "corporate",
+    "text": "Biology · Energy Cycle",
+    "subtitle": "ILLUSTRATIVE SCHEMATIC",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hud-molecular-dna-KTTS2NV",
+    "observation_basis": "listing-description",
+    "mechanism": "Four biological energy stages connect in a loop with circulating packets.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 16,
+    "recipe_variant": 3,
+    "schematic": true
+  },
+  "PX169": {
+    "name": "Compare / Delta Bridge",
+    "description": "Two headline values form a bridge and a signed delta expands between them. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Compare · Delta Bridge",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/comparisson-infographic-powerpoint-template-J659HXN",
+    "observation_basis": "listing-description",
+    "mechanism": "Two headline values form a bridge and a signed delta expands between them.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 17,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX170": {
+    "name": "Compare / Before After Lens",
+    "description": "A central comparison seam divides paired before-and-after bar scenes. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Compare · Before After Lens",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/comparisson-infographic-powerpoint-template-J659HXN",
+    "observation_basis": "listing-description",
+    "mechanism": "A central comparison seam divides paired before-and-after bar scenes.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 17,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX171": {
+    "name": "Compare / Bullet Targets",
+    "description": "Bullet bars expand against background bands and explicit target markers. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Compare · Bullet Targets",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/comparisson-infographic-powerpoint-template-J659HXN",
+    "observation_basis": "listing-description",
+    "mechanism": "Bullet bars expand against background bands and explicit target markers.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 17,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX172": {
+    "name": "Compare / Benchmark Ladder",
+    "description": "Four benchmark rails build with sample markers against a common ruler. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Compare · Benchmark Ladder",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/comparisson-infographic-powerpoint-template-J659HXN",
+    "observation_basis": "listing-description",
+    "mechanism": "Four benchmark rails build with sample markers against a common ruler.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 17,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX173": {
+    "name": "Dashboard / Bento Analytics",
+    "description": "A bento dashboard staggers KPI, line, donut and ranked-bar modules. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Dashboard · Bento Analytics",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographics-U663PUY",
+    "observation_basis": "listing-description",
+    "mechanism": "A bento dashboard staggers KPI, line, donut and ranked-bar modules.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 18,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX174": {
+    "name": "Dashboard / Command Deck",
+    "description": "A command deck sweeps through a signal plot, gauges and a timeline. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Dashboard · Command Deck",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographics-U663PUY",
+    "observation_basis": "listing-description",
+    "mechanism": "A command deck sweeps through a signal plot, gauges and a timeline.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 18,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX175": {
+    "name": "Dashboard / Scoreboard Stack",
+    "description": "A tall scoreboard highlights rows in turn and counts their final metrics. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Dashboard · Scoreboard Stack",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographics-U663PUY",
+    "observation_basis": "listing-description",
+    "mechanism": "A tall scoreboard highlights rows in turn and counts their final metrics.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 18,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX176": {
+    "name": "Dashboard / Newsroom Data",
+    "description": "A newsroom layout assembles a hero value, map inset and three supporting bars. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Dashboard · Newsroom Data",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/modern-infographics-U663PUY",
+    "observation_basis": "listing-description",
+    "mechanism": "A newsroom layout assembles a hero value, map inset and three supporting bars.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 18,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX177": {
+    "name": "Timeline / Cascade Chapters",
+    "description": "Offset chapter cards cascade down a zigzag route with matching connectors. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Timeline · Cascade Chapters",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flowchart-infographic-ppt-JRGHNG8",
+    "observation_basis": "listing-description",
+    "mechanism": "Offset chapter cards cascade down a zigzag route with matching connectors.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 19,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX178": {
+    "name": "Timeline / Milestone Ribbon",
+    "description": "A timeline ribbon extends through four milestones and unveils anchored cards. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Timeline · Milestone Ribbon",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flowchart-infographic-ppt-JRGHNG8",
+    "observation_basis": "listing-description",
+    "mechanism": "A timeline ribbon extends through four milestones and unveils anchored cards.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 19,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX179": {
+    "name": "Timeline / Gantt Activation",
+    "description": "Staggered Gantt rows grow at different start positions under a moving cursor. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Timeline · Gantt Activation",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flowchart-infographic-ppt-JRGHNG8",
+    "observation_basis": "listing-description",
+    "mechanism": "Staggered Gantt rows grow at different start positions under a moving cursor.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 19,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX180": {
+    "name": "Timeline / Clock Chronology",
+    "description": "A circular clock chronology places events on fixed hour positions sequentially. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Timeline · Clock Chronology",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flowchart-infographic-ppt-JRGHNG8",
+    "observation_basis": "listing-description",
+    "mechanism": "A circular clock chronology places events on fixed hour positions sequentially.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 19,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX181": {
+    "name": "Organisation / Reporting Tree",
+    "description": "A reporting tree grows from one leader to teams then to role nodes. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Organisation · Reporting Tree",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/organizational-chart-presentation-infographic-9SQKVHL",
+    "observation_basis": "listing-description",
+    "mechanism": "A reporting tree grows from one leader to teams then to role nodes.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 20,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX182": {
+    "name": "Organisation / Responsibility Matrix",
+    "description": "A responsibility grid reveals R,A,C,I cells per team and task. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Organisation · Responsibility Matrix",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/organizational-chart-presentation-infographic-9SQKVHL",
+    "observation_basis": "listing-description",
+    "mechanism": "A responsibility grid reveals R,A,C,I cells per team and task.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 20,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX183": {
+    "name": "Organisation / Hierarchy Pyramid",
+    "description": "Hierarchy trapezoids stack bottom-up and show levels in separated lanes. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Organisation · Hierarchy Pyramid",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/organizational-chart-presentation-infographic-9SQKVHL",
+    "observation_basis": "listing-description",
+    "mechanism": "Hierarchy trapezoids stack bottom-up and show levels in separated lanes.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 20,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX184": {
+    "name": "Organisation / Stakeholder Orbit",
+    "description": "Stakeholder nodes settle on two orbital rings with relationship links. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Organisation · Stakeholder Orbit",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/organizational-chart-presentation-infographic-9SQKVHL",
+    "observation_basis": "listing-description",
+    "mechanism": "Stakeholder nodes settle on two orbital rings with relationship links.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 20,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX185": {
+    "name": "Cycle / Flywheel Momentum",
+    "description": "A flywheel rotates with a changing speed and four inputs pointing toward its centre. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Cycle · Flywheel Momentum",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/circle-arrows-icon-3d-abstract-EBAYPD5",
+    "observation_basis": "listing-description",
+    "mechanism": "A flywheel rotates with a changing speed and four inputs pointing toward its centre.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 21,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX186": {
+    "name": "Cycle / Process Ring",
+    "description": "Four process arcs reveal clockwise then circulate a stage marker. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Cycle · Process Ring",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/circle-arrows-icon-3d-abstract-EBAYPD5",
+    "observation_basis": "listing-description",
+    "mechanism": "Four process arcs reveal clockwise then circulate a stage marker.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 21,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX187": {
+    "name": "Cycle / Feedback Circuit",
+    "description": "A forward chain is followed by a curved return circuit carrying feedback. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Cycle · Feedback Circuit",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/circle-arrows-icon-3d-abstract-EBAYPD5",
+    "observation_basis": "listing-description",
+    "mechanism": "A forward chain is followed by a curved return circuit carrying feedback.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 21,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX188": {
+    "name": "Cycle / Lifecycle Stages",
+    "description": "A lifecycle expands four differently sized stages around a loop. Fictional demo data; replace with verified values.",
+    "genre": "saas",
+    "text": "Cycle · Lifecycle Stages",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/circle-arrows-icon-3d-abstract-EBAYPD5",
+    "observation_basis": "listing-description",
+    "mechanism": "A lifecycle expands four differently sized stages around a loop.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 21,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX189": {
+    "name": "Finance / Candlestick Scan",
+    "description": "Candlestick bodies grow against a price grid and resolve to the supplied end-price tag. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Finance · Candlestick Scan",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/animated-hud-infographic-element-stock-market-cand-QNBY975",
+    "observation_basis": "listing-description",
+    "mechanism": "Candlestick bodies grow against a price grid and resolve to the supplied end-price tag.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 22,
+    "recipe_variant": 0,
+    "schematic": false,
+    "price_series": [
+      55,
+      62,
+      58,
+      70,
+      66,
+      76,
+      83,
+      79,
+      92,
+      87,
+      97,
+      102
+    ]
+  },
+  "PX190": {
+    "name": "Finance / Orderbook Balance",
+    "description": "Buy and sell volumes grow from a central orderbook seam with balance counts. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Finance · Orderbook Balance",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/animated-hud-infographic-element-stock-market-cand-QNBY975",
+    "observation_basis": "listing-description",
+    "mechanism": "Buy and sell volumes grow from a central orderbook seam with balance counts.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 22,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX191": {
+    "name": "Finance / Portfolio Weights",
+    "description": "A portfolio ring and proportional allocation rows grow from supplied values. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Finance · Portfolio Weights",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/animated-hud-infographic-element-stock-market-cand-QNBY975",
+    "observation_basis": "listing-description",
+    "mechanism": "A portfolio ring and proportional allocation rows grow from supplied values.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 22,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX192": {
+    "name": "Finance / Compound Growth",
+    "description": "Compound growth bars rise exponentially with a cumulative principal comparison. Fictional demo data; replace with verified values.",
+    "genre": "education",
+    "text": "Finance · Compound Growth",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/animated-hud-infographic-element-stock-market-cand-QNBY975",
+    "observation_basis": "listing-description",
+    "mechanism": "Compound growth bars rise exponentially with a cumulative principal comparison.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 22,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX193": {
+    "name": "Systems / Architecture Packets",
+    "description": "Architecture layers connect with routed packets and active endpoint focus. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Systems · Architecture Packets",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-google-slides-S3L994M",
+    "observation_basis": "listing-description",
+    "mechanism": "Architecture layers connect with routed packets and active endpoint focus.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 23,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX194": {
+    "name": "Systems / Layered Stack",
+    "description": "Five stack cards fan in depth into a vertically layered service tower. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Systems · Layered Stack",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-google-slides-S3L994M",
+    "observation_basis": "listing-description",
+    "mechanism": "Five stack cards fan in depth into a vertically layered service tower.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 23,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX195": {
+    "name": "Systems / Swimlane Handoff",
+    "description": "Three swimlanes pass an active job across lanes through timed connectors. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Systems · Swimlane Handoff",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-google-slides-S3L994M",
+    "observation_basis": "listing-description",
+    "mechanism": "Three swimlanes pass an active job across lanes through timed connectors.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 23,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX196": {
+    "name": "Systems / Service Waterfall",
+    "description": "A service-waterfall timing chart staggers request bars by dependency start time. Fictional demo data; replace with verified values.",
+    "genre": "documentary",
+    "text": "Systems · Service Waterfall",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/process-flow-infographic-google-slides-S3L994M",
+    "observation_basis": "listing-description",
+    "mechanism": "A service-waterfall timing chart staggers request bars by dependency start time.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 23,
+    "recipe_variant": 3,
+    "schematic": false
+  },
+  "PX197": {
+    "name": "Editorial / Hero Statistic",
+    "description": "A huge statistic counts upward as supporting evidence lines reveal below it. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Editorial · Hero Statistic",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/video-info-kit-V2CPYXS",
+    "observation_basis": "listing-description",
+    "mechanism": "A huge statistic counts upward as supporting evidence lines reveal below it.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 24,
+    "recipe_variant": 0,
+    "schematic": false
+  },
+  "PX198": {
+    "name": "Editorial / Pictogram Cascade",
+    "description": "A pictogram array appears by cohort with an explicit highlighted share. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Editorial · Pictogram Cascade",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/video-info-kit-V2CPYXS",
+    "observation_basis": "listing-description",
+    "mechanism": "A pictogram array appears by cohort with an explicit highlighted share.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 24,
+    "recipe_variant": 1,
+    "schematic": false
+  },
+  "PX199": {
+    "name": "Editorial / Staircase Story",
+    "description": "Four numbered steps build as a stair silhouette with rising captions. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Editorial · Staircase Story",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/video-info-kit-V2CPYXS",
+    "observation_basis": "listing-description",
+    "mechanism": "Four numbered steps build as a stair silhouette with rising captions.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 24,
+    "recipe_variant": 2,
+    "schematic": false
+  },
+  "PX200": {
+    "name": "Editorial / Evidence Cards",
+    "description": "Three evidence cards slide inward and link to a shared conclusion panel. Fictional demo data; replace with verified values.",
+    "genre": "corporate",
+    "text": "Editorial · Evidence Cards",
+    "subtitle": "CONFIGURABLE DATA · ORIGINAL DEMO",
+    "family": "premium-map-data",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/video-info-kit-V2CPYXS",
+    "observation_basis": "listing-description",
+    "mechanism": "Three evidence cards slide inward and link to a shared conclusion panel.",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "vector diagram",
+      "data values",
+      "labels"
+    ],
+    "use_cases": [
+      "corporate report",
+      "education",
+      "data storytelling"
+    ],
+    "parameters": {
+      "values": "finite numeric array; exact endpoints; nonnegative for proportional charts",
+      "labels": "array of short names",
+      "route": "array of [x,y] pairs in 0..1 for map families",
+      "text": "headline",
+      "subtitle": "supporting line",
+      "unit": "counter suffix"
+    },
+    "adaptation_status": "original-demo",
+    "values": [
+      64,
+      86,
+      73,
+      92
+    ],
+    "labels": [
+      "ALPHA",
+      "BETA",
+      "GAMMA",
+      "DELTA"
+    ],
+    "recipe_group": 24,
+    "recipe_variant": 3,
+    "schematic": false
+  }
+}

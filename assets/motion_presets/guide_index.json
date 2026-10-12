@@ -1,0 +1,1482 @@
+{
+  "MS01": {
+    "name": "tiktok-video-skills",
+    "description": "Video menegak dengan hook, rentak dan ruang selamat skrin telefon",
+    "source_url": "https://github.com/iart-ai/tiktok-video-skills",
+    "assets": "Klip menegak, hook, audio",
+    "use": "Reels/TikTok/Shorts",
+    "category": "MS"
+  },
+  "MS02": {
+    "name": "text-message-video-skills",
+    "description": "Cerita menerusi mesej dan respons berturutan",
+    "source_url": "https://github.com/iart-ai/text-message-video-skills",
+    "assets": "Skrip chat, avatar, notifikasi",
+    "use": "Cerita chat",
+    "category": "MS"
+  },
+  "MS03": {
+    "name": "youtube-video-skills",
+    "description": "Segmen YouTube, podcast dan potongan panjang kepada klip",
+    "source_url": "https://github.com/iart-ai/youtube-video-skills",
+    "assets": "Rakaman, audio, petikan",
+    "use": "YouTube/podcast",
+    "category": "MS"
+  },
+  "MS04": {
+    "name": "ecommerce-video-skills",
+    "description": "Paparan produk, ciri, harga dan bukti visual",
+    "source_url": "https://github.com/iart-ai/ecommerce-video-skills",
+    "assets": "Foto produk, harga, ulasan",
+    "use": "Iklan e-dagang",
+    "category": "MS"
+  },
+  "MS05": {
+    "name": "ad-video-skills",
+    "description": "Varian iklan, filem pelancaran dan testimoni",
+    "source_url": "https://github.com/iart-ai/ad-video-skills",
+    "assets": "Brand kit, CSV, ulasan",
+    "use": "Iklan A/B",
+    "category": "MS"
+  },
+  "MS06": {
+    "name": "data-animation-skills",
+    "description": "Carta, angka dan naratif data yang tepat",
+    "source_url": "https://github.com/iart-ai/data-animation-skills",
+    "assets": "CSV, metrik, label",
+    "use": "Laporan/infografik",
+    "category": "MS"
+  },
+  "MS07": {
+    "name": "explainer-video-skills",
+    "description": "Urutan penerangan yang dibina mengikut konsep",
+    "source_url": "https://github.com/iart-ai/explainer-video-skills",
+    "assets": "Skrip, ikon, rajah",
+    "use": "Explainer/pendidikan",
+    "category": "MS"
+  },
+  "MS08": {
+    "name": "map-animation-skills",
+    "description": "Peta editorial dan perjalanan lokasi",
+    "source_url": "https://github.com/iart-ai/map-animation-skills",
+    "assets": "Peta, geodata, lokasi",
+    "use": "Geografi/dokumentari",
+    "category": "MS"
+  },
+  "MS09": {
+    "name": "web-animation-skills",
+    "description": "Gerak laman web dan mikrointeraksi",
+    "source_url": "https://github.com/iart-ai/web-animation-skills",
+    "assets": "UI web, SVG, komponen",
+    "use": "Demo laman web",
+    "category": "MS"
+  },
+  "MS10": {
+    "name": "motion-design-skills",
+    "description": "Gerak jenama, logo, komposisi dan kesan visual",
+    "source_url": "https://github.com/iart-ai/motion-design-skills",
+    "assets": "Logo, tipografi, bentuk",
+    "use": "Identiti/promosi",
+    "category": "MS"
+  },
+  "MS11": {
+    "name": "kinetic-typography-skills",
+    "description": "Tipografi kinetik berasaskan masa dan hierarki",
+    "source_url": "https://github.com/iart-ai/kinetic-typography-skills",
+    "assets": "Skrip, tajuk, voice-over",
+    "use": "Hook/caption",
+    "category": "MS"
+  },
+  "MS12": {
+    "name": "freelance-motion-skills",
+    "description": "Brief, semakan dan penyerahan kerja klien",
+    "source_url": "https://github.com/iart-ai/freelance-motion-skills",
+    "assets": "Brief, brand kit, aset klien",
+    "use": "Produksi komersial",
+    "category": "MS"
+  },
+  "MS13": {
+    "name": "webgl-animation-skills",
+    "description": "Adegan 3D/WebGL dengan kamera dan shader apabila runtime ada",
+    "source_url": "https://github.com/iart-ai/webgl-animation-skills",
+    "assets": "Model 3D, tekstur",
+    "use": "Hero teknologi",
+    "category": "MS"
+  },
+  "MS14": {
+    "name": "manim-skills",
+    "description": "Animasi langkah matematik dan visual pembuktian",
+    "source_url": "https://github.com/iart-ai/manim-skills",
+    "assets": "Formula, graf, rajah",
+    "use": "Pendidikan matematik",
+    "category": "MS"
+  },
+  "MS15": {
+    "name": "generative-illustration-skills",
+    "description": "Ilustrasi terjana kod dengan variasi gerak",
+    "source_url": "https://github.com/iart-ai/generative-illustration-skills",
+    "assets": "Palet, bentuk, seed",
+    "use": "Visual abstrak",
+    "category": "MS"
+  },
+  "MS16": {
+    "name": "javascript-animation-skills",
+    "description": "Animasi dilukis bingkai demi bingkai dengan JavaScript",
+    "source_url": "https://github.com/iart-ai/javascript-animation-skills",
+    "assets": "Skrip, bentuk kod",
+    "use": "Cerita animasi asli",
+    "category": "MS"
+  },
+  "PL01": {
+    "name": "Kinetic type beats",
+    "description": "Frasa utama tiba tepat pada kata narasi",
+    "source_url": "",
+    "assets": "Tajuk, VO",
+    "use": "Hook pelancaran",
+    "category": "PL"
+  },
+  "PL02": {
+    "name": "Crowding problem",
+    "description": "Objek memenuhi ruang untuk menunjukkan masalah",
+    "source_url": "",
+    "assets": "UI lama, banyak tugas",
+    "use": "Masalah pengguna",
+    "category": "PL"
+  },
+  "PL03": {
+    "name": "Held thesis",
+    "description": "Satu pernyataan dikekalkan agar jelas dibaca",
+    "source_url": "",
+    "assets": "Satu janji produk",
+    "use": "Tesis jenama",
+    "category": "PL"
+  },
+  "PL04": {
+    "name": "Prompt / composer",
+    "description": "Input dimasukkan ke medan dan mencetus respons",
+    "source_url": "",
+    "assets": "UI input, teks prompt",
+    "use": "Demo AI",
+    "category": "PL"
+  },
+  "PL05": {
+    "name": "Results surface",
+    "description": "Hasil produk tersingkap selepas input",
+    "source_url": "",
+    "assets": "Tangkap layar hasil",
+    "use": "Bukti demo",
+    "category": "PL"
+  },
+  "PL06": {
+    "name": "Two-pane workspace",
+    "description": "Dua panel kerja menunjukkan hubungan input dan output",
+    "source_url": "",
+    "assets": "UI dua panel",
+    "use": "Produktiviti SaaS",
+    "category": "PL"
+  },
+  "PL07": {
+    "name": "Pipeline / status tracker",
+    "description": "Langkah dan status berubah secara berurutan",
+    "source_url": "",
+    "assets": "Status, langkah proses",
+    "use": "Aliran kerja",
+    "category": "PL"
+  },
+  "PL08": {
+    "name": "Hero stat count-up",
+    "description": "Angka utama meningkat tepat kepada nilai sah",
+    "source_url": "",
+    "assets": "Data/angka sebenar",
+    "use": "Bukti prestasi",
+    "category": "PL"
+  },
+  "PL09": {
+    "name": "Testimonial with a face",
+    "description": "Petikan disanding dengan orang sebenar",
+    "source_url": "",
+    "assets": "Foto pelanggan, ulasan",
+    "use": "Bukti sosial",
+    "category": "PL"
+  },
+  "PL10": {
+    "name": "Comparison columns",
+    "description": "Dua pilihan dibanding dengan hierarki jelas",
+    "source_url": "",
+    "assets": "Data perbandingan",
+    "use": "Sebelum/selepas",
+    "category": "PL"
+  },
+  "PL11": {
+    "name": "End card / CTA lockup",
+    "description": "Jenama dan ajakan tindakan dikunci untuk bacaan",
+    "source_url": "",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup iklan",
+    "category": "PL"
+  },
+  "PL12": {
+    "name": "Hardware hero",
+    "description": "Produk fizikal menjadi fokus dengan gerak kamera",
+    "source_url": "",
+    "assets": "Foto/imej produk",
+    "use": "Pelancaran perkakasan",
+    "category": "PL"
+  },
+  "PL13": {
+    "name": "Terminal / dev-tool shot",
+    "description": "Perintah atau respons terminal dipaparkan dengan jelas",
+    "source_url": "",
+    "assets": "Teks kod, terminal",
+    "use": "Produk pembangun",
+    "category": "PL"
+  },
+  "PL14": {
+    "name": "Map and chart reveal",
+    "description": "Lokasi atau carta dibuka mengikut makna narasi",
+    "source_url": "",
+    "assets": "Peta, carta, data",
+    "use": "Cakupan/data",
+    "category": "PL"
+  },
+  "PV001": {
+    "name": "basic-3d-scene",
+    "description": "Gerakan kamera/ruang: basic 3d scene",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/basic-3d-scene.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV002": {
+    "name": "crash-zoom-punch",
+    "description": "Gerakan kamera/ruang: crash zoom punch",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/crash-zoom-punch.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV003": {
+    "name": "cursor-flyover",
+    "description": "Gerakan kamera/ruang: cursor flyover",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/cursor-flyover.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV004": {
+    "name": "depth-layer-moves",
+    "description": "Gerakan kamera/ruang: depth layer moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/depth-layer-moves.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV005": {
+    "name": "graze-face-tour",
+    "description": "Gerakan kamera/ruang: graze face tour",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/graze-face-tour.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV006": {
+    "name": "overhead-camera-moves",
+    "description": "Gerakan kamera/ruang: overhead camera moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/overhead-camera-moves.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV007": {
+    "name": "space-camera-moves",
+    "description": "Gerakan kamera/ruang: space camera moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/space-camera-moves.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV008": {
+    "name": "steep-tilt-glide",
+    "description": "Gerakan kamera/ruang: steep tilt glide",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/steep-tilt-glide.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV009": {
+    "name": "tension-camera-moves",
+    "description": "Gerakan kamera/ruang: tension camera moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/tension-camera-moves.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV010": {
+    "name": "terminal-3d",
+    "description": "Gerakan kamera/ruang: terminal 3d",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/camera/terminal-3d.md",
+    "assets": "Mockup, UI, imej berlapis",
+    "use": "Promo produk",
+    "category": "camera"
+  },
+  "PV011": {
+    "name": "avatar-grid-radial-build-colorize",
+    "description": "Pendedahan angka, carta atau perbandingan: avatar grid radial build colorize",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/avatar-grid-radial-build-colorize.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV012": {
+    "name": "before-after-slider-scrub",
+    "description": "Pendedahan angka, carta atau perbandingan: before after slider scrub",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/before-after-slider-scrub.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV013": {
+    "name": "chart-live-moves",
+    "description": "Pendedahan angka, carta atau perbandingan: chart live moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/chart-live-moves.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV014": {
+    "name": "counter-confetti",
+    "description": "Pendedahan angka, carta atau perbandingan: counter confetti",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/counter-confetti.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV015": {
+    "name": "gauge-readout-moves",
+    "description": "Pendedahan angka, carta atau perbandingan: gauge readout moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/gauge-readout-moves.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV016": {
+    "name": "hatch-depth",
+    "description": "Pendedahan angka, carta atau perbandingan: hatch depth",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/hatch-depth.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV017": {
+    "name": "odometer-digit-roll",
+    "description": "Pendedahan angka, carta atau perbandingan: odometer digit roll",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/odometer-digit-roll.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV018": {
+    "name": "particle-celebrate-hits",
+    "description": "Pendedahan angka, carta atau perbandingan: particle celebrate hits",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/particle-celebrate-hits.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV019": {
+    "name": "particle-sand-fill",
+    "description": "Pendedahan angka, carta atau perbandingan: particle sand fill",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/particle-sand-fill.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV020": {
+    "name": "scroll-brake-moves",
+    "description": "Pendedahan angka, carta atau perbandingan: scroll brake moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/scroll-brake-moves.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV021": {
+    "name": "timeline-travel",
+    "description": "Pendedahan angka, carta atau perbandingan: timeline travel",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/data/timeline-travel.md",
+    "assets": "Data sah, carta, metrik",
+    "use": "Explainer data",
+    "category": "data"
+  },
+  "PV022": {
+    "name": "assemble-then-type-flyin",
+    "description": "Kesan visual untuk fokus dan penekanan: assemble then type flyin",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/assemble-then-type-flyin.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV023": {
+    "name": "aurora-bloom-bg-flip",
+    "description": "Kesan visual untuk fokus dan penekanan: aurora bloom bg flip",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/aurora-bloom-bg-flip.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV024": {
+    "name": "brand-frame-snap",
+    "description": "Kesan visual untuk fokus dan penekanan: brand frame snap",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/brand-frame-snap.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV025": {
+    "name": "dashboard-glow-highlight-pill",
+    "description": "Kesan visual untuk fokus dan penekanan: dashboard glow highlight pill",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/dashboard-glow-highlight-pill.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV026": {
+    "name": "fui-hud-moves",
+    "description": "Kesan visual untuk fokus dan penekanan: fui hud moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/fui-hud-moves.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV027": {
+    "name": "glow-flyline-moves",
+    "description": "Kesan visual untuk fokus dan penekanan: glow flyline moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/glow-flyline-moves.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV028": {
+    "name": "icon-performance-moves",
+    "description": "Kesan visual untuk fokus dan penekanan: icon performance moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/icon-performance-moves.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV029": {
+    "name": "impact-feedback",
+    "description": "Kesan visual untuk fokus dan penekanan: impact feedback",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/impact-feedback.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV030": {
+    "name": "light-play-moves",
+    "description": "Kesan visual untuk fokus dan penekanan: light play moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/light-play-moves.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV031": {
+    "name": "line-boil",
+    "description": "Kesan visual untuk fokus dan penekanan: line boil",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/line-boil.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV032": {
+    "name": "radial-ripple-phone-chips",
+    "description": "Kesan visual untuk fokus dan penekanan: radial ripple phone chips",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/radial-ripple-phone-chips.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV033": {
+    "name": "riso-print-hits",
+    "description": "Kesan visual untuk fokus dan penekanan: riso print hits",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/riso-print-hits.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV034": {
+    "name": "scan-bracket-sweep",
+    "description": "Kesan visual untuk fokus dan penekanan: scan bracket sweep",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/scan-bracket-sweep.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV035": {
+    "name": "scanline-annotate-focus",
+    "description": "Kesan visual untuk fokus dan penekanan: scanline annotate focus",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/scanline-annotate-focus.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV036": {
+    "name": "scanline-assemble-flyin",
+    "description": "Kesan visual untuk fokus dan penekanan: scanline assemble flyin",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/scanline-assemble-flyin.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV037": {
+    "name": "slam-entrance-moves",
+    "description": "Kesan visual untuk fokus dan penekanan: slam entrance moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/slam-entrance-moves.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV038": {
+    "name": "spotlight-sweep-moves",
+    "description": "Kesan visual untuk fokus dan penekanan: spotlight sweep moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/effects/spotlight-sweep-moves.md",
+    "assets": "Logo, UI, bentuk grafik",
+    "use": "Promo kreatif",
+    "category": "effects"
+  },
+  "PV039": {
+    "name": "ai-stream-response",
+    "description": "Interaksi pengguna dan keadaan UI: ai stream response",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/ai-stream-response.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV040": {
+    "name": "autolayout-gap-dial",
+    "description": "Interaksi pengguna dan keadaan UI: autolayout gap dial",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/autolayout-gap-dial.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV041": {
+    "name": "canvas-materialize-moves",
+    "description": "Interaksi pengguna dan keadaan UI: canvas materialize moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/canvas-materialize-moves.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV042": {
+    "name": "chip-grid-single-select-blackout",
+    "description": "Interaksi pengguna dan keadaan UI: chip grid single select blackout",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/chip-grid-single-select-blackout.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV043": {
+    "name": "chip-lift-to-user-pill",
+    "description": "Interaksi pengguna dan keadaan UI: chip lift to user pill",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/chip-lift-to-user-pill.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV044": {
+    "name": "collab-cursor-moves",
+    "description": "Interaksi pengguna dan keadaan UI: collab cursor moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/collab-cursor-moves.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV045": {
+    "name": "command-palette-summon",
+    "description": "Interaksi pengguna dan keadaan UI: command palette summon",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/command-palette-summon.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV046": {
+    "name": "glass-pill-dictation-typing",
+    "description": "Interaksi pengguna dan keadaan UI: glass pill dictation typing",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/glass-pill-dictation-typing.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV047": {
+    "name": "hashtag-to-pill-materialize",
+    "description": "Interaksi pengguna dan keadaan UI: hashtag to pill materialize",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/hashtag-to-pill-materialize.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV048": {
+    "name": "input-trigger-moves",
+    "description": "Interaksi pengguna dan keadaan UI: input trigger moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/input-trigger-moves.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV049": {
+    "name": "picker-carousel-feature-cycle",
+    "description": "Interaksi pengguna dan keadaan UI: picker carousel feature cycle",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/picker-carousel-feature-cycle.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV050": {
+    "name": "segmented-thumb-hero",
+    "description": "Interaksi pengguna dan keadaan UI: segmented thumb hero",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/segmented-thumb-hero.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV051": {
+    "name": "theme-switch-moves",
+    "description": "Interaksi pengguna dan keadaan UI: theme switch moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/theme-switch-moves.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV052": {
+    "name": "type-and-filter",
+    "description": "Interaksi pengguna dan keadaan UI: type and filter",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/type-and-filter.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV053": {
+    "name": "voice-waveform-live",
+    "description": "Interaksi pengguna dan keadaan UI: voice waveform live",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/interaction/voice-waveform-live.md",
+    "assets": "Tangkap layar, kursor, input",
+    "use": "Demo SaaS",
+    "category": "interaction"
+  },
+  "PV054": {
+    "name": "brand-ink-open",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: brand ink open",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/brand-ink-open.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV055": {
+    "name": "crane-rise-reveal",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: crane rise reveal",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/crane-rise-reveal.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV056": {
+    "name": "dataviz-landscape-open",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: dataviz landscape open",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/dataviz-landscape-open.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV057": {
+    "name": "fracture",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: fracture",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/fracture.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV058": {
+    "name": "icon-field-colorize",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: icon field colorize",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/icon-field-colorize.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV059": {
+    "name": "letterspace-materialize",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: letterspace materialize",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/letterspace-materialize.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV060": {
+    "name": "magician-card-flourish",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: magician card flourish",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/magician-card-flourish.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV061": {
+    "name": "spotlight-hero-card",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: spotlight hero card",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/spotlight-hero-card.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV062": {
+    "name": "stroke-segment-build",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: stroke segment build",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/stroke-segment-build.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV063": {
+    "name": "text-as-mask",
+    "description": "Bukaan yang memperkenalkan jenama atau mesej: text as mask",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/opening/text-as-mask.md",
+    "assets": "Logo, produk, tajuk",
+    "use": "Pembukaan pelancaran",
+    "category": "opening"
+  },
+  "PV064": {
+    "name": "edit-hook-moves",
+    "description": "Penutup yang mengunci mesej akhir: edit hook moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/outro/edit-hook-moves.md",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup promo",
+    "category": "outro"
+  },
+  "PV065": {
+    "name": "grain-dissolve",
+    "description": "Penutup yang mengunci mesej akhir: grain dissolve",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/outro/grain-dissolve.md",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup promo",
+    "category": "outro"
+  },
+  "PV066": {
+    "name": "logo-shrink-wordmark-lockup",
+    "description": "Penutup yang mengunci mesej akhir: logo shrink wordmark lockup",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/outro/logo-shrink-wordmark-lockup.md",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup promo",
+    "category": "outro"
+  },
+  "PV067": {
+    "name": "neon-triple-marquee",
+    "description": "Penutup yang mengunci mesej akhir: neon triple marquee",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/outro/neon-triple-marquee.md",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup promo",
+    "category": "outro"
+  },
+  "PV068": {
+    "name": "outro-group-photo-launch",
+    "description": "Penutup yang mengunci mesej akhir: outro group photo launch",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/outro/outro-group-photo-launch.md",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup promo",
+    "category": "outro"
+  },
+  "PV069": {
+    "name": "ui-strip-away-outro",
+    "description": "Penutup yang mengunci mesej akhir: ui strip away outro",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/outro/ui-strip-away-outro.md",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup promo",
+    "category": "outro"
+  },
+  "PV070": {
+    "name": "ui-to-brand-morph",
+    "description": "Penutup yang mengunci mesej akhir: ui to brand morph",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/outro/ui-to-brand-morph.md",
+    "assets": "Logo, URL, CTA",
+    "use": "Penutup promo",
+    "category": "outro"
+  },
+  "PV071": {
+    "name": "beat-cut-moves",
+    "description": "Rentak montaj dan perubahan fokus: beat cut moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/beat-cut-moves.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV072": {
+    "name": "beat-step-list-theme-cycle",
+    "description": "Rentak montaj dan perubahan fokus: beat step list theme cycle",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/beat-step-list-theme-cycle.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV073": {
+    "name": "montage-rhythm-moves",
+    "description": "Rentak montaj dan perubahan fokus: montage rhythm moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/montage-rhythm-moves.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV074": {
+    "name": "panel-grid-moves",
+    "description": "Rentak montaj dan perubahan fokus: panel grid moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/panel-grid-moves.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV075": {
+    "name": "quad-split-parallel-scenes",
+    "description": "Rentak montaj dan perubahan fokus: quad split parallel scenes",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/quad-split-parallel-scenes.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV076": {
+    "name": "rhythm-interrupt-moves",
+    "description": "Rentak montaj dan perubahan fokus: rhythm interrupt moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/rhythm-interrupt-moves.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV077": {
+    "name": "sakuga-timing-shift",
+    "description": "Rentak montaj dan perubahan fokus: sakuga timing shift",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/sakuga-timing-shift.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV078": {
+    "name": "smear-multiples",
+    "description": "Rentak montaj dan perubahan fokus: smear multiples",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/smear-multiples.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV079": {
+    "name": "spectrum-morph-ui",
+    "description": "Rentak montaj dan perubahan fokus: spectrum morph ui",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/spectrum-morph-ui.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV080": {
+    "name": "speed-ramp-freeze",
+    "description": "Rentak montaj dan perubahan fokus: speed ramp freeze",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/speed-ramp-freeze.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV081": {
+    "name": "trailer-grammar-moves",
+    "description": "Rentak montaj dan perubahan fokus: trailer grammar moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/rhythm/trailer-grammar-moves.md",
+    "assets": "Beberapa klip/gambar, muzik",
+    "use": "Teaser/promo",
+    "category": "rhythm"
+  },
+  "PV082": {
+    "name": "bottom-push-stack-wipe",
+    "description": "Peralihan antara dua shot: bottom push stack wipe",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/bottom-push-stack-wipe.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV083": {
+    "name": "bubble-swarm-takeover",
+    "description": "Peralihan antara dua shot: bubble swarm takeover",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/bubble-swarm-takeover.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV084": {
+    "name": "card-flip-reveal",
+    "description": "Peralihan antara dua shot: card flip reveal",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/card-flip-reveal.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV085": {
+    "name": "card-flock-tumble",
+    "description": "Peralihan antara dua shot: card flock tumble",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/card-flock-tumble.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV086": {
+    "name": "circle-match-iris",
+    "description": "Peralihan antara dua shot: circle match iris",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/circle-match-iris.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV087": {
+    "name": "color-block-step-wipe",
+    "description": "Peralihan antara dua shot: color block step wipe",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/color-block-step-wipe.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV088": {
+    "name": "cube-navigation",
+    "description": "Peralihan antara dua shot: cube navigation",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/cube-navigation.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV089": {
+    "name": "gradient-transition",
+    "description": "Peralihan antara dua shot: gradient transition",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/gradient-transition.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV090": {
+    "name": "line-carry-transition",
+    "description": "Peralihan antara dua shot: line carry transition",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/line-carry-transition.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV091": {
+    "name": "mosaic-reframe",
+    "description": "Peralihan antara dua shot: mosaic reframe",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/mosaic-reframe.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV092": {
+    "name": "page-turn-transitions",
+    "description": "Peralihan antara dua shot: page turn transitions",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/page-turn-transitions.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV093": {
+    "name": "paper-plane-messenger",
+    "description": "Peralihan antara dua shot: paper plane messenger",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/paper-plane-messenger.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV094": {
+    "name": "print-texture-transitions",
+    "description": "Peralihan antara dua shot: print texture transitions",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/print-texture-transitions.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV095": {
+    "name": "shot-transitions",
+    "description": "Peralihan antara dua shot: shot transitions",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/shot-transitions.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV096": {
+    "name": "tear-streak-transitions",
+    "description": "Peralihan antara dua shot: tear streak transitions",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/tear-streak-transitions.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV097": {
+    "name": "transition-hidden-cut",
+    "description": "Peralihan antara dua shot: transition hidden cut",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/transition-hidden-cut.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV098": {
+    "name": "transition-travel",
+    "description": "Peralihan antara dua shot: transition travel",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/transition-travel.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV099": {
+    "name": "white-flash-logo-simplify-cut",
+    "description": "Peralihan antara dua shot: white flash logo simplify cut",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/white-flash-logo-simplify-cut.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV100": {
+    "name": "wipe-transitions",
+    "description": "Peralihan antara dua shot: wipe transitions",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/transition/wipe-transitions.md",
+    "assets": "Dua adegan, warna jenama",
+    "use": "Montaj; guna hanya jika diminta",
+    "category": "transition"
+  },
+  "PV101": {
+    "name": "blur-slide",
+    "description": "Gerak kata, huruf atau ayat: blur slide",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/blur-slide.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV102": {
+    "name": "brace-expand",
+    "description": "Gerak kata, huruf atau ayat: brace expand",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/brace-expand.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV103": {
+    "name": "cel-flash-stomp",
+    "description": "Gerak kata, huruf atau ayat: cel flash stomp",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/cel-flash-stomp.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV104": {
+    "name": "countdown-arc-scatter",
+    "description": "Gerak kata, huruf atau ayat: countdown arc scatter",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/countdown-arc-scatter.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV105": {
+    "name": "document-typewriter-reveal",
+    "description": "Gerak kata, huruf atau ayat: document typewriter reveal",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/document-typewriter-reveal.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV106": {
+    "name": "flying-words",
+    "description": "Gerak kata, huruf atau ayat: flying words",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/flying-words.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV107": {
+    "name": "glitch-cycle",
+    "description": "Gerak kata, huruf atau ayat: glitch cycle",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/glitch-cycle.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV108": {
+    "name": "gradient-word-sweep",
+    "description": "Gerak kata, huruf atau ayat: gradient word sweep",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/gradient-word-sweep.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV109": {
+    "name": "marker-underline-title",
+    "description": "Gerak kata, huruf atau ayat: marker underline title",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/marker-underline-title.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV110": {
+    "name": "outline-word-fill",
+    "description": "Gerak kata, huruf atau ayat: outline word fill",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/outline-word-fill.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV111": {
+    "name": "paper-title-card",
+    "description": "Gerak kata, huruf atau ayat: paper title card",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/paper-title-card.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV112": {
+    "name": "pill-chip-slot-cycle-handled",
+    "description": "Gerak kata, huruf atau ayat: pill chip slot cycle handled",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/pill-chip-slot-cycle-handled.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV113": {
+    "name": "pill-slot-cycle",
+    "description": "Gerak kata, huruf atau ayat: pill slot cycle",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/pill-slot-cycle.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV114": {
+    "name": "scramble",
+    "description": "Gerak kata, huruf atau ayat: scramble",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/scramble.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV115": {
+    "name": "split-flap-title",
+    "description": "Gerak kata, huruf atau ayat: split flap title",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/split-flap-title.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV116": {
+    "name": "text-column-converge",
+    "description": "Gerak kata, huruf atau ayat: text column converge",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/text-column-converge.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV117": {
+    "name": "title-demote-to-label",
+    "description": "Gerak kata, huruf atau ayat: title demote to label",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/title-demote-to-label.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV118": {
+    "name": "type-assembly-moves",
+    "description": "Gerak kata, huruf atau ayat: type assembly moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/type-assembly-moves.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV119": {
+    "name": "type-entrance-moves",
+    "description": "Gerak kata, huruf atau ayat: type entrance moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/type-entrance-moves.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV120": {
+    "name": "type-rhythm-sync",
+    "description": "Gerak kata, huruf atau ayat: type rhythm sync",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/type-rhythm-sync.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV121": {
+    "name": "typewriter-moves",
+    "description": "Gerak kata, huruf atau ayat: typewriter moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/typewriter-moves.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV122": {
+    "name": "typing-code-block",
+    "description": "Gerak kata, huruf atau ayat: typing code block",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/typing-code-block.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV123": {
+    "name": "vertical-word-roll-blur-cycle",
+    "description": "Gerak kata, huruf atau ayat: vertical word roll blur cycle",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/vertical-word-roll-blur-cycle.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV124": {
+    "name": "word-relay-filmstrip",
+    "description": "Gerak kata, huruf atau ayat: word relay filmstrip",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/word-relay-filmstrip.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV125": {
+    "name": "word-relay-geometry",
+    "description": "Gerak kata, huruf atau ayat: word relay geometry",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/typography/word-relay-geometry.md",
+    "assets": "Tajuk, skrip, VO",
+    "use": "Hook/kinetic typography",
+    "category": "typography"
+  },
+  "PV126": {
+    "name": "avatar-bracket-carousel",
+    "description": "Kemasukan komponen dan susunan skrin: avatar bracket carousel",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/avatar-bracket-carousel.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV127": {
+    "name": "bezier-source-converge-merge",
+    "description": "Kemasukan komponen dan susunan skrin: bezier source converge merge",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/bezier-source-converge-merge.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV128": {
+    "name": "card-stack",
+    "description": "Kemasukan komponen dan susunan skrin: card stack",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/card-stack.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV129": {
+    "name": "carousel-3d",
+    "description": "Kemasukan komponen dan susunan skrin: carousel 3d",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/carousel-3d.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV130": {
+    "name": "cloner-depth-echo",
+    "description": "Kemasukan komponen dan susunan skrin: cloner depth echo",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/cloner-depth-echo.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV131": {
+    "name": "deck-deal-flyin",
+    "description": "Kemasukan komponen dan susunan skrin: deck deal flyin",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/deck-deal-flyin.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV132": {
+    "name": "doc-park-left-pill-deal",
+    "description": "Kemasukan komponen dan susunan skrin: doc park left pill deal",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/doc-park-left-pill-deal.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV133": {
+    "name": "draw-svg-trace",
+    "description": "Kemasukan komponen dan susunan skrin: draw svg trace",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/draw-svg-trace.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV134": {
+    "name": "element-body-moves",
+    "description": "Kemasukan komponen dan susunan skrin: element body moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/element-body-moves.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV135": {
+    "name": "floating-glossy-label-pills",
+    "description": "Kemasukan komponen dan susunan skrin: floating glossy label pills",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/floating-glossy-label-pills.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV136": {
+    "name": "integration-hub-map",
+    "description": "Kemasukan komponen dan susunan skrin: integration hub map",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/integration-hub-map.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV137": {
+    "name": "list-reveal",
+    "description": "Kemasukan komponen dan susunan skrin: list reveal",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/list-reveal.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV138": {
+    "name": "list-stack-press",
+    "description": "Kemasukan komponen dan susunan skrin: list stack press",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/list-stack-press.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV139": {
+    "name": "morph-from-primitive",
+    "description": "Kemasukan komponen dan susunan skrin: morph from primitive",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/morph-from-primitive.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV140": {
+    "name": "neon-frame-forerun",
+    "description": "Kemasukan komponen dan susunan skrin: neon frame forerun",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/neon-frame-forerun.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV141": {
+    "name": "neon-frame-orbit-drop",
+    "description": "Kemasukan komponen dan susunan skrin: neon frame orbit drop",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/neon-frame-orbit-drop.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV142": {
+    "name": "page-waterfall-wall",
+    "description": "Kemasukan komponen dan susunan skrin: page waterfall wall",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/page-waterfall-wall.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV143": {
+    "name": "paper-craft-moves",
+    "description": "Kemasukan komponen dan susunan skrin: paper craft moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/paper-craft-moves.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV144": {
+    "name": "product-card-progressive-assemble",
+    "description": "Kemasukan komponen dan susunan skrin: product card progressive assemble",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/product-card-progressive-assemble.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV145": {
+    "name": "radial-wave",
+    "description": "Kemasukan komponen dan susunan skrin: radial wave",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/radial-wave.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV146": {
+    "name": "research-card-stack-scroll",
+    "description": "Kemasukan komponen dan susunan skrin: research card stack scroll",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/research-card-stack-scroll.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV147": {
+    "name": "row-embed",
+    "description": "Kemasukan komponen dan susunan skrin: row embed",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/row-embed.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV148": {
+    "name": "runway-ground-skim",
+    "description": "Kemasukan komponen dan susunan skrin: runway ground skim",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/runway-ground-skim.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV149": {
+    "name": "skeleton-reveal",
+    "description": "Kemasukan komponen dan susunan skrin: skeleton reveal",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/skeleton-reveal.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV150": {
+    "name": "svg-shape-morph",
+    "description": "Kemasukan komponen dan susunan skrin: svg shape morph",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/svg-shape-morph.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV151": {
+    "name": "value-stagger-gradient",
+    "description": "Kemasukan komponen dan susunan skrin: value stagger gradient",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/value-stagger-gradient.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "PV152": {
+    "name": "wall-reveal-moves",
+    "description": "Kemasukan komponen dan susunan skrin: wall reveal moves",
+    "source_url": "https://github.com/dlazy-ai/ai-product-video/blob/main/references/shots/ui-entrance/wall-reveal-moves.md",
+    "assets": "UI, kad, ikon, tangkap layar",
+    "use": "Demo aplikasi",
+    "category": "ui-entrance"
+  },
+  "AD01": {
+    "name": "Ad creative variants",
+    "description": "Satu struktur iklan menghasilkan beberapa versi hook dan mesej",
+    "source_url": "https://github.com/iart-ai/ad-video-skills/tree/main/skills/ad-creative-video",
+    "assets": "CSV mesej, brand kit, CTA",
+    "use": "Ujian iklan A/B",
+    "category": "AD"
+  },
+  "AD02": {
+    "name": "Launch film",
+    "description": "Hook, teaser, reveal, ciri dan CTA disusun kepada cerita pelancaran",
+    "source_url": "https://github.com/iart-ai/ad-video-skills/tree/main/skills/launch-video",
+    "assets": "Foto produk, UI, logo, muzik",
+    "use": "Pelancaran produk",
+    "category": "AD"
+  },
+  "AD03": {
+    "name": "Testimonial quote",
+    "description": "Petikan, frasa utama, skor dan identiti pemberi ulasan berurutan",
+    "source_url": "https://github.com/iart-ai/ad-video-skills/tree/main/skills/testimonial-video",
+    "assets": "Ulasan sah, avatar, skor",
+    "use": "Bukti sosial",
+    "category": "AD"
+  }
+}

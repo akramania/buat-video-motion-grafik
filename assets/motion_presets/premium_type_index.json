@@ -1,0 +1,4202 @@
+{
+  "PX001": {
+    "name": "Central Aperture Rails",
+    "description": "Tipografi asal: central horizontal slit widens vertically while upper and lower rails follow its edges.",
+    "genre": "corporate",
+    "text": "OPEN YOUR STORY",
+    "subtitle": "A clear message, beautifully framed",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "central horizontal slit widens vertically while upper and lower rails follow its edges",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "penerangan pendidikan",
+      "pembuka korporat"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_00_0",
+    "implementation": "premium_type.py / mask",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX002": {
+    "name": "Staggered Strip Reveal",
+    "description": "Tipografi asal: six horizontal text strips reveal independently with staggered left-to-right crop masks.",
+    "genre": "corporate",
+    "text": "MAKE IT CLEAR",
+    "subtitle": "Reveal a thought one layer at a time",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "six horizontal text strips reveal independently with staggered left-to-right crop masks",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "penerangan pendidikan",
+      "pembuka korporat"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_00_1",
+    "implementation": "premium_type.py / mask",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX003": {
+    "name": "Checker Letter Matrix",
+    "description": "Tipografi asal: 36-pixel checker cells grow in three interleaved timing groups to reconstruct the text.",
+    "genre": "corporate",
+    "text": "IDEAS IN MOTION",
+    "subtitle": "Every detail finds its place",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "36-pixel checker cells grow in three interleaved timing groups to reconstruct the text",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "penerangan pendidikan",
+      "pembuka korporat"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_00_2",
+    "implementation": "premium_type.py / mask",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX004": {
+    "name": "Vertical Curtain Type",
+    "description": "Tipografi asal: eight vertical text slices rise independently from bottom crop masks.",
+    "genre": "corporate",
+    "text": "A NEW PERSPECTIVE",
+    "subtitle": "Let your next chapter unfold",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "eight vertical text slices rise independently from bottom crop masks",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "penerangan pendidikan",
+      "pembuka korporat"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_00_3",
+    "implementation": "premium_type.py / mask",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX005": {
+    "name": "Twin Half Assembly",
+    "description": "Tipografi asal: upper and lower glyph halves translate from opposing horizontal offsets.",
+    "genre": "creator",
+    "text": "BUILD THE MOMENT",
+    "subtitle": "Bring both sides of the story together",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "upper and lower glyph halves translate from opposing horizontal offsets",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "caption video pendek",
+      "promosi produk",
+      "judul kreatif"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_01_0",
+    "implementation": "premium_type.py / split",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX006": {
+    "name": "Four Corner Glyph Build",
+    "description": "Tipografi asal: four quadrants converge from diagonal offsets to reconstruct one headline.",
+    "genre": "creator",
+    "text": "THINK IN POSSIBILITIES",
+    "subtitle": "A single thought from four starting points",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "four quadrants converge from diagonal offsets to reconstruct one headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "caption video pendek",
+      "promosi produk",
+      "judul kreatif"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_01_1",
+    "implementation": "premium_type.py / split",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX007": {
+    "name": "Alternating Band Weave",
+    "description": "Tipografi asal: five horizontal glyph bands converge from alternating left and right positions.",
+    "genre": "creator",
+    "text": "TURN IDEAS INTO ACTION",
+    "subtitle": "Clarity arrives in measured steps",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "five horizontal glyph bands converge from alternating left and right positions",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "caption video pendek",
+      "promosi produk",
+      "judul kreatif"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_01_2",
+    "implementation": "premium_type.py / split",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX008": {
+    "name": "Diagonal Wedge Join",
+    "description": "Tipografi asal: two triangular text masks converge diagonally into a complete title.",
+    "genre": "creator",
+    "text": "MAKE A CONNECTION",
+    "subtitle": "Two perspectives become one",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "two triangular text masks converge diagonally into a complete title",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "caption video pendek",
+      "promosi produk",
+      "judul kreatif"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_01_3",
+    "implementation": "premium_type.py / split",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX009": {
+    "name": "Baseline Letter Wave",
+    "description": "Tipografi asal: staggered individual letters descend along diminishing sine offsets above an animated baseline.",
+    "genre": "creator",
+    "text": "SMALL STEPS MATTER",
+    "subtitle": "Each letter settles into a shared rhythm",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "staggered individual letters descend along diminishing sine offsets above an animated baseline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "caption",
+      "reveal mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_02_0",
+    "implementation": "premium_type.py / letter",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX010": {
+    "name": "Orbit To Baseline",
+    "description": "Tipografi asal: individual letters travel from a radial orbit to their measured baseline positions.",
+    "genre": "creator",
+    "text": "FIND YOUR FOCUS",
+    "subtitle": "The right words come together",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "individual letters travel from a radial orbit to their measured baseline positions",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "caption",
+      "reveal mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_02_1",
+    "implementation": "premium_type.py / letter",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX011": {
+    "name": "Tumble Letter Settle",
+    "description": "Tipografi asal: letters tumble from above with alternating rotation and spring-like scale before settling.",
+    "genre": "creator",
+    "text": "READY FOR CHANGE",
+    "subtitle": "A little energy, a lasting message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "letters tumble from above with alternating rotation and spring-like scale before settling",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "caption",
+      "reveal mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_02_2",
+    "implementation": "premium_type.py / letter",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX012": {
+    "name": "Hinged Letter Arrival",
+    "description": "Tipografi asal: each glyph unfolds from narrow cosine-scaled widths with alternating hinge angles.",
+    "genre": "creator",
+    "text": "OPEN TO IDEAS",
+    "subtitle": "A measured reveal with a human rhythm",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "each glyph unfolds from narrow cosine-scaled widths with alternating hinge angles",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "judul video",
+      "caption",
+      "reveal mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_02_3",
+    "implementation": "premium_type.py / letter",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX013": {
+    "name": "Outline Fill Scanner",
+    "description": "Tipografi asal: filled text is revealed horizontally over an outlined title, led by a vertical scanner.",
+    "genre": "creator",
+    "text": "MAKE YOUR MARK",
+    "subtitle": "From outline to a complete thought",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "filled text is revealed horizontally over an outlined title, led by a vertical scanner",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kinetic typography",
+      "judul promosi",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_03_0",
+    "implementation": "premium_type.py / outline",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX014": {
+    "name": "Echo Outline Compression",
+    "description": "Tipografi asal: five offset outline echoes compress into one filled foreground title.",
+    "genre": "creator",
+    "text": "ONE STRONG IDEA",
+    "subtitle": "Shape the message, then bring it home",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "five offset outline echoes compress into one filled foreground title",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kinetic typography",
+      "judul promosi",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_03_1",
+    "implementation": "premium_type.py / outline",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX015": {
+    "name": "Outline Stack Spotlight",
+    "description": "Tipografi asal: three outlined headline rows remain stacked while the middle row fills vertically.",
+    "genre": "creator",
+    "text": "FOCUS ON WHAT MATTERS",
+    "subtitle": "One message rises above the noise",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "three outlined headline rows remain stacked while the middle row fills vertically",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kinetic typography",
+      "judul promosi",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_03_2",
+    "implementation": "premium_type.py / outline",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX016": {
+    "name": "Column Fill Cascade",
+    "description": "Tipografi asal: eight glyph columns descend into the outline layer in a staggered fill cascade.",
+    "genre": "creator",
+    "text": "CREATE WITH PURPOSE",
+    "subtitle": "A story built one section at a time",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "eight glyph columns descend into the outline layer in a staggered fill cascade",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kinetic typography",
+      "judul promosi",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_03_3",
+    "implementation": "premium_type.py / outline",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX017": {
+    "name": "Measured Typewriter Cursor",
+    "description": "Tipografi asal: monospaced characters type sequentially with a cursor tracking exact glyph advances.",
+    "genre": "education",
+    "text": "LET THE STORY BEGIN",
+    "subtitle": "A confident pace for a considered message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "monospaced characters type sequentially with a cursor tracking exact glyph advances",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial",
+      "pengumuman",
+      "penceritaan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_04_0",
+    "implementation": "premium_type.py / writer",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX018": {
+    "name": "Receipt Printer Title",
+    "description": "Tipografi asal: typewriter text appears inside a receipt panel with perforation marks and a print label.",
+    "genre": "education",
+    "text": "YOUR NEXT CHAPTER",
+    "subtitle": "A printed note with a contemporary finish",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "typewriter text appears inside a receipt panel with perforation marks and a print label",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial",
+      "pengumuman",
+      "penceritaan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_04_1",
+    "implementation": "premium_type.py / writer",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX019": {
+    "name": "Terminal Glyph Resolution",
+    "description": "Tipografi asal: deterministic scrambled monospaced glyphs resolve left to right inside a terminal panel.",
+    "genre": "education",
+    "text": "MAKE THE SIGNAL CLEAR",
+    "subtitle": "Turn a noisy thought into a clear message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "deterministic scrambled monospaced glyphs resolve left to right inside a terminal panel",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial",
+      "pengumuman",
+      "penceritaan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_04_2",
+    "implementation": "premium_type.py / writer",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX020": {
+    "name": "Editorial Rewrite Pass",
+    "description": "Tipografi asal: a strike-through crosses the supporting phrase before a replacement editorial line appears.",
+    "genre": "education",
+    "text": "CHANGE THE NARRATIVE",
+    "subtitle": "An old assumption",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-2-0-mogrt-3J4F4XF",
+    "observation_basis": "listing-description",
+    "mechanism": "a strike-through crosses the supporting phrase before a replacement editorial line appears",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial",
+      "pengumuman",
+      "penceritaan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_04_3",
+    "implementation": "premium_type.py / writer",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX021": {
+    "name": "Accordion Word Cards",
+    "description": "Tipografi asal: three word panels grow from compact widths into an evenly spaced accordion row.",
+    "genre": "corporate",
+    "text": "BUILD YOUR STORY",
+    "subtitle": "Each idea has space to breathe",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "three word panels grow from compact widths into an evenly spaced accordion row",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "headline produk",
+      "kempen"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_05_0",
+    "implementation": "premium_type.py / cards",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX022": {
+    "name": "Fanned Type Cards",
+    "description": "Tipografi asal: word cards fan outward from one center with progressive angle and vertical offsets.",
+    "genre": "corporate",
+    "text": "A FRESH PERSPECTIVE",
+    "subtitle": "A gentle fan of words and possibilities",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "word cards fan outward from one center with progressive angle and vertical offsets",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "headline produk",
+      "kempen"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_05_1",
+    "implementation": "premium_type.py / cards",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX023": {
+    "name": "Stacked Pullout Headlines",
+    "description": "Tipografi asal: wide word strips pull out from alternating offsets into a stacked headline system.",
+    "genre": "corporate",
+    "text": "CLARITY CREATES CONFIDENCE",
+    "subtitle": "Three lines, one clear direction",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "wide word strips pull out from alternating offsets into a stacked headline system",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "headline produk",
+      "kempen"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_05_2",
+    "implementation": "premium_type.py / cards",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX024": {
+    "name": "Flip Tile Word Wall",
+    "description": "Tipografi asal: individual word tiles unfold vertically using a cosine-height flip projection.",
+    "genre": "corporate",
+    "text": "TURN THE PAGE",
+    "subtitle": "Your story is ready for its next chapter",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "individual word tiles unfold vertically using a cosine-height flip projection",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "headline produk",
+      "kempen"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_05_3",
+    "implementation": "premium_type.py / cards",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX025": {
+    "name": "Tracking Contract Title",
+    "description": "Tipografi asal: individual glyph tracking contracts from wide spacing into measured headline kerning.",
+    "genre": "creator",
+    "text": "MAKE ROOM FOR IDEAS",
+    "subtitle": "A spacious entrance, a precise finish",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "individual glyph tracking contracts from wide spacing into measured headline kerning",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "hook",
+      "promo",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_06_0",
+    "implementation": "premium_type.py / scale",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX026": {
+    "name": "Condensed Stretch Resolve",
+    "description": "Tipografi asal: headline width expands from condensed type while its exaggerated height reduces.",
+    "genre": "creator",
+    "text": "GROW INTO YOUR MESSAGE",
+    "subtitle": "A confident title that finds its proportion",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "headline width expands from condensed type while its exaggerated height reduces",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "hook",
+      "promo",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_06_1",
+    "implementation": "premium_type.py / scale",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX027": {
+    "name": "Lens Magnification Settle",
+    "description": "Tipografi asal: oversized headline scales down into a growing circular lens boundary.",
+    "genre": "creator",
+    "text": "LOOK A LITTLE CLOSER",
+    "subtitle": "A single message at the center of attention",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "oversized headline scales down into a growing circular lens boundary",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "hook",
+      "promo",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_06_2",
+    "implementation": "premium_type.py / scale",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX028": {
+    "name": "Elastic Scale Lock",
+    "description": "Tipografi asal: headline performs a damped cosine scale oscillation with an expanding impact ring.",
+    "genre": "creator",
+    "text": "THE MOMENT IS HERE",
+    "subtitle": "Energy on arrival, clarity on the hold",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "headline performs a damped cosine scale oscillation with an expanding impact ring",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "hook",
+      "promo",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_06_3",
+    "implementation": "premium_type.py / scale",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX029": {
+    "name": "Displaced Glyph Slices",
+    "description": "Tipografi asal: nine glyph slices jitter independently and decay to aligned text.",
+    "genre": "saas",
+    "text": "BREAK THROUGH THE NOISE",
+    "subtitle": "Your message finds its signal",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "nine glyph slices jitter independently and decay to aligned text",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "gaming",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_07_0",
+    "implementation": "premium_type.py / glitch",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX030": {
+    "name": "Chromatic Echo Converge",
+    "description": "Tipografi asal: three colored glyph layers converge from independent horizontal and vertical offsets.",
+    "genre": "saas",
+    "text": "MAKE IT VISIBLE",
+    "subtitle": "A vivid entrance for a clear message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "three colored glyph layers converge from independent horizontal and vertical offsets",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "gaming",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_07_1",
+    "implementation": "premium_type.py / glitch",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX031": {
+    "name": "Scanline Type Reconstruction",
+    "description": "Tipografi asal: horizontal scanline masks widen vertically until the headline becomes continuous.",
+    "genre": "saas",
+    "text": "A CLEARER SIGNAL",
+    "subtitle": "Clarity emerges line by line",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "horizontal scanline masks widen vertically until the headline becomes continuous",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "gaming",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_07_2",
+    "implementation": "premium_type.py / glitch",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX032": {
+    "name": "Pixel To Precision",
+    "description": "Tipografi asal: coarse nearest-neighbor text blocks resolve into full-resolution glyphs.",
+    "genre": "saas",
+    "text": "FROM IDEA TO IMPACT",
+    "subtitle": "A modern reveal with a polished finish",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-typography-titles-mogrt-PK2EQEF",
+    "observation_basis": "listing-description",
+    "mechanism": "coarse nearest-neighbor text blocks resolve into full-resolution glyphs",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "gaming",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_07_3",
+    "implementation": "premium_type.py / glitch",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX033": {
+    "name": "Line Led Identity",
+    "description": "Tipografi asal: a vertical accent line grows before left-aligned identity and role text slide into place.",
+    "genre": "corporate",
+    "text": "DR AKRAM SALIHIN",
+    "subtitle": "Medical education and meaningful stories",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "a vertical accent line grows before left-aligned identity and role text slide into place",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "temu bual",
+      "CME",
+      "profil penceramah"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_08_0",
+    "implementation": "premium_type.py / lower",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX034": {
+    "name": "Capsule Avatar Identity",
+    "description": "Tipografi asal: a capsule nameplate expands behind a circular initials avatar and two identity lines.",
+    "genre": "corporate",
+    "text": "NUR AISYAH",
+    "subtitle": "Educator and content creator",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "a capsule nameplate expands behind a circular initials avatar and two identity lines",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "temu bual",
+      "CME",
+      "profil penceramah"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_08_1",
+    "implementation": "premium_type.py / lower",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX035": {
+    "name": "Twin Rail Nameplate",
+    "description": "Tipografi asal: opposing horizontal rails extend around a centered two-line speaker identity.",
+    "genre": "corporate",
+    "text": "THE CREATIVE TEAM",
+    "subtitle": "Ideas made clear together",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "opposing horizontal rails extend around a centered two-line speaker identity",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "temu bual",
+      "CME",
+      "profil penceramah"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_08_2",
+    "implementation": "premium_type.py / lower",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX036": {
+    "name": "Bracket Locator Identity",
+    "description": "Tipografi asal: four bracket corners frame an identity while a leader line connects to a locator dot.",
+    "genre": "corporate",
+    "text": "A NEW VOICE",
+    "subtitle": "Stories worth listening to",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "four bracket corners frame an identity while a leader line connects to a locator dot",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "temu bual",
+      "CME",
+      "profil penceramah"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_08_3",
+    "implementation": "premium_type.py / lower",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX037": {
+    "name": "Oversized Editorial Initial",
+    "description": "Tipografi asal: an oversized serif initial anchors the headline remainder and a quiet divider.",
+    "genre": "documentary",
+    "text": "MOMENTS THAT MATTER",
+    "subtitle": "An editorial opening with lasting presence",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "an oversized serif initial anchors the headline remainder and a quiet divider",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "dokumentari",
+      "pembuka editorial",
+      "chapter"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_09_0",
+    "implementation": "premium_type.py / editorial",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX038": {
+    "name": "Magazine Double Column",
+    "description": "Tipografi asal: a vertical rule separates two serif headline columns with independent number labels.",
+    "genre": "documentary",
+    "text": "THINK DIFFERENTLY",
+    "subtitle": "Two columns, one strong perspective",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a vertical rule separates two serif headline columns with independent number labels",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "dokumentari",
+      "pembuka editorial",
+      "chapter"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_09_1",
+    "implementation": "premium_type.py / editorial",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX039": {
+    "name": "Corner Masthead Title",
+    "description": "Tipografi asal: left-aligned serif headline is anchored by an extending editorial rule and corner masthead.",
+    "genre": "documentary",
+    "text": "A STORY WORTH TELLING",
+    "subtitle": "Let the next chapter begin",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "left-aligned serif headline is anchored by an extending editorial rule and corner masthead",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "dokumentari",
+      "pembuka editorial",
+      "chapter"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_09_2",
+    "implementation": "premium_type.py / editorial",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX040": {
+    "name": "Chapter Index Lockup",
+    "description": "Tipografi asal: an oversized chapter number and vertical divider anchor a left-aligned title and summary.",
+    "genre": "documentary",
+    "text": "THE NEXT CHAPTER",
+    "subtitle": "Ideas, evidence and a clearer direction",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "an oversized chapter number and vertical divider anchor a left-aligned title and summary",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "dokumentari",
+      "pembuka editorial",
+      "chapter"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_09_3",
+    "implementation": "premium_type.py / editorial",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX041": {
+    "name": "Sequential Highlight Caption",
+    "description": "Tipografi asal: one rounded highlight tracks sequentially across a measured word baseline.",
+    "genre": "creator",
+    "text": "MAKE EVERY WORD COUNT",
+    "subtitle": "A clear caption with a moving emphasis",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "one rounded highlight tracks sequentially across a measured word baseline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "sari kata",
+      "explainer",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_10_0",
+    "implementation": "premium_type.py / caption",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX042": {
+    "name": "Elastic Karaoke Caption",
+    "description": "Tipografi asal: word colors progress with a small timed elastic scale accent at each active word.",
+    "genre": "creator",
+    "text": "TAKE ONE SMALL STEP",
+    "subtitle": "Words follow a confident speaking rhythm",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "word colors progress with a small timed elastic scale accent at each active word",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "sari kata",
+      "explainer",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_10_1",
+    "implementation": "premium_type.py / caption",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX043": {
+    "name": "Word Underline Pass",
+    "description": "Tipografi asal: separate underline segments draw sequentially under each caption word.",
+    "genre": "creator",
+    "text": "START WITH WHAT MATTERS",
+    "subtitle": "Emphasize the idea as the story unfolds",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "separate underline segments draw sequentially under each caption word",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "sari kata",
+      "explainer",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_10_2",
+    "implementation": "premium_type.py / caption",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX044": {
+    "name": "Progressive Caption Chips",
+    "description": "Tipografi asal: rounded word chips rise into place and change fill as the speaking emphasis advances.",
+    "genre": "creator",
+    "text": "KEEP MOVING FORWARD",
+    "subtitle": "One phrase, several clear moments",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "rounded word chips rise into place and change fill as the speaking emphasis advances",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "sari kata",
+      "explainer",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_10_3",
+    "implementation": "premium_type.py / caption",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX045": {
+    "name": "Serif Quote Marks",
+    "description": "Tipografi asal: oversized opening and closing quotation marks bookend a delayed serif sentence.",
+    "genre": "documentary",
+    "text": "COURAGE BEGINS WITH YOU",
+    "subtitle": "A moment to pause and reflect",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "oversized opening and closing quotation marks bookend a delayed serif sentence",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kata hikmah",
+      "testimoni sah",
+      "dokumentari"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_11_0",
+    "implementation": "premium_type.py / quote",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX046": {
+    "name": "Quote Bar Line Flow",
+    "description": "Tipografi asal: a vertical quote bar grows before two left-aligned serif lines appear independently.",
+    "genre": "documentary",
+    "text": "HOPE GROWS WITH ACTION",
+    "subtitle": "Let the important words breathe",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a vertical quote bar grows before two left-aligned serif lines appear independently",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kata hikmah",
+      "testimoni sah",
+      "dokumentari"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_11_1",
+    "implementation": "premium_type.py / quote",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX047": {
+    "name": "Block Quote Highlight",
+    "description": "Tipografi asal: two stacked quotation strips expand horizontally with contrasting text hierarchy.",
+    "genre": "documentary",
+    "text": "YOUR STORY HAS VALUE",
+    "subtitle": "Words deserve a clear place on screen",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "two stacked quotation strips expand horizontally with contrasting text hierarchy",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kata hikmah",
+      "testimoni sah",
+      "dokumentari"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_11_2",
+    "implementation": "premium_type.py / quote",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX048": {
+    "name": "Serif Divider Quote",
+    "description": "Tipografi asal: a centered serif quote sits between opposing fine rules and an ornamental divider dot.",
+    "genre": "documentary",
+    "text": "CHOOSE A BETTER TOMORROW",
+    "subtitle": "A quiet frame for a meaningful thought",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a centered serif quote sits between opposing fine rules and an ornamental divider dot",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "kata hikmah",
+      "testimoni sah",
+      "dokumentari"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_11_3",
+    "implementation": "premium_type.py / quote",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX049": {
+    "name": "Circular Imprint Title",
+    "description": "Tipografi asal: double circular stamp rings receive a spring-scaled title and small imprint label.",
+    "genre": "education",
+    "text": "ORIGINAL THINKING",
+    "subtitle": "A stamp of confidence for your message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "double circular stamp rings receive a spring-scaled title and small imprint label",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "judul kempen",
+      "mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_12_0",
+    "implementation": "premium_type.py / stamp",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX050": {
+    "name": "Label Printer Sweep",
+    "description": "Tipografi asal: horizontal text crop is led by a printer carriage line inside a rectangular label.",
+    "genre": "education",
+    "text": "READY TO BEGIN",
+    "subtitle": "A clean label with a purposeful entrance",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "horizontal text crop is led by a printer carriage line inside a rectangular label",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "judul kempen",
+      "mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_12_1",
+    "implementation": "premium_type.py / stamp",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX051": {
+    "name": "Perforated Postage Card",
+    "description": "Tipografi asal: a perforated rectangular card rotates gently into place with serif headline and note.",
+    "genre": "education",
+    "text": "SEND A LITTLE HOPE",
+    "subtitle": "A small message, beautifully delivered",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "a perforated rectangular card rotates gently into place with serif headline and note",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "judul kempen",
+      "mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_12_2",
+    "implementation": "premium_type.py / stamp",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX052": {
+    "name": "Seal Typography Medallion",
+    "description": "Tipografi asal: a scalloped circular seal frames a high-contrast serif title and separate supporting line.",
+    "genre": "education",
+    "text": "MADE WITH PURPOSE",
+    "subtitle": "A considered message with a crafted finish",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "a scalloped circular seal frames a high-contrast serif title and separate supporting line",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "judul kempen",
+      "mesej"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_12_3",
+    "implementation": "premium_type.py / stamp",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX053": {
+    "name": "Neon Tube Fill",
+    "description": "Tipografi asal: a glowing outlined headline wipes on before its filled glyph layer arrives.",
+    "genre": "saas",
+    "text": "TURN ON THE IDEA",
+    "subtitle": "A luminous outline becomes a strong message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-hook-titles-B8T9WR2",
+    "observation_basis": "listing-description",
+    "mechanism": "a glowing outlined headline wipes on before its filled glyph layer arrives",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "hook",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_13_0",
+    "implementation": "premium_type.py / neon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX054": {
+    "name": "Halo Runner Headline",
+    "description": "Tipografi asal: a luminous dot travels beneath a sharp title and leaves an extending underline.",
+    "genre": "saas",
+    "text": "FOLLOW THE MOMENT",
+    "subtitle": "A small light guides the message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-hook-titles-B8T9WR2",
+    "observation_basis": "listing-description",
+    "mechanism": "a luminous dot travels beneath a sharp title and leaves an extending underline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "hook",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_13_1",
+    "implementation": "premium_type.py / neon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX055": {
+    "name": "Afterimage Type Trail",
+    "description": "Tipografi asal: six low-opacity title echoes compress from a diagonal trail into a crisp foreground.",
+    "genre": "saas",
+    "text": "STAY IN MOTION",
+    "subtitle": "A modern entrance that settles cleanly",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-hook-titles-B8T9WR2",
+    "observation_basis": "listing-description",
+    "mechanism": "six low-opacity title echoes compress from a diagonal trail into a crisp foreground",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "hook",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_13_2",
+    "implementation": "premium_type.py / neon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX056": {
+    "name": "Edge Spark Typography",
+    "description": "Tipografi asal: short radial spark segments travel outward from the title perimeter and fade.",
+    "genre": "saas",
+    "text": "LIGHT UP YOUR MESSAGE",
+    "subtitle": "A vivid arrival for your next idea",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-hook-titles-B8T9WR2",
+    "observation_basis": "listing-description",
+    "mechanism": "short radial spark segments travel outward from the title perimeter and fade",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tech promo",
+      "hook",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_13_3",
+    "implementation": "premium_type.py / neon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX057": {
+    "name": "Radial Spike Hook",
+    "description": "Tipografi asal: twenty-four radial strokes spread around a spring-scaled hook headline.",
+    "genre": "promo",
+    "text": "LOOK AT THIS IDEA",
+    "subtitle": "A strong first frame with a clear message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/social-hook-titles-for-premiere-pro-RGLNV6M",
+    "observation_basis": "listing-description",
+    "mechanism": "twenty-four radial strokes spread around a spring-scaled hook headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "video pendek",
+      "hook kempen",
+      "promosi"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_14_0",
+    "implementation": "premium_type.py / burst",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX058": {
+    "name": "Concentric Comic Hook",
+    "description": "Tipografi asal: three comic-style elliptical rings surround a bold capsule-backed hook.",
+    "genre": "promo",
+    "text": "THIS COULD CHANGE THINGS",
+    "subtitle": "One idea worth a closer look",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/social-hook-titles-for-premiere-pro-RGLNV6M",
+    "observation_basis": "listing-description",
+    "mechanism": "three comic-style elliptical rings surround a bold capsule-backed hook",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "video pendek",
+      "hook kempen",
+      "promosi"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_14_1",
+    "implementation": "premium_type.py / burst",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX059": {
+    "name": "Angular Flare Hook",
+    "description": "Tipografi asal: ten triangular graphic flares extend radially behind a high-contrast title.",
+    "genre": "promo",
+    "text": "MAKE YOUR NEXT MOVE",
+    "subtitle": "A bold signal for a fast-moving audience",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/social-hook-titles-for-premiere-pro-RGLNV6M",
+    "observation_basis": "listing-description",
+    "mechanism": "ten triangular graphic flares extend radially behind a high-contrast title",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "video pendek",
+      "hook kempen",
+      "promosi"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_14_2",
+    "implementation": "premium_type.py / burst",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX060": {
+    "name": "Sticker Impact Hook",
+    "description": "Tipografi asal: a rounded title sticker springs into place while its slight initial rotation levels.",
+    "genre": "promo",
+    "text": "START RIGHT HERE",
+    "subtitle": "A clear prompt with a confident arrival",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/social-hook-titles-for-premiere-pro-RGLNV6M",
+    "observation_basis": "listing-description",
+    "mechanism": "a rounded title sticker springs into place while its slight initial rotation levels",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "video pendek",
+      "hook kempen",
+      "promosi"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_14_3",
+    "implementation": "premium_type.py / burst",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX061": {
+    "name": "Traced Rectangle Title",
+    "description": "Tipografi asal: a four-sided rectangular outline draws continuously around a delayed headline.",
+    "genre": "corporate",
+    "text": "FRAME YOUR NEXT IDEA",
+    "subtitle": "A precise reveal for a clear thought",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "a four-sided rectangular outline draws continuously around a delayed headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan korporat",
+      "CME",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_15_0",
+    "implementation": "premium_type.py / frame",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX062": {
+    "name": "Crossed Rule Headline",
+    "description": "Tipografi asal: opposing top and bottom rules and vertical end rails extend around a title.",
+    "genre": "corporate",
+    "text": "A NEW WAY FORWARD",
+    "subtitle": "Clean lines, clear direction",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "opposing top and bottom rules and vertical end rails extend around a title",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan korporat",
+      "CME",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_15_1",
+    "implementation": "premium_type.py / frame",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX063": {
+    "name": "Corner Bracket Headline",
+    "description": "Tipografi asal: four separated corner brackets grow around a centered headline.",
+    "genre": "corporate",
+    "text": "FOCUS THE MESSAGE",
+    "subtitle": "A clean frame for the next key idea",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "four separated corner brackets grow around a centered headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan korporat",
+      "CME",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_15_2",
+    "implementation": "premium_type.py / frame",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX064": {
+    "name": "Technical Bounding Type",
+    "description": "Tipografi asal: construction guides and four bounding handles frame the headline while a dimension rule draws.",
+    "genre": "corporate",
+    "text": "IDEAS WITH STRUCTURE",
+    "subtitle": "A measured title with deliberate geometry",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-EW3U4ZW",
+    "observation_basis": "listing-description",
+    "mechanism": "construction guides and four bounding handles frame the headline while a dimension rule draws",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan korporat",
+      "CME",
+      "judul"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_15_3",
+    "implementation": "premium_type.py / frame",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX065": {
+    "name": "Diagonal Ribbon Statement",
+    "description": "Tipografi asal: an accent ribbon scales and rotates into a diagonal editorial headline.",
+    "genre": "promo",
+    "text": "A FRESH START",
+    "subtitle": "Bring your next idea into view",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "an accent ribbon scales and rotates into a diagonal editorial headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "promosi",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_16_0",
+    "implementation": "premium_type.py / ribbon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX066": {
+    "name": "Folded Banner Headline",
+    "description": "Tipografi asal: a central banner is supported by folded side tails and small geometric fold shadows.",
+    "genre": "promo",
+    "text": "LET YOUR IDEA SHINE",
+    "subtitle": "A crafted banner for a confident message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a central banner is supported by folded side tails and small geometric fold shadows",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "promosi",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_16_1",
+    "implementation": "premium_type.py / ribbon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX067": {
+    "name": "Broadcast Ticker Title",
+    "description": "Tipografi asal: a wide ticker band receives sliding text above segmented accent ticks and an on-air label.",
+    "genre": "promo",
+    "text": "THE STORY CONTINUES",
+    "subtitle": "A clean headline with broadcast energy",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a wide ticker band receives sliding text above segmented accent ticks and an on-air label",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "promosi",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_16_2",
+    "implementation": "premium_type.py / ribbon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX068": {
+    "name": "Segmented Ribbon Phrase",
+    "description": "Tipografi asal: three independent ribbon segments arrive with a contrasting center emphasis.",
+    "genre": "promo",
+    "text": "CREATE SHARE INSPIRE",
+    "subtitle": "Every word has a place in the story",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "three independent ribbon segments arrive with a contrasting center emphasis",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pengumuman",
+      "promosi",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_16_3",
+    "implementation": "premium_type.py / ribbon",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX069": {
+    "name": "Stacked Type Reel",
+    "description": "Tipografi asal: stacked word rows unfold from compressed reel-like heights inside side rails.",
+    "genre": "creator",
+    "text": "SEE WHAT COMES NEXT",
+    "subtitle": "Three lines arriving with a measured rhythm",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "stacked word rows unfold from compressed reel-like heights inside side rails",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pembuka kreatif",
+      "kinetic typography",
+      "caption"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_17_0",
+    "implementation": "premium_type.py / rotate",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX070": {
+    "name": "Quarter Turn Word Rows",
+    "description": "Tipografi asal: three headline rows rotate from quarter-turn angles into a centered typographic stack.",
+    "genre": "creator",
+    "text": "TURN IDEAS INTO STORIES",
+    "subtitle": "A fresh angle, then a clear baseline",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "three headline rows rotate from quarter-turn angles into a centered typographic stack",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pembuka kreatif",
+      "kinetic typography",
+      "caption"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_17_1",
+    "implementation": "premium_type.py / rotate",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX071": {
+    "name": "Circular Glyph Ring Lockup",
+    "description": "Tipografi asal: individual glyphs form a tangential circular title ring around a central initials lockup and moving perimeter arc.",
+    "genre": "creator",
+    "text": "THE WORDS COME TOGETHER",
+    "subtitle": "A gentle orbit around a single thought",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "individual glyphs form a tangential circular title ring around a central initials lockup and moving perimeter arc",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pembuka kreatif",
+      "kinetic typography",
+      "caption"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_17_2",
+    "implementation": "premium_type.py / rotate",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX072": {
+    "name": "Pendulum Title Card",
+    "description": "Tipografi asal: a panel swings with a damped pendulum rotation beneath a visible hinge stem.",
+    "genre": "creator",
+    "text": "FIND YOUR BALANCE",
+    "subtitle": "Energy that settles into a lasting message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/typography-titles-2-0-fcpx-apple-motion-HNPH9TN",
+    "observation_basis": "listing-description",
+    "mechanism": "a panel swings with a damped pendulum rotation beneath a visible hinge stem",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "pembuka kreatif",
+      "kinetic typography",
+      "caption"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_17_3",
+    "implementation": "premium_type.py / rotate",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX073": {
+    "name": "Torn Paper Word Reveal",
+    "description": "Tipografi asal: a headline wipes across a paper panel with a deterministic torn lower edge.",
+    "genre": "documentary",
+    "text": "MAKE SOMETHING MEANINGFUL",
+    "subtitle": "A tactile paper moment for your story",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a headline wipes across a paper panel with a deterministic torn lower edge",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penceritaan",
+      "pendidikan",
+      "video kraf"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_18_0",
+    "implementation": "premium_type.py / paper",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX074": {
+    "name": "Tape Held Story Card",
+    "description": "Tipografi asal: two angled translucent tape strips hold a headline card while text appears on the paper.",
+    "genre": "documentary",
+    "text": "A NOTE WORTH KEEPING",
+    "subtitle": "A thoughtful card held by two tape strips",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "two angled translucent tape strips hold a headline card while text appears on the paper",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penceritaan",
+      "pendidikan",
+      "video kraf"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_18_1",
+    "implementation": "premium_type.py / paper",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX075": {
+    "name": "Corner Peel Typography",
+    "description": "Tipografi asal: a folded paper corner retracts as a left-to-right glyph crop reveals the headline.",
+    "genre": "documentary",
+    "text": "UNFOLD YOUR IDEA",
+    "subtitle": "A simple thought with a crafted reveal",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a folded paper corner retracts as a left-to-right glyph crop reveals the headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penceritaan",
+      "pendidikan",
+      "video kraf"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_18_2",
+    "implementation": "premium_type.py / paper",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX076": {
+    "name": "Layered Paper Tabs",
+    "description": "Tipografi asal: staggered paper tabs rise at different heights, each carrying a separate phrase.",
+    "genre": "documentary",
+    "text": "COLLECT YOUR IDEAS",
+    "subtitle": "A small set of thoughtful possibilities",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "staggered paper tabs rise at different heights, each carrying a separate phrase",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penceritaan",
+      "pendidikan",
+      "video kraf"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_18_3",
+    "implementation": "premium_type.py / paper",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX077": {
+    "name": "Cinematic Shutter Type",
+    "description": "Tipografi asal: upper and lower shutter panels open symmetrically around a central title.",
+    "genre": "corporate",
+    "text": "THE BIG PICTURE",
+    "subtitle": "Open the frame, reveal the thought",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "upper and lower shutter panels open symmetrically around a central title",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "intro sinematik",
+      "dokumentari",
+      "pembuka"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_19_0",
+    "implementation": "premium_type.py / cinema",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX078": {
+    "name": "Slit Beam Title",
+    "description": "Tipografi asal: a vertical-center text mask spreads horizontally above a luminous beam.",
+    "genre": "corporate",
+    "text": "ONE CLEAR DIRECTION",
+    "subtitle": "A precise reveal with a cinematic finish",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "a vertical-center text mask spreads horizontally above a luminous beam",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "intro sinematik",
+      "dokumentari",
+      "pembuka"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_19_1",
+    "implementation": "premium_type.py / cinema",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX079": {
+    "name": "Extruded Depth Headline",
+    "description": "Tipografi asal: ten offset low-opacity title layers create restrained extrusion beneath a scaling foreground.",
+    "genre": "corporate",
+    "text": "MAKE IT STAND OUT",
+    "subtitle": "A subtle sense of depth behind the words",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "ten offset low-opacity title layers create restrained extrusion beneath a scaling foreground",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "intro sinematik",
+      "dokumentari",
+      "pembuka"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_19_2",
+    "implementation": "premium_type.py / cinema",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX080": {
+    "name": "Focus Pull Headline",
+    "description": "Tipografi asal: a blurred enlarged headline resolves to sharp type between two cinematic focus corners.",
+    "genre": "corporate",
+    "text": "SEE THE POSSIBILITY",
+    "subtitle": "A soft arrival becomes a sharp message",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-3-0-fcpx-6G8GZKV",
+    "observation_basis": "listing-description",
+    "mechanism": "a blurred enlarged headline resolves to sharp type between two cinematic focus corners",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "intro sinematik",
+      "dokumentari",
+      "pembuka"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_19_3",
+    "implementation": "premium_type.py / cinema",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX081": {
+    "name": "Circular Iris Typography",
+    "description": "Tipografi asal: a circular alpha iris grows outward through the headline inside a persistent lens ring.",
+    "genre": "education",
+    "text": "OPEN TO POSSIBILITY",
+    "subtitle": "A circle reveals the message at its center",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "a circular alpha iris grows outward through the headline inside a persistent lens ring",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "judul",
+      "video geometri"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_20_0",
+    "implementation": "premium_type.py / shape",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX082": {
+    "name": "Diamond Iris Headline",
+    "description": "Tipografi asal: a diamond-shaped alpha iris expands through a centered title and outer diamond frame.",
+    "genre": "education",
+    "text": "A DIFFERENT PERSPECTIVE",
+    "subtitle": "Angular geometry with a clear result",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "a diamond-shaped alpha iris expands through a centered title and outer diamond frame",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "judul",
+      "video geometri"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_20_1",
+    "implementation": "premium_type.py / shape",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX083": {
+    "name": "Polygon Word Columns",
+    "description": "Tipografi asal: three trapezoidal columns hold independent word reveals above individual accent baselines.",
+    "genre": "education",
+    "text": "SHAPE YOUR NEXT IDEA",
+    "subtitle": "Each phrase receives its own frame",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "three trapezoidal columns hold independent word reveals above individual accent baselines",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "judul",
+      "video geometri"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_20_2",
+    "implementation": "premium_type.py / shape",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX084": {
+    "name": "Wave Mask Typography",
+    "description": "Tipografi asal: a procedural sine-edged mask rises through the headline above an animated wave underline.",
+    "genre": "education",
+    "text": "LET THE IDEA FLOW",
+    "subtitle": "A smooth reveal with a quiet rhythm",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/kinetic-titles-22SGMK4",
+    "observation_basis": "listing-description",
+    "mechanism": "a procedural sine-edged mask rises through the headline above an animated wave underline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "penerangan",
+      "judul",
+      "video geometri"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_20_3",
+    "implementation": "premium_type.py / shape",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX085": {
+    "name": "Number Led Section Title",
+    "description": "Tipografi asal: an oversized monospaced index leads a divided section title and animated progress rule.",
+    "genre": "education",
+    "text": "FIRST THINGS FIRST",
+    "subtitle": "The next key idea begins here",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "an oversized monospaced index leads a divided section title and animated progress rule",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial langkah",
+      "chapter",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_21_0",
+    "implementation": "premium_type.py / score",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX086": {
+    "name": "Ranked Word List",
+    "description": "Tipografi asal: three ranked panels reveal sequentially with numbered accents and left-aligned phrases.",
+    "genre": "education",
+    "text": "PLAN CREATE COMPLETE",
+    "subtitle": "Three clear steps for your next project",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "three ranked panels reveal sequentially with numbered accents and left-aligned phrases",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial langkah",
+      "chapter",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_21_1",
+    "implementation": "premium_type.py / score",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX087": {
+    "name": "Tabular Key Message",
+    "description": "Tipografi asal: a two-row table aligns title and summary against a fixed key column.",
+    "genre": "education",
+    "text": "A CLEAR OBJECTIVE",
+    "subtitle": "One point your audience can remember",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a two-row table aligns title and summary against a fixed key column",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial langkah",
+      "chapter",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_21_2",
+    "implementation": "premium_type.py / score",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX088": {
+    "name": "Timer Caption Lockup",
+    "description": "Tipografi asal: a monospaced minute-second counter advances over a title and timed progress bar.",
+    "genre": "education",
+    "text": "MAKE THE MOMENT COUNT",
+    "subtitle": "A clear title with a measured rhythm",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "a monospaced minute-second counter advances over a title and timed progress bar",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "tutorial langkah",
+      "chapter",
+      "penerangan"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_21_3",
+    "implementation": "premium_type.py / score",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX089": {
+    "name": "Diagonal Word Staircase",
+    "description": "Tipografi asal: three phrase rows occupy ascending diagonal positions above an angled connecting rule.",
+    "genre": "corporate",
+    "text": "STEP INTO YOUR STORY",
+    "subtitle": "Small movements lead to a clear direction",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "three phrase rows occupy ascending diagonal positions above an angled connecting rule",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "idea kreatif",
+      "pembuka",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_22_0",
+    "implementation": "premium_type.py / space",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX090": {
+    "name": "Symmetric Axis Headline",
+    "description": "Tipografi asal: two headline phrases balance around a vertical axis with a center anchor point.",
+    "genre": "corporate",
+    "text": "A BALANCED PERSPECTIVE",
+    "subtitle": "Two ideas meet at one clear center",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "two headline phrases balance around a vertical axis with a center anchor point",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "idea kreatif",
+      "pembuka",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_22_1",
+    "implementation": "premium_type.py / space",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX091": {
+    "name": "Architectural Type Blocks",
+    "description": "Tipografi asal: three columns grow to different structural heights while their word labels enter.",
+    "genre": "corporate",
+    "text": "BUILD BETTER IDEAS",
+    "subtitle": "A strong foundation for the next chapter",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "three columns grow to different structural heights while their word labels enter",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "idea kreatif",
+      "pembuka",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_22_2",
+    "implementation": "premium_type.py / space",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX092": {
+    "name": "Coordinate Type Composition",
+    "description": "Tipografi asal: three phrases occupy asymmetric coordinates with local baselines and position labels.",
+    "genre": "corporate",
+    "text": "PUT IDEAS IN PLACE",
+    "subtitle": "A spatial title system with clear anchors",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/bold-editorial-titles-and-lower-thirds-for-after-e-3E4YZGP",
+    "observation_basis": "listing-description",
+    "mechanism": "three phrases occupy asymmetric coordinates with local baselines and position labels",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "idea kreatif",
+      "pembuka",
+      "headline"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_22_3",
+    "implementation": "premium_type.py / space",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX093": {
+    "name": "Pin Connector Headline",
+    "description": "Tipografi asal: a concentric locator pin connects by an angled leader to a left-aligned headline.",
+    "genre": "corporate",
+    "text": "CONNECT WITH THE IDEA",
+    "subtitle": "A clear pointer to what matters next",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/lower-thirds-DFWHQ27",
+    "observation_basis": "listing-description",
+    "mechanism": "a concentric locator pin connects by an angled leader to a left-aligned headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "callout",
+      "peringatan pendidikan",
+      "infografik"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_23_0",
+    "implementation": "premium_type.py / callout",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX094": {
+    "name": "Magnifier Initial Callout",
+    "description": "Tipografi asal: an oversized initial sits inside a magnifying lens with a handle and adjacent full headline.",
+    "genre": "corporate",
+    "text": "LOOK FOR THE DETAIL",
+    "subtitle": "The next idea deserves a closer look",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/lower-thirds-DFWHQ27",
+    "observation_basis": "listing-description",
+    "mechanism": "an oversized initial sits inside a magnifying lens with a handle and adjacent full headline",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "callout",
+      "peringatan pendidikan",
+      "infografik"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_23_1",
+    "implementation": "premium_type.py / callout",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX095": {
+    "name": "Multi Leader Word Callouts",
+    "description": "Tipografi asal: three independent phrase callouts connect to one center through staggered leader lines.",
+    "genre": "corporate",
+    "text": "IDEAS THAT CONNECT",
+    "subtitle": "Three points from a shared center",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/lower-thirds-DFWHQ27",
+    "observation_basis": "listing-description",
+    "mechanism": "three independent phrase callouts connect to one center through staggered leader lines",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "callout",
+      "peringatan pendidikan",
+      "infografik"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_23_2",
+    "implementation": "premium_type.py / callout",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX096": {
+    "name": "Alert Strip Key Message",
+    "description": "Tipografi asal: a vertical alert strip and outlined warning symbol anchor a rounded message panel.",
+    "genre": "corporate",
+    "text": "PAY ATTENTION HERE",
+    "subtitle": "A useful reminder, clearly presented",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/lower-thirds-DFWHQ27",
+    "observation_basis": "listing-description",
+    "mechanism": "a vertical alert strip and outlined warning symbol anchor a rounded message panel",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "callout",
+      "peringatan pendidikan",
+      "infografik"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_23_3",
+    "implementation": "premium_type.py / callout",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX097": {
+    "name": "Question To Answer Cadence",
+    "description": "Tipografi asal: an opening question arrives before a delayed oversized answer and supporting line.",
+    "genre": "promo",
+    "text": "A SMALL STEP HELPS",
+    "subtitle": "A good answer begins with a better question",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "an opening question arrives before a delayed oversized answer and supporting line",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "CTA",
+      "penerangan",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_24_0",
+    "implementation": "premium_type.py / cadence",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX098": {
+    "name": "Before After Type Pivot",
+    "description": "Tipografi asal: paired before and after columns compare the supporting phrase and title across a center arrow.",
+    "genre": "promo",
+    "text": "A CLEARER FUTURE",
+    "subtitle": "An uncertain start",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "paired before and after columns compare the supporting phrase and title across a center arrow",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "CTA",
+      "penerangan",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_24_1",
+    "implementation": "premium_type.py / cadence",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX099": {
+    "name": "Three Promise Caption",
+    "description": "Tipografi asal: three stacked phrases appear with separate checkmark bullets and progressive timing.",
+    "genre": "promo",
+    "text": "LEARN CREATE GROW",
+    "subtitle": "A clear rhythm for a simple promise",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "three stacked phrases appear with separate checkmark bullets and progressive timing",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "CTA",
+      "penerangan",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_24_2",
+    "implementation": "premium_type.py / cadence",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  },
+  "PX100": {
+    "name": "Command Arrow Capsule",
+    "description": "Tipografi asal: a rounded action capsule springs into place with a large internal direction arrow.",
+    "genre": "promo",
+    "text": "BEGIN YOUR NEXT CHAPTER",
+    "subtitle": "One clear action, a confident direction",
+    "family": "premium-type",
+    "duration": 6,
+    "source_url": "https://elements.envato.com/hook-captions-for-social-media-JZE2XRQ",
+    "observation_basis": "listing-description",
+    "mechanism": "a rounded action capsule springs into place with a large internal direction arrow",
+    "variant_basis": "adapted",
+    "asset_types": [
+      "teks headline",
+      "teks sokongan",
+      "geometri vektor asal"
+    ],
+    "use_cases": [
+      "CTA",
+      "penerangan",
+      "video pendek"
+    ],
+    "parameters": {
+      "text": "Teks utama; disesuaikan mengikut lebar tersedia",
+      "subtitle": "Teks sokongan pendek",
+      "genre": "Palet warna daripada core.PALETTES",
+      "tempo": "Kelajuan masuk 0.5–2.0",
+      "duration": "Tempoh scene 0.5–120 saat; lalai 6",
+      "accent": "Warna aksen #RRGGBB",
+      "text_color": "Warna teks #RRGGBB",
+      "bg": "Warna latar #RRGGBB"
+    },
+    "adaptation_status": "original-demo",
+    "mode": "premium_type_24_3",
+    "implementation": "premium_type.py / cadence",
+    "originality_note": "Demo baharu berasaskan teknik umum yang diterangkan dalam listing; bukan template atau aset Envato.",
+    "frame_size": [
+      1280,
+      720
+    ],
+    "render_status": "renderable"
+  }
+}
