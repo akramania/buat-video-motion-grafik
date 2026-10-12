@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "original_font_binary_hashes_checked": 100,
+  "original_license_hashes_checked": 100,
+  "all_font_binaries_byte_identical_to_official_source": true,
+  "all_licenses_byte_identical_to_official_source": true,
+  "full_inventory_retention": "All original binary bytes remain identical, including cmap, outlines, OpenType shaping/variation/color/name tables and signatures.",
+  "archive_members": 200,
+  "archive_members_exactly_declared_original_fonts_and_licenses": true,
+  "cold_cache_extract": true,
+  "corrupt_cached_font_repaired": true,
+  "corrupt_bundle_rejected": true,
+  "cache_symlink_escape_rejected": true,
+  "catalogue_path_traversal_rejected": true,
+  "quran_font_rendering_scope": "Exact Al-Fatihah 1:1, 1:2 and 1:7 source text; sample coverage, glyph shaping and actual raster inspected, not a full-Quran certification."
+}

@@ -1,0 +1,10 @@
+{
+  "format": "tar.xz",
+  "archive": "fonts100-originals.tar.xz",
+  "sha256": "7d54d71bb8481e42c4a0fa5c44a6b99fd3427760f6e55d5a5806a965efd0e314",
+  "bytes": 7832292,
+  "font_count": 100,
+  "license_count": 100,
+  "original_font_binary_bytes": 22696036,
+  "compression": "Standard lossless LZMA2 compression, exact original full TTFs and OFL licenses. No subsetting, instantiation, renaming, outline edits or metadata edits."
+}

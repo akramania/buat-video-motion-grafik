@@ -1,0 +1,5510 @@
+{
+  "font_count": 100,
+  "unique_font_family_names": 100,
+  "arabic_families": 25,
+  "latin_families": 75,
+  "raqm_available": true,
+  "harfbuzz_version": "14.6.0",
+  "woff2_policy": "Compression only, transform_tables=[], original raw table data preserved; mandatory head compression flag and checksumAdjustment normalized for comparison; DSIG signature table omitted by standard WOFF2 tooling. Glyph outlines, names, metadata and shaping tables remain identical. No subsetting or font name edits.",
+  "quran_samples_source": "https://quran.com/al-fatihah",
+  "quran_samples": [
+    {
+      "verse": "1:1",
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "verse": "1:2",
+      "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+    },
+    {
+      "verse": "1:7",
+      "text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ"
+    }
+  ],
+  "records": [
+    {
+      "id": "FT0001",
+      "family": "Amiri",
+      "font_family_name": "Amiri",
+      "cmap_count": 1699,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 64,
+        "bounds": [
+          263.0,
+          207,
+          697.0,
+          327
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          346.5,
+          350,
+          613.5,
+          394
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          89,
+          94,
+          1960,
+          94,
+          1658,
+          98,
+          1756,
+          95,
+          3095,
+          98,
+          4923,
+          96,
+          4839,
+          1,
+          92,
+          73,
+          96,
+          1678,
+          98,
+          1652,
+          95,
+          1857,
+          1,
+          92,
+          2162,
+          2135,
+          96,
+          1860,
+          98,
+          1905,
+          94,
+          1617
+        ],
+        "x_advance": 6764,
+        "mark_zero_advance_count": 14
+      },
+      "quran": {
+        "sample_passed": true,
+        "sample_verses": [
+          "1:1",
+          "1:2",
+          "1:7"
+        ],
+        "source": "https://quran.com/al-fatihah",
+        "samples": [
+          {
+            "verse": "1:1",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 38,
+              "glyph_ids": [
+                96,
+                2162,
+                2135,
+                96,
+                1739,
+                1439,
+                97,
+                3539,
+                3522,
+                129,
+                1,
+                96,
+                1862,
+                5438,
+                94,
+                4487,
+                98,
+                4469,
+                1439,
+                97,
+                3539,
+                3522,
+                129,
+                1,
+                96,
+                1348,
+                1439,
+                97,
+                1347,
+                1346,
+                129,
+                1,
+                96,
+                4030,
+                98,
+                3662,
+                96,
+                3639
+              ],
+              "x_advance": 7207,
+              "mark_zero_advance_count": 15
+            }
+          },
+          {
+            "verse": "1:2",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 37,
+              "glyph_ids": [
+                94,
+                3476,
+                3449,
+                96,
+                3095,
+                94,
+                3090,
+                5438,
+                94,
+                1571,
+                98,
+                1843,
+                129,
+                1,
+                96,
+                97,
+                56,
+                94,
+                65,
+                1,
+                96,
+                1348,
+                1439,
+                97,
+                1347,
+                96,
+                1346,
+                1,
+                95,
+                1678,
+                98,
+                2549,
+                94,
+                2533,
+                98,
+                2528,
+                129
+              ],
+              "x_advance": 6553,
+              "mark_zero_advance_count": 16
+            }
+          },
+          {
+            "verse": "1:7",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 89,
+              "glyph_ids": [
+                94,
+                3476,
+                3449,
+                96,
+                97,
+                1843,
+                1547,
+                1439,
+                97,
+                1903,
+                1843,
+                129,
+                1,
+                2518,
+                94,
+                2513,
+                94,
+                88,
+                1,
+                98,
+                1854,
+                96,
+                4827,
+                98,
+                4800,
+                94,
+                1849,
+                94,
+                3871,
+                1,
+                96,
+                56,
+                1960,
+                95,
+                1903,
+                98,
+                1566,
+                94,
+                4106,
+                98,
+                2506,
+                129,
+                1,
+                96,
+                2859,
+                98,
+                2819,
+                94,
+                3866,
+                1,
+                98,
+                1854,
+                96,
+                4827,
+                98,
+                4800,
+                94,
+                1849,
+                94,
+                3871,
+                1,
+                94,
+                1576,
+                98,
+                1860,
+                94,
+                1571,
+                98,
+                1614,
+                5466,
+                51,
+                1,
+                94,
+                2726,
+                2698,
+                96,
+                4403,
+                1439,
+                97,
+                4383,
+                129,
+                1,
+                94,
+                71,
+                128,
+                94,
+                3684,
+                96,
+                3932
+              ],
+              "x_advance": 18461,
+              "mark_zero_advance_count": 38
+            }
+          }
+        ],
+        "stress_marks_missing": [],
+        "preview": "quran-previews/FT0001.webp",
+        "limitation": "Only these samples, cmap coverage and HarfBuzz shaping were tested. This is not full-Quran or religious certification."
+      }
+    },
+    {
+      "id": "FT0002",
+      "family": "Amiri Quran",
+      "font_family_name": "Amiri Quran",
+      "cmap_count": 266,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 66,
+        "bounds": [
+          256.5,
+          207,
+          703.5,
+          327
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          347.0,
+          350,
+          613.0,
+          394
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          60,
+          65,
+          526,
+          65,
+          462,
+          69,
+          486,
+          66,
+          773,
+          69,
+          1159,
+          67,
+          1149,
+          1,
+          63,
+          49,
+          67,
+          468,
+          69,
+          459,
+          66,
+          499,
+          1,
+          63,
+          574,
+          565,
+          67,
+          500,
+          69,
+          512,
+          65,
+          451
+        ],
+        "x_advance": 6764,
+        "mark_zero_advance_count": 14
+      },
+      "quran": {
+        "sample_passed": true,
+        "sample_verses": [
+          "1:1",
+          "1:2",
+          "1:7"
+        ],
+        "source": "https://quran.com/al-fatihah",
+        "samples": [
+          {
+            "verse": "1:1",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 38,
+              "glyph_ids": [
+                67,
+                574,
+                565,
+                67,
+                483,
+                347,
+                68,
+                859,
+                857,
+                90,
+                1,
+                67,
+                501,
+                1229,
+                65,
+                1056,
+                69,
+                1053,
+                347,
+                68,
+                859,
+                857,
+                90,
+                1,
+                67,
+                291,
+                347,
+                68,
+                290,
+                289,
+                90,
+                1,
+                67,
+                979,
+                69,
+                891,
+                67,
+                883
+              ],
+              "x_advance": 7207,
+              "mark_zero_advance_count": 15
+            }
+          },
+          {
+            "verse": "1:2",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 37,
+              "glyph_ids": [
+                65,
+                849,
+                839,
+                67,
+                773,
+                65,
+                772,
+                1229,
+                65,
+                439,
+                69,
+                496,
+                90,
+                1,
+                67,
+                68,
+                32,
+                65,
+                41,
+                1,
+                67,
+                291,
+                347,
+                68,
+                290,
+                67,
+                289,
+                1,
+                66,
+                468,
+                69,
+                500,
+                65,
+                675,
+                69,
+                549,
+                90
+              ],
+              "x_advance": 6999,
+              "mark_zero_advance_count": 16
+            }
+          },
+          {
+            "verse": "1:7",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 89,
+              "glyph_ids": [
+                65,
+                849,
+                839,
+                67,
+                68,
+                496,
+                432,
+                347,
+                68,
+                511,
+                496,
+                90,
+                1,
+                650,
+                65,
+                648,
+                65,
+                59,
+                1,
+                69,
+                498,
+                67,
+                1146,
+                69,
+                1137,
+                65,
+                497,
+                65,
+                940,
+                1,
+                67,
+                32,
+                526,
+                66,
+                511,
+                69,
+                438,
+                65,
+                500,
+                69,
+                496,
+                90,
+                1,
+                67,
+                727,
+                69,
+                716,
+                65,
+                939,
+                1,
+                69,
+                498,
+                67,
+                1146,
+                69,
+                1137,
+                65,
+                497,
+                65,
+                940,
+                1,
+                65,
+                440,
+                69,
+                500,
+                65,
+                439,
+                69,
+                450,
+                1257,
+                27,
+                1,
+                65,
+                697,
+                688,
+                67,
+                1042,
+                347,
+                68,
+                1038,
+                90,
+                1,
+                65,
+                47,
+                89,
+                65,
+                894,
+                67,
+                952
+              ],
+              "x_advance": 18608,
+              "mark_zero_advance_count": 38
+            }
+          }
+        ],
+        "stress_marks_missing": [],
+        "preview": "quran-previews/FT0002.webp",
+        "limitation": "Only these samples, cmap coverage and HarfBuzz shaping were tested. This is not full-Quran or religious certification."
+      }
+    },
+    {
+      "id": "FT0003",
+      "family": "Scheherazade New",
+      "font_family_name": "Scheherazade New",
+      "cmap_count": 800,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 79,
+        "bounds": [
+          159.5,
+          207,
+          800.5,
+          327
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          342.5,
+          350,
+          617.5,
+          392
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          1212,
+          1342,
+          1177,
+          1342,
+          330,
+          1349,
+          442,
+          1343,
+          1066,
+          1349,
+          898,
+          1346,
+          899,
+          1,
+          1338,
+          684,
+          1346,
+          501,
+          1349,
+          310,
+          1343,
+          1067,
+          1,
+          1338,
+          1065,
+          1221,
+          1346,
+          1066,
+          1349,
+          634,
+          1342,
+          331
+        ],
+        "x_advance": 16626,
+        "mark_zero_advance_count": 14
+      },
+      "quran": {
+        "sample_passed": true,
+        "sample_verses": [
+          "1:1",
+          "1:2",
+          "1:7"
+        ],
+        "source": "https://quran.com/al-fatihah",
+        "samples": [
+          {
+            "verse": "1:1",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 36,
+              "glyph_ids": [
+                1346,
+                1065,
+                1221,
+                1346,
+                443,
+                1674,
+                549,
+                899,
+                258,
+                1,
+                1346,
+                1089,
+                1331,
+                1314,
+                1342,
+                1066,
+                1349,
+                443,
+                1674,
+                549,
+                899,
+                258,
+                1,
+                1346,
+                1576,
+                1674,
+                1575,
+                1573,
+                1571,
+                1,
+                1346,
+                1065,
+                1349,
+                590,
+                1346,
+                311
+              ],
+              "x_advance": 16867,
+              "mark_zero_advance_count": 13
+            }
+          },
+          {
+            "verse": "1:2",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 36,
+              "glyph_ids": [
+                1342,
+                1089,
+                1221,
+                1346,
+                1066,
+                1342,
+                898,
+                1331,
+                1314,
+                1342,
+                686,
+                1349,
+                899,
+                258,
+                1,
+                1678,
+                308,
+                1342,
+                548,
+                1,
+                1346,
+                1576,
+                1674,
+                1575,
+                1346,
+                1573,
+                1,
+                1343,
+                501,
+                1349,
+                1066,
+                1342,
+                442,
+                1349,
+                899,
+                258
+              ],
+              "x_advance": 16603,
+              "mark_zero_advance_count": 15
+            }
+          },
+          {
+            "verse": "1:7",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 86,
+              "glyph_ids": [
+                1342,
+                1089,
+                1221,
+                1678,
+                899,
+                1353,
+                243,
+                1674,
+                650,
+                899,
+                258,
+                1,
+                1342,
+                930,
+                1342,
+                1176,
+                1,
+                1349,
+                1065,
+                1346,
+                1144,
+                1349,
+                1221,
+                1342,
+                898,
+                1342,
+                687,
+                1,
+                1346,
+                308,
+                1177,
+                1343,
+                650,
+                1349,
+                710,
+                1342,
+                1066,
+                1349,
+                899,
+                258,
+                1,
+                1346,
+                549,
+                1349,
+                1221,
+                1342,
+                711,
+                1,
+                1349,
+                1065,
+                1346,
+                1144,
+                1349,
+                1221,
+                1342,
+                898,
+                1342,
+                687,
+                1,
+                1342,
+                329,
+                1349,
+                1066,
+                1342,
+                686,
+                1349,
+                1091,
+                1665,
+                242,
+                1,
+                1342,
+                1089,
+                1222,
+                1346,
+                504,
+                1674,
+                899,
+                258,
+                1,
+                1342,
+                656,
+                1331,
+                1342,
+                549,
+                1346,
+                635
+              ],
+              "x_advance": 43427,
+              "mark_zero_advance_count": 36
+            }
+          }
+        ],
+        "stress_marks_missing": [],
+        "preview": "quran-previews/FT0003.webp",
+        "limitation": "Only these samples, cmap coverage and HarfBuzz shaping were tested. This is not full-Quran or religious certification."
+      }
+    },
+    {
+      "id": "FT0004",
+      "family": "Noto Naskh Arabic",
+      "font_family_name": "Noto Naskh Arabic",
+      "cmap_count": 1551,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          165.5,
+          207,
+          794.5,
+          307
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          338.5,
+          350,
+          621.5,
+          387
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 36,
+        "glyph_ids": [
+          99,
+          380,
+          96,
+          380,
+          294,
+          18,
+          388,
+          24,
+          381,
+          76,
+          388,
+          68,
+          436,
+          70,
+          3,
+          385,
+          44,
+          436,
+          27,
+          388,
+          323,
+          16,
+          381,
+          77,
+          3,
+          385,
+          75,
+          325,
+          18,
+          436,
+          76,
+          388,
+          38,
+          380,
+          294,
+          21
+        ],
+        "x_advance": 7672,
+        "mark_zero_advance_count": 18
+      },
+      "quran": {
+        "sample_passed": true,
+        "sample_verses": [
+          "1:1",
+          "1:2",
+          "1:7"
+        ],
+        "source": "https://quran.com/al-fatihah",
+        "samples": [
+          {
+            "verse": "1:1",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 45,
+              "glyph_ids": [
+                436,
+                75,
+                325,
+                18,
+                436,
+                25,
+                380,
+                374,
+                29,
+                70,
+                309,
+                8,
+                3,
+                436,
+                288,
+                79,
+                420,
+                107,
+                380,
+                76,
+                388,
+                25,
+                380,
+                374,
+                29,
+                70,
+                309,
+                8,
+                3,
+                436,
+                81,
+                380,
+                374,
+                68,
+                70,
+                309,
+                8,
+                3,
+                436,
+                75,
+                388,
+                34,
+                436,
+                323,
+                19
+              ],
+              "x_advance": 8352,
+              "mark_zero_advance_count": 22
+            }
+          },
+          {
+            "verse": "1:2",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 42,
+              "glyph_ids": [
+                380,
+                288,
+                79,
+                325,
+                18,
+                436,
+                76,
+                380,
+                68,
+                420,
+                107,
+                380,
+                46,
+                388,
+                70,
+                309,
+                8,
+                3,
+                378,
+                323,
+                14,
+                380,
+                28,
+                3,
+                436,
+                81,
+                380,
+                374,
+                68,
+                436,
+                70,
+                3,
+                381,
+                27,
+                388,
+                76,
+                380,
+                24,
+                388,
+                70,
+                309,
+                8
+              ],
+              "x_advance": 7410,
+              "mark_zero_advance_count": 21
+            }
+          },
+          {
+            "verse": "1:7",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 108,
+              "glyph_ids": [
+                380,
+                288,
+                79,
+                325,
+                18,
+                378,
+                70,
+                310,
+                9,
+                380,
+                374,
+                288,
+                38,
+                70,
+                309,
+                8,
+                3,
+                10,
+                380,
+                71,
+                380,
+                94,
+                3,
+                388,
+                75,
+                436,
+                82,
+                388,
+                325,
+                18,
+                380,
+                68,
+                380,
+                47,
+                3,
+                436,
+                323,
+                14,
+                96,
+                381,
+                288,
+                38,
+                388,
+                288,
+                46,
+                380,
+                76,
+                388,
+                70,
+                309,
+                8,
+                3,
+                436,
+                29,
+                388,
+                325,
+                18,
+                380,
+                288,
+                47,
+                3,
+                388,
+                75,
+                436,
+                82,
+                388,
+                325,
+                18,
+                380,
+                68,
+                380,
+                47,
+                3,
+                380,
+                294,
+                15,
+                388,
+                76,
+                380,
+                46,
+                388,
+                288,
+                19,
+                380,
+                305,
+                8,
+                3,
+                380,
+                288,
+                79,
+                325,
+                21,
+                436,
+                288,
+                27,
+                380,
+                374,
+                70,
+                309,
+                8,
+                3,
+                380,
+                40,
+                420,
+                380,
+                29,
+                436,
+                39
+              ],
+              "x_advance": 19962,
+              "mark_zero_advance_count": 57
+            }
+          }
+        ],
+        "stress_marks_missing": [],
+        "preview": "quran-previews/FT0004.webp",
+        "limitation": "Only these samples, cmap coverage and HarfBuzz shaping were tested. This is not full-Quran or religious certification."
+      }
+    },
+    {
+      "id": "FT0005",
+      "family": "Noto Sans Arabic",
+      "font_family_name": "Noto Sans Arabic",
+      "cmap_count": 1561,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 81,
+        "bounds": [
+          133.0,
+          207,
+          827.0,
+          327
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          328.5,
+          350,
+          631.5,
+          390
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 36,
+        "glyph_ids": [
+          103,
+          371,
+          100,
+          371,
+          288,
+          18,
+          379,
+          26,
+          372,
+          78,
+          379,
+          70,
+          427,
+          72,
+          3,
+          376,
+          46,
+          427,
+          29,
+          379,
+          317,
+          16,
+          372,
+          79,
+          3,
+          376,
+          77,
+          319,
+          18,
+          427,
+          78,
+          379,
+          40,
+          371,
+          288,
+          21
+        ],
+        "x_advance": 8568,
+        "mark_zero_advance_count": 18
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0006",
+      "family": "Cairo",
+      "font_family_name": "Cairo",
+      "cmap_count": 699,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          117.5,
+          207,
+          842.5,
+          312
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          328.5,
+          350,
+          631.5,
+          388
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          441,
+          804,
+          438,
+          804,
+          295,
+          815,
+          317,
+          805,
+          407,
+          815,
+          403,
+          806,
+          404,
+          666,
+          802,
+          361,
+          806,
+          324,
+          815,
+          285,
+          805,
+          408,
+          666,
+          802,
+          406,
+          445,
+          806,
+          407,
+          815,
+          347,
+          804,
+          296
+        ],
+        "x_advance": 8839,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0007",
+      "family": "Tajawal",
+      "font_family_name": "Tajawal",
+      "cmap_count": 446,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          117.5,
+          207,
+          842.5,
+          309
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          324.5,
+          350,
+          635.5,
+          384
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          296,
+          301,
+          452,
+          301,
+          390,
+          305,
+          399,
+          302,
+          445,
+          305,
+          442,
+          303,
+          441,
+          3,
+          299,
+          285,
+          303,
+          403,
+          305,
+          386,
+          302,
+          444,
+          3,
+          299,
+          443,
+          456,
+          303,
+          445,
+          305,
+          415,
+          301,
+          389
+        ],
+        "x_advance": 8844,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0008",
+      "family": "Almarai",
+      "font_family_name": "Almarai",
+      "cmap_count": 528,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          132.5,
+          207,
+          827.5,
+          317
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          325.5,
+          350,
+          634.5,
+          389
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          301,
+          306,
+          565,
+          306,
+          503,
+          310,
+          512,
+          307,
+          558,
+          310,
+          555,
+          308,
+          554,
+          3,
+          304,
+          290,
+          308,
+          516,
+          310,
+          499,
+          307,
+          557,
+          3,
+          304,
+          556,
+          570,
+          308,
+          558,
+          310,
+          528,
+          306,
+          502
+        ],
+        "x_advance": 8471,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0009",
+      "family": "Changa",
+      "font_family_name": "Changa",
+      "cmap_count": 707,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          113.0,
+          207,
+          847.0,
+          314
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          323.5,
+          350,
+          636.5,
+          389
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          436,
+          776,
+          433,
+          776,
+          298,
+          780,
+          318,
+          777,
+          406,
+          780,
+          402,
+          778,
+          403,
+          658,
+          774,
+          362,
+          778,
+          325,
+          780,
+          290,
+          777,
+          407,
+          658,
+          774,
+          405,
+          440,
+          778,
+          406,
+          780,
+          348,
+          776,
+          299
+        ],
+        "x_advance": 8950,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0010",
+      "family": "El Messiri",
+      "font_family_name": "El Messiri",
+      "cmap_count": 587,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          123.5,
+          207,
+          836.5,
+          305
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          333.0,
+          350,
+          627.0,
+          385
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          399,
+          629,
+          396,
+          629,
+          253,
+          633,
+          273,
+          630,
+          365,
+          633,
+          361,
+          631,
+          362,
+          547,
+          627,
+          317,
+          631,
+          280,
+          633,
+          243,
+          630,
+          366,
+          547,
+          627,
+          364,
+          403,
+          631,
+          365,
+          633,
+          303,
+          629,
+          254
+        ],
+        "x_advance": 8700,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0011",
+      "family": "Lateef",
+      "font_family_name": "Lateef",
+      "cmap_count": 799,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          261.0,
+          207,
+          699.0,
+          294
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          384.0,
+          350,
+          576.0,
+          380
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          1175,
+          1308,
+          1140,
+          1308,
+          347,
+          1315,
+          459,
+          1309,
+          1029,
+          1315,
+          899,
+          1312,
+          900,
+          2,
+          1304,
+          685,
+          1312,
+          518,
+          1315,
+          327,
+          1309,
+          1030,
+          2,
+          1304,
+          1028,
+          1184,
+          1312,
+          1029,
+          1315,
+          635,
+          1308,
+          348
+        ],
+        "x_advance": 10866,
+        "mark_zero_advance_count": 14
+      },
+      "quran": {
+        "sample_passed": true,
+        "sample_verses": [
+          "1:1",
+          "1:2",
+          "1:7"
+        ],
+        "source": "https://quran.com/al-fatihah",
+        "samples": [
+          {
+            "verse": "1:1",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 36,
+              "glyph_ids": [
+                1312,
+                1028,
+                1184,
+                1312,
+                460,
+                1637,
+                550,
+                900,
+                275,
+                2,
+                1312,
+                1052,
+                1298,
+                1280,
+                1308,
+                1029,
+                1315,
+                460,
+                1637,
+                550,
+                900,
+                275,
+                2,
+                1312,
+                1565,
+                1637,
+                1564,
+                1562,
+                1560,
+                2,
+                1312,
+                1028,
+                1315,
+                591,
+                1312,
+                328
+              ],
+              "x_advance": 11420,
+              "mark_zero_advance_count": 13
+            }
+          },
+          {
+            "verse": "1:2",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 36,
+              "glyph_ids": [
+                1308,
+                1052,
+                1184,
+                1312,
+                1029,
+                1308,
+                899,
+                1298,
+                1280,
+                1308,
+                687,
+                1315,
+                900,
+                275,
+                2,
+                1641,
+                325,
+                1308,
+                549,
+                2,
+                1312,
+                1565,
+                1637,
+                1564,
+                1312,
+                1562,
+                2,
+                1309,
+                518,
+                1315,
+                1029,
+                1308,
+                459,
+                1315,
+                900,
+                275
+              ],
+              "x_advance": 11087,
+              "mark_zero_advance_count": 15
+            }
+          },
+          {
+            "verse": "1:7",
+            "missing_codepoints": [],
+            "shaping": {
+              "missing_glyph_count": 0,
+              "glyph_count": 86,
+              "glyph_ids": [
+                1308,
+                1052,
+                1184,
+                1641,
+                900,
+                1318,
+                263,
+                1637,
+                651,
+                900,
+                275,
+                2,
+                1308,
+                931,
+                1308,
+                1139,
+                2,
+                1315,
+                1028,
+                1312,
+                1107,
+                1315,
+                1184,
+                1308,
+                899,
+                1308,
+                688,
+                2,
+                1312,
+                325,
+                1140,
+                1309,
+                651,
+                1315,
+                711,
+                1308,
+                1029,
+                1315,
+                900,
+                275,
+                2,
+                1312,
+                550,
+                1315,
+                1184,
+                1308,
+                712,
+                2,
+                1315,
+                1028,
+                1312,
+                1107,
+                1315,
+                1184,
+                1308,
+                899,
+                1308,
+                688,
+                2,
+                1308,
+                346,
+                1315,
+                1029,
+                1308,
+                687,
+                1315,
+                1054,
+                1628,
+                262,
+                2,
+                1308,
+                1052,
+                1185,
+                1312,
+                520,
+                1637,
+                900,
+                275,
+                2,
+                1308,
+                657,
+                1297,
+                1308,
+                550,
+                1312,
+                636
+              ],
+              "x_advance": 29904,
+              "mark_zero_advance_count": 36
+            }
+          }
+        ],
+        "stress_marks_missing": [],
+        "preview": "quran-previews/FT0011.webp",
+        "limitation": "Only these samples, cmap coverage and HarfBuzz shaping were tested. This is not full-Quran or religious certification."
+      }
+    },
+    {
+      "id": "FT0012",
+      "family": "Harmattan",
+      "font_family_name": "Harmattan",
+      "cmap_count": 776,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          208.0,
+          207,
+          752.0,
+          293
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          361.5,
+          350,
+          598.5,
+          387
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          1225,
+          1358,
+          1190,
+          1358,
+          331,
+          1365,
+          450,
+          1359,
+          1079,
+          1365,
+          949,
+          1363,
+          950,
+          2,
+          1354,
+          735,
+          1363,
+          524,
+          1365,
+          311,
+          1359,
+          1080,
+          2,
+          1354,
+          1078,
+          1234,
+          1363,
+          1079,
+          1365,
+          673,
+          1358,
+          332
+        ],
+        "x_advance": 13567,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0013",
+      "family": "Markazi Text",
+      "font_family_name": "Markazi Text",
+      "cmap_count": 999,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          190.0,
+          207,
+          770.0,
+          294
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          360.0,
+          350,
+          600.0,
+          384
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          651,
+          1223,
+          648,
+          1223,
+          513,
+          1227,
+          533,
+          1224,
+          621,
+          1227,
+          617,
+          1225,
+          618,
+          1040,
+          1221,
+          577,
+          1225,
+          540,
+          1227,
+          505,
+          1224,
+          622,
+          1040,
+          1221,
+          620,
+          655,
+          1225,
+          621,
+          1227,
+          563,
+          1223,
+          514
+        ],
+        "x_advance": 14498,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0014",
+      "family": "Reem Kufi",
+      "font_family_name": "Reem Kufi",
+      "cmap_count": 667,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          160.0,
+          207,
+          800.0,
+          324
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          346.5,
+          350,
+          613.5,
+          391
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 36,
+        "glyph_ids": [
+          502,
+          669,
+          500,
+          669,
+          655,
+          406,
+          673,
+          421,
+          670,
+          479,
+          673,
+          467,
+          671,
+          469,
+          1,
+          667,
+          442,
+          671,
+          427,
+          673,
+          650,
+          406,
+          670,
+          481,
+          1,
+          667,
+          476,
+          656,
+          406,
+          671,
+          479,
+          673,
+          436,
+          669,
+          655,
+          412
+        ],
+        "x_advance": 7801,
+        "mark_zero_advance_count": 18
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0015",
+      "family": "Aref Ruqaa",
+      "font_family_name": "Aref Ruqaa",
+      "cmap_count": 343,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 58,
+        "bounds": [
+          306.5,
+          207,
+          653.5,
+          327
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          372.0,
+          350,
+          588.0,
+          390
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 36,
+        "glyph_ids": [
+          41,
+          46,
+          169,
+          46,
+          122,
+          133,
+          50,
+          136,
+          47,
+          200,
+          50,
+          343,
+          48,
+          159,
+          1,
+          44,
+          30,
+          48,
+          137,
+          50,
+          124,
+          215,
+          47,
+          162,
+          1,
+          44,
+          161,
+          125,
+          335,
+          48,
+          163,
+          50,
+          338,
+          46,
+          122,
+          251
+        ],
+        "x_advance": 5911,
+        "mark_zero_advance_count": 18
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0016",
+      "family": "Lemonada",
+      "font_family_name": "Lemonada",
+      "cmap_count": 745,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 73,
+        "bounds": [
+          66.5,
+          207,
+          893.5,
+          321
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          281.0,
+          350,
+          679.0,
+          398
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          538,
+          800,
+          535,
+          800,
+          392,
+          804,
+          412,
+          801,
+          504,
+          804,
+          500,
+          802,
+          501,
+          676,
+          798,
+          456,
+          802,
+          419,
+          804,
+          382,
+          801,
+          505,
+          676,
+          798,
+          503,
+          542,
+          802,
+          504,
+          804,
+          442,
+          800,
+          393
+        ],
+        "x_advance": 11250,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0017",
+      "family": "Mada",
+      "font_family_name": "Mada",
+      "cmap_count": 847,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          169.0,
+          207,
+          791.0,
+          309
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          343.5,
+          350,
+          616.5,
+          384
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 36,
+        "glyph_ids": [
+          487,
+          877,
+          486,
+          877,
+          853,
+          417,
+          883,
+          423,
+          878,
+          471,
+          883,
+          463,
+          880,
+          465,
+          729,
+          875,
+          441,
+          880,
+          426,
+          883,
+          849,
+          417,
+          878,
+          472,
+          729,
+          875,
+          469,
+          854,
+          417,
+          880,
+          471,
+          883,
+          435,
+          877,
+          853,
+          418
+        ],
+        "x_advance": 7585,
+        "mark_zero_advance_count": 18
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0018",
+      "family": "Mirza",
+      "font_family_name": "Mirza",
+      "cmap_count": 945,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          191.5,
+          207,
+          768.5,
+          305
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          353.0,
+          350,
+          607.0,
+          386
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 35,
+        "glyph_ids": [
+          258,
+          263,
+          747,
+          263,
+          594,
+          789,
+          267,
+          694,
+          264,
+          740,
+          267,
+          737,
+          265,
+          736,
+          3,
+          261,
+          242,
+          265,
+          698,
+          267,
+          593,
+          789,
+          264,
+          739,
+          3,
+          261,
+          595,
+          1117,
+          265,
+          740,
+          267,
+          710,
+          263,
+          594,
+          790
+        ],
+        "x_advance": 7041,
+        "mark_zero_advance_count": 18
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0019",
+      "family": "Katibeh",
+      "font_family_name": "Katibeh",
+      "cmap_count": 982,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          213.5,
+          207,
+          746.5,
+          325
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          357.5,
+          350,
+          602.5,
+          389
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 35,
+        "glyph_ids": [
+          259,
+          264,
+          748,
+          264,
+          595,
+          791,
+          268,
+          695,
+          265,
+          741,
+          268,
+          738,
+          266,
+          737,
+          3,
+          262,
+          243,
+          266,
+          699,
+          268,
+          594,
+          791,
+          265,
+          740,
+          3,
+          262,
+          596,
+          1119,
+          266,
+          741,
+          268,
+          711,
+          264,
+          595,
+          792
+        ],
+        "x_advance": 6496,
+        "mark_zero_advance_count": 18
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0020",
+      "family": "Lalezar",
+      "font_family_name": "Lalezar",
+      "cmap_count": 908,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          157.0,
+          207,
+          803.0,
+          301
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          351.5,
+          350,
+          608.5,
+          387
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          605,
+          1194,
+          602,
+          1194,
+          435,
+          1198,
+          457,
+          1195,
+          569,
+          1198,
+          565,
+          1196,
+          566,
+          3,
+          1192,
+          521,
+          1196,
+          467,
+          1198,
+          427,
+          1195,
+          570,
+          3,
+          1192,
+          568,
+          611,
+          1196,
+          569,
+          1198,
+          501,
+          1194,
+          436
+        ],
+        "x_advance": 7876,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0021",
+      "family": "Rakkas",
+      "font_family_name": "Rakkas",
+      "cmap_count": 639,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 60,
+        "bounds": [
+          294.5,
+          207,
+          665.5,
+          327
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          358.5,
+          350,
+          601.5,
+          386
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          465,
+          892,
+          462,
+          892,
+          278,
+          898,
+          311,
+          893,
+          427,
+          898,
+          420,
+          895,
+          421,
+          3,
+          889,
+          376,
+          895,
+          325,
+          898,
+          265,
+          893,
+          430,
+          3,
+          889,
+          426,
+          473,
+          895,
+          429,
+          898,
+          355,
+          892,
+          281
+        ],
+        "x_advance": 6189,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0022",
+      "family": "Baloo Bhaijaan 2",
+      "font_family_name": "Baloo Bhaijaan 2",
+      "cmap_count": 893,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          143.5,
+          207,
+          816.5,
+          311
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          339.0,
+          350,
+          621.0,
+          388
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          970,
+          1050,
+          967,
+          1050,
+          828,
+          1054,
+          848,
+          1051,
+          936,
+          1054,
+          932,
+          1052,
+          933,
+          3,
+          1048,
+          892,
+          1052,
+          855,
+          1054,
+          820,
+          1051,
+          937,
+          3,
+          1048,
+          935,
+          974,
+          1052,
+          936,
+          1054,
+          878,
+          1050,
+          829
+        ],
+        "x_advance": 8205,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0023",
+      "family": "Kufam",
+      "font_family_name": "Kufam",
+      "cmap_count": 1056,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          78.0,
+          207,
+          882.0,
+          314
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          296.5,
+          350,
+          663.5,
+          392
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 31,
+        "glyph_ids": [
+          1358,
+          2154,
+          1329,
+          2154,
+          813,
+          2165,
+          920,
+          2155,
+          1269,
+          2165,
+          2156,
+          1588,
+          1893,
+          2152,
+          1105,
+          2156,
+          983,
+          2165,
+          790,
+          2155,
+          1270,
+          1893,
+          2152,
+          1268,
+          1369,
+          2156,
+          1269,
+          2165,
+          1071,
+          2154,
+          814
+        ],
+        "x_advance": 9780,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0024",
+      "family": "Readex Pro",
+      "font_family_name": "Readex Pro",
+      "cmap_count": 761,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          94.0,
+          207,
+          866.0,
+          327
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          307.5,
+          350,
+          652.5,
+          393
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          689,
+          957,
+          686,
+          957,
+          577,
+          968,
+          593,
+          958,
+          671,
+          968,
+          667,
+          959,
+          668,
+          788,
+          955,
+          635,
+          959,
+          600,
+          968,
+          573,
+          958,
+          672,
+          788,
+          955,
+          670,
+          693,
+          959,
+          671,
+          968,
+          621,
+          957,
+          579
+        ],
+        "x_advance": 9414,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0025",
+      "family": "IBM Plex Sans Arabic",
+      "font_family_name": "IBM Plex Sans Arabic",
+      "cmap_count": 1032,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 82,
+        "bounds": [
+          142.0,
+          207,
+          818.0,
+          315
+        ],
+        "text": "تَصْمِيمٌ مُبْدِعٌ لِلْمُحْتَوَى"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 40,
+        "bounds": [
+          338.0,
+          350,
+          622.0,
+          390
+        ],
+        "text": "حروف عربية متصلة"
+      },
+      "arabic_shaping": {
+        "missing_glyph_count": 0,
+        "glyph_count": 32,
+        "glyph_ids": [
+          989,
+          1600,
+          971,
+          1600,
+          321,
+          1573,
+          606,
+          1655,
+          916,
+          1573,
+          381,
+          1601,
+          477,
+          3,
+          1672,
+          738,
+          1601,
+          659,
+          1573,
+          316,
+          1655,
+          920,
+          3,
+          1672,
+          912,
+          336,
+          1601,
+          916,
+          1573,
+          710,
+          1600,
+          394
+        ],
+        "x_advance": 8243,
+        "mark_zero_advance_count": 14
+      },
+      "quran": null
+    },
+    {
+      "id": "FT0026",
+      "family": "Space Grotesk",
+      "font_family_name": "Space Grotesk",
+      "cmap_count": 735,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          191.5,
+          207,
+          768.5,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          306.5,
+          337,
+          653.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0027",
+      "family": "Sora",
+      "font_family_name": "Sora",
+      "cmap_count": 378,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          170.0,
+          207,
+          790.0,
+          266
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          283.0,
+          337,
+          677.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0028",
+      "family": "Plus Jakarta Sans",
+      "font_family_name": "Plus Jakarta Sans",
+      "cmap_count": 721,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          194.0,
+          207,
+          766.0,
+          266
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          295.0,
+          337,
+          665.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0029",
+      "family": "Manrope",
+      "font_family_name": "Manrope",
+      "cmap_count": 678,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          211.0,
+          207,
+          749.0,
+          264
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          311.5,
+          337,
+          648.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0030",
+      "family": "Outfit",
+      "font_family_name": "Outfit",
+      "cmap_count": 360,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          214.0,
+          207,
+          746.0,
+          261
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          300.0,
+          337,
+          660.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0031",
+      "family": "DM Sans",
+      "font_family_name": "DM Sans",
+      "cmap_count": 403,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          198.5,
+          207,
+          761.5,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          304.0,
+          337,
+          656.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0032",
+      "family": "Montserrat",
+      "font_family_name": "Montserrat",
+      "cmap_count": 1312,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          188.5,
+          207,
+          771.5,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          282.0,
+          337,
+          678.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0033",
+      "family": "Poppins",
+      "font_family_name": "Poppins",
+      "cmap_count": 471,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          180.0,
+          207,
+          780.0,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          302.5,
+          337,
+          657.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0034",
+      "family": "Raleway",
+      "font_family_name": "Raleway",
+      "cmap_count": 936,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          214.0,
+          207,
+          746.0,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          296.5,
+          337,
+          663.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0035",
+      "family": "Urbanist",
+      "font_family_name": "Urbanist",
+      "cmap_count": 491,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          215.0,
+          207,
+          745.0,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          307.0,
+          337,
+          653.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0036",
+      "family": "Lexend",
+      "font_family_name": "Lexend",
+      "cmap_count": 685,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          187.0,
+          207,
+          773.0,
+          267
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          284.0,
+          337,
+          676.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0037",
+      "family": "Syne",
+      "font_family_name": "Syne",
+      "cmap_count": 470,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          212.0,
+          207,
+          748.0,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          302.0,
+          337,
+          658.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0038",
+      "family": "Unbounded",
+      "font_family_name": "Unbounded",
+      "cmap_count": 1138,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          114.0,
+          207,
+          846.0,
+          268
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          246.5,
+          337,
+          713.5,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0039",
+      "family": "Archivo",
+      "font_family_name": "Archivo",
+      "cmap_count": 653,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          205.0,
+          207,
+          755.0,
+          264
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          288.5,
+          337,
+          671.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0040",
+      "family": "Barlow",
+      "font_family_name": "Barlow",
+      "cmap_count": 525,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          223.0,
+          207,
+          737.0,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          314.5,
+          337,
+          645.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0041",
+      "family": "Oswald",
+      "font_family_name": "Oswald",
+      "cmap_count": 850,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          262.5,
+          207,
+          697.5,
+          271
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          339.5,
+          337,
+          620.5,
+          358
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0042",
+      "family": "Bebas Neue",
+      "font_family_name": "Bebas Neue",
+      "cmap_count": 461,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          279.5,
+          207,
+          680.5,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          369.5,
+          337,
+          590.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0043",
+      "family": "Anton",
+      "font_family_name": "Anton",
+      "cmap_count": 978,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          240.0,
+          207,
+          720.0,
+          278
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          345.0,
+          337,
+          615.0,
+          359
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0044",
+      "family": "League Spartan",
+      "font_family_name": "League Spartan",
+      "cmap_count": 561,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          245.5,
+          207,
+          714.5,
+          259
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          327.0,
+          337,
+          633.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0045",
+      "family": "Josefin Sans",
+      "font_family_name": "Josefin Sans",
+      "cmap_count": 574,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          228.5,
+          207,
+          731.5,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          294.0,
+          337,
+          666.0,
+          358
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0046",
+      "family": "Cormorant Garamond",
+      "font_family_name": "Cormorant Garamond",
+      "cmap_count": 974,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          235.0,
+          207,
+          725.0,
+          258
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          299.5,
+          337,
+          660.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0047",
+      "family": "Playfair Display",
+      "font_family_name": "Playfair Display",
+      "cmap_count": 659,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          206.5,
+          207,
+          753.5,
+          267
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          298.5,
+          337,
+          661.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0048",
+      "family": "DM Serif Display",
+      "font_family_name": "DM Serif Display",
+      "cmap_count": 333,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          214.5,
+          207,
+          745.5,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          309.0,
+          337,
+          651.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0049",
+      "family": "Cinzel",
+      "font_family_name": "Cinzel",
+      "cmap_count": 367,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          137.5,
+          207,
+          822.5,
+          264
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          287.0,
+          337,
+          673.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0050",
+      "family": "Bodoni Moda",
+      "font_family_name": "Bodoni Moda",
+      "cmap_count": 428,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          200.5,
+          207,
+          759.5,
+          268
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          283.0,
+          337,
+          677.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0051",
+      "family": "Prata",
+      "font_family_name": "Prata",
+      "cmap_count": 521,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          186.0,
+          207,
+          774.0,
+          272
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          271.0,
+          337,
+          689.0,
+          358
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0052",
+      "family": "Italiana",
+      "font_family_name": "Italiana",
+      "cmap_count": 211,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          229.5,
+          207,
+          730.5,
+          260
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          313.0,
+          337,
+          647.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0053",
+      "family": "Marcellus",
+      "font_family_name": "Marcellus",
+      "cmap_count": 368,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          195.5,
+          207,
+          764.5,
+          264
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          298.0,
+          337,
+          662.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0054",
+      "family": "Forum",
+      "font_family_name": "Forum",
+      "cmap_count": 578,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          232.5,
+          207,
+          727.5,
+          259
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          322.0,
+          337,
+          638.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0055",
+      "family": "Libre Baskerville",
+      "font_family_name": "Libre Baskerville",
+      "cmap_count": 789,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          163.0,
+          207,
+          797.0,
+          269
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          256.5,
+          337,
+          703.5,
+          357
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0056",
+      "family": "EB Garamond",
+      "font_family_name": "EB Garamond",
+      "cmap_count": 2091,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          238.5,
+          207,
+          721.5,
+          261
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          292.5,
+          337,
+          667.5,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0057",
+      "family": "Lora",
+      "font_family_name": "Lora",
+      "cmap_count": 778,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          195.0,
+          207,
+          765.0,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          289.5,
+          337,
+          670.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0058",
+      "family": "Fraunces",
+      "font_family_name": "Fraunces",
+      "cmap_count": 624,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          165.5,
+          207,
+          794.5,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          263.5,
+          337,
+          696.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0059",
+      "family": "Newsreader",
+      "font_family_name": "Newsreader",
+      "cmap_count": 564,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          225.0,
+          207,
+          735.0,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          292.0,
+          337,
+          668.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0060",
+      "family": "Instrument Serif",
+      "font_family_name": "Instrument Serif",
+      "cmap_count": 333,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          276.5,
+          207,
+          683.5,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          343.5,
+          337,
+          616.5,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0061",
+      "family": "Gloock",
+      "font_family_name": "Gloock",
+      "cmap_count": 446,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          198.0,
+          207,
+          762.0,
+          269
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          288.0,
+          337,
+          672.0,
+          357
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0062",
+      "family": "Abril Fatface",
+      "font_family_name": "Abril Fatface",
+      "cmap_count": 394,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          200.0,
+          207,
+          760.0,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          291.5,
+          337,
+          668.5,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0063",
+      "family": "Yeseva One",
+      "font_family_name": "Yeseva One",
+      "cmap_count": 652,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          171.0,
+          207,
+          789.0,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          284.0,
+          337,
+          676.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0064",
+      "family": "Bricolage Grotesque",
+      "font_family_name": "Bricolage Grotesque",
+      "cmap_count": 527,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          212.0,
+          207,
+          748.0,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          312.0,
+          337,
+          648.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0065",
+      "family": "DM Mono",
+      "font_family_name": "DM Mono",
+      "cmap_count": 381,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          138.0,
+          207,
+          822.0,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          300.0,
+          337,
+          660.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0066",
+      "family": "Space Mono",
+      "font_family_name": "Space Mono",
+      "cmap_count": 624,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          131.0,
+          207,
+          829.0,
+          263
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          296.5,
+          337,
+          663.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0067",
+      "family": "IBM Plex Mono",
+      "font_family_name": "IBM Plex Mono",
+      "cmap_count": 930,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          138.0,
+          207,
+          822.0,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          300.0,
+          337,
+          660.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0068",
+      "family": "JetBrains Mono",
+      "font_family_name": "JetBrains Mono",
+      "cmap_count": 976,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          138.0,
+          207,
+          822.0,
+          268
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          300.0,
+          337,
+          660.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0069",
+      "family": "Orbitron",
+      "font_family_name": "Orbitron",
+      "cmap_count": 207,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          151.0,
+          207,
+          809.0,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          261.0,
+          337,
+          699.0,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0070",
+      "family": "Rajdhani",
+      "font_family_name": "Rajdhani",
+      "cmap_count": 465,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          239.5,
+          207,
+          720.5,
+          261
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          333.0,
+          337,
+          627.0,
+          353
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0071",
+      "family": "Oxanium",
+      "font_family_name": "Oxanium",
+      "cmap_count": 357,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          209.0,
+          207,
+          751.0,
+          260
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          305.5,
+          337,
+          654.5,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0072",
+      "family": "Audiowide",
+      "font_family_name": "Audiowide",
+      "cmap_count": 366,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          142.5,
+          207,
+          817.5,
+          266
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          259.5,
+          337,
+          700.5,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0073",
+      "family": "Exo 2",
+      "font_family_name": "Exo 2",
+      "cmap_count": 911,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          207.0,
+          207,
+          753.0,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          308.5,
+          337,
+          651.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0074",
+      "family": "Teko",
+      "font_family_name": "Teko",
+      "cmap_count": 424,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          322.0,
+          207,
+          638.0,
+          258
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          383.0,
+          337,
+          577.0,
+          352
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0075",
+      "family": "Russo One",
+      "font_family_name": "Russo One",
+      "cmap_count": 410,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          176.0,
+          207,
+          784.0,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          282.0,
+          337,
+          678.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0076",
+      "family": "Chakra Petch",
+      "font_family_name": "Chakra Petch",
+      "cmap_count": 725,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          210.0,
+          207,
+          750.0,
+          260
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          306.5,
+          337,
+          653.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0077",
+      "family": "Saira Condensed",
+      "font_family_name": "Saira Condensed",
+      "cmap_count": 608,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          272.0,
+          207,
+          688.0,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          346.0,
+          337,
+          614.0,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0078",
+      "family": "Quantico",
+      "font_family_name": "Quantico",
+      "cmap_count": 258,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          196.5,
+          207,
+          763.5,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          299.5,
+          337,
+          660.5,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0079",
+      "family": "VT323",
+      "font_family_name": "VT323",
+      "cmap_count": 568,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          252.0,
+          207,
+          708.0,
+          250
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          360.0,
+          337,
+          600.0,
+          351
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0080",
+      "family": "Rubik Mono One",
+      "font_family_name": "Rubik Mono One",
+      "cmap_count": 652,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 65,
+        "bounds": [
+          65.5,
+          207,
+          894.5,
+          254
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          225.0,
+          337,
+          735.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0081",
+      "family": "Righteous",
+      "font_family_name": "Righteous",
+      "cmap_count": 369,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          200.0,
+          207,
+          760.0,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          299.0,
+          337,
+          661.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0082",
+      "family": "Passion One",
+      "font_family_name": "Passion One",
+      "cmap_count": 269,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          257.5,
+          207,
+          702.5,
+          257
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          341.5,
+          337,
+          618.5,
+          352
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0083",
+      "family": "Fugaz One",
+      "font_family_name": "Fugaz One",
+      "cmap_count": 226,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          176.5,
+          207,
+          783.5,
+          267
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          296.5,
+          337,
+          663.5,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0084",
+      "family": "Alfa Slab One",
+      "font_family_name": "Alfa Slab One",
+      "cmap_count": 671,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          149.5,
+          207,
+          810.5,
+          268
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          258.5,
+          337,
+          701.5,
+          356
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0085",
+      "family": "Black Ops One",
+      "font_family_name": "Black Ops One",
+      "cmap_count": 693,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          155.5,
+          207,
+          804.5,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          281.5,
+          337,
+          678.5,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0086",
+      "family": "Paytone One",
+      "font_family_name": "Paytone One",
+      "cmap_count": 593,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          180.0,
+          207,
+          780.0,
+          267
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          294.0,
+          337,
+          666.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0087",
+      "family": "Patua One",
+      "font_family_name": "Patua One",
+      "cmap_count": 231,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          209.5,
+          207,
+          750.5,
+          264
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          305.0,
+          337,
+          655.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0088",
+      "family": "Chonburi",
+      "font_family_name": "Chonburi",
+      "cmap_count": 723,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          141.0,
+          207,
+          819.0,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          266.0,
+          337,
+          694.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0089",
+      "family": "Concert One",
+      "font_family_name": "Concert One",
+      "cmap_count": 229,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          215.0,
+          207,
+          745.0,
+          259
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          323.5,
+          337,
+          636.5,
+          354
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0090",
+      "family": "Fredoka",
+      "font_family_name": "Fredoka",
+      "cmap_count": 320,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          211.0,
+          207,
+          749.0,
+          261
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          299.5,
+          337,
+          660.5,
+          357
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0091",
+      "family": "Baloo 2",
+      "font_family_name": "Baloo 2",
+      "cmap_count": 856,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          220.0,
+          207,
+          740.0,
+          258
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          315.0,
+          337,
+          645.0,
+          352
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0092",
+      "family": "Comfortaa",
+      "font_family_name": "Comfortaa",
+      "cmap_count": 850,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          165.0,
+          207,
+          795.0,
+          268
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          280.5,
+          337,
+          679.5,
+          357
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0093",
+      "family": "Quicksand",
+      "font_family_name": "Quicksand",
+      "cmap_count": 694,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          208.5,
+          207,
+          751.5,
+          262
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          301.0,
+          337,
+          659.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0094",
+      "family": "Pacifico",
+      "font_family_name": "Pacifico",
+      "cmap_count": 805,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          212.0,
+          207,
+          748.0,
+          274
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          247.0,
+          337,
+          713.0,
+          372
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0095",
+      "family": "Allura",
+      "font_family_name": "Allura",
+      "cmap_count": 587,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          265.5,
+          207,
+          694.5,
+          257
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          292.0,
+          337,
+          668.0,
+          363
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0096",
+      "family": "Great Vibes",
+      "font_family_name": "Great Vibes",
+      "cmap_count": 1081,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          270.5,
+          207,
+          689.5,
+          279
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          204.5,
+          337,
+          755.5,
+          369
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0097",
+      "family": "Caveat",
+      "font_family_name": "Caveat",
+      "cmap_count": 753,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          275.5,
+          207,
+          684.5,
+          265
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          332.0,
+          337,
+          628.0,
+          358
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0098",
+      "family": "Kaushan Script",
+      "font_family_name": "Kaushan Script",
+      "cmap_count": 397,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": true,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          231.5,
+          207,
+          728.5,
+          270
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          292.0,
+          337,
+          668.0,
+          359
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0099",
+      "family": "Arvo",
+      "font_family_name": "Arvo",
+      "cmap_count": 226,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          177.0,
+          207,
+          783.0,
+          266
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          278.0,
+          337,
+          682.0,
+          355
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    },
+    {
+      "id": "FT0100",
+      "family": "Fjalla One",
+      "font_family_name": "Fjalla One",
+      "cmap_count": 700,
+      "all_outline_name_shaping_tables_preserved_in_woff2": true,
+      "woff2_head_normalization": [
+        "head.flags bit 11",
+        "head.checksumAdjustment"
+      ],
+      "woff2_signature_table_omitted": false,
+      "preview_bounds": {
+        "font_size": 76,
+        "bounds": [
+          251.0,
+          207,
+          709.0,
+          279
+        ],
+        "text": "Creative Motion"
+      },
+      "secondary_preview_bounds": {
+        "font_size": 25,
+        "bounds": [
+          342.0,
+          337,
+          618.0,
+          358
+        ],
+        "text": "PREMIUM VIDEO TYPOGRAPHY"
+      },
+      "arabic_shaping": null,
+      "quran": null
+    }
+  ]
+}
