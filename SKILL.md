@@ -5,6 +5,10 @@ description: Cipta, analisis atau kemas kini video animasi/motion grafik MP4 seh
 
 # Buat video motion grafik
 
+## Sediakan aset daripada salinan GitHub
+
+Salinan GitHub membungkus 1,500 fail SVG asal dalam `assets/svg_elements/svg-originals-1500.tar.xz`. Sebelum mencari, menyalin atau merender aset SVG, jalankan `python3 scripts/materialize_svg_assets.py` daripada folder skill. Skrip ini mengesahkan checksum arkib dan memulihkan semua fail asal ke `assets/svg_elements/files/`; selamat dijalankan semula. Kandungan SVG dan ID aset dikekalkan. Ikut skrip materialisasi sedia ada bagi pek fon dan media vlog yang turut diedarkan sebagai arkib.
+
 Hasilkan video sebenar yang boleh ditonton apabila pengguna meminta video siap. Jika pengguna bertanya kemampuan atau meminta analisis, jawab berdasarkan pemeriksaan sebenar tanpa mendakwa video baharu sudah dihasilkan. Utamakan video rujukan terbaru untuk gaya, tempo dan orientasi kandungan. Gunakan gaya **8 Pintu Rezeki** hanya apabila pengguna jelas merujuk projek itu; jangan jadikannya lalai bagi semua "video macam ni". Hormati gaya, tempoh, nisbah skrin, dan kandungan terbaru yang pengguna minta.
 
 ## Pautan catalog, katalog dan atlas
