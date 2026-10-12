@@ -1,0 +1,14 @@
+interface:
+  display_name: Buat Video Motion Grafik
+  short_description: 2,000 motion, 100 fon, preset, SVG, vlog dan montaj
+  default_prompt: Use $buat-video-motion-grafik to create a motion graphics, vlog
+    or montage video using suitable layered assets and Arabic fonts.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
