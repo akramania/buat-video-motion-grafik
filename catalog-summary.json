@@ -1,0 +1,12 @@
+{
+  "product": "Motion Atlas Studio",
+  "version": "1.0.0",
+  "total_creative_entries": 5042,
+  "motion_presets": {"total": 842, "core": 137, "guide_adaptations": 185, "preview_adaptations": 120, "premium_recipes": 400},
+  "motion_components": {"total": 2000, "design_families": 100, "structural_variations_per_family": 20},
+  "svg_assets": 1500,
+  "vlog_montage_assets": {"total": 600, "luts": 100, "transitions": 100, "animated_overlays": 100, "vlog_graphics": 100, "montage_graphics": 100, "sound_effects": 100},
+  "curated_font_families": 100,
+  "counting_note": "Counts describe catalog entries across separate collections, not the number of files or Adobe project templates. Font families are included in the 5,042 total.",
+  "verified_from": ["render.registry()", "assets/motion_array/index.json", "SVG original files", "vlog_montage collection indexes", "assets/fonts_creative_100/font_index.json"]
+}

@@ -1,0 +1,12 @@
+**/__pycache__/**
+**/*.pyc
+assets/svg_elements/files/**
+assets/fonts_creative_100/files/**
+assets/fonts_creative_100/licenses/**
+assets/vlog_montage/luts/**
+assets/vlog_montage/transitions/**
+assets/vlog_montage/overlays/**
+assets/vlog_montage/vlog_graphics/**
+assets/vlog_montage/montage_graphics/**
+assets/vlog_montage/sfx/**
+**/.bundle-ready.json
