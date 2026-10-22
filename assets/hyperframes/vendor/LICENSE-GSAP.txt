@@ -1,0 +1,7 @@
+GSAP 3.14.2 and included DrawSVGPlugin, MorphSVGPlugin, MotionPathPlugin, SplitText.
+Copyright (c) 2008-2025, GreenSock. All rights reserved.
+Distributed subject to GreenSock Standard No Charge License:
+https://gsap.com/standard-license
+The original @license headers are preserved in every distributed vendor file.
+This notice does not replace or relicense the upstream terms.
+Package source: https://www.npmjs.com/package/gsap/v/3.14.2
