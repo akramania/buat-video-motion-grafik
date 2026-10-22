@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "characters": 20,
+  "poses": 640,
+  "clips_fully_decoded": 480,
+  "png_near_edges": [],
+  "scope": "File/XML/alpha/framing-edge checks and full MP4 decoding; visual pose/prop checks performed separately. Not a motion-capture realism metric.",
+  "source_sha256": {
+    "source/characters.json": "f75c153648007447ce72b4e507feb248a19fa9dd5dc32199129d3e767d709969",
+    "source/character_renderer.cjs": "5579482bc90cb5d13859ffe2e02bf2eb006fa8583cf6d3b1229e6d0f709b5fbd",
+    "source/character_rig.cjs": "1b2d17fd35affba967264578bccc196cb79b11b2eab9e61d35df4bc6ea48f3c0",
+    "source/motion_library.cjs": "ecc99d835e4459dea0cb4cfc838dc66ec7e12e6e92c842e083e4d7f9a13b8aac",
+    "source/render_character.cjs": "f2624d3cce56515b5c4f376ef078c643d4b7a0f50f28a60394d728d087223017",
+    "source/export_motion_bank.cjs": "a7a00af6de3d4491fdde270c29b6ff05ad744efc28b227115da057a1e3984511"
+  },
+  "all_manifest_asset_hashes_match": true,
+  "preview_spec": {
+    "asset_role": "clips_preview; reusable MP4 action samples",
+    "width": 288,
+    "height": 480,
+    "fps": 24,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "background": "#f6f1e7",
+    "audio": false,
+    "production_export": "Use source/render_character.cjs to render from the vector rig at the master resolution or export transparent PNG frames."
+  },
+  "visual_review": "Original identities, all640poses rasterized, representative action/prop frames inspected; final think/typing/phone/seat fixes included. Two720x120030fps forward-use renders passed full decode."
+}

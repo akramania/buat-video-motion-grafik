@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "packages": [
+    {
+      "name": "1_Bank_Karakter_20_Watak_Multi_Sudut.zip",
+      "library_file_id": "libfile_6e4b7d347848819198b5eb831267df65",
+      "bytes": 100622,
+      "sha256": "f73fffc4c73f1e4fef0e950c2a9d8b528a5d31816c3097c6e7c8dd22224704b1"
+    },
+    {
+      "name": "2_Bank_Pergerakan_Karakter_42_Pose_34_Gerakan.zip",
+      "library_file_id": "libfile_838c14cca1588191bde7f812a4863cb6",
+      "bytes": 40541,
+      "sha256": "9df07d1f2eafe339df9d2ada429667fd14ffb6e2e396b9f3cbaca2d40a499748"
+    },
+    {
+      "name": "3_Enjin_Kamera_Vektor_dan_Dokumentasi_Skill.zip",
+      "library_file_id": "libfile_70d4ce4d88e081919e279a93b867dc12",
+      "bytes": 83957,
+      "sha256": "e330dc9215223c41748f3bbb60f20bce6e2b1d1109a3693d31e0b069569c723d"
+    }
+  ],
+  "integration": "Core source installed and corrected; Gemini SKILL.md merged selectively. Duplicate .js modules are compatibility aliases. Fake sharp shim not installed; native sharp retains gradients. V2 cache preserved separately."
+}

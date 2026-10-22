@@ -1,0 +1,195 @@
+{
+  "version": "3.0",
+  "date_utc": "2026-10-20T04:22:18.604475+00:00",
+  "status": "passed",
+  "characters": 20,
+  "pose_definitions": 42,
+  "motion_definitions": 34,
+  "views": [
+    "front",
+    "back",
+    "side_right",
+    "side_left",
+    "three_quarter_right",
+    "three_quarter_left"
+  ],
+  "pose_raster_checks": {
+    "count": 840,
+    "width": 120,
+    "height": 200,
+    "duplicate_svg_ids": 0,
+    "nonfinite_values": 0,
+    "alpha_edge_pixels": 0
+  },
+  "sampled_motion_geometry": {
+    "states": 41480,
+    "characters": 20,
+    "motions_per_character": 34,
+    "samples_per_motion": 61,
+    "finite_landmarks": true,
+    "max_fixed_foot_plane_error_svg_units": 1.1368683772161603e-13
+  },
+  "actual_new_motion_clips": [
+    {
+      "id": "turn_back_to_front",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "87",
+      "duration": 3.625
+    },
+    {
+      "id": "turn_left_to_right",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "77",
+      "duration": 3.208333
+    },
+    {
+      "id": "walk_side_right",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "58",
+      "duration": 2.416667
+    },
+    {
+      "id": "walk_side_left",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "58",
+      "duration": 2.416667
+    },
+    {
+      "id": "sigh_tired",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "96",
+      "duration": 4.0
+    },
+    {
+      "id": "wipe_tears_sleeve",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "92",
+      "duration": 3.833333
+    },
+    {
+      "id": "sit_eat_drink",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "108",
+      "duration": 4.5
+    },
+    {
+      "id": "dua_khusyuk",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "120",
+      "duration": 5.0
+    },
+    {
+      "id": "call_phone_converse",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "108",
+      "duration": 4.5
+    },
+    {
+      "id": "ride_motorcycle",
+      "full_decode": "passed",
+      "codec_name": "h264",
+      "width": 180,
+      "height": 300,
+      "pix_fmt": "yuv420p",
+      "avg_frame_rate": "24/1",
+      "nb_frames": "72",
+      "duration": 3.0
+    }
+  ],
+  "subset_export": {
+    "characters": [
+      "P04"
+    ],
+    "pose_svg_count": 42,
+    "pose_png_count": 42,
+    "motion_recipe_count": 34,
+    "motion_clip_count": 0
+  },
+  "camera_demo": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "frames": 60,
+    "duration_seconds": 2,
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "full_decode": "passed"
+  },
+  "forward_use": {
+    "tasks": [
+      "Hijab teen walks left across screen",
+      "Adult male true-back PNG",
+      "Standalone Python camera MP4"
+    ],
+    "result": "passed",
+    "followups": [
+      "Documented side walk loops vs walk_across travel",
+      "Covered hijab ears and corrected side opening",
+      "Removed hidden trouser spikes and smoothed garment silhouette during stride",
+      "Static eat pose now includes table/meal and hand targets"
+    ]
+  },
+  "visual_checks": [
+    "Six views of representative male and hijab adult",
+    "Ten new action keyframes",
+    "Rechecked P04 stride after garment/hijab fixes",
+    "Rechecked dua and seated meal keyframes",
+    "Python camera demo frame"
+  ],
+  "scope": "840 pose rasters at QA size, 41,480 numeric motion states and ten newly encoded action clips; not all 680 character/motion production clips. Source/recipes are reusable; V2 bundled cache remains V2. Original 16-scene Python project not rendered because its audio/font/RMS inputs were not supplied.",
+  "source_sha256": {
+    "characters.json": "9bee3b1f704d8a3866d94d4e7a7c6de3afaef447c23a6490915d290a9cb8f7e9",
+    "character_renderer.cjs": "fe4c0fe68c9f64787e3e37706942cc0f24f39e8f624e2e47f70d6d70056b20df",
+    "character_rig.cjs": "f8fb7e316784ef1a5c969e4430763cd481fb5eb6edad97a35e670e8beffff5da",
+    "motion_library.cjs": "28329d43e5c37077f75bfc43c3a7add9bfcd3a78509e219d4187e4521c40061d",
+    "render_character.cjs": "75f77bf7a81070dfb0184d398e7a8bc2b73f7b48c8b65e75b45b4e5c316ffb7b",
+    "export_motion_bank.cjs": "eccdf3d6ae3d72fe3d6c201d33f9d76212c72f371be3fa65bcd31dde9956b618",
+    "motion_catalog.json": "feea31c31a61f3b2bcb52d172d69cadde667ce9dd4a05f65d850cd85f0774f38"
+  },
+  "camera_source_sha256": "c0dd8a1a3695a7fb5a4fd2e0490b586a366f946e3c014f66c23e04adc4e8525c"
+}
