@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><title>Offline vector motion demo</title>
+<style>html,body{margin:0;overflow:hidden;background:#091e32}canvas{display:block;width:100vw;height:100vh}</style>
+<canvas id="scene"></canvas>
+<script src="canvas_scene.cjs"></script>
+<script>
+'use strict';
+const canvas=document.getElementById('scene');
+window.renderFrame=async function(t){
+  canvas.width=innerWidth;canvas.height=innerHeight;
+  await CanvasScene.renderFrame(canvas.getContext('2d'),t,canvas.width,canvas.height);
+};
+</script></html>
