@@ -1,0 +1,940 @@
+{
+  "schema_version": 1,
+  "language": "ms-MY",
+  "title": "Bank 42 Pose dan 34 Gerakan untuk 20 Watak",
+  "poses": [
+    {
+      "id": "stand_relaxed",
+      "label": "Berdiri santai",
+      "view": "front",
+      "tags": [
+        "asas",
+        "berdiri"
+      ],
+      "prop": null
+    },
+    {
+      "id": "stand_welcome",
+      "label": "Menyambut dengan tapak tangan terbuka",
+      "view": "front",
+      "tags": [
+        "salam",
+        "berdiri"
+      ],
+      "prop": null
+    },
+    {
+      "id": "stand_confident",
+      "label": "Berdiri yakin, satu tangan di pinggang",
+      "view": "three_quarter",
+      "tags": [
+        "yakin",
+        "berdiri"
+      ],
+      "prop": null
+    },
+    {
+      "id": "wave_hello",
+      "label": "Melambai salam",
+      "view": "front",
+      "tags": [
+        "salam",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "explain_one_hand",
+      "label": "Menerang dengan sebelah tangan",
+      "view": "three_quarter",
+      "tags": [
+        "penerangan",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "explain_two_hands",
+      "label": "Menerang dengan kedua-dua tangan",
+      "view": "front",
+      "tags": [
+        "penerangan",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "point_left",
+      "label": "Menunjuk ke kiri skrin",
+      "view": "front",
+      "tags": [
+        "tunjuk",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "point_right",
+      "label": "Menunjuk ke kanan skrin",
+      "view": "front",
+      "tags": [
+        "tunjuk",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "point_up",
+      "label": "Menunjuk ke atas",
+      "view": "front",
+      "tags": [
+        "tunjuk",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "think",
+      "label": "Berfikir sambil menyentuh dagu",
+      "view": "three_quarter",
+      "tags": [
+        "emosi",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "listen",
+      "label": "Mendengar dengan perhatian",
+      "view": "three_quarter",
+      "tags": [
+        "emosi",
+        "berdiri"
+      ],
+      "prop": null
+    },
+    {
+      "id": "ask_question",
+      "label": "Bertanya dengan satu tapak terbuka",
+      "view": "front",
+      "tags": [
+        "emosi",
+        "penerangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "read_book",
+      "label": "Membaca buku terbuka",
+      "view": "three_quarter",
+      "tags": [
+        "prop",
+        "buku"
+      ],
+      "prop": "book"
+    },
+    {
+      "id": "use_phone",
+      "label": "Melihat telefon di tangan",
+      "view": "three_quarter",
+      "tags": [
+        "prop",
+        "telefon"
+      ],
+      "prop": "phone"
+    },
+    {
+      "id": "call_phone",
+      "label": "Menelefon dengan sopan",
+      "view": "three_quarter",
+      "tags": [
+        "prop",
+        "telefon"
+      ],
+      "prop": "phone"
+    },
+    {
+      "id": "type_laptop",
+      "label": "Menaip pada komputer riba",
+      "view": "side",
+      "tags": [
+        "prop",
+        "komputer"
+      ],
+      "prop": "laptop"
+    },
+    {
+      "id": "carry_box",
+      "label": "Memegang kotak dengan dua tangan",
+      "view": "front",
+      "tags": [
+        "prop",
+        "kotak"
+      ],
+      "prop": "box"
+    },
+    {
+      "id": "reach_forward",
+      "label": "Menghulur tangan ke hadapan",
+      "view": "side",
+      "tags": [
+        "capaian",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "pick_low",
+      "label": "Mencapai objek rendah dengan lutut lembut",
+      "view": "three_quarter",
+      "tags": [
+        "capaian",
+        "rendah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "sit_upright",
+      "label": "Duduk tegak di kerusi",
+      "view": "side",
+      "tags": [
+        "duduk",
+        "kerusi"
+      ],
+      "prop": "chair"
+    },
+    {
+      "id": "sit_relaxed",
+      "label": "Duduk santai dengan tangan di paha",
+      "view": "side",
+      "tags": [
+        "duduk",
+        "kerusi"
+      ],
+      "prop": "chair"
+    },
+    {
+      "id": "sit_read",
+      "label": "Duduk sambil membaca",
+      "view": "side",
+      "tags": [
+        "duduk",
+        "buku"
+      ],
+      "prop": "book"
+    },
+    {
+      "id": "kneel",
+      "label": "Melutut sebelah lutut",
+      "view": "three_quarter",
+      "tags": [
+        "melutut",
+        "rendah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "kneel_reach",
+      "label": "Melutut sambil menghulur tangan",
+      "view": "three_quarter",
+      "tags": [
+        "melutut",
+        "capaian"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_contact_left",
+      "label": "Langkah berjalan: kaki kiri menyentuh",
+      "view": "three_quarter",
+      "tags": [
+        "kunci_berjalan",
+        "langkah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_contact_right",
+      "label": "Langkah berjalan: kaki kanan menyentuh",
+      "view": "three_quarter",
+      "tags": [
+        "kunci_berjalan",
+        "langkah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_pass_left",
+      "label": "Langkah berjalan: kaki kiri melintas",
+      "view": "three_quarter",
+      "tags": [
+        "kunci_berjalan",
+        "langkah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_pass_right",
+      "label": "Langkah berjalan: kaki kanan melintas",
+      "view": "three_quarter",
+      "tags": [
+        "kunci_berjalan",
+        "langkah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "run_contact_left",
+      "label": "Kunci joging perlahan: kiri",
+      "view": "three_quarter",
+      "tags": [
+        "kunci_joging",
+        "langkah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "run_contact_right",
+      "label": "Kunci joging perlahan: kanan",
+      "view": "three_quarter",
+      "tags": [
+        "kunci_joging",
+        "langkah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "arms_folded",
+      "label": "Tangan bersilang longgar",
+      "view": "front",
+      "tags": [
+        "berdiri",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "celebrate",
+      "label": "Gembira dengan dua tangan diangkat",
+      "view": "front",
+      "tags": [
+        "emosi",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "stand_back",
+      "label": "Berdiri menghadap belakang (pandangan belakang penuh)",
+      "view": "back",
+      "tags": [
+        "asas",
+        "berdiri",
+        "belakang"
+      ],
+      "prop": null
+    },
+    {
+      "id": "look_sky_back",
+      "label": "Memandang langit/ufuk dari belakang",
+      "view": "back",
+      "tags": [
+        "emosi",
+        "belakang",
+        "reflektif"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_side_right",
+      "label": "Melangkah profil sisi menghadap kanan",
+      "view": "side_right",
+      "tags": [
+        "kunci_berjalan",
+        "sisi_kanan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_side_left",
+      "label": "Melangkah profil sisi menghadap kiri",
+      "view": "side_left",
+      "tags": [
+        "kunci_berjalan",
+        "sisi_kiri"
+      ],
+      "prop": null
+    },
+    {
+      "id": "sit_side_eat",
+      "label": "Duduk di meja makan & minum (profil sisi kanan)",
+      "view": "side_right",
+      "tags": [
+        "duduk",
+        "makan",
+        "sisi_kanan"
+      ],
+      "prop": "meal"
+    },
+    {
+      "id": "call_phone_left",
+      "label": "Menelefon menghadap suku kiri (telefon di telinga)",
+      "view": "three_quarter_left",
+      "tags": [
+        "prop",
+        "telefon",
+        "suku_kiri"
+      ],
+      "prop": "phone"
+    },
+    {
+      "id": "dua_stand",
+      "label": "Berdiri menadah kedua-dua tapak tangan berdoa",
+      "view": "three_quarter_right",
+      "tags": [
+        "ibadah",
+        "doa",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "dua_sit",
+      "label": "Melutut rendah sambil menadah tangan berdoa",
+      "view": "three_quarter_right",
+      "tags": [
+        "ibadah",
+        "doa",
+        "duduk"
+      ],
+      "prop": null
+    },
+    {
+      "id": "touch_lanyard",
+      "label": "Memegang tali lanyard / kad kerja di dada",
+      "view": "front",
+      "tags": [
+        "emosi",
+        "pekerja",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "wipe_tear",
+      "label": "Mengelap air mata dengan hujung lengan baju",
+      "view": "front",
+      "tags": [
+        "emosi",
+        "sebak",
+        "tangan"
+      ],
+      "prop": null
+    }
+  ],
+  "motions": [
+    {
+      "id": "idle_breathe",
+      "label": "Diam hidup: pernafasan dan kelipan",
+      "duration": 4,
+      "loop": true,
+      "view": "front",
+      "tags": [
+        "asas",
+        "gelung"
+      ],
+      "prop": null
+    },
+    {
+      "id": "wave_hello",
+      "label": "Angkat tangan, melambai dan kembali",
+      "duration": 4,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "salam",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "nod_yes",
+      "label": "Mengangguk setuju",
+      "duration": 2.8,
+      "loop": false,
+      "view": "three_quarter",
+      "tags": [
+        "kepala",
+        "emosi"
+      ],
+      "prop": null
+    },
+    {
+      "id": "shake_no",
+      "label": "Menggeleng perlahan",
+      "duration": 3,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "kepala",
+        "emosi"
+      ],
+      "prop": null
+    },
+    {
+      "id": "explain_one_hand",
+      "label": "Penerangan dengan satu tangan",
+      "duration": 4.8,
+      "loop": false,
+      "view": "three_quarter",
+      "tags": [
+        "penerangan",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "explain_two_hands",
+      "label": "Penerangan dengan dua tangan berurutan",
+      "duration": 5,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "penerangan",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "point_left",
+      "label": "Menunjuk ke kiri dan kembali",
+      "duration": 3.8,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "tunjuk",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "point_right",
+      "label": "Menunjuk ke kanan dan kembali",
+      "duration": 3.8,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "tunjuk",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "point_up",
+      "label": "Menunjuk ke atas dan kembali",
+      "duration": 3.8,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "tunjuk",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "shrug",
+      "label": "Mengangkat bahu dan tapak tangan",
+      "duration": 3.6,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "emosi",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "celebrate_gentle",
+      "label": "Meraikan dengan gerakan terkawal",
+      "duration": 4,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "emosi",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "think",
+      "label": "Berhenti, berfikir dan kembali",
+      "duration": 4.5,
+      "loop": false,
+      "view": "three_quarter",
+      "tags": [
+        "emosi",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "reach_forward",
+      "label": "Bersedia, menghulur dan menarik tangan",
+      "duration": 4,
+      "loop": false,
+      "view": "side",
+      "tags": [
+        "capaian",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "pick_up_phone",
+      "label": "Mencapai, menggenggam dan melihat telefon",
+      "duration": 5,
+      "loop": false,
+      "view": "three_quarter",
+      "tags": [
+        "prop",
+        "telefon"
+      ],
+      "prop": "phone"
+    },
+    {
+      "id": "read_book",
+      "label": "Membaca buku dengan alihan perhatian",
+      "duration": 6,
+      "loop": true,
+      "view": "three_quarter",
+      "tags": [
+        "prop",
+        "buku",
+        "gelung"
+      ],
+      "prop": "book"
+    },
+    {
+      "id": "type_laptop",
+      "label": "Menaip dengan gerakan jari dan kepala",
+      "duration": 5,
+      "loop": true,
+      "view": "side",
+      "tags": [
+        "prop",
+        "komputer",
+        "gelung"
+      ],
+      "prop": "laptop"
+    },
+    {
+      "id": "carry_box",
+      "label": "Mengangkat dan menahan kotak",
+      "duration": 5,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "prop",
+        "kotak"
+      ],
+      "prop": "box"
+    },
+    {
+      "id": "walk_in_place",
+      "label": "Berjalan setempat pada permukaan bergerak",
+      "duration": 2.4,
+      "loop": true,
+      "view": "three_quarter",
+      "tags": [
+        "berjalan",
+        "gelung"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_across",
+      "label": "Berjalan dua kitaran merentas skrin",
+      "duration": 6.4,
+      "loop": false,
+      "view": "three_quarter",
+      "tags": [
+        "berjalan",
+        "alih_posisi"
+      ],
+      "prop": null
+    },
+    {
+      "id": "step_side",
+      "label": "Melangkah ke sisi dan kembali",
+      "duration": 4,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "langkah",
+        "alih_posisi"
+      ],
+      "prop": null
+    },
+    {
+      "id": "sit_down",
+      "label": "Membengkokkan lutut lalu duduk",
+      "duration": 4.5,
+      "loop": false,
+      "view": "side",
+      "tags": [
+        "duduk",
+        "kerusi"
+      ],
+      "prop": "chair"
+    },
+    {
+      "id": "stand_up",
+      "label": "Bangun dari kerusi dan seimbang",
+      "duration": 4.5,
+      "loop": false,
+      "view": "side",
+      "tags": [
+        "duduk",
+        "kerusi"
+      ],
+      "prop": "chair"
+    },
+    {
+      "id": "kneel_down",
+      "label": "Turun melutut dengan sebelah lutut",
+      "duration": 5,
+      "loop": false,
+      "view": "three_quarter",
+      "tags": [
+        "melutut",
+        "rendah"
+      ],
+      "prop": null
+    },
+    {
+      "id": "look_around",
+      "label": "Memerhati kiri, kanan lalu kembali",
+      "duration": 4.8,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "kepala",
+        "perhatian"
+      ],
+      "prop": null
+    },
+    {
+      "id": "turn_back_to_front",
+      "label": "Berpusing badan dan kepala dari belakang ke hadapan",
+      "duration": 3.6,
+      "loop": false,
+      "view": "back",
+      "tags": [
+        "pusing_badan",
+        "alih_sudut"
+      ],
+      "prop": null
+    },
+    {
+      "id": "turn_left_to_right",
+      "label": "Berpusing badan dan kepala dari suku kiri ke suku kanan",
+      "duration": 3.2,
+      "loop": false,
+      "view": "three_quarter_left",
+      "tags": [
+        "pusing_badan",
+        "alih_sudut"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_side_right",
+      "label": "Berjalan profil sisi menghadap kanan sepenuhnya",
+      "duration": 2.4,
+      "loop": true,
+      "view": "side_right",
+      "tags": [
+        "berjalan",
+        "sisi_kanan",
+        "gelung"
+      ],
+      "prop": null
+    },
+    {
+      "id": "walk_side_left",
+      "label": "Berjalan profil sisi menghadap kiri sepenuhnya",
+      "duration": 2.4,
+      "loop": true,
+      "view": "side_left",
+      "tags": [
+        "berjalan",
+        "sisi_kiri",
+        "gelung"
+      ],
+      "prop": null
+    },
+    {
+      "id": "sigh_tired",
+      "label": "Mengeluh penat dengan bahu jatuh dan helaan nafas",
+      "duration": 4,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "emosi",
+        "penat",
+        "nafas"
+      ],
+      "prop": null
+    },
+    {
+      "id": "wipe_tears_sleeve",
+      "label": "Mengangkat lengan baju mengelap air mata yang bergenang",
+      "duration": 3.8,
+      "loop": false,
+      "view": "front",
+      "tags": [
+        "emosi",
+        "sebak",
+        "tangan"
+      ],
+      "prop": null
+    },
+    {
+      "id": "sit_eat_drink",
+      "label": "Duduk di meja menyuap makanan dan menghirup minuman",
+      "duration": 4.5,
+      "loop": true,
+      "view": "side_right",
+      "tags": [
+        "duduk",
+        "makan",
+        "gelung"
+      ],
+      "prop": "meal"
+    },
+    {
+      "id": "dua_khusyuk",
+      "label": "Menadah kedua-dua tapak tangan berdoa dengan khusyuk",
+      "duration": 5,
+      "loop": true,
+      "view": "three_quarter_right",
+      "tags": [
+        "ibadah",
+        "doa",
+        "gelung"
+      ],
+      "prop": null
+    },
+    {
+      "id": "call_phone_converse",
+      "label": "Berbual di telefon dengan anggukan kepala dan gerakan mulut",
+      "duration": 4.5,
+      "loop": true,
+      "view": "three_quarter_left",
+      "tags": [
+        "prop",
+        "telefon",
+        "dialog-contoh",
+        "gelung"
+      ],
+      "prop": "phone"
+    },
+    {
+      "id": "ride_motorcycle",
+      "label": "Menunggang motosikal kapcai memegang handlebar",
+      "duration": 3,
+      "loop": true,
+      "view": "side_right",
+      "tags": [
+        "kenderaan",
+        "motor",
+        "gelung"
+      ],
+      "prop": "motorcycle"
+    }
+  ],
+  "controls": {
+    "units": "SVG user units; angle degrees",
+    "frame": {
+      "viewBox": [
+        0,
+        0,
+        600,
+        1000
+      ],
+      "pelvis": [
+        300,
+        568
+      ],
+      "ground_ankle_y": 911,
+      "thigh_length": 184,
+      "shin_length": 159
+    },
+    "angle_convention": "0 = down; +90 = screen-right; -90 = screen-left. Limb angles global; headTilt relative torso. bodyLean positive moves shoulders screen-right.",
+    "numeric": [
+      "rootX",
+      "rootY",
+      "bodyLean",
+      "headTilt",
+      "leftUpperArm",
+      "leftForearm",
+      "rightUpperArm",
+      "rightForearm",
+      "leftThigh",
+      "rightThigh",
+      "leftShin",
+      "rightShin",
+      "footLeft",
+      "footRight",
+      "blink",
+      "mouthOpen",
+      "leftUpperArmScale",
+      "rightUpperArmScale"
+    ],
+    "projection_scales": "leftUpperArmScale/rightUpperArmScale are unitless foreshortening; default1. Phone and chin poses project an upper arm in depth to keep elbows below the face.",
+    "optional_numeric": [
+      "breath",
+      "headYaw",
+      "gazeX",
+      "shoulderLift",
+      "fingerTapLeft",
+      "fingerTapRight",
+      "propX",
+      "propY",
+      "propAngle"
+    ],
+    "hands": [
+      "relaxed",
+      "open",
+      "point",
+      "grip"
+    ],
+    "expressions": [
+      "neutral",
+      "happy",
+      "concerned",
+      "surprised"
+    ],
+    "props": [
+      "phone",
+      "book",
+      "box",
+      "laptop",
+      "chair",
+      "meal",
+      "motorcycle"
+    ],
+    "contacts": "left/right booleans; ground_mode fixed or treadmill; left_kind/right_kind foot/knee/swing; seat optional. treadmill velocity SVG units/second."
+  },
+  "usage": {
+    "pose": "poseState(poseId, character)",
+    "motion": "sampleMotion(motionId, seconds, character, {loop:false})",
+    "duration": "durationForCharacter(motionId, character)",
+    "transition": "transitionState(previousState, nextState, seconds, duration): use for compatible standing gestures. For posture changes use dedicated sit_down/stand_up/kneel_down clips to preserve foot contacts.",
+    "looping": "Native loop actions repeat with matching seams. Explicit loop:true on finite actions uses a continuous ping-pong over 2 x duration to avoid pose jumps.",
+    "clock": "Sample from frameIndex / fps. No wall-clock animation or unseeded randomness.",
+    "age": "Elders: duration x1.20, arm/head/body amplitude x0.87. Children: duration x1.04, amplitude x0.96. Teens: duration x0.96. Legs retain IK contact geometry.",
+    "walk_in_place": "Uses a moving-ground treadmill convention. For fixed-world foot contacts use walk_across.",
+    "scope": "34 authored action recipes, 42 authored key poses. New V3 actions have no bundled pre-rendered clip bank; export on demand. Optional secondary controls are enhancement hooks; renderer may ignore these without losing primary action. No speech/lip-sync is synthesized."
+  }
+}

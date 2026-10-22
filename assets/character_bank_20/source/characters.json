@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "L01",
+    "name": "Danish",
+    "sex": "male",
+    "age": 6,
+    "age_group": "kanak-kanak",
+    "height_cm": 118,
+    "body": {
+      "build": "average",
+      "head_shape": "round",
+      "skin": "#B97853"
+    },
+    "style": {
+      "outfit": "polo",
+      "top": "#CF7B45",
+      "bottom": "#485E69",
+      "accent": "#E9BC65",
+      "shoes": "#544A43"
+    },
+    "head": {
+      "hair": "curly",
+      "hair_color": "#302923",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Ingin tahu dan suka memerhati sesuatu dengan teliti.",
+    "signature_features": [
+      "Rambut keriting pendek dengan siluet bulat kecil",
+      "Pipi bulat dan kening pendek melengkung",
+      "Baju polo lengan panjang jingga tanah dengan seluar panjang biru kelabu"
+    ],
+    "use_cases": [
+      "Penerangan sains untuk kanak-kanak",
+      "Adegan kehidupan harian keluarga rekaan"
+    ],
+    "gestures": [
+      "Mengangkat satu tangan untuk bertanya",
+      "Membongkok sedikit untuk melihat objek",
+      "Mengira dengan jari pada paras dada"
+    ],
+    "consistency_rules": [
+      "Kekalkan tubuh kanak-kanak enam tahun dan tinggi 118 cm",
+      "Kekalkan siluet rambut keriting pendek yang sama merentas sudut",
+      "Semua pose memakai lengan panjang serta seluar panjang longgar",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L02",
+    "name": "Ilham",
+    "sex": "male",
+    "age": 10,
+    "age_group": "kanak-kanak",
+    "height_cm": 142,
+    "body": {
+      "build": "slender",
+      "head_shape": "oval",
+      "skin": "#D6A175"
+    },
+    "style": {
+      "outfit": "cardigan",
+      "top": "#6C8C77",
+      "bottom": "#535D72",
+      "accent": "#DDBB77",
+      "shoes": "#5B514C"
+    },
+    "head": {
+      "hair": "sidepart",
+      "hair_color": "#312B27",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "rect",
+      "facial_hair": "none"
+    },
+    "personality": "Tenang, imaginatif dan gemar mencuba kemahiran baharu.",
+    "signature_features": [
+      "Cermin mata segi empat kecil dengan bingkai nipis",
+      "Rambut belah sisi dengan satu jambul lembut",
+      "Kardigan hijau sage di atas baju berkolar dan seluar panjang"
+    ],
+    "use_cases": [
+      "Pembelajaran di sekolah",
+      "Demonstrasi aktiviti kreatif"
+    ],
+    "gestures": [
+      "Memegang buku dengan kedua-dua tangan",
+      "Menuding ke papan dengan tapak tangan terbuka",
+      "Mengangguk kecil semasa mendengar"
+    ],
+    "consistency_rules": [
+      "Kekalkan kepala oval dan cermin mata segi empat",
+      "Kardigan sentiasa menutupi baju dalam yang legap",
+      "Kekalkan panjang lengan serta kaki mengikut model sepuluh tahun",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L03",
+    "name": "Hakim",
+    "sex": "male",
+    "age": 14,
+    "age_group": "remaja",
+    "height_cm": 160,
+    "body": {
+      "build": "stocky",
+      "head_shape": "square",
+      "skin": "#A76D4C"
+    },
+    "style": {
+      "outfit": "shirt",
+      "top": "#668BA3",
+      "bottom": "#475362",
+      "accent": "#D1A75D",
+      "shoes": "#403F43"
+    },
+    "head": {
+      "hair": "crop",
+      "hair_color": "#282421",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Mesra, peka terhadap orang lain dan berani mengemukakan soalan.",
+    "signature_features": [
+      "Rambut crop dengan tepi siluet kemas",
+      "Rahang lembut berbentuk segi empat dan bahu agak lebar",
+      "Kemeja biru sederhana lengan panjang dengan poket tunggal"
+    ],
+    "use_cases": [
+      "Pendidikan menengah",
+      "Kerjasama kumpulan remaja"
+    ],
+    "gestures": [
+      "Mengangkat ibu jari berhampiran dada",
+      "Menerangkan idea dengan dua tapak tangan",
+      "Menoleh kepada rakan sebelum bercakap"
+    ],
+    "consistency_rules": [
+      "Kekalkan tubuh remaja dan rahang lembut tanpa janggut",
+      "Kekalkan poket tunggal di sebelah kiri kemeja",
+      "Bahu lebar tidak mengubah panjang tulang anggota semasa bergerak",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L04",
+    "name": "Rafiq",
+    "sex": "male",
+    "age": 17,
+    "age_group": "remaja",
+    "height_cm": 174,
+    "body": {
+      "build": "slender",
+      "head_shape": "long",
+      "skin": "#C88D63"
+    },
+    "style": {
+      "outfit": "kurta",
+      "top": "#967C9D",
+      "bottom": "#4B5066",
+      "accent": "#CDAE71",
+      "shoes": "#544B48"
+    },
+    "head": {
+      "hair": "wavy",
+      "hair_color": "#392B24",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Reflektif, suka mendengar dan menyampaikan idea secara tersusun.",
+    "signature_features": [
+      "Rambut beralun dengan jambul sisi yang panjang sedikit",
+      "Muka agak panjang dan hidung lurus sederhana",
+      "Kurta longgar ungu berdebu dengan seluar panjang gelap"
+    ],
+    "use_cases": [
+      "Penceritaan dari sudut remaja",
+      "Penerangan kemahiran belajar"
+    ],
+    "gestures": [
+      "Menyentuh dagu sambil berfikir",
+      "Membuka sebelah tapak tangan ketika menerangkan",
+      "Membetulkan kedudukan buku di meja"
+    ],
+    "consistency_rules": [
+      "Kekalkan jambul pada sisi model yang sama dalam semua sudut",
+      "Jangan menukar kurta kepada pakaian ketat",
+      "Kekalkan tinggi 174 cm ketika dibandingkan dengan watak lain",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L05",
+    "name": "Amir",
+    "sex": "male",
+    "age": 26,
+    "age_group": "dewasa",
+    "height_cm": 180,
+    "body": {
+      "build": "broad",
+      "head_shape": "heart",
+      "skin": "#AD7553"
+    },
+    "style": {
+      "outfit": "shirt",
+      "top": "#3F7A7B",
+      "bottom": "#485164",
+      "accent": "#D4B06A",
+      "shoes": "#4D4140"
+    },
+    "head": {
+      "hair": "sidepart",
+      "hair_color": "#272420",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "none",
+      "facial_hair": "goatee"
+    },
+    "personality": "Bertenaga, terbuka menerima idea dan teliti dalam menyiapkan kerja.",
+    "signature_features": [
+      "Bahu lebar dengan dagu agak tirus",
+      "Janggut goatee pendek yang kemas",
+      "Kemeja teal lengan panjang dengan butiran manset dan poket"
+    ],
+    "use_cases": [
+      "Explainer pekerjaan dan kemahiran",
+      "Presentasi produk atau perkhidmatan rekaan"
+    ],
+    "gestures": [
+      "Menyambut idea dengan tapak tangan terbuka",
+      "Menunjuk butiran pada skrin",
+      "Mengambil telefon dari meja dengan genggaman jelas"
+    ],
+    "consistency_rules": [
+      "Kekalkan goatee pendek pada dagu tanpa menambah misai tebal",
+      "Lebar bahu kekal konsisten merentas pose",
+      "Kemeja dan seluar sentiasa longgar serta legap",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L06",
+    "name": "Faris",
+    "sex": "male",
+    "age": 35,
+    "age_group": "dewasa",
+    "height_cm": 170,
+    "body": {
+      "build": "average",
+      "head_shape": "oval",
+      "skin": "#D39B72"
+    },
+    "style": {
+      "outfit": "baju_melayu",
+      "top": "#6D819B",
+      "bottom": "#52657C",
+      "accent": "#D6B564",
+      "shoes": "#453E3B"
+    },
+    "head": {
+      "hair": "curly",
+      "hair_color": "#342A25",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "round",
+      "facial_hair": "none"
+    },
+    "personality": "Sabar, teratur dan suka membantu orang memahami sesuatu.",
+    "signature_features": [
+      "Cermin mata bulat sederhana dengan bingkai gelap",
+      "Rambut keriting rapat di bahagian atas",
+      "Baju Melayu biru kelabu dengan samping ringkas di atas seluar panjang"
+    ],
+    "use_cases": [
+      "Penerangan komuniti",
+      "Adegan majlis dan perbualan sopan"
+    ],
+    "gestures": [
+      "Menyambut tetamu dengan tangan di dada",
+      "Menerangkan urutan menggunakan jari",
+      "Mendengar dengan kepala condong sedikit"
+    ],
+    "consistency_rules": [
+      "Kekalkan cermin mata bulat dan muka oval",
+      "Samping dipakai di atas seluar panjang tanpa menyingkatkan liputan",
+      "Tubuh kekal tegak secara natural tanpa gerakan berlebihan",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L07",
+    "name": "Nabil",
+    "sex": "male",
+    "age": 44,
+    "age_group": "dewasa",
+    "height_cm": 176,
+    "body": {
+      "build": "stocky",
+      "head_shape": "round",
+      "skin": "#8E5B41"
+    },
+    "style": {
+      "outfit": "polo",
+      "top": "#A5784F",
+      "bottom": "#465B55",
+      "accent": "#D9B975",
+      "shoes": "#433E39"
+    },
+    "head": {
+      "hair": "crop",
+      "hair_color": "#2D2723",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "none",
+      "facial_hair": "moustache"
+    },
+    "personality": "Praktikal, ramah dan suka menunjukkan langkah dengan jelas.",
+    "signature_features": [
+      "Misai pendek kemas dan pipi bulat",
+      "Rambut crop gelap dengan tepi siluet yang kemas",
+      "Polo perang oker lengan panjang dan seluar hijau arang"
+    ],
+    "use_cases": [
+      "Demonstrasi tugasan harian",
+      "Pendidikan keselamatan dan prosedur"
+    ],
+    "gestures": [
+      "Memegang objek dengan dua tangan untuk demonstrasi",
+      "Mengangkat tapak tangan sebagai isyarat berhenti lembut",
+      "Mengangguk sekali selepas menyelesaikan tugas"
+    ],
+    "consistency_rules": [
+      "Kekalkan misai pendek tanpa janggut tambahan",
+      "Kekalkan tona kulit dan warna rambut gelap yang sama",
+      "Bentuk tubuh stocky kekal seimbang dan tidak digambarkan secara karikatur",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L08",
+    "name": "Zaki",
+    "sex": "male",
+    "age": 53,
+    "age_group": "dewasa",
+    "height_cm": 166,
+    "body": {
+      "build": "slender",
+      "head_shape": "square",
+      "skin": "#BE865F"
+    },
+    "style": {
+      "outfit": "cardigan",
+      "top": "#786D82",
+      "bottom": "#4C5662",
+      "accent": "#C1A06B",
+      "shoes": "#514844"
+    },
+    "head": {
+      "hair": "wavy",
+      "hair_color": "#51483F",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "rect",
+      "facial_hair": "beard"
+    },
+    "personality": "Teliti, imaginatif dan gemar mempertimbangkan beberapa penyelesaian.",
+    "signature_features": [
+      "Janggut pendek kelabu gelap berbentuk kemas",
+      "Cermin mata segi empat mendatar",
+      "Kardigan plum kelabu di atas kemeja krim lengan panjang"
+    ],
+    "use_cases": [
+      "Perbincangan profesional",
+      "Penceritaan tentang keputusan dan perubahan"
+    ],
+    "gestures": [
+      "Menyusun kad atau nota di meja",
+      "Memegang bingkai cermin mata seketika",
+      "Membentangkan dua pilihan dengan tangan bergilir"
+    ],
+    "consistency_rules": [
+      "Kekalkan janggut pendek kelabu gelap dan bentuk rahang segi empat",
+      "Jangan membesarkan cermin mata apabila kamera mendekat",
+      "Kardigan dan kemeja dalam kekal legap pada setiap pose",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L09",
+    "name": "Rahman",
+    "sex": "male",
+    "age": 66,
+    "age_group": "warga emas",
+    "height_cm": 173,
+    "body": {
+      "build": "broad",
+      "head_shape": "long",
+      "skin": "#9B694B"
+    },
+    "style": {
+      "outfit": "kurta",
+      "top": "#60877C",
+      "bottom": "#455755",
+      "accent": "#D3B879",
+      "shoes": "#4C423B"
+    },
+    "head": {
+      "hair": "sidepart",
+      "hair_color": "#B2ACA3",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "none",
+      "facial_hair": "moustache"
+    },
+    "personality": "Aktif, tenang dan suka berkongsi pengalaman tanpa menguasai perbualan.",
+    "signature_features": [
+      "Rambut perak belah sisi yang masih lebat",
+      "Misai perak nipis dan muka panjang",
+      "Kurta hijau eucalyptus dengan butang tona emas lembut"
+    ],
+    "use_cases": [
+      "Pembelajaran sepanjang hayat",
+      "Perbualan antara generasi"
+    ],
+    "gestures": [
+      "Berjalan dengan langkah sederhana dan badan tegak",
+      "Menunjuk pemandangan dengan lengan santai",
+      "Ketawa kecil dengan bahu bergerak lembut"
+    ],
+    "consistency_rules": [
+      "Kekalkan postur tegak dan mobiliti natural mengikut adegan",
+      "Kekalkan rambut serta misai perak tanpa menambah bongkok",
+      "Kekalkan tubuh broad dan tinggi 173 cm",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "L10",
+    "name": "Hamdan",
+    "sex": "male",
+    "age": 75,
+    "age_group": "warga emas",
+    "height_cm": 162,
+    "body": {
+      "build": "average",
+      "head_shape": "oval",
+      "skin": "#D0A17D"
+    },
+    "style": {
+      "outfit": "shirt",
+      "top": "#B29B76",
+      "bottom": "#59616B",
+      "accent": "#778D84",
+      "shoes": "#514A42"
+    },
+    "head": {
+      "hair": "bald",
+      "hair_color": "#C9C4BC",
+      "hijab": "none",
+      "hijab_color": "#738675",
+      "glasses": "round",
+      "facial_hair": "none"
+    },
+    "personality": "Penyayang, ingin tahu dan selesa meminta penjelasan apabila perlu.",
+    "signature_features": [
+      "Bahagian atas kepala botak dengan rambut perak di sisi",
+      "Cermin mata bulat nipis dan garis senyum lembut",
+      "Kemeja pasir lengan panjang dengan seluar panjang kelabu biru"
+    ],
+    "use_cases": [
+      "Pendidikan kesihatan umum",
+      "Adegan membaca dan hobi"
+    ],
+    "gestures": [
+      "Membaca sambil memegang buku pada jarak selesa",
+      "Melambai kecil dari paras bahu",
+      "Menoleh dengan putaran kepala dan bahu yang lembut"
+    ],
+    "consistency_rules": [
+      "Kekalkan botak di atas dengan rambut perak hanya di sisi",
+      "Garis usia kekal halus dan tidak berubah menjadi karikatur",
+      "Jangan menambah alat bantuan pergerakan tanpa keperluan adegan",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P01",
+    "name": "Aina",
+    "sex": "female",
+    "age": 6,
+    "age_group": "kanak-kanak",
+    "height_cm": 116,
+    "body": {
+      "build": "average",
+      "head_shape": "round",
+      "skin": "#D7A079"
+    },
+    "style": {
+      "outfit": "dress",
+      "top": "#CB887D",
+      "bottom": "#9E6C72",
+      "accent": "#E1BC71",
+      "shoes": "#62504C"
+    },
+    "head": {
+      "hair": "bob",
+      "hair_color": "#3A2A24",
+      "hijab": "none",
+      "hijab_color": "#B48B9B",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Ceria, teliti dan suka menamakan benda yang baru dipelajari.",
+    "signature_features": [
+      "Rambut bob paras dagu dengan belah sisi yang kemas",
+      "Pipi bulat dan kening pendek",
+      "Gaun longgar lengan panjang warna ros tanah hingga buku lali"
+    ],
+    "use_cases": [
+      "Pembelajaran awal kanak-kanak",
+      "Aktiviti kreatif dan imaginatif"
+    ],
+    "gestures": [
+      "Melambai dengan siku sedikit bengkok",
+      "Memegang hasil kerja dengan kedua-dua tangan",
+      "Melihat objek dengan kepala condong sedikit"
+    ],
+    "consistency_rules": [
+      "Kekalkan wajah dan tubuh kanak-kanak enam tahun tanpa ciri dewasa",
+      "Kekalkan bentuk rambut bob dan kedudukan belah sisi yang sama",
+      "Gaun kekal longgar, legap dan panjang hingga buku lali",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P02",
+    "name": "Hana",
+    "sex": "female",
+    "age": 10,
+    "age_group": "kanak-kanak",
+    "height_cm": 138,
+    "body": {
+      "build": "slender",
+      "head_shape": "oval",
+      "skin": "#B77B56"
+    },
+    "style": {
+      "outfit": "tunic_trousers",
+      "top": "#739995",
+      "bottom": "#566B7C",
+      "accent": "#DBB66B",
+      "shoes": "#56504B"
+    },
+    "head": {
+      "hair": "braid",
+      "hair_color": "#302822",
+      "hijab": "instant",
+      "hijab_color": "#A6BFA9",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Suka mencuba, bekerjasama dan menerangkan penemuannya kepada rakan.",
+    "signature_features": [
+      "Tudung instant hijau lembut menutupi rambut serta dada",
+      "Muka oval kecil dengan senyuman terbuka",
+      "Tunik teal longgar hingga pertengahan paha dan seluar panjang"
+    ],
+    "use_cases": [
+      "Demonstrasi eksperimen sekolah",
+      "Pendidikan kerjasama dan komunikasi"
+    ],
+    "gestures": [
+      "Mengangkat tangan untuk meminta giliran",
+      "Menunjuk butiran dengan jari telunjuk",
+      "Membawa bekas kecil menggunakan dua tangan"
+    ],
+    "consistency_rules": [
+      "Rambut tersembunyi sepenuhnya dalam semua sudut bertudung",
+      "Kekalkan nisbah tubuh sepuluh tahun dan tinggi 138 cm",
+      "Tunik dan seluar panjang kekal longgar tanpa menampakkan bentuk tubuh",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P03",
+    "name": "Suri",
+    "sex": "female",
+    "age": 14,
+    "age_group": "remaja",
+    "height_cm": 157,
+    "body": {
+      "build": "stocky",
+      "head_shape": "heart",
+      "skin": "#966144"
+    },
+    "style": {
+      "outfit": "cardigan_skirt",
+      "top": "#9B839F",
+      "bottom": "#586D78",
+      "accent": "#CFAC68",
+      "shoes": "#4D4545"
+    },
+    "head": {
+      "hair": "braid",
+      "hair_color": "#2B2421",
+      "hijab": "none",
+      "hijab_color": "#A08A9E",
+      "glasses": "rect",
+      "facial_hair": "none"
+    },
+    "personality": "Imaginatif, sopan dan suka mengajak orang lain menyertai aktiviti.",
+    "signature_features": [
+      "Satu tocang rendah dengan anak rambut terkawal",
+      "Cermin mata segi empat lembut dan dagu kecil",
+      "Kardigan lilac berdebu bersama skirt panjang biru kelabu"
+    ],
+    "use_cases": [
+      "Pembelajaran menengah rendah",
+      "Penerangan seni dan projek berkumpulan"
+    ],
+    "gestures": [
+      "Membuka tapak tangan untuk mengajak rakan",
+      "Memegang fail rapat pada sisi badan",
+      "Menerangkan idea dengan gerakan tangan kecil"
+    ],
+    "consistency_rules": [
+      "Kekalkan tubuh remaja tanpa solekan atau penggayaan dewasa",
+      "Tocang kekal pada sisi model yang sama",
+      "Skirt panjang dan baju dalam sentiasa legap serta longgar",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P04",
+    "name": "Mira",
+    "sex": "female",
+    "age": 17,
+    "age_group": "remaja",
+    "height_cm": 165,
+    "body": {
+      "build": "average",
+      "head_shape": "long",
+      "skin": "#C58C65"
+    },
+    "style": {
+      "outfit": "baju_kurung",
+      "top": "#6389A4",
+      "bottom": "#4B687D",
+      "accent": "#D7B56D",
+      "shoes": "#4E4646"
+    },
+    "head": {
+      "hair": "long",
+      "hair_color": "#352A25",
+      "hijab": "bawal",
+      "hijab_color": "#B9C6CF",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Tenang, berani bertanya dan suka menyusun maklumat supaya mudah difahami.",
+    "signature_features": [
+      "Tudung bawal biru kelabu dengan hujung kemas di dada",
+      "Muka panjang sederhana dan kening lembut lurus",
+      "Baju kurung biru laut berdebu dengan skirt hingga buku lali"
+    ],
+    "use_cases": [
+      "Penerangan kemahiran belajar",
+      "Penceritaan pengalaman remaja"
+    ],
+    "gestures": [
+      "Menerangkan sesuatu dengan sebelah tapak tangan terbuka",
+      "Menoleh kepada pendengar sebelum bercakap",
+      "Menyusun buku di atas meja"
+    ],
+    "consistency_rules": [
+      "Kekalkan tudung menutupi rambut, leher dan dada sepanjang animasi",
+      "Kekalkan tinggi 165 cm dan ukuran kepala remaja",
+      "Baju kurung kekal longgar serta skirt kekal panjang",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P05",
+    "name": "Nadia",
+    "sex": "female",
+    "age": 26,
+    "age_group": "dewasa",
+    "height_cm": 160,
+    "body": {
+      "build": "slender",
+      "head_shape": "oval",
+      "skin": "#AD7552"
+    },
+    "style": {
+      "outfit": "tunic_trousers",
+      "top": "#B97662",
+      "bottom": "#515C6B",
+      "accent": "#D9B779",
+      "shoes": "#4B413D"
+    },
+    "head": {
+      "hair": "bun",
+      "hair_color": "#302722",
+      "hijab": "shawl",
+      "hijab_color": "#D4B59E",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Peka, yakin dan suka membantu orang mencari langkah pertama yang praktikal.",
+    "signature_features": [
+      "Shawl beige hangat berlapis ringkas menutupi dada",
+      "Muka oval dengan kening melengkung lembut",
+      "Tunik terracotta longgar dan seluar panjang biru arang"
+    ],
+    "use_cases": [
+      "Explainer kerjaya dan komunikasi",
+      "Penceritaan kehidupan dewasa"
+    ],
+    "gestures": [
+      "Memegang telefon dengan tangan yang santai",
+      "Mendengar dengan kepala condong sedikit",
+      "Membentangkan cadangan melalui tapak tangan terbuka"
+    ],
+    "consistency_rules": [
+      "Kekalkan lilitan shawl dan liputan dada yang sama merentas sudut",
+      "Wajah kekal konsisten tanpa perubahan bentuk mata ketika menoleh",
+      "Tunik melepasi pinggul dan seluar kekal longgar serta legap",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P06",
+    "name": "Elina",
+    "sex": "female",
+    "age": 35,
+    "age_group": "dewasa",
+    "height_cm": 170,
+    "body": {
+      "build": "broad",
+      "head_shape": "square",
+      "skin": "#D29E7A"
+    },
+    "style": {
+      "outfit": "cardigan_skirt",
+      "top": "#628778",
+      "bottom": "#53695F",
+      "accent": "#CFB36D",
+      "shoes": "#554844"
+    },
+    "head": {
+      "hair": "wavy",
+      "hair_color": "#50362B",
+      "hijab": "none",
+      "hijab_color": "#8EA497",
+      "glasses": "round",
+      "facial_hair": "none"
+    },
+    "personality": "Teratur, mesra dan selesa membimbing perbincangan secara kolaboratif.",
+    "signature_features": [
+      "Rambut beralun paras bahu dengan belah sisi",
+      "Cermin mata bulat nipis dan rahang lembut segi empat",
+      "Kardigan sage bersama blaus legap dan skirt panjang hijau gelap"
+    ],
+    "use_cases": [
+      "Penerangan profesional",
+      "Perbincangan projek dan organisasi"
+    ],
+    "gestures": [
+      "Menulis nota sebelum memandang semula kepada pendengar",
+      "Menunjuk maklumat pada papan dengan tangan terbuka",
+      "Membawa buku pada sisi pinggang"
+    ],
+    "consistency_rules": [
+      "Kekalkan tinggi 170 cm dan bahu broad secara natural",
+      "Kardigan tidak terbuka sehingga mendedahkan baju dalam yang pendek",
+      "Skirt panjang kekal legap dan tidak ketat ketika duduk",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P07",
+    "name": "Salma",
+    "sex": "female",
+    "age": 44,
+    "age_group": "dewasa",
+    "height_cm": 158,
+    "body": {
+      "build": "stocky",
+      "head_shape": "round",
+      "skin": "#8C5C43"
+    },
+    "style": {
+      "outfit": "dress",
+      "top": "#8E7B9D",
+      "bottom": "#6F617E",
+      "accent": "#CBB47A",
+      "shoes": "#494044"
+    },
+    "head": {
+      "hair": "long",
+      "hair_color": "#332820",
+      "hijab": "long",
+      "hijab_color": "#C5B8CE",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Praktikal, bersahaja dan suka menerangkan sesuatu melalui contoh.",
+    "signature_features": [
+      "Tudung labuh lilac kelabu dengan garis lipatan ringkas",
+      "Pipi bulat dan garis senyum halus",
+      "Gaun plum berdebu yang longgar hingga buku lali"
+    ],
+    "use_cases": [
+      "Pendidikan komuniti",
+      "Demonstrasi pengurusan aktiviti harian"
+    ],
+    "gestures": [
+      "Menerangkan urutan dengan jari pada paras dada",
+      "Menyerahkan objek menggunakan dua tangan",
+      "Mengangguk lembut untuk memberi respons"
+    ],
+    "consistency_rules": [
+      "Kekalkan tudung labuh melepasi dada tanpa perubahan panjang mendadak",
+      "Bentuk tubuh stocky dilukis seimbang tanpa karikatur",
+      "Gaun kekal longgar dan legap ketika mencapai atau duduk",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P08",
+    "name": "Liyana",
+    "sex": "female",
+    "age": 53,
+    "age_group": "dewasa",
+    "height_cm": 164,
+    "body": {
+      "build": "average",
+      "head_shape": "heart",
+      "skin": "#C18D66"
+    },
+    "style": {
+      "outfit": "baju_kurung",
+      "top": "#BD9360",
+      "bottom": "#8B6F54",
+      "accent": "#6E8C87",
+      "shoes": "#504641"
+    },
+    "head": {
+      "hair": "bun",
+      "hair_color": "#59453B",
+      "hijab": "bawal",
+      "hijab_color": "#789991",
+      "glasses": "rect",
+      "facial_hair": "none"
+    },
+    "personality": "Ingin tahu, teliti dan terbuka kepada cara baharu melakukan sesuatu.",
+    "signature_features": [
+      "Tudung bawal hijau eucalyptus dengan lipatan tepi lembut",
+      "Cermin mata segi empat nipis dan dagu tirus sederhana",
+      "Baju kurung warna madu kusam dengan skirt panjang perang lembut"
+    ],
+    "use_cases": [
+      "Pembelajaran kemahiran baharu",
+      "Perbualan profesional dan komuniti"
+    ],
+    "gestures": [
+      "Melihat skrin kemudian mengangkat pandangan kepada rakan",
+      "Mengangkat sebelah tapak tangan ketika bertanya",
+      "Memegang cawan dengan pergelangan santai"
+    ],
+    "consistency_rules": [
+      "Kekalkan cermin mata segi empat dan siluet tudung bawal",
+      "Jangan menambah bongkok atau ketidakupayaan berdasarkan umur",
+      "Baju kurung serta skirt kekal longgar dalam semua pose",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P09",
+    "name": "Rohana",
+    "sex": "female",
+    "age": 66,
+    "age_group": "warga emas",
+    "height_cm": 155,
+    "body": {
+      "build": "slender",
+      "head_shape": "long",
+      "skin": "#B27C59"
+    },
+    "style": {
+      "outfit": "tunic_trousers",
+      "top": "#6E8DA2",
+      "bottom": "#4E6171",
+      "accent": "#C9AA73",
+      "shoes": "#534943"
+    },
+    "head": {
+      "hair": "bun",
+      "hair_color": "#A7A19B",
+      "hijab": "none",
+      "hijab_color": "#A6AFB3",
+      "glasses": "none",
+      "facial_hair": "none"
+    },
+    "personality": "Aktif, reflektif dan gemar belajar bersama orang daripada pelbagai usia.",
+    "signature_features": [
+      "Rambut perak tersisir kemas dengan sanggul ringkas",
+      "Muka panjang sederhana dan garis usia halus",
+      "Tunik biru kelabu longgar hingga pertengahan paha dengan seluar panjang"
+    ],
+    "use_cases": [
+      "Pembelajaran sepanjang hayat",
+      "Adegan hobi dan perbualan antara generasi"
+    ],
+    "gestures": [
+      "Berjalan tegak dengan langkah selesa",
+      "Memerhati hasil kerja sambil mengangguk",
+      "Menunjuk butiran dengan gerakan tangan terkawal"
+    ],
+    "consistency_rules": [
+      "Kekalkan bentuk sanggul ringkas dan warna rambut perak yang sama",
+      "Postur kekal tegak tanpa stereotaip bongkok atau lemah",
+      "Tunik serta seluar panjang kekal longgar dan legap",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  },
+  {
+    "id": "P10",
+    "name": "Zahra",
+    "sex": "female",
+    "age": 75,
+    "age_group": "warga emas",
+    "height_cm": 151,
+    "body": {
+      "build": "average",
+      "head_shape": "oval",
+      "skin": "#D5AC8A"
+    },
+    "style": {
+      "outfit": "baju_kurung",
+      "top": "#A77D81",
+      "bottom": "#775F70",
+      "accent": "#7A958D",
+      "shoes": "#514644"
+    },
+    "head": {
+      "hair": "bob",
+      "hair_color": "#D0CAC2",
+      "hijab": "long",
+      "hijab_color": "#D8C8B3",
+      "glasses": "round",
+      "facial_hair": "none"
+    },
+    "personality": "Hangat, tenang dan suka mendengar sebelum menyampaikan pandangan.",
+    "signature_features": [
+      "Tudung labuh krim dengan lipatan lembut menutupi dada",
+      "Cermin mata bulat kecil dan garis senyum halus",
+      "Baju kurung ros kusam dengan skirt panjang plum kelabu"
+    ],
+    "use_cases": [
+      "Pendidikan kesihatan dan kesejahteraan",
+      "Penceritaan reflektif dan hubungan komuniti"
+    ],
+    "gestures": [
+      "Memegang buku dengan kedua-dua tangan",
+      "Melambai kecil pada paras dada",
+      "Menoleh perlahan sambil bahu turut bergerak"
+    ],
+    "consistency_rules": [
+      "Kekalkan tudung labuh, cermin mata bulat dan tinggi 151 cm",
+      "Garis usia kekal halus tanpa herotan karikatur",
+      "Jangan menambah tongkat atau postur bongkok tanpa konteks aksi",
+      "Pastikan orientasi badan (dada, bahu, kolar, pakaian, kaki dan kasut) sentiasa berubah selaras dengan arah hadapan wajah (front, back, side_right, side_left, three_quarter_right, three_quarter_left) dan tidak kekal menghadap depan sepanjang masa."
+    ],
+    "supported_views": [
+      "front",
+      "back",
+      "side_right",
+      "side_left",
+      "three_quarter_right",
+      "three_quarter_left",
+      "side",
+      "three_quarter"
+    ],
+    "rig_capabilities": {
+      "multi_angle_body_and_head": true,
+      "views": [
+        "front",
+        "back",
+        "side_right",
+        "side_left",
+        "three_quarter_right",
+        "three_quarter_left",
+        "side",
+        "three_quarter"
+      ],
+      "articulated_2d": true,
+      "two_bone_ik": true,
+      "automatic_audio_lip_sync": false,
+      "mouth_open_control": true,
+      "tear_control": true,
+      "left_views": "mirrored complete-body artwork; no asymmetric logo/text on clothing"
+    }
+  }
+]
