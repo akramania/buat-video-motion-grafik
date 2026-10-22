@@ -1,0 +1,24 @@
+{
+  "duration": 10,
+  "sampleRate": 48000,
+  "source": "Original deterministic additive synthesis; no samples or generative models",
+  "events": [
+    {
+      "time": 2.0,
+      "visual": "draw-curve/marker reveal",
+      "sfx": "soft chime"
+    },
+    {
+      "time": 4.0,
+      "visual": "rig reach apex",
+      "sfx": "soft chime"
+    },
+    {
+      "time": 7.2,
+      "visual": "scene transition",
+      "sfx": "transition chime"
+    }
+  ],
+  "audioFile": "score.flac",
+  "codec": "FLAC; decoded signed-16-bit PCM identical to original WAV"
+}
