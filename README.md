@@ -8,6 +8,12 @@ Build motion graphics, animated explainers, product promos and editorial montage
 
 **Explore the [Motion Atlas](https://motion-preset-atlas.akramania.chatgpt.site).**
 
+## v1.1.0 — HTML/HyperFrames and Gemini offline packs
+
+The 22 October 2026 release adds a seekable HTML/SVG + GSAP + HyperFrames workflow, DrawSVG/MorphSVG/MotionPath/SplitText, local Whisper and background removal helpers, a 20-character V3 bank, and Arabic–Malay lecture editing guidance. The original Python/FFmpeg toolkit and all five Atlas collections remain available.
+
+Download the complete ChatGPT/Codex distribution or the Gemini installer bundle from [Releases](https://github.com/akramania/buat-video-motion-grafik/releases). The Gemini bundle contains all 12 independently extractable packs, its manifest, entrypoint and offline installer. Provision Node 22.12+, compatible npm dependencies, Chrome and optional ASR/rembg models during setup; runtime binaries are not bundled for every OS/CPU. See `references/html-hyperframes-production.md` and `references/character-bank-20.md`.
+
 ## The collection
 
 | Collection | Included | Creative possibilities |

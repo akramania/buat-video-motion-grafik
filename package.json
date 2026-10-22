@@ -1,13 +1,42 @@
 {
   "name": "@akramania/buat-video-motion-grafik",
-  "version": "1.0.0",
-  "description": "Motion Atlas Studio: 842 animation presets, 2,000 modular motion components, 1,500 SVG assets, 600 vlog and montage assets, and 100 font families for AI-assisted video production.",
-  "repository": {"type": "git", "url": "git+https://github.com/akramania/buat-video-motion-grafik.git"},
+  "version": "1.1.0",
+  "description": "Motion Atlas Studio with seekable HTML/SVG + GSAP + HyperFrames, local media tools, character bank V3 and offline Gemini installation packs.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akramania/buat-video-motion-grafik.git"
+  },
   "homepage": "https://motion-preset-atlas.akramania.chatgpt.site",
   "author": "akramania",
   "license": "UNLICENSED",
-  "keywords": ["motion-graphics", "animation", "codex-skill", "chatgpt", "kinetic-typography", "video-production", "svg", "explainer", "motion-atlas"],
-  "files": ["SKILL.md", "README.md", "agents", "scripts", "references", "assets", "catalog-summary.json"],
-  "publishConfig": {"registry": "https://npm.pkg.github.com", "access": "public"},
-  "scripts": {"prepare:svg": "python3 scripts/materialize_svg_assets.py", "prepare:vlog": "python3 scripts/prepare_vlog_assets.py --verify", "prepare:fonts": "python3 assets/fonts_creative_100/prepare_fonts.py --all"}
+  "keywords": [
+    "motion-graphics",
+    "animation",
+    "codex-skill",
+    "chatgpt",
+    "kinetic-typography",
+    "video-production",
+    "svg",
+    "explainer",
+    "motion-atlas"
+  ],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "agents",
+    "scripts",
+    "references",
+    "assets",
+    "catalog-summary.json"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "scripts": {
+    "prepare:svg": "python3 scripts/materialize_svg_assets.py",
+    "prepare:vlog": "python3 scripts/prepare_vlog_assets.py --verify",
+    "prepare:fonts": "python3 assets/fonts_creative_100/prepare_fonts.py --all",
+    "html:setup": "node scripts/setup_hyperframes.mjs --help"
+  }
 }
