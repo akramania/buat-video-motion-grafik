@@ -1,0 +1,83 @@
+{
+  "verified_on": "2026-10-22",
+  "versions": {
+    "node": "24.19.0",
+    "hyperframes": "0.8.185",
+    "gsap": "3.14.2",
+    "chromium": "138.0.7204.0"
+  },
+  "render_backend": "HyperFrames screenshot capture backend using local Chromium",
+  "demo": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "duration": 10,
+    "plugins": [
+      "DrawSVGPlugin",
+      "MorphSVGPlugin",
+      "MotionPathPlugin",
+      "SplitText"
+    ],
+    "arabicUnit": "whole line",
+    "rig": "parent-child analytical two-bone IK, baked at 30Hz"
+  },
+  "seek": {
+    "passed": true,
+    "repeat_nonmonotonic": true,
+    "cold_page": true,
+    "callback_mode": "suppressEvents=true",
+    "image_comparison": "exact SHA-256 within tested OS/browser/font setup",
+    "final_report_passed": true,
+    "optimized_source_passed": true
+  },
+  "media": {
+    "imports_and_5_model_checksums": true,
+    "asr_smoke": {
+      "input": "official faster-whisper tests/data/jfk.flac",
+      "model": "tiny multilingual",
+      "words": 22,
+      "timestamps_monotonic": true,
+      "vad_tested": true,
+      "language_tested": "en",
+      "arabic_malay_accuracy_validated": false
+    },
+    "cutout_smoke": {
+      "model": "u2netp",
+      "size": [
+        512,
+        512
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "visual_qa": "Subject retained; small background residue at left shoulder. Temporal consistency not tested."
+    }
+  },
+  "limits": [
+    "Gemini account/sandbox not accessed; run target preflight after provisioning.",
+    "Full Atlas/character bank installation remains separate from this HTML extension.",
+    "ASR smoke sample is English, not a guarantee of Arabic/Malay accuracy.",
+    "rembg independent masks do not ensure temporal consistency.",
+    "PixiJS/Three.js integration is documented, not rendered in this demo."
+  ],
+  "video": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "frames": 300,
+    "duration_seconds": 10,
+    "codec": "h264",
+    "audio": "AAC 48000Hz stereo",
+    "full_decode_passed": true,
+    "audio_mean_dbfs": -23.1,
+    "audio_max_dbfs": -5.8
+  },
+  "reference_demo_mp4_sha256": "a913211f6b9e7ec2a805a66849cf172908ab944abf64744acfb5c23e1822f164",
+  "optimized_source_mp4_sha256": "f4eac60ec2fab5c1f39fd7e3d6e329b73792e0b1fc3f48429fc4147d089a9580",
+  "asset_storage": {
+    "fonts": "WOFF2, decoded glyph/metrics tables verified equal to TTF",
+    "audio": "FLAC, decoded PCM verified byte-identical to WAV",
+    "template_bytes": 1217968
+  }
+}
