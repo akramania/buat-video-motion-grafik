@@ -10,6 +10,8 @@
 
 ## Pilih komponen mengikut keperluan
 
+Komponen yang dibundel terus bersama skill diutamakan apabila sesuai. Untuk planet, bulan, gelang dan sfera 2.5D, gunakan `scripts/advanced_planet_engine.py` serta [panduan planet advanced](advanced-planet-rendering.md); ia lebih mudah diubah dan diuji berbanding mencari implementasi lama dalam ZIP.
+
 | Folder sumber dalam pek | Komponen utama untuk diperiksa |
 | --- | --- |
 | `Dalam_Sunyi_Projek_Watercolor` | `sunyi_video/parallax.py`, `build_video.py`, `align_audio.py` dan `motion_presets/`: parallax, render, penjajaran audio dan preset. |
