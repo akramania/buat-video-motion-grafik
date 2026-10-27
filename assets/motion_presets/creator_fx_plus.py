@@ -218,7 +218,7 @@ def compose(pid,t,cfg,footage=None,subject=None,backdrop=None):
   paste(scene,a,640,410)
  elif k==29:
   scene=cover(backdrop or room(True),(W,H));word=text_img(cfg['text'],fit_size(cfg['text'],1000,110),p['accent']);yy=mix(430,215,q)
-  paste(scene,word,640,yy);person_at(scene,person);
+  paste(scene,word,640,yy);person_at(scene,person); 
   if t>3.2:paste(scene,word,640,215)
  elif k==30:
   for i in range(6):
@@ -261,7 +261,7 @@ def compose(pid,t,cfg,footage=None,subject=None,backdrop=None):
  elif k in (41,42):
   active=int(t//1.05)%4
   for i in range(4):
-   art=thumb(cfg,i,(390,205));
+   art=thumb(cfg,i,(390,205)); 
    if k==42 and i!=active:art=art.filter(ImageFilter.GaussianBlur(7))
    paste(scene,art,420+440*(i%2),270+245*(i//2),scale=1+.03*math.sin(t*1.4+i))
    rr(scene,(215+440*(i%2),160+245*(i//2),625+440*(i%2),380+245*(i//2)),None,20,p['accent'] if k==42 and i==active else p['secondary'],3)

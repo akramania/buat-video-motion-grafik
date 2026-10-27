@@ -5,7 +5,7 @@
 Preset default durations are respected: legacy samples are 5s; persistent
 scenes retain their longer dwell instead of being squeezed into five seconds.
 """
-import argparse,base64,concurrent.futures,json,shutil,subprocess
+import argparse,base64,concurrent.futures,hashlib,json,shutil,subprocess
 from pathlib import Path
 from render import registry,configuration,render_video,frame
 HERE=Path(__file__).resolve().parent
@@ -28,24 +28,48 @@ def catalogue_html(template,rows):
     return template.replace('__DATA__',encoded)
 
 
+def sha_file(path):
+    return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+
+
+def preview_key(pid,cfg,package):
+    value=dict(preset=pid,config=cfg,package_sha256=package,width=1280,fps=60,catalogue_labels=True)
+    return hashlib.sha256(json.dumps(value,sort_keys=True,ensure_ascii=False,separators=(',',':')).encode()).hexdigest()
+
+
+def reusable(pid,out,package):
+    out=Path(out); receipt=out/'previews'/f'{pid}.atlas.json'
+    try:
+        data=json.loads(receipt.read_text())
+        return (data['cache_key']==preview_key(pid,configuration(pid),package)
+                and data['video_sha256']==sha_file(out/'previews'/f'{pid}.mp4')
+                and data['poster_sha256']==sha_file(out/'posters'/f'{pid}.jpg'))
+    except (OSError,ValueError,KeyError):return False
+
+
 def one(args):
-    pid,out,reuse=args; out=Path(out); cfg=configuration(pid)
+    pid,out,reuse,package=args; out=Path(out); cfg=configuration(pid)
     duration=cfg['duration']; video=out/'previews'/f'{pid}.mp4'; poster=out/'posters'/f'{pid}.jpg'
-    if not (reuse and video.exists() and video.stat().st_size):
+    complete=reuse and reusable(pid,out,package)
+    if not complete:
         render_video(pid,cfg,video,duration=duration)
-    if not (reuse and poster.exists() and poster.stat().st_size):
         frame(pid,duration*.52,cfg).save(poster,quality=92)
+        receipt=dict(cache_key=preview_key(pid,cfg,package),package_sha256=package,
+                     video_sha256=sha_file(video),poster_sha256=sha_file(poster))
+        (out/'previews'/f'{pid}.atlas.json').write_text(json.dumps(receipt,indent=2)+'\n')
     return pid
 
 
 def build(out,skip_render=False,jobs=4,standalone=False,reel=False):
     out=Path(out).resolve(); presets,_=registry()
+    contract=json.loads((HERE/'atlas_contract.json').read_text())
+    package=contract['package_sha256']
     for d in ['previews','posters','configs']: (out/d).mkdir(parents=True,exist_ok=True)
     pending=[]
     for pid in presets:
-        complete=all((out/d/f'{pid}.{ext}').is_file() and (out/d/f'{pid}.{ext}').stat().st_size for d,ext in [('previews','mp4'),('posters','jpg')])
+        complete=reusable(pid,out,package)
         if skip_render and complete: print('Reused '+pid,flush=True)
-        else: pending.append((pid,str(out),skip_render))
+        else: pending.append((pid,str(out),skip_render,package))
     if pending:
         with concurrent.futures.ProcessPoolExecutor(max_workers=jobs) as ex:
             for pid in ex.map(one,pending): print('Rendered '+pid,flush=True)
@@ -53,12 +77,28 @@ def build(out,skip_render=False,jobs=4,standalone=False,reel=False):
     for pid,m in presets.items():
         cfg=exported_config(pid,m)
         (out/'configs'/f'{pid}.json').write_text(json.dumps(cfg,ensure_ascii=False,indent=2),encoding='utf-8')
-        rows.append(dict(m,id=pid,duration=m.get('duration',5),video=f'previews/{pid}.mp4',poster=f'posters/{pid}.jpg'))
+        rows.append(dict(m,id=pid,duration=m.get('duration',5),video=f'previews/{pid}.mp4',poster=f'posters/{pid}.jpg',
+                         renderer_package_sha256=package,preview_receipt=f'previews/{pid}.atlas.json',locked_job=f'jobs/{pid}.json'))
     (out/'presets.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2),encoding='utf-8')
     template=(HERE/'catalogue_template.html').read_text(encoding='utf-8')
     (out/'index.html').write_text(catalogue_html(template,rows),encoding='utf-8')
     dest=out/'renderer'
     if dest!=HERE: shutil.copytree(HERE,dest,dirs_exist_ok=True,ignore=shutil.ignore_patterns('__pycache__','*.pyc'))
+    # Bundle the enforced native entry point and pinned jobs alongside legacy configs.
+    scripts=HERE.parents[1]/'scripts'
+    if (scripts/'atlas_preset.py').is_file():
+        import sys
+        sys.path.insert(0,str(scripts))
+        from atlas_preset import AtlasLibrary
+        library=AtlasLibrary()
+        runtime=out/'runtime';runtime.mkdir(exist_ok=True)
+        shutil.copy2(scripts/'atlas_preset.py',runtime/'atlas_preset.py')
+        (out/'jobs').mkdir(exist_ok=True)
+        (out/'reference_jobs').mkdir(exist_ok=True)
+        for pid in presets:
+            (out/'jobs'/f'{pid}.json').write_text(json.dumps(library.template(pid),ensure_ascii=False,indent=2)+'\n')
+            reference=library.template(pid);reference['output'].update(width=1280,fps=60,catalogue_labels=True)
+            (out/'reference_jobs'/f'{pid}.json').write_text(json.dumps(reference,ensure_ascii=False,indent=2)+'\n')
     if standalone:
         embed=[]
         for row in rows:

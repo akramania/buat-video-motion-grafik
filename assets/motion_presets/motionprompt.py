@@ -78,7 +78,8 @@ def _items(cfg,defaults):
     if not isinstance(v,(list,tuple)) or not v:return defaults
     return [str(x)[:45] for x in v[:8]]
 def _card(im,x,y,w,h,p,label='',fill=None,accent=None,scale=1,opacity=1,angle=0):
-    spr=panel(w,h,fill or p['panel'],22,accent or p['muted'])
+    # panel() is shared by lru_cache: drawing a label must never mutate it.
+    spr=panel(w,h,fill or p['panel'],22,accent or p['muted']).copy()
     if label:text(spr,label,spr.width/2,spr.height/2,max(19,fit_size(label,w-38,29)),p['text'],'bold')
     paste(im,spr,x,y,opacity,scale,angle)
 def _poly(im,pts,color):ImageDraw.Draw(im).polygon([(round(x),round(y)) for x,y in pts],fill=color)
