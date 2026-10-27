@@ -49,8 +49,10 @@ def main():
     for path in sorted((adapter/'references').glob('selective-cache.md')):
         shared=True
         groups['core'].append(('references/'+('' if shared else 'gemini-')+path.name,path.read_bytes()))
-    groups['core'].append(('SKILL.md',(adapter/'SKILL.md').read_bytes()))
-    groups['core'].append(('agents/openai.yaml',(adapter/'agents/openai.yaml').read_bytes()))
+    gemini_skill = adapter/'SKILL_Gemini.md' if (adapter/'SKILL_Gemini.md').is_file() else adapter/'SKILL.md'
+    groups['core'].append(('SKILL.md',gemini_skill.read_bytes()))
+    gemini_agent = adapter/'agents/gemini.yaml' if (adapter/'agents/gemini.yaml').is_file() else adapter/'agents/openai.yaml'
+    groups['core'].append(('agents/openai.yaml',gemini_agent.read_bytes()))
     # Snapshot original instructions as reference; Gemini SKILL.md has precedence.
     groups['core'].append(('references/source-skill-context.md',(a.source/'SKILL.md').read_bytes()))
     # Adapter files intentionally override common source resources without duplicate ZIP members.
