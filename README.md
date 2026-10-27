@@ -8,13 +8,23 @@ Build motion graphics, animated explainers, product promos and editorial montage
 
 **Explore the [Motion Atlas](https://motion-preset-atlas.akramania.chatgpt.site).**
 
+## Atlas v12 — locked presets and selective Gemini cache
+
+The current source matches the published Atlas v12 workflow: use the original Python renderer through `scripts/atlas_preset.py`, with pinned source hashes, validated job parameters and reference-frame checks across all **922 presets**. Download a job from Atlas or generate it with `init`; do not recreate a preset from its name or prompt.
+
+Edit existing video directly with **Python/FFmpeg**. Use **HTML/GSAP + HyperFrames** for vector/cartoon animation. The engine follows the task, not a mandatory HTML conversion.
+
+For Gemini, follow `SKILL_Gemini.md` and `references/selective-cache.md`. Check VM storage, installed-file hashes and cached ZIPs first. Download only the required missing or invalid packs from the dated Drive manifest; never install every pack by default. The current manifest has **10 selective packs**, including Creator FX 80. The cache helper performs local planning, verification and safe installation without network access.
+
+Current downloads: [Drive folder](https://drive.google.com/drive/folders/1QF3fxMu5ruysNbw92Jii5aU3xyb-tiJF). The compact locked toolkit and full manifest are linked in `references/atlas-drive-runtime.md` and `references/selective-cache.md`. Existing v1.1.0 release assets remain historical; this update changes repository source and the dated Drive packs.
+
 ## Creator FX 80 — current repository source
 
 The current source adds **80 Creator FX recipes** (CFX01–CFX80), including 60 new techniques for layered reels, product inserts, animated captions, charts, routes and editorial compositions. Explore the [Creator FX 80 previews in Motion Atlas](https://motion-preset-atlas.akramania.chatgpt.site/?family=CFX#catalogue). These are original adaptations of observed principles, rendered as silent vector demonstrations; use prepared footage, masks and timing for a real project. The new set was informed by 11 accessible Instagram references; three unavailable references were skipped. See `references/creator-fx-80.md` for provenance, inputs and QA.
 
-For this update, use the current repository source. The previously published v1.1.0 release and Gemini installation packs predate Creator FX 80; a new release has not been published as part of this update.
+Use the current source or the dated 27 October Drive packs for Creator FX 80. The older v1.1.0 release assets predate this update.
 
-## v1.1.0 — HTML/HyperFrames and Gemini offline packs
+## Historical v1.1.0 — HTML/HyperFrames and Gemini offline packs
 
 The 22 October 2026 release adds a seekable HTML/SVG + GSAP + HyperFrames workflow, DrawSVG/MorphSVG/MotionPath/SplitText, local Whisper and background removal helpers, a 20-character V3 bank, and Arabic–Malay lecture editing guidance. The original Python/FFmpeg toolkit and all five Atlas collections remain available.
 
@@ -61,8 +71,10 @@ python3 assets/fonts_creative_100/prepare_fonts.py --all
 Render a preset:
 
 ```bash
-python3 assets/motion_presets/render.py --preset K16 --duration 6 --fps 30 --clean --output typography.mp4
-python3 assets/motion_presets/render.py --preset CFX71 --duration 6 --fps 30 --clean --output creator-fx.mp4
+python3 scripts/atlas_preset.py init K16 --output typography.json
+python3 scripts/atlas_preset.py check typography.json
+python3 scripts/atlas_preset.py render typography.json --output typography.mp4
+python3 scripts/atlas_preset.py verify typography.json --video typography.mp4 --report typography-qa.json
 ```
 
 Render a modular vector component:
