@@ -1,0 +1,18 @@
+# CONTOH SAHAJA. Bukan brief pengguna atau bukti kerja video siap.
+mode: explainer
+subject: "Pertukaran gas di alveolus (demo pendidikan)"
+audience: "Pelajar Biologi sekolah menengah Malaysia"
+intended_end_state: "Faham O2 bergerak masuk ke kapilari dan CO2 keluar ke alveolus"
+format: "9:16"
+size: [1080, 1920]
+duration_s: 15
+fps: 30
+language: ms
+style: "2D/2.5D paper cut-out; kinetic type; pastel terang"
+sound: "music+sfx; no voiceover"
+renderer: "Python Motion Director + FFmpeg"
+visual_hero: "Bebola O2 biru yang kekal identitinya ketika cut/morph"
+source_status: "PERLU DISAHKAN semasa projek sebenar"
+assets_status: "Belum dimuatkan"
+autonomy: "within permitted, available runtime"
+signoff: "Recap pertukaran O2 / CO2"
