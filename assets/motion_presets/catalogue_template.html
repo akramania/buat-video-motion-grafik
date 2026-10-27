@@ -12,7 +12,7 @@ const data=__DATA__;
 const genreNames={all:'Semua genre',saas:'SaaS & App',creator:'Creator & Sosial',education:'Pendidikan',documentary:'Dokumentari',corporate:'Korporat',promo:'Promosi'};
 const familyNames={all:'Semua jenis',kinetic:'Kinetic typography',motionprompt:'MotionPrompt · 48 gaya',text:'Teks & caption',long:'Scene panjang',ui:'UI & notifikasi',carousel:'Carousel',guide:'Demo adaptasi panduan','premium-type':'Tipografi premium','premium-map-data':'Peta dan data premium','premium-ui-product':'UI dan produk premium','premium-promo-fx':'Promosi dan kesan premium'};
 const accents={saas:'#71e8c4',creator:'#deff70',education:'#2163da',documentary:'#bd4c35',corporate:'#7ab5ff',promo:'#ff966b'};
-const metadataExcluded=new Set(['id','preset','name','description','genres','family','source_url','source_product','observed_timestamp','mechanism','variant_basis','render_mode','video','poster','time_mode','min_duration','cue_defaults','supported_end_behaviors']);
+const metadataExcluded=new Set(['id','preset','name','description','genres','family','source_url','source_product','observed_timestamp','mechanism','variant_basis','render_mode','video','poster','time_mode','min_duration','cue_defaults','supported_end_behaviors','renderer_package_sha256','preview_receipt','locked_job']);
 const excluded=new Set([...metadataExcluded,'duration','fps','width','text','subtitle','genre','accent']);
 let current=data[0],filter='all',familyFilter='all',sourceFilter='all';const $=id=>document.getElementById(id);
 function familyOf(p){return p.family||(p.time_mode==='seconds'?'long':p.id.startsWith('C')?'carousel':/^[UN]/.test(p.id)?'ui':'text')}
@@ -50,7 +50,7 @@ function choose(p){
  $('extras').value=JSON.stringify(Object.fromEntries(Object.entries(p).filter(([k])=>!controlled.has(k)&&!k.startsWith('_'))),null,2);
  $('typing').classList.toggle('sr',p.id!=='T03');$('draft').value=p.draft||'MULA';$('decimals').value=p.decimals||0;$('decimals').max=p.id==='H04'?3:6;$('from_value').parentElement.style.display=p.id==='H04'?'none':'';$('numbers').classList.toggle('sr',!['B04','B07','H04'].includes(p.id));
  ['from_value','to_value','prefix','suffix'].forEach(k=>$(k).value=p[k]??({from_value:0,to_value:p.id==='H04'?(p.value??24):1280,prefix:'',suffix:''}[k]));
- $('command').textContent=`python renderer/render.py --config configs/${p.id}.json --clean --output ${p.id}-custom.mp4`;
+ $('command').textContent=`python runtime/atlas_preset.py import-config configs/${p.id}.json --output jobs/${p.id}.json\npython runtime/atlas_preset.py render jobs/${p.id}.json --output ${p.id}-custom.mp4`;
  $('source').replaceChildren();if(p.source_url){const a=document.createElement('a');a.href=p.source_url;a.textContent='Rujukan asal ↗';a.target='_blank';a.rel='noopener';$('source').append(a)}
  const basis=p.variant_basis==='observed'?'Berdasarkan gerakan yang diperhatikan':p.variant_basis==='adapted'?'Variasi olahan daripada rujukan':'';
  $('provenance').textContent=[basis,p.observed_timestamp?'Masa rujukan: '+p.observed_timestamp:'',p.mechanism||''].filter(Boolean).join(' · ');
@@ -65,6 +65,6 @@ function draw(){
 }
 $('genre').onchange=()=>$('accent').value=accents[$('genre').value];
 $('download').onclick=()=>{try{const cfg=config();$('error').textContent='';const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(cfg,null,2)],{type:'application/json'}));a.download=current.id+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}catch(e){$('error').textContent=e.message}};
-$('copy').onclick=async()=>{let prompt;try{prompt='Gunakan skill buat-video-motion-grafik untuk render preset '+current.id+' dengan konfigurasi berikut. Gunakan aset projek saya jika tersedia, dan sesuaikan susun atur jika teks panjang.\n'+JSON.stringify(config(),null,2);$('error').textContent=''}catch(e){$('error').textContent=e.message;return}try{await navigator.clipboard.writeText(prompt);$('copy').textContent='Arahan disalin';setTimeout(()=>$('copy').textContent='Salin arahan untuk Codex',1500)}catch(e){window.prompt('Salin arahan ini',prompt)}};
+$('copy').onclick=async()=>{let prompt;try{prompt='Gunakan skill buat-video-motion-grafik dan pembungkus Python atlas_preset.py untuk preset '+current.id+'. Import konfigurasi Atlas ini dengan import-config, kemudian render dan verify. Kekalkan implementasi asal; jangan bina semula efek berdasarkan nama atau preview. Laporkan input/layout yang belum disokong.\n'+JSON.stringify(config(),null,2);$('error').textContent=''}catch(e){$('error').textContent=e.message;return}try{await navigator.clipboard.writeText(prompt);$('copy').textContent='Arahan disalin';setTimeout(()=>$('copy').textContent='Salin arahan untuk Codex',1500)}catch(e){window.prompt('Salin arahan ini',prompt)}};
 draw();choose(current);
 </script></html>

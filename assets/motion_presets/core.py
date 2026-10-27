@@ -38,12 +38,17 @@ def font(size=48,face='bold',custom=''):
  path=custom or FONTS.get(face,face)
  return ImageFont.truetype(path,max(1,int(size)))
 @lru_cache(maxsize=4096)
-def text_img(text,size=48,color='#FFFFFF',face='bold',stroke=0,stroke_color='#FFFFFF',custom=''):
+def _cached_text_img(text,size=48,color='#FFFFFF',face='bold',stroke=0,stroke_color='#FFFFFF',custom=''):
  f=font(size,face,custom); box=f.getbbox(str(text),stroke_width=stroke)
  if not text: return Image.new('RGBA',(1,1))
  im=Image.new('RGBA',(max(1,box[2]-box[0]+4),max(1,box[3]-box[1]+4)))
  ImageDraw.Draw(im).text((2-box[0],2-box[1]),str(text),font=f,fill=color,stroke_width=stroke,stroke_fill=stroke_color)
  return im
+def text_img(text,size=48,color='#FFFFFF',face='bold',stroke=0,stroke_color='#FFFFFF',custom=''):
+ # Callers may apply alpha/masks; never expose the shared cached bitmap.
+ return _cached_text_img(text,size,color,face,stroke,stroke_color,custom).copy()
+text_img.cache_clear=_cached_text_img.cache_clear
+text_img.cache_info=_cached_text_img.cache_info
 def measure(text,size=48,face='bold',custom=''): return font(size,face,custom).getlength(str(text))
 def layer(w=W,h=H): return Image.new('RGBA',(max(1,int(w)),max(1,int(h))))
 def paste(dst,src,x,y,opacity=1,scale=1,angle=0,anchor='center'):
@@ -76,12 +81,17 @@ def circle(dst,x,y,r,fill,outline=None,width=1):
  ImageDraw.Draw(target).ellipse((round(x-r),round(y-r),round(x+r),round(y+r)),fill=fill,outline=outline,width=max(1,round(width)))
  if target is not dst:dst.alpha_composite(target)
 @lru_cache(maxsize=128)
-def panel(w,h,fill='#152238',radius=28,border='#33445D',shadow=True):
+def _cached_panel(w,h,fill='#152238',radius=28,border='#33445D',shadow=True):
  pad=30 if shadow else 0; im=layer(w+2*pad,h+2*pad)
  if shadow:
   s=layer(im.width,im.height);rr(s,(pad,pad+10,pad+w,pad+h+10),(0,0,0,110),radius);s=s.filter(ImageFilter.GaussianBlur(13));im.alpha_composite(s)
  rr(im,(pad,pad,pad+w,pad+h),fill,radius,border if border else None)
  return im
+def panel(w,h,fill='#152238',radius=28,border='#33445D',shadow=True):
+ # Drawing labels into a panel must not alter subsequent frames or presets.
+ return _cached_panel(w,h,fill,radius,border,shadow).copy()
+panel.cache_clear=_cached_panel.cache_clear
+panel.cache_info=_cached_panel.cache_info
 @lru_cache(maxsize=20)
 def background(genre='saas',bg='',accent=''):
  p=dict(PALETTES.get(genre,PALETTES['saas']));p['bg']=bg or p['bg'];p['accent']=accent or p['accent']

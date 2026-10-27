@@ -1,0 +1,60 @@
+{
+  "unit_tests": 16,
+  "native_parity_and_seek": 922,
+  "legacy_config_import": 922,
+  "baseline_frames_per_preset": 3,
+  "package_sha256": "bb9e0626ba58cd207455120af1930c5d171ab96cd38d9b9a2059556be6dd72c7",
+  "environment": {
+    "python": "3.12",
+    "pillow": "12.3.0",
+    "numpy": "2.3.5"
+  },
+  "elapsed_seconds": 91.93,
+  "passed": true,
+  "published_atlas_video_parity": "not claimed; verify an actual reference MP4 separately",
+  "validated_at": "2026-10-27T21:30:56.874455+08:00",
+  "wrapper_sha256": "97537aa1f2327b6075f2544e1d758a2942c8f58fa5f1aaa6c6578e6b67ebb38b",
+  "exported_toolkit": {
+    "isolated_cli_check": "pass",
+    "actual_labelled_catalogue_mp4_parity": "pass",
+    "version_aware_preview_reuse": "pass"
+  },
+  "forward_use": {
+    "CFX15": {
+      "mode": "footage",
+      "duration": 8,
+      "fps": 24,
+      "width": 640,
+      "cue_seconds": [
+        0,
+        2,
+        4,
+        6
+      ],
+      "result": "rendered, fully decoded, sampled parity and visual review passed"
+    },
+    "T01": {
+      "duration": 2,
+      "fps": 24,
+      "width": 640,
+      "format": "ProRes 4444 alpha",
+      "result": "rendered, fully decoded, sampled parity and all alpha frames checked"
+    }
+  },
+  "contract_storage": "compact-v1 in checksum-verified zlib-base64 envelope; exact equality of all expanded contract data checked",
+  "storage_adapter_regression": {
+    "unit_tests": 16,
+    "native_parity_and_seek": 16,
+    "legacy_config_import": 16,
+    "baseline_frames_per_preset": 3,
+    "package_sha256": "bb9e0626ba58cd207455120af1930c5d171ab96cd38d9b9a2059556be6dd72c7",
+    "environment": {
+      "python": "3.12",
+      "pillow": "12.3.0",
+      "numpy": "2.3.5"
+    },
+    "elapsed_seconds": 9.57,
+    "passed": true,
+    "published_atlas_video_parity": "not claimed; verify an actual reference MP4 separately"
+  }
+}

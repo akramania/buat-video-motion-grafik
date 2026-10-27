@@ -1,0 +1,15 @@
+interface:
+  display_name: Buat Video Motion Grafik — Gemini
+  short_description: Atlas 922, semak cache VM dan muat turun pek terpilih
+  default_prompt: Gunakan $buat-video-motion-grafik-gemini; semak cache dan storan
+    VM dahulu, ambil hanya pek perlu yang hilang, gunakan runtime Atlas terpinkan,
+    Python/FFmpeg untuk edit footage dan HTML/GSAP untuk animasi vektor/kartun.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
