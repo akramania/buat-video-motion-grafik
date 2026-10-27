@@ -2,11 +2,17 @@
 
 # Motion Atlas Studio
 
-### 5,042 creative entries. One adaptable video production toolkit.
+### 5,122 creative entries. One adaptable video production toolkit.
 
 Build motion graphics, animated explainers, product promos and editorial montages with an agent skill for **ChatGPT Work and Codex**, supported by reusable Python and Node renderers, original vector artwork, typography systems and production references.
 
 **Explore the [Motion Atlas](https://motion-preset-atlas.akramania.chatgpt.site).**
+
+## Creator FX 80 — current repository source
+
+The current source adds **80 Creator FX recipes** (CFX01–CFX80), including 60 new techniques for layered reels, product inserts, animated captions, charts, routes and editorial compositions. Explore the [Creator FX 80 previews in Motion Atlas](https://motion-preset-atlas.akramania.chatgpt.site/?family=CFX#catalogue). These are original adaptations of observed principles, rendered as silent vector demonstrations; use prepared footage, masks and timing for a real project. The new set was informed by 11 accessible Instagram references; three unavailable references were skipped. See `references/creator-fx-80.md` for provenance, inputs and QA.
+
+For this update, use the current repository source. The previously published v1.1.0 release and Gemini installation packs predate Creator FX 80; a new release has not been published as part of this update.
 
 ## v1.1.0 — HTML/HyperFrames and Gemini offline packs
 
@@ -18,14 +24,14 @@ Download the complete ChatGPT/Codex distribution or the Gemini installer bundle 
 
 | Collection | Included | Creative possibilities |
 |---|---:|---|
-| Animation presets | **842** | Kinetic typography, UI, product reveals, maps, charts, counters, paper effects and transitions |
+| Animation presets | **922** | Kinetic typography, UI, product reveals, maps, charts, counters, paper effects, transitions and 80 Creator FX recipes |
 | Modular motion components | **2,000** | Shapes, arrows, HUD and data layers, transitions, particles and light |
 | SVG assets | **1,500** | Explainer illustrations, icons, learning diagrams and promotional compositions |
 | Vlog and montage assets | **600** | 100 LUTs, 100 transitions, 100 animated overlays, 100 vlog graphics, 100 montage graphics and 100 SFX |
 | Curated font families | **100** | Display, editorial and Arabic typography, with original font license files |
-| **Total creative entries** | **5,042** | Separate catalog entries across the five collections |
+| **Total creative entries** | **5,122** | Separate catalog entries across the five collections |
 
-The **842 presets** comprise **137 core presets, 185 guide adaptations, 120 preview adaptations and 400 premium recipes**. The **2,000 modular components** comprise **100 design families with 20 structural variations each**. These categories remain distinct; font families are included in the total. Counts describe creative entries, not 5,042 standalone video templates.
+The **922 presets** comprise **137 core presets, 185 guide adaptations, 120 preview adaptations, 400 premium recipes and 80 Creator FX recipes**. The **2,000 modular components** comprise **100 design families with 20 structural variations each**. These categories remain distinct; font families are included in the total. Counts describe creative entries, not 5,122 standalone video templates.
 
 ## Design with motion
 
@@ -38,7 +44,7 @@ The **842 presets** comprise **137 core presets, 185 guide adaptations, 120 prev
 
 ## Get started
 
-Download the complete distribution from **[Releases](https://github.com/akramania/buat-video-motion-grafik/releases)**. Keep `SKILL.md`, `agents/`, `scripts/`, `references/` and `assets/` together. Follow your agent's skill installation instructions, then request a video with `$buat-video-motion-grafik`.
+Use the current repository source for Creator FX 80, or download the earlier complete v1.1.0 distribution from **[Releases](https://github.com/akramania/buat-video-motion-grafik/releases)**. Keep `SKILL.md`, `agents/`, `scripts/`, `references/` and `assets/` together. Follow your agent's skill installation instructions, then request a video with `$buat-video-motion-grafik`.
 
 For example:
 
@@ -56,6 +62,7 @@ Render a preset:
 
 ```bash
 python3 assets/motion_presets/render.py --preset K16 --duration 6 --fps 30 --clean --output typography.mp4
+python3 assets/motion_presets/render.py --preset CFX71 --duration 6 --fps 30 --clean --output creator-fx.mp4
 ```
 
 Render a modular vector component:
