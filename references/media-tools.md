@@ -2,6 +2,12 @@
 
 Gunakan `scripts/media_tools.py` untuk transkrip sumber dengan pemasaan perkataan dan PNG subjek beralpha. Gunakan model tempatan sebelum render HTML; jangan bergantung pada cloud/CDN atau memulakan muat turun model semasa render. `rembg` di sini ialah backend remove-background, bukan nama pakej umum yang dianggap sudah tersedia.
 
+## Persediaan Whisper wajib
+
+Sebelum setiap kerja audio, jalankan `python3 scripts/ensure_whisper.py --model medium --report /path/project/whisper-ready.json`. Gunakan `--model-path` untuk model tempatan projek yang sudah disahkan. Helper mengasingkan dependency Whisper, menggunakan PyAV 16.1.0 yang diuji, mengunci persediaan serentak, menggunakan semula model lengkap dan menguji load/decode CPU int8. Tanpa `--offline`, pemasangan dan download yang diperlukan telah dibenarkan oleh arahan pengguna. Tidak perlu memasang rembg untuk transkripsi sahaja. Gunakan `model_path` dalam laporan untuk ASR; bagi cache tersuai atau apabila cache gabungan lama wujud, bekalkan `media_tools.py --python-deps <python_deps-daripada-laporan> transcribe ...` supaya dependency yang diuji digunakan.
+
+Simpan model dalam cache guna semula dan jangan padam bersama cache render. Jangan komit berat model ke Git. Semak semula setiap persekitaran/sesi; pemasangan lama bukan bukti model masih ada. Jika gagal kerana rangkaian atau ruang storan, simpan laporan kegagalan dan nyatakan halangan. Model `medium` multilingual ialah lalai produksi; kekalkan model projek yang telah dipilih dan jangan ganti dengan tiny demi mendapatkan status lulus. Ujian decode senyap membuktikan runtime berfungsi sahaja; semak audio pertuturan sebenar untuk ketepatan Arab dan pemasaan.
+
 ## Runtime dan pemasangan
 
 Runtime yang diuji: Python 3.12.14, faster-whisper 1.2.1, CTranslate2 4.8.3, PyAV **16.1.0**, rembg 2.0.86 dan ONNX Runtime 1.31.0 pada CPU Linux x86_64. Lock tepat dalam `assets/media_tools/requirements.txt` memerlukan Python 3.12+; jangan menganggap lock ini sesuai untuk Python 3.10, semua OS atau GPU. Pilih runtime Python 3.12+ yang sesuai jika enjin Python lama menggunakan versi lain. Kekalkan dependency media secara terasing.
@@ -11,7 +17,8 @@ Jangan naik taraf PyAV secara buta: ujian sebenar mendapati av 19.0.2 menyebabka
 Cache lalai ialah `${XDG_CACHE_HOME:-~/.cache}/video-motion-media/` dengan `python-deps/` dan `models/`. Override melalui `MOTION_MEDIA_CACHE`, atau gunakan `--python-deps` dan `--model-root` secara eksplisit. Cache ini tidak termasuk dalam repo skill. Kedua-dua skill boleh menggunakan cache sama pada mesin ini.
 
 ```bash
-# Semakan offline; tiada pemasangan atau download secara automatik.
+# Utiliti legasi gabungan Whisper + rembg (semakan sahaja).
+# Untuk memastikan Whisper tersedia secara automatik, gunakan ensure_whisper.py di atas.
 python scripts/setup_media_tools.py
 python scripts/media_tools.py preflight --strict --report /path/project/media-preflight.json
 
@@ -51,6 +58,8 @@ Terjemahkan kepada **Bahasa Melayu Malaysia** mengikut maksud frasa/baris yang l
 Dalam HTML, gunakan `lang="ar"`, `dir="rtl"`, fon Arab setempat dan shaping browser; tunggu fon siap sebelum ukuran. Animasikan perkataan/baris/blok yang sudah dibentuk. Jangan pecahkan aksara, reverse string, letter-spacing atau menjadikan huruf Arab terputus. Simpan terjemahan Melayu dalam elemen LTR yang berasingan. Muatkan cue ke timeline GSAP; jangan bergantung pada callback playback audio atau jam masa nyata.
 
 ## Pengasingan subjek dan video
+
+Untuk **video manusia**, utamakan `ensure_background.py` dan `background_video.py` mengikut [aliran RVM temporal](video-background-replacement.md). Laluan di bawah kekal untuk cutout imej/batch rembg; ia bukan pengganti temporal matting yang telah diuji. Jangan memasang semua dependency gabungan semata-mata untuk RVM.
 
 ```bash
 python scripts/media_tools.py cutout --input /path/photo.png --output /path/project/subject.png --report /path/project/cutout-proof.json
