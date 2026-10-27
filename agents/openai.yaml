@@ -1,9 +1,10 @@
 interface:
   display_name: Buat Video Motion Grafik
   short_description: Motion grafik, Creator FX 80, Whisper dan matting latar
-  default_prompt: Gunakan $buat-video-motion-grafik untuk menghasilkan motion graphics
-    2D/2.5D HTML/SVG dengan GSAP, HyperFrames dan Creator FX 80, serta remove/replace
-    background manusia apabila diminta; semak MP4 akhir.
+  default_prompt: Gunakan $buat-video-motion-grafik untuk menyunting video terus melalui
+    Python/FFmpeg atau membina animasi vektor/kartun melalui HTML/GSAP + HyperFrames;
+    akses pakej Drive berpinkan melalui references/atlas-drive-runtime.md untuk preset
+    Atlas/Creator FX 80 asal, gunakan validator dan semak MP4 akhir.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
