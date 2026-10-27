@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-27",
+  "attempted": 14,
+  "played": 11,
+  "skipped": 3,
+  "method": "Browser playback and timestamped screenshots; edited/After panels only for comparisons. Local review used available screenshot samples. No audio audition.",
+  "references": [
+    {
+      "ref": "R01",
+      "url": "https://www.instagram.com/reel/DeznKe6zYWd/",
+      "status": "browser-played-sampled",
+      "sample_window": "0.24-7.66s",
+      "edited_panel_observation": "Three portrait video cards fan above a laptop; nested moving graphics.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R02",
+      "url": "https://www.instagram.com/reel/DdtsGzhT2oP/",
+      "status": "browser-played-sampled",
+      "sample_window": "~1.86-32.62s",
+      "edited_panel_observation": "AFTER/right only: text at different depths, building insert, fast spatial transitions.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R03",
+      "url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "status": "browser-played-sampled",
+      "sample_window": "~5.87-20.01s",
+      "edited_panel_observation": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R04",
+      "url": "https://www.instagram.com/reel/DeRaKpNJ4ET/",
+      "status": "browser-played-sampled",
+      "sample_window": "~3.02-13.00s",
+      "edited_panel_observation": "Edited panels: incoming-call UI, checklist, phone gauge, orange emphasis strips.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R05",
+      "url": "https://www.instagram.com/reel/Db7qHm7B5Z6/",
+      "status": "browser-played-sampled",
+      "sample_window": "~0.73-10.08s",
+      "edited_panel_observation": "Two edited examples: floating orbs, circular subject backdrop, perspective typography.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R06",
+      "url": "https://www.instagram.com/reel/DdM89KRMPBJ/",
+      "status": "browser-played-sampled",
+      "sample_window": "~3-23.77s",
+      "edited_panel_observation": "AFTER/right: note pinboard, dotted connector, glowing bulb, word emphasis.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R07",
+      "url": "https://www.instagram.com/reel/DeXmN1Apj2c/",
+      "status": "browser-played-sampled",
+      "sample_window": "~5.80-20.07s",
+      "edited_panel_observation": "AFTER/right: stock cluster, highlighted phrases, background placard and growth graphic.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R08",
+      "url": "https://www.instagram.com/reel/DedfPaKPlnT/",
+      "status": "browser-played-sampled",
+      "sample_window": "~2.75-49.43s",
+      "edited_panel_observation": "AFTER/right: price accent, food inserts, macro cutaways, reframing and captions.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R09",
+      "url": "https://www.instagram.com/reel/DedavsYxYkh/",
+      "status": "browser-played-sampled",
+      "sample_window": "~1.6-24.30s",
+      "edited_panel_observation": "AFTER/right: hero product macro, ingredient/media insert and comment CTA.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R13",
+      "url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "status": "browser-played-sampled",
+      "sample_window": "~1.8-9.5s",
+      "edited_panel_observation": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R14",
+      "url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "status": "browser-played-sampled",
+      "sample_window": "~1.6-35s",
+      "edited_panel_observation": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "audio_reviewed": false
+    },
+    {
+      "ref": "R10",
+      "url": "https://www.instagram.com/reel/Dct_Y29KUUz/",
+      "status": "skipped-user-authorized",
+      "reason": "Instagram profile audience/age restriction; no effects inferred"
+    },
+    {
+      "ref": "R11",
+      "url": "https://www.instagram.com/reel/Dd7KU2liuri/",
+      "status": "skipped-user-authorized",
+      "reason": "Instagram profile audience/age restriction; no effects inferred"
+    },
+    {
+      "ref": "R12",
+      "url": "https://www.instagram.com/reel/DclwtFZOfnG/",
+      "status": "skipped-user-authorized",
+      "reason": "Instagram profile audience/age restriction; no effects inferred"
+    }
+  ]
+}

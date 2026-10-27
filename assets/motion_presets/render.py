@@ -11,7 +11,7 @@ from pathlib import Path
 from PIL import Image
 from core import *
 
-MODULES=['ui','typography','carousels','new_a','new_b','long_a','long_b','kinetic_a','kinetic_b','kinetic_c','motionprompt','guide_a','guide_b','guide_c','guide_d','envato2026','premium_type','premium_maps_data','premium_ui_product','premium_promo_fx']
+MODULES=['ui','typography','carousels','new_a','new_b','long_a','long_b','kinetic_a','kinetic_b','kinetic_c','motionprompt','guide_a','guide_b','guide_c','guide_d','envato2026','premium_type','premium_maps_data','premium_ui_product','premium_promo_fx','creator_fx','creator_fx_plus']
 
 
 def registry():
@@ -96,6 +96,9 @@ def configuration(pid,raw=None):
                 raise ValueError(key+' must be #RRGGBB')
             try: int(value[1:],16)
             except ValueError: raise ValueError(key+' must be #RRGGBB')
+    if pid.startswith('CFX') and int(pid[3:])>=21:
+        import creator_fx_plus
+        creator_fx_plus.validate_config(cfg)
     return cfg
 
 
