@@ -1,13 +1,47 @@
 ---
 name: buat-video-motion-grafik
-description: Cipta, analisis atau sunting MP4 animasi/motion grafik sehingga 30 minit daripada skrip, laman web, produk atau video. Gunakan untuk motion graphics 2D/2.5D ala After Effects melalui HTML/SVG, GSAP dan HyperFrames; timeline seekable, rig/IK, kamera/parallax, compositing, kinetic typography, Whisper dan remove-background setempat. Sokong ceramah Arab 9:16 dengan transkrip, terjemahan Melayu Malaysia, tajuk kekal dan subtitle Arab–Melayu berhighlight. Kekalkan backend Python/FFmpeg, bank 20 watak sopan V3, 42 pose/34 gerakan/enam sudut, Atlas 842 entri, 2000 komponen MA, 1500 SVG, 100 fon dan aset montaj/LUT/transition/SFX. Gunakan juga apabila pengguna meminta catalog, katalog, atlas atau pautan Motion Atlas. Ikut rujukan terbaru pengguna dan hasilkan video sebenar apabila diminta.
+description: Cipta, analisis atau sunting MP4 animasi/motion grafik sehingga 30 minit daripada skrip, laman web, produk atau video. Gunakan untuk motion graphics 2D/2.5D ala After Effects melalui HTML/SVG, GSAP dan HyperFrames; timeline seekable, rig/IK, kamera/parallax, compositing, kinetic typography, showcase/reel dengan mockup perspektif, Whisper serta remove/replace background video manusia dengan RVM temporal setempat. Sokong ceramah Arab 9:16 dengan transkrip, terjemahan Melayu Malaysia, tajuk kekal dan subtitle Arab–Melayu berhighlight. Kekalkan backend Python/FFmpeg, bank 20 watak sopan V3, 42 pose/34 gerakan/enam sudut, Atlas 922 entri termasuk Creator FX 80, 2000 komponen MA, 1500 SVG, 100 fon dan aset montaj/LUT/transition/SFX. Gunakan juga apabila pengguna meminta catalog, katalog, atlas atau pautan Motion Atlas. Ikut rujukan terbaru pengguna dan hasilkan video sebenar apabila diminta.
 ---
 
 # Buat video motion grafik
 
 Hasilkan video sebenar yang boleh ditonton apabila pengguna meminta video siap. Jika pengguna bertanya kemampuan atau meminta analisis, jawab berdasarkan pemeriksaan sebenar tanpa mendakwa video baharu sudah dihasilkan. Utamakan video rujukan terbaru untuk gaya, tempo dan orientasi kandungan. Gunakan gaya **8 Pintu Rezeki** hanya apabila pengguna jelas merujuk projek itu; jangan jadikannya lalai bagi semua "video macam ni". Hormati gaya, tempoh, nisbah skrin, dan kandungan terbaru yang pengguna minta.
 
+<!-- START ADDON -->
+## Creative Director + Critic QA (add-on)
+
+Baca `references/director-critic-qa.md` untuk semua projek yang mengutamakan mutu motion graphics, promosi produk, showreel, launch-story, explainer, video pendidikan, cut-out dan animasi 2D/2.5D. Dokumentasikan pilihan kreatif yang tidak dinyatakan pengguna. Kekalkan hierarki: arahan pengguna terbaru > keperluan projek/kit yang disahkan > panduan kreatif ini > lalai enjin.
+
+Jangan terus memilih preset. Arahkan konsep, *persistent hero*, tiga *signature moments*, perubahan keadaan, koreografi, audio cue, handoff dan hasil yang kelihatan bagi setiap aksi. Gunakan manifest adegan sedia ada, registry preset sebenar dan peta fungsi pelaksanaan yang disahkan. Sahkan manifest melalui `scripts/validate_video_manifest.py`; jangan andaikan pelan atau runtime v8 tersedia. Penggunaan preset hanya sah apabila fungsi renderer sebenar dipanggil, output bergerak dan ID dimasukkan dalam manifest penggunaan.
+
+Untuk projek kompleks, hasilkan `brief.md`, `facts.json` apabila ada dakwaan, `storyboard`, tiga style frames berkod, `timing.json` berpandukan audio akhir, proof 3–5s (atau shot sukar 6–12s), `critic-ledger.md`, QA media, kemudian master. Seorang pemeriksa berasingan lebih baik; jika tidak tersedia, jalankan pass kedua yang terpisah secara eksplisit dan jangan mendakwa ia agen bebas.
+
+Gate wajib sebelum tanda SHIP: MP4 boleh dinyahkod penuh, durasi/resolusi/fps disahkan, visual teks selamat, output preset sebenar, fakta sah, audio tepat, tiada crop/overlap yang tidak dimaksudkan, dan bukti review frame/transisi. Skor estetika adalah penilaian editorial, bukan jaminan automatik. Setiap isu penting mesti dibaiki dan diuji semula, tidak cukup menyatakan 'QA passed'.
+
+Kekalkan pengecualian genre: still/hold dan screenshot bukti yang disengajakan dibenarkan, asalkan terbaca; timing dan FPS tidak dipaksa untuk semua projek; mode tanpa VO tidak memerlukan rakaman suara; laman yang tidak boleh diakses tidak boleh direka UI/fakta secara palsu. Ikut style/bahasa/palet pengguna; peranti 9:16 memerlukan penyusunan semula yang sepadan, bukan crop buta.
+<!-- END ADDON -->
+
+## Creator FX 80 — efek reel berlapis
+
+Baca [Creator FX 80](references/creator-fx-80.md) untuk **Creator FX 80**, **koleksi CFX80**, **efek reel berlapis**, Spotify Scroll atau **CFX01–CFX80**. Kekalkan [20 kod asal](references/creator-fx-20.md) dan tambah CFX21–CFX80 melalui `creator_fx_plus.py`: panel/nested video, tipografi occlusion, produk, UI/data, kolaj arkib, laluan dan editorial. Registry kini **922 = 842 terdahulu + 80 CFX**. Bezakan nama koleksi daripada satu kod preset (CFX20 ialah Motion Echo Trail; CFX80 ialah Mosaic-to-Hero Resolve).
+
+Gabungkan teknik mengikut mesej dengan cue berasingan dan satu fokus bacaan. Jangan mewajibkan semua 80 pada setiap video. Tonton rujukan melalui browser apabila diminta; untuk before/after, analisis panel After. Skip rujukan yang tidak dapat ditonton apabila pengguna mengarahkan demikian. Bezakan prinsip yang diperhatikan daripada resipi olahan asal; jangan dakwa padanan tepat semua efek sumber. Preview vektor tidak membuktikan matting/tracking/3D sebenar. Sediakan alpha, track/cue dan cache yang diperlukan, semak muka, kontras serta gerak, dan kekalkan [Motion Atlas](https://motion-preset-atlas.akramania.chatgpt.site) yang sama.
+
+## Remove dan replace background video
+
+Baca [matting video dan penggantian latar](references/video-background-replacement.md) apabila mengasingkan manusia, mengganti studio/latar, mengeksport video transparen atau meletakkan caption di belakang badan. Wajib jalankan `python3 scripts/ensure_background.py --report /path/project/background-ready.json` dahulu; gunakan `--offline` untuk semakan cache tanpa rangkaian. Helper memulihkan dependency/model yang hilang dan menguji inferens sebenar sebelum status `ready: true`.
+
+Gunakan `scripts/background_video.py matte` untuk RVM dengan recurrent state, reset pada cut, mask override props serta cache berclock tetap; kemudian `render` untuk komposit gambar/video atau MOV ProRes 4444 beralpha. Kekalkan footage/audio asal, default foreground contain dan QA proof sebelum master. Jangan padam model bersama cache render, menganggap rembg setiap imej stabil secara temporal, atau mendakwa semua objek boleh diasingkan oleh model manusia.
+
+## Whisper sentiasa tersedia sebelum analisis audio
+
+Wajib jalankan `python3 scripts/ensure_whisper.py --model medium --report /path/project/whisper-ready.json` sebelum analisis audio/transkripsi, termasuk sambungan episod. Helper menggunakan semula cache, memasang dependency dan memuat turun model yang tiada, kemudian menguji load serta decode setempat. Baca [Whisper dan alat media](references/media-tools.md). Untuk model projek yang sudah disahkan, gunakan `--model-path /path/model` dan kekalkan model itu; jangan tukar atau turun taraf secara senyap. `tiny` hanya untuk smoke test, bukan lalai ceramah Arab.
+
+Kekalkan cache dependency dan berat model apabila membersihkan cache render episod. Model besar disimpan dalam cache runtime yang dikongsi, bukan Git skill. Persekitaran baharu boleh kehilangan cache: ulang semakan dan pulihkan pemasangan secara automatik sebelum kerja audio. Jika offline, gunakan `--offline` serta model lengkap yang telah disediakan. Jika pemasangan/muat turun disekat, laporkan sekatan sebenar; jangan dakwa model tersedia atau reka transkrip. Readiness memerlukan laporan `ready: true`, bukan kewujudan folder kosong.
+
 ## Suntingan ceramah Arab → subtitle Arab–Melayu
+
+Bagi **sambungan siri seperti Arbain Ghazali**, baca [aliran siri dengan checkpoint](references/arabic-lecture-series-fast.md) dahulu. Gunakan penyedia projek berparameter, chunk ASR sah dan renderer ASS teruji. Selaraskan penulis harakat/Quran, semak pratonton serta audio sebelum master, sahkan upload dan bersihkan cache setiap episod. Kekalkan durasi ceramah penuh walaupun melebihi had 30 minit explainer.
 
 Baca [aliran suntingan ceramah Arab](references/arabic-lecture-editing.md) apabila pengguna meminta edit ceramah Arab, subtitle bilingual, terjemahan Melayu berhighlight atau gaya **Filem dan Dajjal**. Kekalkan pertuturan asal; gunakan lalai potret 9:16, tajuk sepanjang video, Arab di atas Melayu dan highlight emas pada perkataan Melayu, dengan crop/zoom lembut yang menjaga wajah. Sediakan transkrip Arab dan terjemahan Bahasa Melayu Malaysia lengkap sebelum render; jika diminta "tulis dulu", paparkan terjemahan dahulu dan ikut arahan sambungan. Selepas persetujuan atau arahan terus siap, teruskan tanpa meminta kelulusan yang sama lagi. Kekalkan teks yang sudah diluluskan, semak shaping RTL, penjajaran highlight mengikut maksud audio Arab, serta bingkai penutup supaya dissolve asal yang tidak selesai tidak menghasilkan imej bertindih. Arahan projek terkini mengatasi lalai ini; jangan bawa tajuk atau isi ceramah lama ke video baharu.
 
@@ -17,7 +51,7 @@ Untuk motion graphics **2D/2.5D ala After Effects melalui HTML**, baca [produksi
 
 Mulakan dengan `node scripts/setup_hyperframes.mjs --help` dan preflight sebenar. Salin `assets/hyperframes/` ke projek; gunakan versi terkunci serta dependency/browser setempat. Timeline wajib terhingga, `paused:true`, didaftar pada `window.__timelines` dengan composition ID yang sama dan boleh di-seek tepat tanpa jam/ticker bebas. Ikut gate readiness versi runtime yang diuji dalam template. Render petikan, semak artwork/rig/teks Arab–Melayu/gerak/audio/transisi, kemudian semak MP4 akhir. Simpan contoh projek, versi dan hasil QA yang benar-benar dijalankan; jangan mendakwa contoh lama menguji setiap teks atau model baharu.
 
-Kekalkan seluruh Atlas, MA, fon, aset VL dan bank V3. Adapter JS ialah port terpilih yang berlabel berasingan; jangan menukar registry atau mendakwa semua 842 entri sudah diterjemahkan. Untuk preset belum dipindah, gunakan Python asal sebagai layer video/alpha atau sequence sebelum compositing HTML. Laluan Python/FFmpeg di bawah kekal tersedia bagi projek yang lebih sesuai dengannya.
+Kekalkan seluruh Atlas, MA, fon, aset VL dan bank V3. Adapter JS ialah port terpilih yang berlabel berasingan; jangan menukar registry atau mendakwa semua 922 entri sudah diterjemahkan. Untuk preset belum dipindah, gunakan Python asal sebagai layer video/alpha atau sequence sebelum compositing HTML. Laluan Python/FFmpeg di bawah kekal tersedia bagi projek yang lebih sesuai dengannya.
 
 ## Laluan setempat FFmpeg → MP4
 
@@ -44,6 +78,8 @@ Baca [motion grafik lanjutan](references/advanced-motion-graphics.md) untuk ruju
 Baca [bank gerakan UI, teks dan carousel](references/motion-patterns-envato.md) untuk keluarga gerakan daripada 12 preview Envato pilihan pengguna: SaaS dashboard, notifikasi, app promo, lima variasi tipografi, hook/caption dan dua carousel. Panduan memisahkan pemerhatian preview daripada resipi pelaksanaan asal, serta menyediakan aturan gabungan, parameter, semakan loop dan pengukuran teks. Gunakan `scripts/motion_primitives.py` sebagai pembantu timing/layout deterministik, bukan enjin render atau fail After Effects. Pilih beberapa corak yang sesuai dengan mesej dan bina preview sebenar sebelum menjanjikan padanan mutu.
 
 ## Gaya lalai explainer dan promosi
+
+Untuk **showcase/reel dengan teks per perkataan di tengah, video menindih teks atau demonstrasi dalam mockup telefon berperspektif**, baca [koreografi showcase perkataan dan telefon](references/centre-word-showcase.md). Mulakan scene dengan teks besar berperingkat, beri masa dibaca, kemudian gerakkan teks dan masukkan video sebenar di atasnya. Pelbagaikan mekanisme perkataan dan kemasukan video mengikut scene. Gunakan `scripts/showcase_layers.py` untuk 15 mekanisme custom dan telefon 2.5D; asingkan audit custom daripada registry Atlas. Jika pengguna hanya mahu nampak langkah, pilih aksi sebenar dan percepat potongan selepas membuang jeda. Ikut had durasi terbaru; jangan memaksa 52/60 saat sebagai tetapan semua projek.
 
 Bagi video **promosi produk, kelas atau tawaran** tanpa rujukan gaya yang lebih baharu, baca [gaya promosi live commerce berimpak](references/live-commerce-promo-style.md) dan jadikannya titik mula. Gaya ini diadaptasi daripada video CME pengguna yang disiapkan dan direvisi beberapa kali: tipografi menghentak, gerak produk dan mockup yang padat, emoji reaksi hiasan, kad soalan, paparan harga jika harga dibekalkan, SFX yang sejajar dengan aksi dan CTA dominan. Adaptasi palet, orientasi, tempo, aset dan bilangan elemen mengikut cerita; jangan tampal semua motif pada setiap babak. Utamakan rujukan visual terbaru dan arahan khusus pengguna berbanding gaya lalai ini.
 
@@ -147,7 +183,7 @@ Baca [revisi visual potret daripada 10video V2](references/portrait-kinetic-visu
 
 Panggil implementasi preset sebenar pada frame master dan audit ID unik yang benar-benar digunakan; jangan kira pertukaran warna, pengulangan atau adaptasi galeri sebagai ID tambahan. Bina semula layout portrait daripada ukuran teks/alpha dan keseluruhan laluan gerak, bukan crop demo landscape. Pisahkan jam gerak, siap-baca dan hold supaya aksi sederhana, laju dan sangat laju masih terbaca. Semak safe area mengikut setiap shot, permukaan sebenar di belakang glyph, polariti ink pada jalur serta frame penutup.
 
-Gabungkan artwork slide/poster asli, mask, depth rack, perspective dan gerak kad dalam stage berlapis dengan hold bersih. Kekalkan kandungan serta nisbah artwork, asingkan ruang bacaan daripada tipografi dan hormati izin liputan subjek terkini. Sasaran 40–100 preset serta sedikit overlap muka ialah brief khusus 10video, bukan arahan semua projek. Rujukan ini menambah aliran kerja dan QA, bukan preset baharu; kekalkan registry 842, semua aset dan aturan Google AI Studio.
+Gabungkan artwork slide/poster asli, mask, depth rack, perspective dan gerak kad dalam stage berlapis dengan hold bersih. Kekalkan kandungan serta nisbah artwork, asingkan ruang bacaan daripada tipografi dan hormati izin liputan subjek terkini. Sasaran 40–100 preset serta sedikit overlap muka ialah brief khusus 10video, bukan arahan semua projek. Rujukan ini menambah aliran kerja dan QA, bukan preset baharu; kekalkan registry 922, semua aset dan aturan Google AI Studio.
 
 ## Aliran kerja
 

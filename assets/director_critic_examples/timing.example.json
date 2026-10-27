@@ -1,0 +1,19 @@
+{
+  "example_only": true,
+  "warning": "Placeholder untuk struktur sahaja. Beat dan cue sebenar mesti dianalisis daripada audio akhir.",
+  "fps": 30,
+  "duration_frames": 450,
+  "timebase": "video_frame",
+  "audio_source": null,
+  "audio_status": "not_analyzed",
+  "sections": [
+    {"id": "hook", "start_frame": 0, "end_frame": 45, "persistent_hero": "o2_blue"},
+    {"id": "route", "start_frame": 45, "end_frame": 150, "persistent_hero": "o2_blue"},
+    {"id": "exchange", "start_frame": 150, "end_frame": 330, "persistent_hero": "o2_blue"},
+    {"id": "recap", "start_frame": 330, "end_frame": 450, "persistent_hero": "o2_blue"}
+  ],
+  "beats": [],
+  "word_cues": [],
+  "sfx_cues": [],
+  "generated_from_final_audio": false
+}

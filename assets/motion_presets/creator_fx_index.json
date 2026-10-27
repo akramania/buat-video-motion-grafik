@@ -1,0 +1,1186 @@
+{
+  "collection": "Creator FX 20",
+  "count": 20,
+  "items": {
+    "CFX01": {
+      "name": "Digital Punch Zoom",
+      "description": "Zoom pada fokus tanpa mengubah kedudukan anchor.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "anchor crop + eased scale",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX02": {
+      "name": "Vertigo Layers",
+      "description": "Subjek kekal; skala latar berubah untuk simulasi dolly zoom.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "independent subject/background scale",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX03": {
+      "name": "Background Swap",
+      "description": "Reveal latar baharu di belakang cutout beralpha.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "prepared alpha subject + background wipe",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX04": {
+      "name": "Frame Break",
+      "description": "Subjek melangkaui sempadan kad yang sedang bergerak.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "clipped card + unbounded foreground composite",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX05": {
+      "name": "Sticky Text",
+      "description": "Label mengikut anchor objek yang bergerak.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "shared analytic anchor + leader line",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX06": {
+      "name": "Headline Wall",
+      "description": "Kad tajuk membina dinding di belakang subjek.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "staggered headlines + occluded cutout",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "browser-sampled",
+      "observed_timestamp": "Reel 23.67s: samples ~2.3s, 16.7s, 18.7s, 22.9s; label list visible throughout",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX07": {
+      "name": "Doodle Boil",
+      "description": "Kontur dan garisan lukisan hidup dalam gelung diskret.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "three deterministic contour states + draw-on",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX08": {
+      "name": "Pull-back Reveal",
+      "description": "Kamera berundur untuk mendedahkan papan komposisi.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "nested scene + perspective scale reveal",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "browser-sampled",
+      "observed_timestamp": "Reel 23.67s: samples ~2.3s, 16.7s, 18.7s, 22.9s; label list visible throughout",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX09": {
+      "name": "Depth Scatter",
+      "description": "Perkataan berpisah pada skala dan kedalaman berlainan.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "independent glyph groups + blur depth planes",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "browser-sampled",
+      "observed_timestamp": "Reel 23.67s: samples ~2.3s, 16.7s, 18.7s, 22.9s; label list visible throughout",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX10": {
+      "name": "UI World",
+      "description": "Panel aplikasi asli membina ruang di sekeliling subjek.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "staggered UI cards + parallax",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX11": {
+      "name": "Phone Mockup",
+      "description": "Footage melekat pada skrin telefon berperspektif.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "screen clipping + homography + bezel",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX12": {
+      "name": "Freeze and Label",
+      "description": "Aksi berhenti pada cue dan label dilukis ke subjek.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeXE2T0z7QW/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "time clamp + leader reveal",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX13": {
+      "name": "Spotlight Focus",
+      "description": "Sorotan mengikuti fokus sambil kawasan lain dimalapkan.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeXE2T0z7QW/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "animated luminance mask",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX14": {
+      "name": "Before After Wipe",
+      "description": "Dua keadaan dibandingkan pada crop yang sama.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "registered split wipe + divider",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX15": {
+      "name": "Spotify-style Scroll",
+      "description": "Senarai bergulir dengan item aktif pada pusat; pilihan mod lirik.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DemwQgyTKQu/",
+      "source_product": "Instagram · Scrolling list / perspective inset",
+      "mechanism": "cue-driven vertical list + active line + cards",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "browser-sampled",
+      "observed_timestamp": "Browser samples ~12.4, 24.4 and 36.5s of 46.04s reel; scrolling list/inset UI observed",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX16": {
+      "name": "Paper Cut Reveal",
+      "description": "Jalur kertas bergerigi membuka lapisan seterusnya.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "deterministic torn polygon matte",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX17": {
+      "name": "Zoom-through Cut",
+      "description": "Kamera masuk melalui portal ke komposisi berikutnya.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "expanding portal + scale handoff",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX18": {
+      "name": "Orbit Cards",
+      "description": "Kad mengorbit di hadapan dan belakang subjek.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "ellipse path + depth sort + scale",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "visible-label-or-metadata",
+      "observed_timestamp": "No exact movement match asserted; see creator-fx-20.md",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX19": {
+      "name": "Comment Bubble",
+      "description": "Gelembung pertanyaan diikuti balasan berturutan.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/De25fKeTRl7/",
+      "source_product": "Instagram · Creator FX references",
+      "mechanism": "spring bubble + connector + reply cue",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "browser-sampled",
+      "observed_timestamp": "Reel 23.67s: samples ~2.3s, 16.7s, 18.7s, 22.9s; label list visible throughout",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    },
+    "CFX20": {
+      "name": "Motion Echo Trail",
+      "description": "Salinan masa lampau tertinggal di belakang gerakan.",
+      "genre": "creator",
+      "genres": [
+        "creator",
+        "education",
+        "promo"
+      ],
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA JADI GERAK",
+      "subtitle": "Creator FX 20",
+      "duration": 6,
+      "source_url": "",
+      "source_product": "Creator FX 20 · Original extension",
+      "mechanism": "time-offset samples + decaying opacity",
+      "variant_basis": "adapted",
+      "adaptation_status": "original-implementation",
+      "observation_basis": "original-extension",
+      "observed_timestamp": "Original extension; not claimed as an observed source effect",
+      "use_cases": [
+        "reel",
+        "talking head",
+        "explainer",
+        "layered compositing"
+      ],
+      "limitations": "Original vector demo; real subjects require prepared alpha/mask. 2.5D simulation, not reconstructed 3D. No automatic tracking or audio alignment.",
+      "parameters": [
+        "image_path",
+        "subject_path",
+        "background_path",
+        "focus_x",
+        "focus_y",
+        "amount",
+        "freeze_at",
+        "lines",
+        "line_cues",
+        "scroll_mode",
+        "freeze_image_path"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.48,
+      "amount": 1.0,
+      "freeze_at": 1.8,
+      "lines": [
+        "Satu idea dahulu",
+        "Kemudian beri konteks",
+        "Gerakkan fokus utama",
+        "Biar mesej mudah dibaca"
+      ],
+      "line_cues": [
+        0.0,
+        1.25,
+        2.5,
+        3.75
+      ],
+      "scroll_mode": "list"
+    }
+  }
+}

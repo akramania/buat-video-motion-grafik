@@ -1,0 +1,19 @@
+{
+  "example_only": true,
+  "media_file": null,
+  "status": "NOT_RUN",
+  "gates": {
+    "decode_full": "NOT_RUN",
+    "duration_resolution_fps": "NOT_RUN",
+    "layout_safe_zone": "NOT_RUN",
+    "motion_actual": "NOT_RUN",
+    "frame0_hook": "NOT_RUN",
+    "sync_frame_exact": "NOT_RUN",
+    "facts_provenance": "NOT_RUN",
+    "audio_loudness_truepeak": "NOT_RUN",
+    "crop_faces": "NOT_RUN",
+    "independent_critic": "NOT_RUN"
+  },
+  "preset_usage": [],
+  "review_evidence": []
+}

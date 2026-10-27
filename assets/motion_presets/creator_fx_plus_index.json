@@ -1,0 +1,2952 @@
+{
+  "collection": "Creator FX 80",
+  "added": 60,
+  "range": "CFX21-CFX80",
+  "items": {
+    "CFX21": {
+      "name": "Triple Reel Fan",
+      "description": "Three hinged portrait panels converge then fan.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeznKe6zYWd/",
+      "source_product": "Instagram · R01 · edited examples",
+      "source_ref": "R01",
+      "observed_timestamp": "0.24-7.66s",
+      "source_finding": "Three portrait video cards fan above a laptop; nested moving graphics.",
+      "mechanism": "three hinged portrait panels converge then fan",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX22": {
+      "name": "Nested Screen Dock",
+      "description": "Child panels dock into a parent monitor.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeznKe6zYWd/",
+      "source_product": "Instagram · R01 · edited examples",
+      "source_ref": "R01",
+      "observed_timestamp": "0.24-7.66s",
+      "source_finding": "Three portrait video cards fan above a laptop; nested moving graphics.",
+      "mechanism": "child panels dock into a parent monitor",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX23": {
+      "name": "Card Flip Handoff",
+      "description": "Two-sided planar flip with midpoint content handoff.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeznKe6zYWd/",
+      "source_product": "Instagram · R01 · edited examples",
+      "source_ref": "R01",
+      "observed_timestamp": "0.24-7.66s",
+      "source_finding": "Three portrait video cards fan above a laptop; nested moving graphics.",
+      "mechanism": "two-sided planar flip with midpoint content handoff",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX24": {
+      "name": "Split Panel Lift",
+      "description": "Vertical slit masks reveal independently lifted panels.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeznKe6zYWd/",
+      "source_product": "Instagram · R01 · edited examples",
+      "source_ref": "R01",
+      "observed_timestamp": "0.24-7.66s",
+      "source_finding": "Three portrait video cards fan above a laptop; nested moving graphics.",
+      "mechanism": "vertical slit masks reveal independently lifted panels",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX25": {
+      "name": "Corner Halo Disc",
+      "description": "Radial disc grows behind an alpha subject.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/Db7qHm7B5Z6/",
+      "source_product": "Instagram · R05 · edited examples",
+      "source_ref": "R05",
+      "observed_timestamp": "~0.73-10.08s",
+      "source_finding": "Two edited examples: floating orbs, circular subject backdrop, perspective typography.",
+      "mechanism": "radial disc grows behind an alpha subject",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX26": {
+      "name": "Parallax Orb Field",
+      "description": "Seeded depth planes of orbs counter-pan behind subject.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/Db7qHm7B5Z6/",
+      "source_product": "Instagram · R05 · edited examples",
+      "source_ref": "R05",
+      "observed_timestamp": "~0.73-10.08s",
+      "source_finding": "Two edited examples: floating orbs, circular subject backdrop, perspective typography.",
+      "mechanism": "seeded depth planes of orbs counter-pan behind subject",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX27": {
+      "name": "Perspective Type Plane",
+      "description": "One text plane rotates through a projective quadrilateral.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/Db7qHm7B5Z6/",
+      "source_product": "Instagram · R05 · edited examples",
+      "source_ref": "R05",
+      "observed_timestamp": "~0.73-10.08s",
+      "source_finding": "Two edited examples: floating orbs, circular subject backdrop, perspective typography.",
+      "mechanism": "one text plane rotates through a projective quadrilateral",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX28": {
+      "name": "Silhouette Halo Pulse",
+      "description": "Dilated alpha contour rings expand behind subject.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/Db7qHm7B5Z6/",
+      "source_product": "Instagram · R05 · edited examples",
+      "source_ref": "R05",
+      "observed_timestamp": "~0.73-10.08s",
+      "source_finding": "Two edited examples: floating orbs, circular subject backdrop, perspective typography.",
+      "mechanism": "dilated alpha contour rings expand behind subject",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX29": {
+      "name": "Headline Occlusion Slide",
+      "description": "Headline crosses from behind subject to a clear foreground hold.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdtsGzhT2oP/",
+      "source_product": "Instagram · R02 · edited examples",
+      "source_ref": "R02",
+      "observed_timestamp": "~1.86-32.62s",
+      "source_finding": "AFTER/right only: text at different depths, building insert, fast spatial transitions.",
+      "mechanism": "headline crosses from behind subject to a clear foreground hold",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX30": {
+      "name": "Location Diorama Pop",
+      "description": "Building layers rise at independent depths behind subject.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdtsGzhT2oP/",
+      "source_product": "Instagram · R02 · edited examples",
+      "source_ref": "R02",
+      "observed_timestamp": "~1.86-32.62s",
+      "source_finding": "AFTER/right only: text at different depths, building insert, fast spatial transitions.",
+      "mechanism": "building layers rise at independent depths behind subject",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX31": {
+      "name": "Whip Stretch Cut",
+      "description": "Directional strip stretching hands off two scenes.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdtsGzhT2oP/",
+      "source_product": "Instagram · R02 · edited examples",
+      "source_ref": "R02",
+      "observed_timestamp": "~1.86-32.62s",
+      "source_finding": "AFTER/right only: text at different depths, building insert, fast spatial transitions.",
+      "mechanism": "directional strip stretching hands off two scenes",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX32": {
+      "name": "Roll-and-Land Caption",
+      "description": "Word chips roll on circular paths and settle on a baseline.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdtsGzhT2oP/",
+      "source_product": "Instagram · R02 · edited examples",
+      "source_ref": "R02",
+      "observed_timestamp": "~1.86-32.62s",
+      "source_finding": "AFTER/right only: text at different depths, building insert, fast spatial transitions.",
+      "mechanism": "word chips roll on circular paths and settle on a baseline",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX33": {
+      "name": "Opposing Word Pair",
+      "description": "Two phrase blocks converge on perpendicular masked tracks.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdtsGzhT2oP/",
+      "source_product": "Instagram · R02 · edited examples",
+      "source_ref": "R02",
+      "observed_timestamp": "~1.86-32.62s",
+      "source_finding": "AFTER/right only: text at different depths, building insert, fast spatial transitions.",
+      "mechanism": "two phrase blocks converge on perpendicular masked tracks",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX34": {
+      "name": "Floating Product Insert",
+      "description": "Product cutout springs upward with an attached content tag.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedavsYxYkh/",
+      "source_product": "Instagram · R09 · edited examples",
+      "source_ref": "R09",
+      "observed_timestamp": "~1.6-24.30s",
+      "source_finding": "AFTER/right: hero product macro, ingredient/media insert and comment CTA.",
+      "mechanism": "product cutout springs upward with an attached content tag",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX35": {
+      "name": "Product Hero Cutaway",
+      "description": "Macro product aperture replaces the presenter stage.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedavsYxYkh/",
+      "source_product": "Instagram · R09 · edited examples",
+      "source_ref": "R09",
+      "observed_timestamp": "~1.6-24.30s",
+      "source_finding": "AFTER/right: hero product macro, ingredient/media insert and comment CTA.",
+      "mechanism": "macro product aperture replaces the presenter stage",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX36": {
+      "name": "Ingredient Card Cascade",
+      "description": "Ingredient cards stack by depth then spread around hero.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedavsYxYkh/",
+      "source_product": "Instagram · R09 · edited examples",
+      "source_ref": "R09",
+      "observed_timestamp": "~1.6-24.30s",
+      "source_finding": "AFTER/right: hero product macro, ingredient/media insert and comment CTA.",
+      "mechanism": "ingredient cards stack by depth then spread around hero",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX37": {
+      "name": "Price Tag Swing",
+      "description": "Hinged tag swings with a damped pendulum.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedfPaKPlnT/",
+      "source_product": "Instagram · R08 · edited examples",
+      "source_ref": "R08",
+      "observed_timestamp": "~2.75-49.43s",
+      "source_finding": "AFTER/right: price accent, food inserts, macro cutaways, reframing and captions.",
+      "mechanism": "hinged tag swings with a damped pendulum",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation",
+        "price"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX38": {
+      "name": "Plate Tilt Showcase",
+      "description": "Circular product composition tilts with orbiting detail pins.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedfPaKPlnT/",
+      "source_product": "Instagram · R08 · edited examples",
+      "source_ref": "R08",
+      "observed_timestamp": "~2.75-49.43s",
+      "source_finding": "AFTER/right: price accent, food inserts, macro cutaways, reframing and captions.",
+      "mechanism": "circular product composition tilts with orbiting detail pins",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX39": {
+      "name": "Macro Crop Match Cut",
+      "description": "Registered circular crop carries focus across a content cut.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedfPaKPlnT/",
+      "source_product": "Instagram · R08 · edited examples",
+      "source_ref": "R08",
+      "observed_timestamp": "~2.75-49.43s",
+      "source_finding": "AFTER/right: price accent, food inserts, macro cutaways, reframing and captions.",
+      "mechanism": "registered circular crop carries focus across a content cut",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX40": {
+      "name": "Speed Ramp Push",
+      "description": "Explicit nonlinear source-time remap drives a moving demo.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedfPaKPlnT/",
+      "source_product": "Instagram · R08 · edited examples",
+      "source_ref": "R08",
+      "observed_timestamp": "~2.75-49.43s",
+      "source_finding": "AFTER/right: price accent, food inserts, macro cutaways, reframing and captions.",
+      "mechanism": "explicit nonlinear source-time remap drives a moving demo",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX41": {
+      "name": "Quad Video Ensemble",
+      "description": "Four independently animated panels share a stable grid.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "source_product": "Instagram · R03 · edited examples",
+      "source_ref": "R03",
+      "observed_timestamp": "~5.87-20.01s",
+      "source_finding": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "mechanism": "four independently animated panels share a stable grid",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX42": {
+      "name": "Focus Rack Grid",
+      "description": "Sharp focus transfers between four depth-separated panels.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "source_product": "Instagram · R03 · edited examples",
+      "source_ref": "R03",
+      "observed_timestamp": "~5.87-20.01s",
+      "source_finding": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "mechanism": "sharp focus transfers between four depth-separated panels",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX43": {
+      "name": "Caption Depth Plane",
+      "description": "Large caption plane passes behind a protected head region.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "source_product": "Instagram · R03 · edited examples",
+      "source_ref": "R03",
+      "observed_timestamp": "~5.87-20.01s",
+      "source_finding": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "mechanism": "large caption plane passes behind a protected head region",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX44": {
+      "name": "Glass Chat Stack",
+      "description": "Messages reflow the existing stack when a new bubble arrives.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "source_product": "Instagram · R03 · edited examples",
+      "source_ref": "R03",
+      "observed_timestamp": "~5.87-20.01s",
+      "source_finding": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "mechanism": "messages reflow the existing stack when a new bubble arrives",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX45": {
+      "name": "Live Chart Overlay",
+      "description": "Chart path and moving data point build above footage.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "source_product": "Instagram · R03 · edited examples",
+      "source_ref": "R03",
+      "observed_timestamp": "~5.87-20.01s",
+      "source_finding": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "mechanism": "chart path and moving data point build above footage",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX46": {
+      "name": "Branch Card Flow",
+      "description": "One node branches into child cards as connectors reach them.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "source_product": "Instagram · R03 · edited examples",
+      "source_ref": "R03",
+      "observed_timestamp": "~5.87-20.01s",
+      "source_finding": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "mechanism": "one node branches into child cards as connectors reach them",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX47": {
+      "name": "Incoming Call Panel",
+      "description": "Call card enters, pulses, then changes to connected state.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeRaKpNJ4ET/",
+      "source_product": "Instagram · R04 · edited examples",
+      "source_ref": "R04",
+      "observed_timestamp": "~3.02-13.00s",
+      "source_finding": "Edited panels: incoming-call UI, checklist, phone gauge, orange emphasis strips.",
+      "mechanism": "call card enters, pulses, then changes to connected state",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX48": {
+      "name": "Checklist Tap Reveal",
+      "description": "Cursor visits checkboxes and reveals completed row states.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeRaKpNJ4ET/",
+      "source_product": "Instagram · R04 · edited examples",
+      "source_ref": "R04",
+      "observed_timestamp": "~3.02-13.00s",
+      "source_finding": "Edited panels: incoming-call UI, checklist, phone gauge, orange emphasis strips.",
+      "mechanism": "cursor visits checkboxes and reveals completed row states",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX49": {
+      "name": "Gauge Sweep Phone",
+      "description": "Needle and numeric readout share the same measured progress.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeRaKpNJ4ET/",
+      "source_product": "Instagram · R04 · edited examples",
+      "source_ref": "R04",
+      "observed_timestamp": "~3.02-13.00s",
+      "source_finding": "Edited panels: incoming-call UI, checklist, phone gauge, orange emphasis strips.",
+      "mechanism": "needle and numeric readout share the same measured progress",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX50": {
+      "name": "Highlight Strip Chase",
+      "description": "Independent highlight bands chase successive phrase blocks.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeRaKpNJ4ET/",
+      "source_product": "Instagram · R04 · edited examples",
+      "source_ref": "R04",
+      "observed_timestamp": "~3.02-13.00s",
+      "source_finding": "Edited panels: incoming-call UI, checklist, phone gauge, orange emphasis strips.",
+      "mechanism": "independent highlight bands chase successive phrase blocks",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX51": {
+      "name": "Pinboard Notes Draw",
+      "description": "Pinned notes arrive before drawn connecting paths.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdM89KRMPBJ/",
+      "source_product": "Instagram · R06 · edited examples",
+      "source_ref": "R06",
+      "observed_timestamp": "~3-23.77s",
+      "source_finding": "AFTER/right: note pinboard, dotted connector, glowing bulb, word emphasis.",
+      "mechanism": "pinned notes arrive before drawn connecting paths",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX52": {
+      "name": "Lightbulb Bloom",
+      "description": "Bulb filament lights before a radial glow and ray burst.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdM89KRMPBJ/",
+      "source_product": "Instagram · R06 · edited examples",
+      "source_ref": "R06",
+      "observed_timestamp": "~3-23.77s",
+      "source_finding": "AFTER/right: note pinboard, dotted connector, glowing bulb, word emphasis.",
+      "mechanism": "bulb filament lights before a radial glow and ray burst",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX53": {
+      "name": "Dotted Route Courier",
+      "description": "Courier travels along a progressive dotted path.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdM89KRMPBJ/",
+      "source_product": "Instagram · R06 · edited examples",
+      "source_ref": "R06",
+      "observed_timestamp": "~3-23.77s",
+      "source_finding": "AFTER/right: note pinboard, dotted connector, glowing bulb, word emphasis.",
+      "mechanism": "courier travels along a progressive dotted path",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX54": {
+      "name": "Underline Word Sweep",
+      "description": "Underline follows completed words while layout stays fixed.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdM89KRMPBJ/",
+      "source_product": "Instagram · R06 · edited examples",
+      "source_ref": "R06",
+      "observed_timestamp": "~3-23.77s",
+      "source_finding": "AFTER/right: note pinboard, dotted connector, glowing bulb, word emphasis.",
+      "mechanism": "underline follows completed words while layout stays fixed",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX55": {
+      "name": "Inventory Cluster Bloom",
+      "description": "Items clone outward from one hero into a packed inventory.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeXmN1Apj2c/",
+      "source_product": "Instagram · R07 · edited examples",
+      "source_ref": "R07",
+      "observed_timestamp": "~5.80-20.07s",
+      "source_finding": "AFTER/right: stock cluster, highlighted phrases, background placard and growth graphic.",
+      "mechanism": "items clone outward from one hero into a packed inventory",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX56": {
+      "name": "Marker Box Emphasis",
+      "description": "Hand-like marker rectangle draws around active wording.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeXmN1Apj2c/",
+      "source_product": "Instagram · R07 · edited examples",
+      "source_ref": "R07",
+      "observed_timestamp": "~5.80-20.07s",
+      "source_finding": "AFTER/right: stock cluster, highlighted phrases, background placard and growth graphic.",
+      "mechanism": "hand-like marker rectangle draws around active wording",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX57": {
+      "name": "Growth Curve Tracker",
+      "description": "Point, label and reveal mask follow actual demo curve values.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeXmN1Apj2c/",
+      "source_product": "Instagram · R07 · edited examples",
+      "source_ref": "R07",
+      "observed_timestamp": "~5.80-20.07s",
+      "source_finding": "AFTER/right: stock cluster, highlighted phrases, background placard and growth graphic.",
+      "mechanism": "point, label and reveal mask follow actual demo curve values",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX58": {
+      "name": "Placard Tilt Replace",
+      "description": "A background placard turns around a hinge behind subject.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeXmN1Apj2c/",
+      "source_product": "Instagram · R07 · edited examples",
+      "source_ref": "R07",
+      "observed_timestamp": "~5.80-20.07s",
+      "source_finding": "AFTER/right: stock cluster, highlighted phrases, background placard and growth graphic.",
+      "mechanism": "a background placard turns around a hinge behind subject",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX59": {
+      "name": "Blueprint Photo Collage",
+      "description": "Photos assemble on a ruled blueprint with corner marks.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "photos assemble on a ruled blueprint with corner marks",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX60": {
+      "name": "Archive Stamp Route",
+      "description": "Date stamps land at route nodes with ink impressions.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "date stamps land at route nodes with ink impressions",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX61": {
+      "name": "Polaroid Deal",
+      "description": "Photo cards slide from a deck with offset rotations.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "photo cards slide from a deck with offset rotations",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX62": {
+      "name": "Torn Portrait Aperture",
+      "description": "Irregular radial paper aperture reveals a portrait.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "irregular radial paper aperture reveals a portrait",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX63": {
+      "name": "Postcard Route Journey",
+      "description": "Schematic paper route draws as an aircraft advances.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "schematic paper route draws as an aircraft advances",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation",
+        "route_points"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX64": {
+      "name": "Date Card Flip",
+      "description": "Top and bottom number flaps exchange at a hinge.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "top and bottom number flaps exchange at a hinge",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation",
+        "from_year",
+        "to_year"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX65": {
+      "name": "Archive Mosaic Zoom",
+      "description": "Camera traverses a mosaic and resolves to one photo.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "camera traverses a mosaic and resolves to one photo",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX66": {
+      "name": "Museum Frame Parallax",
+      "description": "Frame, artwork and foreground trim move at different depths.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DePNgrmToh9/",
+      "source_product": "Instagram · R13 · edited examples",
+      "source_ref": "R13",
+      "observed_timestamp": "~1.8-9.5s",
+      "source_finding": "Finished collage examples: map, stamps, archival portrait, dated photo frames and tiled scenes.",
+      "mechanism": "frame, artwork and foreground trim move at different depths",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX67": {
+      "name": "Editorial Spec Sheet",
+      "description": "Video header shrinks to make room for a design specification.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "video header shrinks to make room for a design specification",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX68": {
+      "name": "Palette Swatch Morph",
+      "description": "Swatches change geometry and transfer their colors to a panel.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "swatches change geometry and transfer their colors to a panel",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX69": {
+      "name": "Typography Scale Ladder",
+      "description": "Type specimen grows through measured size rungs.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "type specimen grows through measured size rungs",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX70": {
+      "name": "Layout Grid Build",
+      "description": "Grid lines draw before cells populate in reading order.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "grid lines draw before cells populate in reading order",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX71": {
+      "name": "Exploded Layer Timeline",
+      "description": "Flat layers separate in depth to reveal their order.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "flat layers separate in depth to reveal their order",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX72": {
+      "name": "Timeline Track Assemble",
+      "description": "Clips snap to time tracks while a playhead traverses them.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "clips snap to time tracks while a playhead traverses them",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX73": {
+      "name": "Paragraph Line Reveal",
+      "description": "Line-specific masks reveal a paragraph without reflow.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "line-specific masks reveal a paragraph without reflow",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation",
+        "lines"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX74": {
+      "name": "Modular Panel Reflow",
+      "description": "Panel rectangles interpolate between two layout topologies.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "panel rectangles interpolate between two layout topologies",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX75": {
+      "name": "Flipbook Strip Cut",
+      "description": "Image strips rotate independently to reveal the next panel.",
+      "genre": "education",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "image strips rotate independently to reveal the next panel",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX76": {
+      "name": "B-roll Tile Pour",
+      "description": "Small media tiles fall into fitted collage slots.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DedfPaKPlnT/",
+      "source_product": "Instagram · R08 · edited examples",
+      "source_ref": "R08",
+      "observed_timestamp": "~2.75-49.43s",
+      "source_finding": "AFTER/right: price accent, food inserts, macro cutaways, reframing and captions.",
+      "mechanism": "small media tiles fall into fitted collage slots",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX77": {
+      "name": "Continuous Caption Rail",
+      "description": "Horizontal word rail moves beneath a stationary reading window.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DdtsGzhT2oP/",
+      "source_product": "Instagram · R02 · edited examples",
+      "source_ref": "R02",
+      "observed_timestamp": "~1.86-32.62s",
+      "source_finding": "AFTER/right only: text at different depths, building insert, fast spatial transitions.",
+      "mechanism": "horizontal word rail moves beneath a stationary reading window",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX78": {
+      "name": "Callout Magnifier Lens",
+      "description": "Circular magnified crop follows a point with a leader label.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeXmN1Apj2c/",
+      "source_product": "Instagram · R07 · edited examples",
+      "source_ref": "R07",
+      "observed_timestamp": "~5.80-20.07s",
+      "source_finding": "AFTER/right: stock cluster, highlighted phrases, background placard and growth graphic.",
+      "mechanism": "circular magnified crop follows a point with a leader label",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX79": {
+      "name": "Isometric Window Fold",
+      "description": "Three panels hinge into an isometric triptych.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DebyJVyTLOf/",
+      "source_product": "Instagram · R14 · edited examples",
+      "source_ref": "R14",
+      "observed_timestamp": "~1.6-35s",
+      "source_finding": "AFTER/right only: cream editorial sheets, palettes, layout grid, exploded layers, line stack.",
+      "mechanism": "three panels hinge into an isometric triptych",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    },
+    "CFX80": {
+      "name": "Mosaic-to-Hero Resolve",
+      "description": "Four tiles converge into one continuous hero image.",
+      "genre": "creator",
+      "family": "creator-fx",
+      "category": "creator-fx",
+      "text": "IDEA DALAM GERAK",
+      "subtitle": "Creator FX 80",
+      "duration": 6,
+      "source_url": "https://www.instagram.com/reel/DeHNxX-JEMZ/",
+      "source_product": "Instagram · R03 · edited examples",
+      "source_ref": "R03",
+      "observed_timestamp": "~5.87-20.01s",
+      "source_finding": "Four edited panels: UI, graph, text, inset media and changing focus.",
+      "mechanism": "four tiles converge into one continuous hero image",
+      "variant_basis": "adapted",
+      "observation_basis": "browser-sampled-edited-panel",
+      "adaptation_status": "original-variant",
+      "limitations": "Original demonstrator derived from observed principles; not an exact source template. Generic artwork/data. Real video needs prepared layers and verified cue/track inputs.",
+      "use_cases": [
+        "creator reel",
+        "explainer",
+        "editorial",
+        "product"
+      ],
+      "parameters": [
+        "image_path",
+        "image_paths",
+        "subject_path",
+        "background_path",
+        "items",
+        "values",
+        "text",
+        "subtitle",
+        "presentation"
+      ],
+      "items": [
+        "IDEA",
+        "KONTEKS",
+        "VISUAL",
+        "HASIL"
+      ],
+      "values": [
+        18,
+        37,
+        55,
+        78
+      ]
+    }
+  }
+}

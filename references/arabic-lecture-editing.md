@@ -1,5 +1,7 @@
 # Sunting ceramah Arab dengan subtitle Arab–Melayu
 
+Untuk episod bersiri, baca [aliran checkpoint](arabic-lecture-series-fast.md) dan gunakan penyedia projek berparameter. Guna semula pelaksanaan yang sah; sediakan transkrip, peta kamera dan Quran overrides daripada sumber episod semasa. Elakkan semakan berat berulang bagi fail yang tidak berubah.
+
 Gunakan aliran ini untuk ceramah Arab pengguna, termasuk permintaan "edit ceramah macam Filem dan Dajjal". Hasilkan MP4 sebenar, kekalkan pertuturan asal dan sesuaikan framing serta bacaan kepada telefon. Gunakan arahan projek terbaru untuk mengatasi mana-mana lalai di bawah.
 
 ## Kandungan
