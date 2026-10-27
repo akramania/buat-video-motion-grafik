@@ -140,6 +140,9 @@ def main():
     q=sub.add_parser('transcribe');q.add_argument('--input',required=True);q.add_argument('--output',required=True);q.add_argument('--srt');q.add_argument('--model-path',required=True);q.add_argument('--language',default=None);q.add_argument('--offset',type=float,default=0);q.add_argument('--threads',type=int,default=4);q.add_argument('--beam-size',type=int,default=5);q.add_argument('--vad',action='store_true');q.set_defaults(fn=transcribe)
     q=sub.add_parser('cutout');models(q);q.add_argument('--input',required=True);q.add_argument('--output',required=True);q.add_argument('--alpha-matting',action='store_true');q.add_argument('--report');q.set_defaults(fn=cutout)
     a=p.parse_args()
+    # Whisper-only setup is independent of optional background-removal packages.
+    if a.command == 'transcribe' and not a.python_deps and (CACHE_ROOT/'whisper-python-deps').is_dir():
+        a.python_deps = str(CACHE_ROOT/'whisper-python-deps')
     if a.python_deps:sys.path.insert(0,str(Path(a.python_deps).expanduser().resolve()))
     if getattr(a,'threads',1)<1:p.error('--threads must be >= 1')
     try:return a.fn(a)
