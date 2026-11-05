@@ -1,83 +1,51 @@
 {
-  "verified_on": "2026-10-22",
+  "checked_on": "2026-11-03",
+  "status": "installed-browser-render-blocked",
   "versions": {
-    "node": "24.19.0",
-    "hyperframes": "0.8.185",
-    "gsap": "3.14.2",
-    "chromium": "138.0.7204.0"
+    "node": "26.13.0",
+    "npm": "11.20.0",
+    "hyperframes": "0.9.4",
+    "gsap": "3.15.0",
+    "chrome_for_testing": "156.0.8078.80",
+    "ffmpeg": "n9.0.2-45-g1e65c6cd5d-20261102",
+    "three": "0.187.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.540",
+    "faster-whisper": "1.2.1",
+    "av_compatibility_pin": "16.1.0",
+    "ctranslate2": "4.8.4",
+    "socksio": "1.0.0"
   },
-  "render_backend": "HyperFrames screenshot capture backend using local Chromium",
-  "demo": {
-    "width": 1280,
-    "height": 720,
-    "fps": 30,
-    "duration": 10,
-    "plugins": [
-      "DrawSVGPlugin",
-      "MorphSVGPlugin",
-      "MotionPathPlugin",
-      "SplitText"
-    ],
-    "arabicUnit": "whole line",
-    "rig": "parent-child analytical two-bone IK, baked at 30Hz"
-  },
-  "seek": {
-    "passed": true,
-    "repeat_nonmonotonic": true,
-    "cold_page": true,
-    "callback_mode": "suppressEvents=true",
-    "image_comparison": "exact SHA-256 within tested OS/browser/font setup",
-    "final_report_passed": true,
-    "optimized_source_passed": true
-  },
-  "media": {
-    "imports_and_5_model_checksums": true,
-    "asr_smoke": {
-      "input": "official faster-whisper tests/data/jfk.flac",
-      "model": "tiny multilingual",
-      "words": 22,
-      "timestamps_monotonic": true,
-      "vad_tested": true,
-      "language_tested": "en",
-      "arabic_malay_accuracy_validated": false
+  "checks": {
+    "binary_versions": true,
+    "binary_archive_hashes": true,
+    "complete_npm_install": true,
+    "npm_pins_match": true,
+    "chromium_ldd_no_missing_libraries": true,
+    "react_static_render": true,
+    "three_scene_cpu_matrix": true,
+    "remotion_renderer_bundler_imports": true,
+    "gsap_plugins_import": true,
+    "motion_bank_unit_checks": true,
+    "browser_launch": false,
+    "new_hyperframes_mp4_render": false,
+    "three_webgl_render": false,
+    "remotion_mp4_render": false,
+    "whisper_model_load_decode": true,
+    "hyperframes_lint": {
+      "errors": 0,
+      "warnings": 0
     },
-    "cutout_smoke": {
-      "model": "u2netp",
-      "size": [
-        512,
-        512
-      ],
-      "alpha_range": [
-        0,
-        255
-      ],
-      "visual_qa": "Subject retained; small background residue at left shoulder. Temporal consistency not tested."
-    }
+    "remotion_webpack_bundle": true,
+    "missing_binary_inventory_continues": true,
+    "preflight_includes_browser_failure_diagnostic": true,
+    "matching_lockfile_stamp": true
   },
-  "limits": [
-    "Gemini account/sandbox not accessed; run target preflight after provisioning.",
-    "Full Atlas/character bank installation remains separate from this HTML extension.",
-    "ASR smoke sample is English, not a guarantee of Arabic/Malay accuracy.",
-    "rembg independent masks do not ensure temporal consistency.",
-    "PixiJS/Three.js integration is documented, not rendered in this demo."
+  "blockers": [
+    "Chrome launch fails at process_singleton_posix.cc socket(): Operation not permitted in this execution environment. All ldd dependencies resolve; this is not proof that the updated browser can render here."
   ],
-  "video": {
-    "width": 1280,
-    "height": 720,
-    "fps": 30,
-    "frames": 300,
-    "duration_seconds": 10,
-    "codec": "h264",
-    "audio": "AAC 48000Hz stereo",
-    "full_decode_passed": true,
-    "audio_mean_dbfs": -23.1,
-    "audio_max_dbfs": -5.8
-  },
-  "reference_demo_mp4_sha256": "a913211f6b9e7ec2a805a66849cf172908ab944abf64744acfb5c23e1822f164",
-  "optimized_source_mp4_sha256": "f4eac60ec2fab5c1f39fd7e3d6e329b73792e0b1fc3f48429fc4147d089a9580",
-  "asset_storage": {
-    "fonts": "WOFF2, decoded glyph/metrics tables verified equal to TTF",
-    "audio": "FLAC, decoded PCM verified byte-identical to WAV",
-    "template_bytes": 1217968
-  }
+  "legacy_evidence": "legacy/validation.json records the previous 0.8.185/3.14.2 runtime and is not evidence for updated versions.",
+  "whisper_limits": "Production medium weights loaded and a silent Arabic-language decode completed; no Arabic/Malay speech accuracy evaluation was performed.",
+  "whisper_model_revision": "08e178d48790749d25932bbc082711ddcfdfbc4f"
 }
