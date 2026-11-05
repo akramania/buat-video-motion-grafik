@@ -1,6 +1,6 @@
 # Adapter preset Python → JavaScript/GSAP
 
-Gunakan `motion-bank.js` pada projek HTML; bekalkan GSAP daripada dependency projek yang sudah dikunci versinya. Kekalkan semua fail Python, registry, aset dan lesen asal. Jangan menggantikan bank Atlas atau mendakwa semua 842 entri telah diterjemahkan.
+Gunakan `motion-bank.js` pada projek HTML; bekalkan GSAP daripada dependency projek yang sudah dikunci versinya. Kekalkan semua fail Python, registry, aset dan lesen asal. Jangan menggantikan bank Atlas atau mendakwa semua 922 entri telah diterjemahkan. Baca `hyperframes-codex-examples.md` untuk run rasmi, kajian contoh dan pemilihan gerakan berdasarkan aksi.
 
 | Adapter HTML | Sumber sebenar | Mekanisme yang diterjemahkan | Batas adaptasi |
 |---|---|---|---|
@@ -13,7 +13,7 @@ Gunakan `motion-bank.js` pada projek HTML; bekalkan GSAP daripada dependency pro
 ## Kontrak pemasangan dan masa
 
 1. Muatkan GSAP, plugin yang diperlukan dan `motion-bank.js` daripada fail tempatan sebelum skrip komposisi. Daftar plugin secara eksplisit.
-2. Muatkan fon/aset dahulu; ukur lebar sebenar selepas `document.fonts.ready`. Bekukan layout sebelum membina animasi yang bergantung pada ukuran. Dalam HyperFrames, kekalkan pendaftaran timeline secara synchronous; sediakan pengukuran/layout semasa build atau gunakan readiness hook yang benar-benar disokong runtime sebelum render.
+2. Muatkan fon/aset dahulu; ukur lebar sebenar selepas `document.fonts.ready`. Bekukan layout sebelum membina animasi yang bergantung pada ukuran. Untuk runtime terkunci 0.8.185, deklarasikan promise `window.__hf.buildReady[compositionId]` secara sinkron, await fon/aset di dalamnya, kemudian daftar timeline yang sudah lengkap. Ikut `html-hyperframes-production.md`; jangan daftar timeline kosong sebelum kerja async selesai. Versi lain memerlukan semakan readiness API sebenar.
 3. Bina satu `gsap.timeline({paused:true})` bagi setiap komposisi dan daftar dengan ID komposisi tepat pada `window.__timelines`. Jangan masukkan timeline komposisi terdaftar ke timeline induk secara manual. Gunakan timeline biasa dalaman yang tidak didaftar hanya sebagai komponen jika sesuai.
 4. Tetapkan pose awal juga dalam CSS/markup. `seek(0)` tidak semestinya melintasi `set()` pada masa sifar. Gunakan elemen berlainan bagi scene berlainan dan elakkan dua tween yang menulis property sama pada masa bertindih.
 5. Masa sumber preset ialah 0–5 saat. Adapter memetakan `sourceTime` kepada `start + sourceTime * duration/5` sekali sahaja. `duration` mesti positif dan terhingga; `start` bukan negatif. Durasi MP4 ditentukan oleh komposisi/CLI, bukan hanya panjang tween.
@@ -37,6 +37,8 @@ Untuk Arab, wrapper mengandungi perkataan lengkap atau satu baris lengkap dengan
 ## Bank entrance → hold → exit dan rig
 
 `entranceHoldExit(tl, elementOrArray, config)` menyediakan `up`, `left`, `pop`, stagger, anticipation, overshoot easing, follow-through dan exit berhingga. Masukkan `start`, `enterDuration`, `holdUntil`, `exitDuration`, `stagger`, `anticipation` dan `followThrough` mengikut audio/ruang bacaan. Fungsi menolak hold yang bertindih dengan entrance; ia tidak menganggar durasi bacaan pengguna. Gunakan `ease` tersendiri jika bahan klinikal/kitab memerlukan gerakan tenang. Semua masa ialah saat; tiada loop kekal atau jam dinding.
+
+Untuk teks/UI yang perlu mendarat tanpa bounce, tetapkan `ease:'expo.out', anticipation:0, followThrough:0, mode:'up'` atau gunakan mask perkataan `JS:T01`; jangan gunakan default `back.out` helper secara automatik pada semua tajuk. Default fizikal/`pop` lebih sesuai bagi prop yang mempunyai berat. Hold teks kekal stabil sehingga pertukaran layout atau exit yang disengajakan.
 
 `solveTwoBone(root, target, upperLength, lowerLength, bend)` ialah IK analitik tulen. Output `elbow`, `end`, `upperDegrees`, `lowerLocalDegrees`, `reachable`. `bend` ialah +1/-1. Sasaran terlalu jauh/dekat di-clamp supaya panjang anggota kekal. Tentukan sisi siku/lutut yang natural daripada pose, bukan memilih bend secara rawak.
 
