@@ -2,6 +2,8 @@
 
 Baca bersama `hyperframes-motion-bank.md` untuk adapter preset dan `media-tools.md` untuk transkripsi/pengasingan subjek. Aliran ini menambah backend HTML kepada toolkit; kekalkan semua preset, aset, watak, fon, audio serta backend Python/FFmpeg lama.
 
+Untuk arahan Codex rasmi, `doctor/lint/check/snapshot/preview/render` dan kajian visual sepuluh klip galeri HeyGen, baca `hyperframes-codex-examples.md`. Gunakan panduan itu bagi koreografi berasaskan aksi, hero yang dibawa antara beat, teks yang mendarat dan kamera berdestinasi; template lama ialah contoh kontrak runtime, bukan gaya visual wajib.
+
 ## 1. Setup dan status sebenar
 
 Jalankan preflight `node scripts/setup_hyperframes.mjs` dari root skill. Gunakan Node.js **22+** (sekurang-kurangnya 22.12 untuk lock browser yang disertakan), FFmpeg/ffprobe, versi HyperFrames/GSAP dalam `assets/hyperframes/package-lock.json`, dan Chrome Headless yang berjaya dilancarkan. Periksa keempat-empat plugin: DrawSVGPlugin, MorphSVGPlugin, MotionPathPlugin, SplitText. Import dependency sahaja belum membuktikan render berjaya.
@@ -19,6 +21,7 @@ node scripts/setup_hyperframes.mjs --install-offline
 
 # Selepas menyalin template dan menyesuaikan projek:
 node scripts/run_hyperframes.mjs lint /path/project
+node scripts/run_hyperframes.mjs check /path/project --json
 node scripts/run_hyperframes.mjs render /path/project --fps 30 --workers 1 --quality standard --output /path/project/final.mp4
 ```
 
@@ -54,7 +57,7 @@ Root mesti menyatakan composition ID, saiz dan tempoh positif mengikut schema ve
 
 Ikut readiness API **versi yang dipin dan sudah diuji** dalam template. Pendaftaran async selepas fon mesti berada dalam gate yang runtime tunggu; jangan daftar timeline kosong kemudian menambah tween selepas render bermula. Jika versi lama hanya menyokong setup sinkron, preload/ukur dahulu pada langkah build lalu gunakan timeline sinkron; jangan mencipta flag readiness sendiri dan menganggap HyperFrames membacanya. Rujuk template/QA sebenar untuk mekanisme yang disahkan.
 
-Untuk versi **0.8.185** yang diuji, deklarasikan promise secara sinkron pada `window.__hf.buildReady[compositionId]`; runtime menunggunya sebelum capture. Bina semua tween selepas font/aset siap, daftar timeline pada akhir, kemudian panggil `window.__hfForceTimelineRebind?.()` seperti template. Jangan menggunakan pola ini pada versi lain tanpa menyemak source/QA. Bentuk minimumnya:
+Untuk versi **0.8.185** yang diuji dahulu, deklarasikan promise secara sinkron pada `window.__hf.buildReady[compositionId]`; runtime menunggunya sebelum capture. Bina semua tween selepas font/aset siap, daftar timeline pada akhir, kemudian panggil `window.__hfForceTimelineRebind?.()` seperti template. Source **0.9.4** yang kini dipin masih mengandungi registry/gate ini; pemeriksaan source sahaja tidak menggantikan proof dan QA browser. Baca [toolkit komponen](video-component-toolkit.md) serta laporan validasi semasa. Jangan menggunakan pola ini pada versi lain tanpa menyemak source/QA. Bentuk minimumnya:
 
 ```javascript
 window.__hf = window.__hf || {};
