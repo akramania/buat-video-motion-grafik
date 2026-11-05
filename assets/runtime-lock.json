@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-03",
+  "platform": "linux-x64-glibc",
+  "cache_release": "2026-11-03-linux-x64",
+  "minimum_node": "22.12.0",
+  "recommended_node": "26.13.0",
+  "npm": "11.20.0",
+  "binaries": {
+    "node": {
+      "version": "26.13.0",
+      "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-linux-x64.tar.xz",
+      "sha256": "d28a96af6c38596f6d9d97c0ee531c13d238d757742387d1928de822d959e997",
+      "checksum_source": "https://nodejs.org/dist/v26.13.0/SHASUMS256.txt",
+      "directory": "node-v26.13.0-linux-x64",
+      "executable": "bin/node",
+      "version_argument": "--version",
+      "companion": "bin/npm"
+    },
+    "chromium": {
+      "version": "156.0.8078.80",
+      "url": "https://storage.googleapis.com/chrome-for-testing-public/156.0.8078.80/linux64/chrome-linux64.zip",
+      "sha256": "b711c720f774be355197f32edf37e0651418ba036d92446ee2da19ac017540a7",
+      "checksum_source": "local SHA-256 after HTTPS download from official Chrome for Testing Stable feed; not an upstream-signed checksum",
+      "directory": "chrome-linux64",
+      "executable": "chrome",
+      "version_argument": "--version",
+      "source": "https://googlechromelabs.github.io/chrome-for-testing/last-known-good-versions-with-downloads.json"
+    },
+    "ffmpeg": {
+      "version": "n9.0.2-45-g1e65c6cd5d",
+      "stable_release": "9.0.2",
+      "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-11-02-12-51/ffmpeg-n9.0.2-45-g1e65c6cd5d-linux64-gpl-9.0.tar.xz",
+      "sha256": "d80a385fa6e5737256a286e615fe6cbab748d417d6c11a001aacd981358bda89",
+      "checksum_source": "GitHub release asset digest, immutable dated BtbN build from maintained 9.0 branch",
+      "directory": "ffmpeg-n9.0.2-45-g1e65c6cd5d-linux64-gpl-9.0",
+      "executable": "bin/ffmpeg",
+      "version_argument": "-version",
+      "companion": "bin/ffprobe"
+    }
+  },
+  "npm_packages": {
+    "hyperframes": {
+      "version": "0.9.4",
+      "source": "https://registry.npmjs.org/hyperframes/latest",
+      "integrity": "sha512-zwBPalffSj9qnG3SxsyKDpTp+qTjlM5CaNENEGl5bzVsZ+jqXmrcIfNyZ/U8NbaX+pCiBEID/iUDREHI5eIlrw=="
+    },
+    "gsap": {
+      "version": "3.15.0",
+      "source": "https://registry.npmjs.org/gsap/latest",
+      "integrity": "sha512-dMW4CWBTUK1AEEDeZc1g4xpPGIrSf9fJF960qbTZmN/QwZIWY5wgliS6JWl9/25fpTGJrMRtSjGtOmPnfjZB+A=="
+    },
+    "three": {
+      "version": "0.187.0",
+      "source": "https://registry.npmjs.org/three/latest",
+      "integrity": "sha512-Qiu7R+Cmh8CstZsY1uJOSWnVlfo7ZtNLV7mF8Jltk3LB3AtDu9cRZlcnRKkAk8Y4z6KKw35z7Y7Urd7jWY8etA=="
+    },
+    "react": {
+      "version": "19.3.1",
+      "source": "https://registry.npmjs.org/react/latest",
+      "integrity": "sha512-QNhWdt7nrgVWWQG58QuGsAR3jv3Hbe4mb4vz7w2csnHavciZJgda1CPNaldF6eVxv90ud3jUXpKlHL69gO38yw=="
+    },
+    "react-dom": {
+      "version": "19.3.1",
+      "source": "https://registry.npmjs.org/react-dom/latest",
+      "integrity": "sha512-Y0bARz53lhEC1NMCASs0/j+faB/zqt3R8hpvg1e8+61ZVJ4UL0UdC4cBbXfZMcIuhrfgeILTLe+ZeBCavQPtKQ=="
+    },
+    "remotion": {
+      "version": "4.0.540",
+      "source": "https://registry.npmjs.org/remotion/latest",
+      "integrity": "sha512-u5rYj4x0eT6FXuj6yVQf85f5y7YONLcF/FqiGSaOR4b0dp+Byjsbtm3/6sOL/RWgL/Rk3ECvQahTL6VvEf+N+w=="
+    },
+    "@remotion/cli": {
+      "version": "4.0.540",
+      "source": "https://registry.npmjs.org/@remotion%2fcli/latest",
+      "integrity": "sha512-OWRdzMvtfwTNdlqDXu59VX+fxzt9ExmXZw+7pg8tyEPFFRxPB5qcC2n3lLArEYcmbvy7GddDqzR0A6MTK0FunA=="
+    },
+    "@remotion/renderer": {
+      "version": "4.0.540",
+      "source": "https://registry.npmjs.org/@remotion%2frenderer/latest",
+      "integrity": "sha512-TZBub8aWEkenffDQ5Q0ZMnMXnCF/Bpie+5op0c4QGC0QPR4HcnuFnpLOfMHr54CAajg/Z69GZb/otF+oOGYUjA=="
+    },
+    "puppeteer-core": {
+      "version": "25.16.0",
+      "source": "https://registry.npmjs.org/puppeteer-core/latest",
+      "integrity": "sha512-VA5Pf54N8shfopNkZZXCdiiwfnnY8ZJYAMqFQRhlH5mGUhfwf53Ar770GPtdpTDLUqvQeYpIBtC9/G2Jij2IJw=="
+    },
+    "@remotion/bundler": {
+      "version": "4.0.540",
+      "source": "https://registry.npmjs.org/@remotion%2fbundler/4.0.540"
+    }
+  },
+  "whisper": {
+    "backend": "faster-whisper",
+    "version": "1.2.1",
+    "source": "https://pypi.org/pypi/faster-whisper/json",
+    "upstream_openai_whisper": "20250625",
+    "av_compatibility_pin": "16.1.0",
+    "latest_av_observed": "19.0.2",
+    "model": "medium",
+    "production_model_required_for_audio": true,
+    "model_storage": "separate reusable cache; preserve original project model and revision",
+    "socksio": "1.0.0",
+    "model_revision": "08e178d48790749d25932bbc082711ddcfdfbc4f",
+    "python_lock": "whisper/requirements.lock.txt",
+    "model_manifest": "whisper/model-medium.json"
+  }
+}
