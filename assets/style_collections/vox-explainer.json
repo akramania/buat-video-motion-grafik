@@ -1,0 +1,261 @@
+{
+  "collection_id": "vox-explainer",
+  "collection_name": "Documentary / Editorial Explainer",
+  "reviewed_on": "2026-11-07",
+  "status": "researched-direction-recipes-not-installed-renderers",
+  "counts": {
+    "total": 16,
+    "native_source": 4,
+    "original_adaptation": 12
+  },
+  "source_ambiguity": "Caption reel pengguna menyebut Vox Explainer tanpa URL repo. Tiga projek bernama serupa diperiksa; jangan menganggap mana-mana daripadanya disahkan sebagai repo reel.",
+  "id_scope": "VX01–VX16 ialah label resipi gaya, bukan ID preset renderer Atlas dan bukan 16 pilihan rasmi daripada satu upstream.",
+  "sources": [
+    {
+      "url": "https://github.com/bestuserever121/vox-explainer",
+      "files": [
+        "README.md",
+        "docs/spec.md"
+      ],
+      "finding": "Empat look bernama papier, dunkel, blaupause dan riso; scene spec dan laluan suntingan footage.",
+      "license_reported": "MIT"
+    },
+    {
+      "url": "https://github.com/CK42BB/vox-explainer-skill",
+      "files": [
+        "README.md",
+        "SKILL.md",
+        "references/vox-style-guide.md"
+      ],
+      "finding": "Pipeline berasaskan API berasingan dengan panduan kolaj editorial dan timing berpandukan VO; tiada bank empat look yang sama.",
+      "license_reported": "MIT"
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/SKILL.md",
+      "files": [
+        "SKILL.md",
+        "references/vox-collage-layout.md",
+        "references/vox-collage-motion.md"
+      ],
+      "finding": "Grammar plain-sight explainer dan resipi frame, termasuk evidence stack, zoom-isolation, perbandingan serta spesimen.",
+      "license_reported": "Periksa lesen repo dan aset tepat sebelum mengambil kod/aset."
+    }
+  ],
+  "rules": [
+    "Gunakan sumber ini sebagai rujukan pengarahan; tiada upstream dipasang atau dijalankan dalam peluasan ini.",
+    "Empat entri native-source mengekalkan nama look upstream sahaja; resipi pelaksanaan BM ialah panduan olahan, bukan bukti semua fungsi upstream telah diport.",
+    "Dua belas entri original-adaptation ialah pengembangan kreatif yang boleh digabung dengan empat look; jangan mendakwa semuanya berbeza secara eksklusif atau milik penerbit Vox.",
+    "Ikut backend, suara Google AI Studio, durasi dan arahan pengguna sedia ada. Jangan mewarisi syarat API, provider suara atau approval gate upstream.",
+    "Jangan salin logo, palet wajib, aset identiti, harga atau dakwaan penerbit sumber. Kekalkan tapisan kandungan pengguna."
+  ],
+  "styles": [
+    {
+      "id": "VX01",
+      "name": "Papier / Editorial Kertas",
+      "origin": "native-source",
+      "source_url": "https://github.com/bestuserever121/vox-explainer#styles",
+      "source_section": "README.md → Styles; native token stil=papier",
+      "visual": "Gunakan pentas kertas putih hangat, grain halus dan tipografi hitam dengan sedikit rasa cetakan. Jadikan foto atau objek sebagai bahan editorial yang tersusun.",
+      "motion": "Bawa mata melalui objek, kata utama dan anak panah mengikut narasi, kemudian tarik kamera keluar untuk menunjukkan hujah lengkap.",
+      "use_case": "Penerangan awam, sejarah ringkas dan kisah asal-usul objek harian.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX01 Papier. Terangkan topik ini melalui objek editorial di atas kertas, bina hubungan berperingkat dan akhiri dengan pandangan menyeluruh.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX02",
+      "name": "Dunkel / Editorial Gelap",
+      "origin": "native-source",
+      "source_url": "https://github.com/bestuserever121/vox-explainer#styles",
+      "source_section": "README.md → Styles; native token stil=dunkel",
+      "visual": "Gunakan pentas hampir hitam, tulisan berkontras dan aksen bercahaya terkawal. Kekalkan siluet foto serta label mudah dibaca.",
+      "motion": "Dedahkan satu bukti terang pada satu masa; sambungkan dengan laluan cahaya ringkas, kemudian kecilkan keseluruhan scene untuk memperlihatkan hubungan.",
+      "use_case": "Teknologi, sistem kompleks dan penerangan berfokus yang memerlukan suasana serius.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX02 Dunkel. Bina explainer teknologi ini pada pentas gelap dengan satu aksen cahaya dan satu bukti utama bagi setiap beat.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX03",
+      "name": "Blaupause / Blueprint Editorial",
+      "origin": "native-source",
+      "source_url": "https://github.com/bestuserever121/vox-explainer#styles",
+      "source_section": "README.md → Styles; native token stil=blaupause",
+      "visual": "Gunakan kertas grid teknikal, garis tepat dan label yang rapat kepada objek. Biar rupa teknikal membantu menerangkan struktur.",
+      "motion": "Lukis rajah daripada komponen kepada hubungan; alihkan kamera mengikuti susunan fungsi, kemudian tampilkan keseluruhan pelan.",
+      "use_case": "Mekanisme alat, infrastruktur, operasi dan aliran kerja.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX03 Blaupause. Terangkan cara sistem ini berfungsi menggunakan rajah blueprint, pembinaan komponen dan kamera yang mengikuti aliran.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX04",
+      "name": "Riso / Duotone Editorial",
+      "origin": "native-source",
+      "source_url": "https://github.com/bestuserever121/vox-explainer#styles",
+      "source_section": "README.md → Styles; native token stil=riso",
+      "visual": "Gunakan pentas krim dengan cetakan duotone beranjak dan bentuk editorial tegas. Kekalkan isi penting tajam walaupun tekstur cetakan kelihatan.",
+      "motion": "Susun lapisan objek secara bersela, hadirkan kata kunci dengan cap visual, kemudian selaraskan lapisan ketika kesimpulan muncul.",
+      "use_case": "Budaya visual, penerangan sosial dan pengumuman berwatak cetakan.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX04 Riso. Hasilkan explainer ini dengan rupa cetakan duotone, objek berlapis dan tajuk yang masuk mengikut beat narasi.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX05",
+      "name": "Meja Arkib dan Bukti",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/references/vox-collage-layout.md",
+      "source_section": "Frame recipes → Evidence stack; olahan asal keluarga dokumentari",
+      "visual": "Susun foto berlesen, petikan dokumen dan label tarikh di atas meja editorial. Beri satu kad bukti dominan dan simpan kredit berdekatan bahan.",
+      "motion": "Timbunkan bukti pada lokasi tumpuan, sorot butiran yang dirujuk, kemudian pindahkan kad yang sama ke kedudukan kesimpulan.",
+      "use_case": "Sejarah, siasatan dokumen dan penerangan yang mempunyai bahan arkib sebenar.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX05 Meja Arkib dan Bukti. Gunakan dokumen serta foto yang saya beri untuk membina hujah melalui kad bukti yang berkait.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX06",
+      "name": "Investigasi Peta dan Laluan",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/CK42BB/vox-explainer-skill/blob/main/references/vox-style-guide.md",
+      "source_section": "Visual grammar → Cultural adaptation; olahan asal spatial daripada kolaj editorial",
+      "visual": "Jadikan peta tepat sebagai pentas, disertai foto lokasi dan penanda berlabel. Bezakan laluan utama, konteks dan inset detail melalui hierarki visual.",
+      "motion": "Lukis perjalanan atau penyebaran secara berperingkat; kamera mengikuti lokasi penting, mengezum kepada bukti dan kembali kepada peta keseluruhan.",
+      "use_case": "Geografi, jaringan pengangkutan, migrasi dan perjalanan sesuatu idea atau produk.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX06 Investigasi Peta dan Laluan. Terangkan perjalanan ini dengan peta disahkan, pin bermakna dan bukti lokasi yang muncul mengikut urutan.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX07",
+      "name": "Rantaian Sebab-Akibat",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/bestuserever121/vox-explainer",
+      "source_section": "README.md → Why, free canvas, camera and arrows; olahan asal susunan kausal",
+      "visual": "Bina satu kanvas hujah dengan objek bagi setiap sebab dan akibat. Letakkan connector pada anchor objek sebenar dan gunakan satu kata kerja pada hubungan utama.",
+      "motion": "Aktifkan sebab, lukis hubungan, kemudian tunjuk akibat; teruskan rantaian dalam ruang sama dan tarik keluar untuk memeriksa keseluruhan logik.",
+      "use_case": "Proses sosial, penerangan risiko, operasi dan konsep yang sering disalahfahami.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX07 Rantaian Sebab-Akibat. Jadikan setiap dakwaan satu objek dan tunjuk bagaimana satu perubahan membawa kepada perubahan seterusnya.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX08",
+      "name": "Kronologi Dokumen",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/SKILL.md",
+      "source_section": "Source mode → person/date, turn and receipts; olahan asal kronologi",
+      "visual": "Gunakan rel masa dengan dokumen bertarikh, foto dan penanda perubahan. Pastikan tarikh diperoleh daripada sumber dan jarak visual tidak menyiratkan skala palsu.",
+      "motion": "Gerakkan kamera sepanjang kronologi; buka dokumen pada titik perubahan, sorot bukti dan satukan peristiwa dengan hasil semasa.",
+      "use_case": "Sejarah dasar, evolusi produk dan perubahan amalan dari masa ke masa.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX08 Kronologi Dokumen. Bina cerita daripada tarikh dan sumber ini, dengan satu titik perubahan yang jelas dan bukti bagi setiap peristiwa.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX09",
+      "name": "Mitos vs Data",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/SKILL.md",
+      "source_section": "Source mode → mechanism verified on screen; olahan asal perbandingan dakwaan",
+      "visual": "Letakkan dakwaan ringkas berhadapan unit data yang boleh dibanding. Gunakan paksi, skala dan unit yang sama untuk membuat beza mudah dilihat.",
+      "motion": "Paparkan jangkaan, bina data titik demi titik atau bar demi bar, kemudian ubah susunan untuk mendedahkan kesimpulan tanpa menukar jumlah.",
+      "use_case": "Literasi data, penerangan statistik dan pembetulan salah faham berdasarkan sumber sah.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX09 Mitos vs Data. Bandingkan dakwaan ini dengan dataset yang saya beri menggunakan unit dan skala konsisten serta penjelasan berperingkat.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX10",
+      "name": "Keratan Mekanisme",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/references/vox-collage-layout.md",
+      "source_section": "Frame recipes → Zoom-isolation pair; olahan asal penerangan dalaman",
+      "visual": "Mulakan dengan foto objek dalam konteks, kemudian asingkan bahagian yang menerangkan fungsi. Gunakan keratan atau rajah berlabel apabila bahan tepat tersedia.",
+      "motion": "Masuk kepada butiran, keluarkan latar untuk mendedahkan komponen, gerakkan satu komponen penting dan kembali kepada fungsi objek keseluruhan.",
+      "use_case": "Sains asas, perkakasan, instrumen dan mekanisme objek harian.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX10 Keratan Mekanisme. Mulakan dengan objek sebenar, masuk kepada bahagian penting dan tunjuk bagaimana komponennya menghasilkan fungsi ini.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX11",
+      "name": "Skala yang Boleh Dibanding",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/bestuserever121/vox-explainer/blob/master/docs/spec.md",
+      "source_section": "Panel schema → counters and bars; olahan asal demonstrasi skala",
+      "visual": "Gunakan unit berulang, siluet atau bekas dengan kapasiti sama supaya nilai abstrak boleh dibanding secara visual. Letakkan unit ukuran berhampiran nilai.",
+      "motion": "Bina satu unit rujukan, gandakan mengikut data, kemudian zoom keluar pada skala terkawal untuk memperlihatkan perbezaan saiz atau kuantiti.",
+      "use_case": "Kuantiti besar, kos, jarak, masa dan penerangan statistik kepada awam.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX11 Skala yang Boleh Dibanding. Tukarkan angka ini kepada unit visual yang konsisten dan tunjuk skala sebenar tanpa mengubah nisbah.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX12",
+      "name": "Petikan dan Saksi",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/references/vox-collage-layout.md",
+      "source_section": "Frame recipes → Lower-third; source receipts; olahan asal petikan",
+      "visual": "Gabungkan foto atau footage sumber dengan petikan pendek yang diatribusi. Bezakan petikan verbatim, parafrasa dan penerangan penyampai.",
+      "motion": "Sorot frasa yang menjadi bukti, bawa petikan ke kad kesimpulan dan hubungkan kepada dokumen sokongan tanpa memotong makna ucapan.",
+      "use_case": "Wawancara, sejarah lisan, laporan dan analisis pernyataan yang disahkan.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX12 Petikan dan Saksi. Gunakan petikan tepat serta atribusi daripada bahan saya dan sambungkan setiap petikan kepada bukti sokongannya.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX13",
+      "name": "Peta Pilihan Dasar",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/bestuserever121/vox-explainer",
+      "source_section": "README.md → free canvas, causal arrows; olahan asal cabang keputusan",
+      "visual": "Susun pilihan sebagai cabang dengan akibat yang dapat dibanding. Gunakan ikon dan label pendek bagi hasil, syarat serta batas setiap laluan.",
+      "motion": "Buka satu pilihan pada satu masa, gerakkan token contoh melalui laluan yang relevan, kemudian paparkan dua hasil pada skala setara.",
+      "use_case": "Pilihan program, SOP, dasar organisasi dan penerangan aliran keputusan.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX13 Peta Pilihan Dasar. Terangkan pilihan dan akibat berdasarkan SOP ini melalui cabang keputusan yang jelas dan contoh laluan pengguna.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX14",
+      "name": "Gelung Sistem",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/bestuserever121/vox-explainer",
+      "source_section": "README.md → connected causal argument; olahan asal gelung maklum balas",
+      "visual": "Bentangkan aktor, sumber dan hasil dalam satu gelung yang lengkap. Bezakan aliran fizikal, wang atau maklumat menggunakan label dan gaya garisan yang konsisten.",
+      "motion": "Gerakkan token mengikut aliran, ubah satu parameter berdasarkan contoh sebenar dan tunjuk bagaimana kesannya kembali kepada titik asal.",
+      "use_case": "Ekonomi asas, rantaian bekalan, ekosistem organisasi dan gelung maklum balas.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX14 Gelung Sistem. Tunjukkan aktor, sumber dan maklum balas dalam sistem ini menggunakan satu gelung visual yang boleh diikuti.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX15",
+      "name": "Dokumen Beranotasi",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/references/vox-collage-layout.md",
+      "source_section": "Assets and composition → source artifacts and measured annotations; olahan asal audit dokumen",
+      "visual": "Jadikan halaman, jadual atau screenshot sebenar sebagai hero. Letakkan anotasi pada koordinat isi yang tepat dan kekalkan konteks serta nombor halaman jika diperlukan.",
+      "motion": "Masuk kepada petikan, jejak bacaan dengan highlight, keluarkan satu angka atau klausa ke panel sisi, kemudian kembali kepada sumber asal.",
+      "use_case": "Laporan, polisi, kajian, pekeliling dan penerangan bahan kerja sebenar.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX15 Dokumen Beranotasi. Terangkan halaman ini melalui highlight tepat, zoom pada butiran dan panel penjelasan yang mengekalkan sumber asal.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    },
+    {
+      "id": "VX16",
+      "name": "Bukti Sebelum-Selepas",
+      "origin": "original-adaptation",
+      "source_url": "https://github.com/heygen-com/hyperframes-community-skills/blob/master/skills/vox-explainer/references/vox-collage-layout.md",
+      "source_section": "Frame recipes → Two-panel compare; olahan asal perbandingan perubahan",
+      "visual": "Letakkan keadaan awal dan akhir pada ukuran, sudut serta crop sepadan. Gunakan label neutral dan bezakan perubahan sebenar daripada anotasi penerangan.",
+      "motion": "Tunjuk keadaan awal, gerakkan pembahagi atau lakukan match cut, sorot bahagian yang berubah dan tutup dengan bukti pada kedua-dua panel.",
+      "use_case": "Perubahan reka bentuk, penambahbaikan proses dan demonstrasi hasil yang mempunyai bahan setara.",
+      "prompt": "Guna @Buat Video Motion Grafik, gaya Vox VX16 Bukti Sebelum-Selepas. Bandingkan bahan ini pada skala dan crop sepadan, kemudian sorot hanya perubahan yang benar-benar dapat dilihat.",
+      "implementation_status": "direction-recipe-only",
+      "reviewed_on": "2026-11-07"
+    }
+  ]
+}
