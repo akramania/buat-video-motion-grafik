@@ -1,10 +1,10 @@
 interface:
   display_name: Buat Video Motion Grafik
-  short_description: MP4 HyperFrames, suntingan video dan Gaya Ekstrem
+  short_description: MP4, gaya khusus dan empat koleksi motion
   default_prompt: Gunakan $buat-video-motion-grafik untuk hasilkan MP4 mengikut bahan
-    dan gaya diminta; semak runtime, ikut aliran HyperFrames atau suntingan FFmpeg
-    yang sesuai, gunakan references/gaya-ekstrem.md apabila Gaya Ekstrem dipilih,
-    kemudian render proof dan QA akhir.
+    dan gaya diminta, termasuk Glass Creator Reel atau koleksi Bang Motion, Vox Explainer,
+    Huashu Art Motion dan Claude Drawing; pilih resipi, ikut backend projek serta
+    semak proof dan QA akhir.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
